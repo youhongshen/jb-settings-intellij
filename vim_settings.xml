@@ -34,6 +34,7 @@
       <file name="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" timestamp="1484333440140">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/db_type_map.json" timestamp="1484680663425" />
       <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1483546008200">
         <mark key="'" line="147" column="30" />
       </file>
@@ -60,8 +61,14 @@
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484073991834">
         <mark key="'" line="7" column="31" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" timestamp="1484347559183">
-        <mark key="'" line="317" column="507" />
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/oracletohdfs.conf" timestamp="1484680721995">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" timestamp="1484680849821">
+        <mark key="'" line="203" column="9" />
         <mark key="[" line="317" column="659" />
         <mark key="]" line="317" column="659" />
         <mark key="." line="317" column="659" />
@@ -69,8 +76,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/model/db/Table.java" />
-      <jump line="186" column="5" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
       <jump line="273" column="1" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
       <jump line="158" column="10" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
       <jump line="178" column="88" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
@@ -155,7 +160,6 @@
       <jump line="27" column="21" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" />
       <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="168" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="180" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="202" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="347" column="4" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="311" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -169,16 +173,19 @@
       <jump line="261" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="286" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="343" column="507" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="358" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="180" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="203" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">XCA=</text>
+        <text>perfmon</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XCA=</text>
+        <text>perfmon</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text>aggregator-init</text>
       </register>
       <register name="0" type="4">
         <text>--conf spark.appMasterEnv.HADOOP_CLASSPATH=$(hadoop classpath):</text>
@@ -215,19 +222,16 @@
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search>aggregator-init</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
+      <last-pattern>aggregator-init</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Proper</entry>
-        <entry>Datastore should not</entry>
         <entry>SCHEMA</entry>
         <entry>DATABASE</entry>
-        <entry>aggregator-init</entry>
         <entry>postgre</entry>
         <entry>\$</entry>
         <entry>db-name-ma</entry>
@@ -243,6 +247,9 @@
         <entry>HiveCon</entry>
         <entry>sparkcon</entry>
         <entry>(</entry>
+        <entry>gp-pers</entry>
+        <entry>aggreg</entry>
+        <entry>aggregator-init</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
