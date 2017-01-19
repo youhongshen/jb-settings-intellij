@@ -9,7 +9,7 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1484579189265">
+      <file name="/a.dummy" timestamp="1484847257859">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -35,11 +35,13 @@
       <file name="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" timestamp="1484333440140">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/db_type_map.json" timestamp="1484680663425" />
+      <file name="C:/git/ans/apps/aggregator-web-service/adapter/src/main/java/com/ericsson/eea/aggregatorwebservice/adapter/metamodel/MetaDataLoader.java" timestamp="1484847316195" />
+      <file name="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" timestamp="1484847236190">
+        <mark key="'" line="70" column="21" />
+      </file>
       <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1483546008200">
         <mark key="'" line="147" column="30" />
       </file>
-      <file name="C:/git/ans/apps/config-store-web-service/build.gradle" timestamp="1484692548466" />
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" timestamp="1484164566625">
         <mark key="'" line="45" column="55" />
         <mark key="[" line="282" column="31" />
@@ -66,7 +68,6 @@
         <mark key="^" line="254" column="45" />
         <mark key="." line="254" column="45" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/build.gradle" timestamp="1484755564276" />
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484073991834">
         <mark key="'" line="7" column="31" />
       </file>
@@ -84,13 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="88" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
-      <jump line="204" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
-      <jump line="106" column="135" filename="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" />
-      <jump line="50" column="22" filename="C:/git/ans/apps/aggregator-web-service/install/deploy.sh" />
-      <jump line="75" column="0" filename="C:/git/ans/apps/aggregator-web-service/install/deploy.sh" />
-      <jump line="72" column="0" filename="C:/git/ans/apps/aggregator-web-service/install/deploy.sh" />
-      <jump line="67" column="8" filename="C:/git/ans/apps/ref-data-web-service/install/deploy.sh" />
       <jump line="83" column="0" filename="C:/git/ans/apps/ref-data-web-service/install/deploy.sh" />
       <jump line="86" column="0" filename="C:/git/ans/apps/ref-data-web-service/install/deploy.sh" />
       <jump line="92" column="7" filename="C:/git/ans/apps/ref-data-web-service/install/deploy.sh" />
@@ -184,6 +178,13 @@
       <jump line="203" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="395" column="42" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="242" column="52" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
+      <jump line="37" column="41" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
+      <jump line="47" column="59" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
+      <jump line="54" column="52" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
+      <jump line="55" column="42" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
+      <jump line="56" column="18" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
+      <jump line="71" column="21" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
+      <jump line="70" column="21" filename="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -193,7 +194,7 @@
         <text>a list of tables</text>
       </register>
       <register name="/" type="4">
-        <text>gp-persis</text>
+        <text>Query (</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YWJsZXMuYWRkKG5ldyBUYWJsZSgiQUdHUkVHQVRPUl9TVEFUSVNUSUNTIikpOwo=</text>
@@ -230,16 +231,14 @@
       </register>
     </registers>
     <search>
-      <last-search>gp-persis</last-search>
+      <last-search>Query (</last-search>
       <last-offset />
-      <last-pattern>gp-persis</last-pattern>
+      <last-pattern>Query (</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DATABASE</entry>
-        <entry>postgre</entry>
         <entry>\$</entry>
         <entry>db-name-ma</entry>
         <entry>gpp-load</entry>
@@ -258,6 +257,8 @@
         <entry>aggreg</entry>
         <entry>aggregator-init</entry>
         <entry>gp-persis</entry>
+        <entry>Query</entry>
+        <entry>Query (</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
