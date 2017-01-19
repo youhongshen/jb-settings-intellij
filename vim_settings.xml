@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/git/ans/apps/aggregator-services/db-name-mapper/src/main/java/com/ericsson/eea/aggregator/db/DbNameMapper.java" timestamp="1484584029114">
+      <file name="C:/git/ans/apps/aggregator-services/db-name-mapper/src/main/java/com/ericsson/eea/aggregator/db/DbNameMapper.java" timestamp="1484854400560">
         <mark key="[" line="58" column="41" />
         <mark key="]" line="60" column="4" />
         <mark key="." line="60" column="4" />
@@ -49,11 +49,10 @@
         <mark key="." line="282" column="32" />
         <mark key="^" line="277" column="15" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/db-name-mapper/src/test/java/com/ericsson/eea/aggregator/db/DbNameMapperTest.java" timestamp="1484853451800">
-        <mark key="[" line="122" column="84" />
-        <mark key="]" line="122" column="79" />
-        <mark key="." line="122" column="79" />
-        <mark key="^" line="122" column="79" />
+      <file name="C:/git/ans/apps/aggregator-services/db-name-mapper/src/test/java/com/ericsson/eea/aggregator/db/DbNameMapperTest.java" timestamp="1484854462637">
+        <mark key="[" line="126" column="27" />
+        <mark key="]" line="126" column="27" />
+        <mark key="." line="126" column="27" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" timestamp="1484770459971">
         <mark key="[" line="423" column="14" />
@@ -194,43 +193,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CqiLowerBound</text>
+        <text>mapper.processExpression(&quot;min(start_time)&quot;));</text>
       </register>
       <register name="-" type="4">
-        <text>CqiLowerBound</text>
+        <text>mapper.processExpression(&quot;min(start_time)&quot;));</text>
       </register>
       <register name="/" type="4">
         <text>Query (</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobWFwcGVyLnByb2Nlc3NFeHByZXNzaW9uKCJjb2FsZXNjZShjcWlfbG93ZXJfYm91bmQpIiksICJjb2FsZXNjZShDcWlMb3dlckJvdW5kKSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFwcGVyLnByb2Nlc3NFeHByZXNzaW9uKCJtaW4oc3RhcnRfdGltZSkiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRvIHRoZSBmaWx0ZXIgLSB0aGlzIHBhcnQgaXMgbWFudWFsbHkgY29waWVkIG92ZXIgZnJvbSB0aGUgY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIucHV0KHBhdHRlcm4sIFBhdHRlcm4uY29tcGlsZShwYXR0ZXJuKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRvIHRoZSBmaWx0ZXIgLSB0aGlzIHBhcnQgaXMgbWFudWFsbHkgY29waWVkIG92ZXIgZnJvbSB0aGUgY29kZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0dGVybiA9ICJfUCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIucHV0KHBhdHRlcm4sIFBhdHRlcm4uY29tcGlsZShwYXR0ZXJuKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0dGVybiA9ICJfUCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBQYXR0ZXJuPiBmaWx0ZXIgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucHV0KHBhdHRlcm4sIFBhdHRlcm4uY29tcGlsZShwYXR0ZXJuKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBQYXR0ZXJuPiBmaWx0ZXIgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAucHV0KHBhdHRlcm4sIFBhdHRlcm4uY29tcGlsZShwYXR0ZXJuKSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0YWJsZS5nZXROYW1lKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgVGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0YWJsZS5nZXROYW1lKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
