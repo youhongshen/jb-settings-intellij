@@ -36,13 +36,14 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="70" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-web-service/adapter/src/main/java/com/ericsson/eea/aggregatorwebservice/adapter/AggregatorConfigurationParser.java" timestamp="1484924651257" />
       <file name="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/gploader/core/GpHdfsLoader.java" timestamp="1483980157444">
         <mark key="'" line="252" column="54" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" timestamp="1484333440140">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-web-service/adapter/src/main/java/com/ericsson/eea/aggregatorwebservice/adapter/metamodel/MetaDataLoader.java" timestamp="1484847316195" />
+      <file name="C:/git/ans/apps/aggregator-web-service/adapter/src/main/java/com/ericsson/eea/aggregatorwebservice/adapter/metamodel/MetaDataLoader.java" timestamp="1484924807645" />
       <file name="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" timestamp="1484847236190">
         <mark key="'" line="70" column="21" />
       </file>
@@ -208,7 +209,7 @@
         <text>some_table_name</text>
       </register>
       <register name="/" type="4">
-        <text>DbNameMa</text>
+        <text>schemaTableNa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG1hcHBlci5sb25nVG9TaG9ydE5hbWUoInNvbWVfdGFibGVfbmFtZSIpOwogICAgICAgIGFzc2VydEVxdWFscyhtYXBwZXIuc2hvcnRUb0xvbmdDb2x1bW4ocyksICJzb21lX3RhYmxlX25hbWUiKTsK</text>
@@ -245,15 +246,14 @@
       </register>
     </registers>
     <search>
-      <last-search>DbNameMa</last-search>
+      <last-search>schemaTableNa</last-search>
       <last-offset />
-      <last-pattern>DbNameMa</last-pattern>
+      <last-pattern>schemaTableNa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gpp-load</entry>
         <entry>PARTITION</entry>
         <entry>user_ta</entry>
         <entry>greenplum_to</entry>
@@ -273,6 +273,7 @@
         <entry>Query (</entry>
         <entry>delimiter</entry>
         <entry>DbNameMa</entry>
+        <entry>schemaTableNa</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
