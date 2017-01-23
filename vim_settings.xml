@@ -71,8 +71,8 @@
         <mark key="." line="423" column="14" />
         <mark key="^" line="423" column="29" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/build.gradle" timestamp="1484755606389">
-        <mark key="'" line="134" column="51" />
+      <file name="C:/git/ans/apps/aggregator-services/build.gradle" timestamp="1485209221542">
+        <mark key="'" line="213" column="21" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
@@ -101,12 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="389" column="14" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="392" column="13" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="393" column="14" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="32" column="51" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
-      <jump line="132" column="50" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
       <jump line="390" column="33" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="182" column="21" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="184" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -201,6 +195,12 @@
       <jump line="234" column="11" filename="C:/git/ans/apps/aggregator-services/db-name-mapper/src/main/java/com/ericsson/eea/aggregator/db/DbNameMapper.java" />
       <jump line="5" column="1" filename="C:/git/ans/apps/aggregator-services/revisions.md" />
       <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/revisions.md" />
+      <jump line="202" column="0" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
+      <jump line="59" column="0" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
+      <jump line="61" column="0" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
+      <jump line="62" column="0" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
+      <jump line="156" column="11" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
+      <jump line="213" column="21" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -210,7 +210,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>schemaTableNa</text>
+        <text>packageSui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -247,15 +247,14 @@
       </register>
     </registers>
     <search>
-      <last-search>schemaTableNa</last-search>
+      <last-search>packageSui</last-search>
       <last-offset />
-      <last-pattern>schemaTableNa</last-pattern>
+      <last-pattern>packageSui</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PARTITION</entry>
         <entry>user_ta</entry>
         <entry>greenplum_to</entry>
         <entry>statist</entry>
@@ -275,6 +274,7 @@
         <entry>delimiter</entry>
         <entry>DbNameMa</entry>
         <entry>schemaTableNa</entry>
+        <entry>packageSui</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
