@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1485211661308">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1485211661292">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -14,6 +17,21 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" timestamp="1486398048407">
+        <mark key="'" line="261" column="38" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" timestamp="1484338249274">
+        <mark key="'" line="27" column="21" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/gploader/core/GpHdfsLoader.java" timestamp="1483980157444">
+        <mark key="'" line="252" column="54" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" timestamp="1484333440140">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" timestamp="1485300715924">
+        <mark key="'" line="70" column="21" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1485381326493">
         <mark key="'" line="147" column="30" />
@@ -29,21 +47,6 @@
         <mark key="]" line="321" column="28" />
         <mark key="." line="321" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485211661308">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" timestamp="1484338249274">
-        <mark key="'" line="27" column="21" />
-      </file>
-      <file name="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/gploader/core/GpHdfsLoader.java" timestamp="1483980157444">
-        <mark key="'" line="252" column="54" />
-      </file>
-      <file name="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" timestamp="1484333440140">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="C:/git/ans/apps/aggregator-web-service/data-service/src/main/java/com/ericsson/eea/aggregatorwebservice/dataservice/service/DynamicMetaDataServiceImpl.java" timestamp="1485300715924">
-        <mark key="'" line="70" column="21" />
-      </file>
       <file name="C:/git/ans/apps/aggregator-web-service/adapter/src/main/java/com/ericsson/eea/aggregatorwebservice/adapter/metamodel/schema/Dimension.java" timestamp="1485357353873">
         <mark key="'" line="35" column="28" />
       </file>
@@ -56,10 +59,8 @@
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484073991834">
         <mark key="'" line="7" column="31" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintenanceHelper.java" timestamp="1485979938931" />
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="63" column="4" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="101" column="16" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="116" column="16" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
@@ -88,7 +89,6 @@
       <jump line="351" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="384" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="141" column="59" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
-      <jump line="261" column="38" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="83" column="80" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
       <jump line="357" column="36" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="404" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -159,6 +159,8 @@
       <jump line="326" column="17" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
       <jump line="13" column="60" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
       <jump line="35" column="60" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
+      <jump line="55" column="84" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
+      <jump line="261" column="38" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -168,7 +170,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>DbMaintain</text>
+        <text>PARTITION</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -205,15 +207,14 @@
       </register>
     </registers>
     <search>
-      <last-search>DbMaintain</last-search>
+      <last-search>PARTITION</last-search>
       <last-offset />
-      <last-pattern>DbMaintain</last-pattern>
+      <last-pattern>PARTITION</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>statis</entry>
         <entry>persis</entry>
         <entry>cx_Ora</entry>
         <entry>spark</entry>
@@ -233,6 +234,7 @@
         <entry>context</entry>
         <entry>kpi</entry>
         <entry>DbMaintain</entry>
+        <entry>PARTITION</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
