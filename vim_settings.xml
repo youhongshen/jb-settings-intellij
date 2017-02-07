@@ -19,8 +19,12 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486494971741">
-        <mark key="'" line="147" column="30" />
+      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486496070181">
+        <mark key="'" line="119" column="25" />
+        <mark key="[" line="2998" column="25" />
+        <mark key="]" line="2998" column="24" />
+        <mark key="^" line="2998" column="24" />
+        <mark key="." line="2998" column="24" />
       </file>
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrStandardConsumer.java" timestamp="1486492989206" />
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" timestamp="1485379952288">
@@ -48,9 +52,6 @@
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrEventProcessor.java" timestamp="1486492675126" />
     </filemarks>
     <jumps>
-      <jump line="252" column="54" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/gploader/core/GpHdfsLoader.java" />
-      <jump line="57" column="49" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
-      <jump line="385" column="46" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
       <jump line="45" column="55" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
       <jump line="110" column="8" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="143" column="54" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
@@ -148,6 +149,9 @@
       <jump line="76" column="17" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" />
       <jump line="29" column="13" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="260" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
+      <jump line="10" column="39" filename="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" />
+      <jump line="73" column="25" filename="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" />
+      <jump line="119" column="25" filename="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -157,7 +161,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>PARTITION</text>
+        <text>retentionDB</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -194,16 +198,14 @@
       </register>
     </registers>
     <search>
-      <last-search>PARTITION</last-search>
+      <last-search>retentionDB</last-search>
       <last-offset />
-      <last-pattern>PARTITION</last-pattern>
+      <last-pattern>retentionDB</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>HiveCon</entry>
-        <entry>sparkcon</entry>
         <entry>(</entry>
         <entry>gp-pers</entry>
         <entry>aggreg</entry>
@@ -222,6 +224,8 @@
         <entry>partition</entry>
         <entry>partitioning</entry>
         <entry>PARTITION</entry>
+        <entry>flattened</entry>
+        <entry>retentionDB</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
