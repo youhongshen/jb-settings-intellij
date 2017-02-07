@@ -9,7 +9,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" timestamp="1486398423966">
+      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" timestamp="1486494423433">
         <mark key="'" line="260" column="30" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/model/db/Schema.java" timestamp="1486398443176" />
@@ -19,7 +19,7 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486398539935">
+      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486494971741">
         <mark key="'" line="147" column="30" />
       </file>
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrStandardConsumer.java" timestamp="1486492989206" />
@@ -48,7 +48,6 @@
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrEventProcessor.java" timestamp="1486492675126" />
     </filemarks>
     <jumps>
-      <jump line="65" column="57" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/gploader/core/GpHdfsLoader.java" />
       <jump line="252" column="54" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/gploader/core/GpHdfsLoader.java" />
       <jump line="57" column="49" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
       <jump line="385" column="46" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/core/AggregatorInit.java" />
@@ -144,10 +143,11 @@
       <jump line="197" column="24" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="198" column="47" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="199" column="24" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
-      <jump line="260" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="78" column="17" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" />
       <jump line="58" column="33" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" />
       <jump line="76" column="17" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" />
+      <jump line="29" column="13" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
+      <jump line="260" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -157,7 +157,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>partitioning</text>
+        <text>PARTITION</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -194,9 +194,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partitioning</last-search>
+      <last-search>PARTITION</last-search>
       <last-offset />
-      <last-pattern>partitioning</last-pattern>
+      <last-pattern>PARTITION</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -218,10 +218,10 @@
         <entry>context</entry>
         <entry>kpi</entry>
         <entry>DbMaintain</entry>
-        <entry>PARTITION</entry>
         <entry>partioningdb</entry>
         <entry>partition</entry>
         <entry>partitioning</entry>
+        <entry>PARTITION</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
