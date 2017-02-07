@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1486492493416">
+      <file name="/a.dummy" timestamp="1486504433257">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" timestamp="1486494423433">
         <mark key="'" line="260" column="30" />
@@ -15,8 +15,8 @@
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/model/db/Schema.java" timestamp="1486398443176" />
       <file name="C:/git/cea_product/ceadb/OracleDB/scripts/create_eea_tbs.sh" timestamp="1486503347327" />
       <file name="C:/git/ans/apps/dcr-correlator/src/main/resources/APP_SUITE/app_suite.json" timestamp="1486493971853" />
-      <file name="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" timestamp="1486503469475">
-        <mark key="'" line="134" column="1" />
+      <file name="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" timestamp="1486505177335">
+        <mark key="'" line="137" column="60" />
         <mark key="[" line="157" column="9" />
         <mark key="]" line="134" column="48" />
         <mark key="." line="134" column="48" />
@@ -45,8 +45,6 @@
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrEventProcessor.java" timestamp="1486492675126" />
     </filemarks>
     <jumps>
-      <jump line="107" column="29" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
-      <jump line="2" column="14" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="321" column="20" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="356" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="323" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -145,6 +143,8 @@
       <jump line="49" column="3" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="50" column="3" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="134" column="1" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="73" column="9" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="137" column="60" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -154,7 +154,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>EEA_HOME</text>
+        <text>partition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -191,9 +191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EEA_HOME</last-search>
+      <last-search>partition</last-search>
       <last-offset />
-      <last-pattern>EEA_HOME</last-pattern>
+      <last-pattern>partition</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -213,12 +213,12 @@
         <entry>kpi</entry>
         <entry>DbMaintain</entry>
         <entry>partioningdb</entry>
-        <entry>partition</entry>
         <entry>partitioning</entry>
         <entry>PARTITION</entry>
         <entry>flattened</entry>
         <entry>retentionDB</entry>
         <entry>EEA_HOME</entry>
+        <entry>partition</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
