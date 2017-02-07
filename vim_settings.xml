@@ -9,8 +9,8 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" timestamp="1486494423433">
-        <mark key="'" line="260" column="30" />
+      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" timestamp="1486506997272">
+        <mark key="'" line="103" column="4" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/model/db/Schema.java" timestamp="1486398443176" />
       <file name="C:/git/cea_product/ceadb/OracleDB/scripts/create_eea_tbs.sh" timestamp="1486503347327" />
@@ -22,7 +22,7 @@
         <mark key="." line="134" column="48" />
         <mark key="^" line="134" column="48" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486498960320">
+      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486506842022">
         <mark key="'" line="16" column="42" />
         <mark key="[" line="2998" column="25" />
         <mark key="]" line="2998" column="24" />
@@ -45,7 +45,6 @@
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrEventProcessor.java" timestamp="1486492675126" />
     </filemarks>
     <jumps>
-      <jump line="321" column="20" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="356" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="323" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="351" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -145,6 +144,7 @@
       <jump line="134" column="1" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="73" column="9" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="137" column="60" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="103" column="4" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -154,7 +154,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>partition</text>
+        <text>PARTITION</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -191,9 +191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partition</last-search>
+      <last-search>PARTITION</last-search>
       <last-offset />
-      <last-pattern>partition</last-pattern>
+      <last-pattern>PARTITION</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -214,11 +214,11 @@
         <entry>DbMaintain</entry>
         <entry>partioningdb</entry>
         <entry>partitioning</entry>
-        <entry>PARTITION</entry>
         <entry>flattened</entry>
         <entry>retentionDB</entry>
         <entry>EEA_HOME</entry>
         <entry>partition</entry>
+        <entry>PARTITION</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
