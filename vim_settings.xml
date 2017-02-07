@@ -14,10 +14,12 @@
       </file>
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/model/db/Schema.java" timestamp="1486398443176" />
       <file name="C:/git/ans/apps/dcr-correlator/src/main/resources/APP_SUITE/app_suite.json" timestamp="1486493971853" />
-      <file name="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" timestamp="1486412195115">
+      <file name="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" timestamp="1486503114510">
+        <mark key="'" line="134" column="1" />
         <mark key="[" line="157" column="9" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+        <mark key="]" line="134" column="48" />
+        <mark key="." line="134" column="48" />
+        <mark key="^" line="134" column="48" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" timestamp="1486498960320">
         <mark key="'" line="16" column="42" />
@@ -52,11 +54,6 @@
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrEventProcessor.java" timestamp="1486492675126" />
     </filemarks>
     <jumps>
-      <jump line="110" column="8" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
-      <jump line="143" column="54" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
-      <jump line="33" column="33" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="155" column="4" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
-      <jump line="79" column="18" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
       <jump line="107" column="29" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
       <jump line="2" column="14" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="321" column="20" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -152,6 +149,11 @@
       <jump line="73" column="25" filename="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" />
       <jump line="119" column="25" filename="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" />
       <jump line="16" column="42" filename="C:/git/ans/apps/aggregator-services/src/main/resources/app_config/aggregator.json" />
+      <jump line="135" column="0" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="48" column="3" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="49" column="3" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="50" column="3" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="134" column="1" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -161,7 +163,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>retentionDB</text>
+        <text>EEA_HOME</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -198,15 +200,14 @@
       </register>
     </registers>
     <search>
-      <last-search>retentionDB</last-search>
+      <last-search>EEA_HOME</last-search>
       <last-offset />
-      <last-pattern>retentionDB</last-pattern>
+      <last-pattern>EEA_HOME</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
         <entry>gp-pers</entry>
         <entry>aggreg</entry>
         <entry>aggregator-init</entry>
@@ -226,6 +227,7 @@
         <entry>PARTITION</entry>
         <entry>flattened</entry>
         <entry>retentionDB</entry>
+        <entry>EEA_HOME</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
