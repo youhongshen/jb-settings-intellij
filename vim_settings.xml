@@ -31,7 +31,8 @@
       </file>
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrStandardConsumer.java" timestamp="1486492989206" />
       <file name="C:/git/cea_product/ceadb/OracleDB/scripts/eea_oracle_config.env.template" timestamp="1486503596905" />
-      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" timestamp="1486509030197">
+      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" timestamp="1486566902670">
+        <mark key="'" line="178" column="23" />
         <mark key="[" line="423" column="14" />
         <mark key="]" line="423" column="14" />
         <mark key="." line="423" column="14" />
@@ -51,8 +52,6 @@
       <file name="C:/git/ans/apps/dcr-correlator/src/main/java/com/ericsson/eea/dcr/kafka/DcrEventProcessor.java" timestamp="1486492675126" />
     </filemarks>
     <jumps>
-      <jump line="356" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="323" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="351" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="384" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="141" column="59" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
@@ -151,6 +150,8 @@
       <jump line="73" column="9" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="137" column="60" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="103" column="4" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
+      <jump line="456" column="12" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
+      <jump line="178" column="23" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -160,7 +161,7 @@
         <text>xtKpi</text>
       </register>
       <register name="/" type="4">
-        <text>PARTITION</text>
+        <text>CREATE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBZ2dyZWdhdG9yLVNlcnZpY2VzXSBkYi1uYW1lLW1hcHBlciBhZGRlZCBzaG9ydFRvTG9uZwo=</text>
@@ -197,15 +198,14 @@
       </register>
     </registers>
     <search>
-      <last-search>PARTITION</last-search>
+      <last-search>CREATE</last-search>
       <last-offset />
-      <last-pattern>PARTITION</last-pattern>
+      <last-pattern>CREATE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gp-pers</entry>
         <entry>aggreg</entry>
         <entry>aggregator-init</entry>
         <entry>gp-persis</entry>
@@ -225,6 +225,7 @@
         <entry>EEA_HOME</entry>
         <entry>partition</entry>
         <entry>PARTITION</entry>
+        <entry>CREATE</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
