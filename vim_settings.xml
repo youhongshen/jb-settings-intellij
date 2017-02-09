@@ -12,7 +12,7 @@
       <file name="/Scala Console" timestamp="1486594430066">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486571820161">
+      <file name="/a.dummy" timestamp="1486658653347">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -75,10 +75,11 @@
         <mark key="." line="71" column="33" />
         <mark key="^" line="70" column="44" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" timestamp="1486658718143">
+        <mark key="'" line="323" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="384" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="141" column="59" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="83" column="80" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
       <jump line="357" column="36" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -92,7 +93,6 @@
       <jump line="124" column="51" filename="C:/git/ans/apps/aggregator-services/build.gradle" />
       <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" />
       <jump line="27" column="21" filename="C:/git/ans/apps/aggregator-services/gpp-loader/src/main/java/com/ericsson/eea/ark/oracleloader/core/OracleLoader.java" />
-      <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="168" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="202" column="7" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="347" column="4" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
@@ -177,6 +177,9 @@
       <jump line="103" column="4" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainer.java" />
       <jump line="456" column="12" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
       <jump line="178" column="23" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
+      <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="356" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="323" column="15" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -186,7 +189,7 @@
         <text>l[0]</text>
       </register>
       <register name="/" type="4">
-        <text>CREATE</text>
+        <text>gpp-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFsIGFnZ0pzb24gPSBTb3VyY2UuZnJvbUZpbGUoZmlsZW5hbWUpLmdldExpbmVzLm1rU3RyaW5nCg==</text>
@@ -223,15 +226,14 @@
       </register>
     </registers>
     <search>
-      <last-search>CREATE</last-search>
+      <last-search>gpp-</last-search>
       <last-offset />
-      <last-pattern>CREATE</last-pattern>
+      <last-pattern>gpp-</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aggreg</entry>
         <entry>aggregator-init</entry>
         <entry>gp-persis</entry>
         <entry>Query</entry>
@@ -251,6 +253,7 @@
         <entry>partition</entry>
         <entry>PARTITION</entry>
         <entry>CREATE</entry>
+        <entry>gpp-</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
