@@ -84,12 +84,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" timestamp="1486755149830">
-        <mark key="'" line="295" column="65" />
-        <mark key="[" line="184" column="9" />
-        <mark key="]" line="156" column="39" />
-        <mark key="^" line="156" column="39" />
-        <mark key="." line="156" column="39" />
+      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" timestamp="1486756664626">
+        <mark key="'" line="323" column="65" />
+        <mark key="[" line="137" column="64" />
+        <mark key="]" line="137" column="64" />
+        <mark key="^" line="213" column="47" />
+        <mark key="." line="137" column="64" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" timestamp="1486754599510">
         <mark key="[" line="278" column="0" />
@@ -205,44 +205,44 @@
       <jump line="241" column="65" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>configSchemaMap</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>configSchemaMap</text>
       </register>
       <register name="/" type="4">
         <text>PARTITION</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGNvbS5lcmljc3Nvbi5lZWEuYWdncmVnYXRvcmluaXQucGFyc2VyLm1vZGVsLmFnZ3JlZ2F0b3IuanNvbi5jb25maWcuU2NoZW1hPiBzY2hlbWFzID0gYWdnLmdldFNjaGVtYXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgY29tLmVyaWNzc29uLmVlYS5hZ2dyZWdhdG9yaW5pdC5wYXJzZXIubW9kZWwuYWdncmVnYXRvci5qc29uLmNvbmZpZy5UYWJsZT4gY29uZmlnVGFibGVNYXAgPQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBjb20uZXJpY3Nzb24uZWVhLmFnZ3JlZ2F0b3Jpbml0LnBhcnNlci5tb2RlbC5hZ2dyZWdhdG9yLmpzb24uY29uZmlnLlNjaGVtYT4gY29uZmlnU2NoZW1hTWFwID0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIGNhc2UgZm9yIFN0cmluZy4K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBjb20uZXJpY3Nzb24uZWVhLmFnZ3JlZ2F0b3Jpbml0LnBhcnNlci5tb2RlbC5hZ2dyZWdhdG9yLmpzb24uY29uZmlnLlNjaGVtYT4gcmVzdWx0ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAqIGFsbCBsb3dlciBjYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIDxwPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIFRoZSBuYW1lcyBhcmUgY29udmVyZXRlZCB0byBsb3dlciBjYXNlIGZvciBsb29rIHVwLgo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBjb20uZXJpY3Nzb24uZWVhLmFnZ3JlZ2F0b3Jpbml0LnBhcnNlci5tb2RlbC5hZ2dyZWdhdG9yLmpzb24uY29uZmlnLlNjaGVtYT4gY29uZmlnU2NoZW1hTWFwID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIFRoZSBuYW1lIHN0b3JlZCBpbiB0aGUgbWFwIGlzIHRoZSBvcmlnaW5hbCBuYW1lIGZyb20gYWdncmVnYXRvci5qc29uLCBub3QgdGhlIHNob3J0ZW5lZCBvcmFjbGUgbmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIHNjaGVtYSBhbmQgZmxhdHRlbmVkIHNjaGVtYS4K</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBjb20uZXJpY3Nzb24uZWVhLmFnZ3JlZ2F0b3Jpbml0LnBhcnNlci5tb2RlbC5hZ2dyZWdhdG9yLmpzb24uY29uZmlnLlNjaGVtYT4gcmVzdWx0ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEdpdmVuIHRoZSBhZ2dyZWdhdG9yLmpzb24sIHJldHVybnMgYSBtYXAgb2Ygc2NoZW1hIG5hbWUgYW5kIHRoZSBhY3R1YWwgc2NoZW1hcyBmb3IgYm90aCB0aGUK</text>
+        <text encoding="base64">ICAgICAqIDxwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
