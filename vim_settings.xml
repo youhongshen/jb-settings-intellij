@@ -68,9 +68,10 @@
         <mark key="^" line="202" column="94" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/build.gradle" timestamp="1487606806499">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="21" />
+      <file name="C:/git/ans/apps/aggregator-services/aggregator-init/build.gradle" timestamp="1487962281121">
+        <mark key="'" line="57" column="54" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="88" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="66" column="35" />
       </file>
@@ -176,10 +177,22 @@
         <mark key="." line="59" column="25" />
         <mark key="^" line="59" column="25" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/partition-maintainer/src/main/scala/com/ericsson/eea/ark/partitionmaint/Utils.scala" timestamp="1487962382698">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+      </file>
       <file name="C:/git/ans/apps/aggregator-services/src/test/resources/db_name_mapper/gp_to_oracle_map_test" timestamp="1487026350861">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/partition-maintainer/build.gradle" timestamp="1487962307642">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gpp-loader/build.gradle" timestamp="1486591626057">
         <mark key="[" line="81" column="58" />
@@ -233,9 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
-      <jump line="185" column="19" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
-      <jump line="186" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
       <jump line="187" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
       <jump line="188" column="20" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
       <jump line="213" column="57" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
@@ -333,61 +343,63 @@
       <jump line="254" column="8" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintOracleTransitionTest.java" />
       <jump line="216" column="15" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintOracleTransitionTest.java" />
       <jump line="18" column="44" filename="C:/git/ans/apps/settings.gradle" />
+      <jump line="63" column="49" filename="C:/git/ans/apps/aggregator-services/aggregator-init/build.gradle" />
+      <jump line="15" column="4" filename="C:/git/ans/apps/aggregator-services/aggregator-init/build.gradle" />
+      <jump line="57" column="54" filename="C:/git/ans/apps/aggregator-services/aggregator-init/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rofile-ser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhhZG9vcF95YXJuX2FwaVZlcnNpb24gPSAnMi43LjAtbWFwci0xNTA2Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>rofile-ser</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>db-name-map</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSAnYWdncmVnYXRvci1zZXJ2aWNlczptb25pdG9yaW5nLXdlYi1zZXJ2aWNlOndlYi1zZXJ2aWNlJwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGonLCBuYW1lOiAnbG9nNGotYXBpJywgdmVyc2lvbjogbG9nNGpWZXJzaW9uCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqJywgbmFtZTogJ2xvZzRqLWNvcmUnLCB2ZXJzaW9uOiBsb2c0alZlcnNpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhhZG9vcF95YXJuX2FwaVZlcnNpb24gPSAnMi43LjAtbWFwci0xNTA2Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlY29yZCA9IGxpbmUuc3BsaXQoIlxcdCIpIAo=</text>
+        <text encoding="base64">ICAgIGhhZG9vcF9jb21tb25WZXJzaW9uID0gJzIuNy4wLW1hcHItMTUwNicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3VyY2VGaWxlID0gImZpbGU6PSAiYzpcXGN5Z3dpbjY0XFxob21lXFxlam9hc2hlXFx2Ym94XFxzcGFyay1rYWZrYS1jYXNzYW5kcmEtYXBwbHlpbmctbGFtYmRhLWFyY2hpdGVjdHVyZVxcdmFncmFudFxcZGF0YS50c3YiCg==</text>
+        <text encoding="base64">ICAgIGhhZG9vcF95YXJuX2NsaWVudFZlcnNpb24gPSAnMi43LjAtbWFwci0xNTA2Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGpvZGFUaW1lVmVyc2lvbiA9ICcyLjcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
+        <text encoding="base64">ICAgIC8vanNvblNpbXBsZVZlcnNpb24gPSAnMS4rJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkanVzdGVkVGltZVN0YW1wID0gYWRqdXN0ZWRUaW1lU3RhbXAgKyAoKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gdGltZXN0YW1wKSAqIHdsYy50aW1lTXVsdGlwbGllciApCg==</text>
+        <text encoding="base64">ICAgIGphY2tzb25EYXRhYmluZFZlcnNpb24gPSAnMi40LjMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgKGl0ZXJhdGlvbiA8LSAxIHRvIHdsYy5yZWNvcmRzKSB7Cg==</text>
+        <text encoding="base64">ICAgIGh0dHBjb3JlVmVyc2lvbiA9ICc0LjQuMScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgYWN0aW9uID0gaXQK</text>
+        <text encoding="base64">ICAgIGh0dHBjbGllbnRWZXJzaW9uID0gJzQuNS4xJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcgo=</text>
+        <text encoding="base64">ICAgIHJlc3RWZXJzaW9uID0gJzEuMCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>db-name-map</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>db-name-map</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uplane_agg</entry>
         <entry>uplane_aggregate</entry>
         <entry>uplane_cell</entry>
         <entry>app.name</entry>
@@ -407,6 +419,7 @@
         <entry>Column</entry>
         <entry encoding="base64">XDxjb21wYXJlVGFibGVzXD4=</entry>
         <entry>db-name-map</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
