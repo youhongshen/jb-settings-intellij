@@ -209,6 +209,7 @@
         <mark key="." line="283" column="6" />
         <mark key="^" line="283" column="6" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/partition-maintainer/src/main/scala/com/ericsson/eea/ark/partitionmaint/ParseJson.scala" timestamp="1487957457765" />
       <file name="C:/git/ans/apps/aggregator-services/db-name-mapper/src/main/resources/greenplum_to_oracle_name_map" timestamp="1487026806926">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="2" />
@@ -223,9 +224,15 @@
       <file name="/fragment.java" timestamp="1487694437667">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/git/ans/apps/settings.gradle" timestamp="1487957327878">
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="30" />
+        <mark key="." line="71" column="30" />
+        <mark key="^" line="71" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="59" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/main/scala/com/ericsson/eea/aggregator/parser/dbmaintainence/DbMaintOracleTransition.scala" />
       <jump line="0" column="0" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
       <jump line="185" column="19" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
       <jump line="186" column="30" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintainerOracleTest.java" />
@@ -325,19 +332,20 @@
       <jump line="267" column="35" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintOracleTransitionTest.java" />
       <jump line="254" column="8" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintOracleTransitionTest.java" />
       <jump line="216" column="15" filename="C:/git/ans/apps/aggregator-services/aggregator-init/src/test/java/com/ericsson/eea/aggregatorinit/parser/dbmaintenance/DbMaintOracleTransitionTest.java" />
+      <jump line="18" column="44" filename="C:/git/ans/apps/settings.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vistitorByProduct</text>
+        <text>rofile-ser</text>
       </register>
       <register name="-" type="4">
-        <text>vistitorByProduct</text>
+        <text>rofile-ser</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wYXJlVGFibGVzXD4=</text>
+        <text>db-name-map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpc3RpdG9yQnlQcm9kdWN0LmZvcmVhY2gocHJpbnRsbikK</text>
+        <text encoding="base64">aW5jbHVkZSAnYWdncmVnYXRvci1zZXJ2aWNlczptb25pdG9yaW5nLXdlYi1zZXJ2aWNlOndlYi1zZXJ2aWNlJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -371,15 +379,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wYXJlVGFibGVzXD4=</last-search>
+      <last-search>db-name-map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wYXJlVGFibGVzXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>db-name-map</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUYWJsZVw+</entry>
         <entry>uplane_agg</entry>
         <entry>uplane_aggregate</entry>
         <entry>uplane_cell</entry>
@@ -399,6 +406,7 @@
         <entry>Table</entry>
         <entry>Column</entry>
         <entry encoding="base64">XDxjb21wYXJlVGFibGVzXD4=</entry>
+        <entry>db-name-map</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
