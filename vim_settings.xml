@@ -11,11 +11,11 @@
       <file name="vim_settings.xml" timestamp="1486348117654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IntelliJProjects/HelloScala/src/main/scala/com/test/LongestSubstring.java" timestamp="1489606647444">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="23" column="34" />
+      <file name="$USER_HOME$/IntelliJProjects/HelloScala/src/main/scala/com/test/LongestSubstring.java" timestamp="1489608254720">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="22" column="42" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/IntelliJProjects/HelloSparkScala/build.sbt" timestamp="1485706118261">
         <mark key="[" line="2" column="22" />
@@ -95,40 +95,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QucHV0KGNoYXJzW2ldLCBpKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBJbnRlZ2VyPiBsaXN0ID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBJbnRlZ2VyPigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yIChTdHJpbmcgczIgOiB0ZW1wKSB7Ci8vICAgICAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShzMik7Ci8vICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>abcabcbb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QucmVtb3ZlQWxsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShzMik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIHMyIDogdGVtcCkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAU2luY2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShzMSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW52YWxpZGF0ZWQrKzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlzdC5wdXQoczEsIC0xKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbUluZGV4IDw9IGluZGV4ICYmIGl0ZW1JbmRleCAhPSAtMSkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>abcabcbb</text>
+        <text encoding="base64">bGlzdCA=</text>
       </register>
     </registers>
     <search>
@@ -144,6 +144,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
