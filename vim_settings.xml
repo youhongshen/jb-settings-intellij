@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>createApprovalWorkflowE</entry>
         <entry>hydrateApprovalWorkflow</entry>
         <entry>ruleSetId</entry>
         <entry>hydrate</entry>
@@ -27,6 +26,7 @@
         <entry>createPrior</entry>
         <entry>createPriorityG</entry>
         <entry>submit</entry>
+        <entry>submitFor</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
@@ -974,7 +974,7 @@
         <text encoding="base64">YXBwUm9sZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>submitFor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlcm5hbFByaW9yaXR5R3JvdXBFeGVjdXRpb24gbGF0ZXN0UHJpb3JpdHlHcm91cEV4ZWN1dGlvbiA9IHBhZ2luYXRlZFJlc3BvbnNlLmdldERhdGEoKS5nZXQoMCk7Cg==</text>
@@ -1713,9 +1713,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>submitFor</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>submitFor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
