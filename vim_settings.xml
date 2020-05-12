@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PriorityG</entry>
         <entry>nextPri</entry>
         <entry>internalIO</entry>
         <entry>hydrateApprovalWorkflowExecutionEs</entry>
@@ -27,6 +26,7 @@
         <entry>priorityGroupRanksSor</entry>
         <entry>SortScript</entry>
         <entry>of</entry>
+        <entry>properties</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
@@ -40,8 +40,8 @@
         <entry>set noIc</entry>
         <entry>$</entry>
         <entry>-</entry>
-        <entry>0</entry>
         <entry>1,$d</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -90,7 +90,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/io/components/AccountDetails.test.js" timestamp="1589210749284" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1589238164524">
         <mark key="a" line="554" column="40" />
         <mark key="'" line="228" column="108" />
@@ -139,7 +138,7 @@
         <mark key="." line="107" column="4" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/search/SearchCriteria.java" timestamp="1589234309873" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" timestamp="1589294571633">
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" timestamp="1589295885170">
         <mark key="[" line="92" column="41" />
         <mark key="]" line="92" column="41" />
         <mark key="^" line="91" column="44" />
@@ -164,14 +163,15 @@
         <mark key="." line="108" column="92" />
         <mark key="^" line="108" column="93" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/approvalWorkflowExecution.json" timestamp="1589297068172">
+        <mark key="'" line="100" column="17" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/PermissionRepository.java" timestamp="1589226740422">
         <mark key="'" line="126" column="16" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/containers/IOLineReducer.test.js" timestamp="1589210978213" />
     </filemarks>
     <jumps>
-      <jump line="713" column="82" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="892" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="894" column="43" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="664" column="42" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="665" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
@@ -270,6 +270,8 @@
       <jump line="62" column="70" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/elasticsearch/CommentElasticSearchDao.java" />
       <jump line="86" column="30" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/elasticsearch/CommentElasticSearchDao.java" />
       <jump line="103" column="123" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalModelAttribute.java" />
+      <jump line="95" column="22" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/approvalWorkflowExecution.json" />
+      <jump line="100" column="17" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/approvalWorkflowExecution.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,7 +283,7 @@
         <text>(InternalApprovalWorkflowExecution.APPROVAL_WORKFLOW_EXECUTION_IO_BUDGET, Optional.empty()),</text>
       </register>
       <register name="/" type="4">
-        <text>of</text>
+        <text>properties</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFQUFJPVkFMX1dPUktGTE9XX0VYRUNVVElPTl9JT19FTkRfREFURShJbnRlcm5hbEFwcHJvdmFsV29ya2Zsb3dFeGVjdXRpb24uQVBQUk9WQUxfV09SS0ZMT1dfRVhFQ1VUSU9OX0lPX0VORF9EQVRFLCBPcHRpb25hbC5lbXB0eSgpKSwK</text>
@@ -1020,9 +1022,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>of</last-search>
+      <last-search>properties</last-search>
       <last-offset />
-      <last-pattern>of</last-pattern>
+      <last-pattern>properties</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
