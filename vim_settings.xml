@@ -92,20 +92,25 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" timestamp="1589553724758" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java" timestamp="1589501537279">
-        <mark key="'" line="162" column="21" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsMetadataOrchestrator.java" timestamp="1589559504199" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/PriorityGroupRepositoryTest.java" timestamp="1589579095612">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetS3DaoTest.java" timestamp="1589581486914">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepository.java" timestamp="1589579664025">
         <mark key="[" line="127" column="31" />
         <mark key="]" line="127" column="31" />
         <mark key="." line="127" column="31" />
         <mark key="^" line="126" column="44" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalRuleDetail.java" timestamp="1589580286853">
+        <mark key="[" line="11" column="18" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbModule.java" timestamp="1589559460127" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/ClauseRepository.java" timestamp="1589575605714">
@@ -125,20 +130,14 @@
         <mark key="^" line="405" column="86" />
         <mark key="." line="74" column="64" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalRuleSetDetail.java" timestamp="1589552406824">
-        <mark key="[" line="11" column="18" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalRuleSetDetail.java" timestamp="1589580230035">
+        <mark key="[" line="12" column="18" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleRepository.java" timestamp="1589578780377">
         <mark key="[" line="47" column="100" />
         <mark key="]" line="47" column="97" />
         <mark key="." line="47" column="96" />
         <mark key="^" line="47" column="97" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/approvalworkflows/RuleSetS3Dao.java" timestamp="1589552524888">
-        <mark key="[" line="49" column="73" />
-        <mark key="]" line="49" column="80" />
-        <mark key="." line="49" column="79" />
-        <mark key="^" line="49" column="80" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1589570945781">
         <mark key="'" line="244" column="5" />
@@ -155,13 +154,6 @@
         <mark key="]" line="29" column="105" />
         <mark key="^" line="87" column="64" />
         <mark key="." line="29" column="105" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1589502359761">
-        <mark key="'" line="42" column="54" />
-        <mark key="[" line="218" column="29" />
-        <mark key="]" line="225" column="55" />
-        <mark key="." line="225" column="55" />
-        <mark key="^" line="220" column="56" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepositoryTest.java" timestamp="1589576146087">
         <mark key="[" line="36" column="12" />
@@ -180,6 +172,9 @@
         <mark key="]" line="124" column="64" />
         <mark key="^" line="124" column="61" />
         <mark key="." line="124" column="64" />
+      </file>
+      <file name="/fragment.java" timestamp="1589581532891">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -287,44 +282,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>setModifiedTimestamp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGJ1ZmZlcmVkUmVhZGVyLikK</text>
       </register>
       <register name="-" type="4">
-        <text>setModifiedTimestamp</text>
+        <text>&quot;some test data for my input stream&quot;, &quot;UTF-8&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>93</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGF1c2Uuc2V0TW9kaWZpZWRCeShyZXF1ZXN0Q29udGV4dC5nZXRDdXN0b21lcklkKCkpOwogICAgICAgICAgICAgICAgICAgIGNsYXVzZS5zZXRNb2RpZmllZFRpbWVzdGFtcChub3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHMzT2JqZWN0LmdldE9iamVjdENvbnRlbnQoKSkudGhlblJldHVybihtb2NrKFMzT2JqZWN0SW5wdXRTdHJlYW0uY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGJ1ZmZlcmVkUmVhZGVyLikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuUmV0dXJuKCJzZWNvbmQgbGluZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBDbGF1c2VSZXBvc2l0b3J5IGNsYXVzZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHMzT2JqZWN0SW5wdXRTdHJlYW0ucmVhZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgQE1vY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIF1cbiIgKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBSdWxlUmVwb3NpdG9yeSBydWxlUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgfVxuIiArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgQE1vY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICBdXG4iICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgIH1cbiIgKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgXCJyaHNcIjogXCJNWFwiXG4iICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNsYXVzZVJlcG9zaXRvcnkuZ2V0QWxsQ2xhdXNlcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgXCJiaW5hcnlPcGVyYXRvclwiOiBcIkVRVUFMX1RPXCIsXG4iICsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
