@@ -118,10 +118,11 @@
         <mark key="'" line="162" column="21" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsMetadataOrchestrator.java" timestamp="1589559504199" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbDao.java" timestamp="1589560256665">
-        <mark key="[" line="426" column="0" />
-        <mark key="]" line="426" column="0" />
-        <mark key="." line="426" column="0" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbDao.java" timestamp="1589560507500">
+        <mark key="[" line="437" column="37" />
+        <mark key="]" line="437" column="49" />
+        <mark key="." line="437" column="48" />
+        <mark key="^" line="437" column="49" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetS3DaoTest.java" timestamp="1589493295467">
         <mark key="[" line="17" column="27" />
@@ -283,44 +284,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>awf-</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRMb2dnZXIoKS5lcnJvcihtZXNzYWdlLCBlKTsKICAgICAgICAgICAgdGhyb3cgZTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0aGlzLmdldER5bmFtb0RiTWFwcGVyKCkuZGVsZXRlKG9iamVjdCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJGYWlsZWQgdG8gZGVsZXRlIG9iamVjdCAlcyBkdWUgdG8gJXMiLCBvYmplY3QudG9TdHJpbmcoKSwgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aGlzLmdldExvZ2dlcigpLmVycm9yKG1lc3NhZ2UsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXREeW5hbW9EYk1hcHBlcigpLmJhdGNoRGVsZXRlKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIER5bmFtb0RCTWFwcGVyQ29uZmlnIHggPSBEeW5hbW9EQk1hcHBlckNvbmZpZy5idWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBDbGF1c2VSZXBvc2l0b3J5IGNsYXVzZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgIER5bmFtb0RCTWFwcGVyQ29uZmlnIHggPSBEeW5hbW9EQk1hcHBlckNvbmZpZy5idWlsZGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBSdWxlUmVwb3NpdG9yeSBydWxlUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBDbGF1c2VSZXBvc2l0b3J5IGNsYXVzZVJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNsYXVzZVJlcG9zaXRvcnkgPSBjbGF1c2VSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBSdWxlUmVwb3NpdG9yeSBydWxlUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJ1bGVSZXBvc2l0b3J5ID0gcnVsZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsYXVzZVJlcG9zaXRvcnkgPSBjbGF1c2VSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
