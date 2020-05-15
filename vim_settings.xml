@@ -105,9 +105,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" timestamp="1589492367422">
-        <mark key="'" line="50" column="37" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/approvalworkflows/RuleSetS3Dao.java" timestamp="1589552524888">
         <mark key="[" line="49" column="73" />
         <mark key="]" line="49" column="80" />
@@ -118,17 +115,23 @@
         <mark key="'" line="162" column="21" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsMetadataOrchestrator.java" timestamp="1589559504199" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/AdminResourceImpl.java" timestamp="1589563088792">
+        <mark key="[" line="170" column="37" />
+        <mark key="]" line="170" column="46" />
+        <mark key="^" line="170" column="46" />
+        <mark key="." line="170" column="45" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetS3DaoTest.java" timestamp="1589493295467">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="40" />
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepository.java" timestamp="1589559729134">
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="12" />
-        <mark key="." line="73" column="11" />
-        <mark key="^" line="73" column="12" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepository.java" timestamp="1589563515694">
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="79" column="20" />
+        <mark key="." line="79" column="19" />
+        <mark key="^" line="79" column="20" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbModule.java" timestamp="1589559460127" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1589502359761">
@@ -153,24 +156,29 @@
       <file name="/Dummy.txt" timestamp="1589501125686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/ContractRepository.java" timestamp="1589492463241" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepositoryTest.java" timestamp="1589501067562">
         <mark key="[" line="35" column="73" />
         <mark key="]" line="35" column="87" />
         <mark key="^" line="35" column="87" />
         <mark key="." line="35" column="86" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/AdminResource.java" timestamp="1589552060450">
-        <mark key="[" line="131" column="75" />
-        <mark key="]" line="129" column="7" />
-        <mark key="^" line="129" column="7" />
-        <mark key="." line="129" column="6" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/AdminResource.java" timestamp="1589562963984">
+        <mark key="[" line="125" column="38" />
+        <mark key="]" line="136" column="146" />
+        <mark key="^" line="137" column="19" />
+        <mark key="." line="137" column="18" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" timestamp="1589501744842">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="21" column="64" />
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/util/Constants.java" timestamp="1589563006955">
+        <mark key="[" line="124" column="64" />
+        <mark key="]" line="124" column="64" />
+        <mark key="^" line="124" column="61" />
+        <mark key="." line="124" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -279,43 +287,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>delete</text>
+        <text>flatMap</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text>awf-</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0aGlzLmdldER5bmFtb0RiTWFwcGVyKCkuZGVsZXRlKG9iamVjdCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJGYWlsZWQgdG8gZGVsZXRlIG9iamVjdCAlcyBkdWUgdG8gJXMiLCBvYmplY3QudG9TdHJpbmcoKSwgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aGlzLmdldExvZ2dlcigpLmVycm9yKG1lc3NhZ2UsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9QRVJBVElPTl9OQU1FX0xPQURfUlVMRVNFVF9GUk9NX1MzID0gImxvYWRSdWxlU2V0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXREeW5hbW9EYk1hcHBlcigpLmJhdGNoRGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoY2xhdXNlIC0+ICEgY2xhdXNlLmcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZURldGFpbC5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIER5bmFtb0RCTWFwcGVyQ29uZmlnIHggPSBEeW5hbW9EQk1hcHBlckNvbmZpZy5idWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXREeW5hbW9EYk1hcHBlcigpLmJhdGNoRGVsZXRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBDbGF1c2VSZXBvc2l0b3J5IGNsYXVzZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBSdWxlUmVwb3NpdG9yeSBydWxlUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNsYXVzZVJlcG9zaXRvcnkgPSBjbGF1c2VSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
