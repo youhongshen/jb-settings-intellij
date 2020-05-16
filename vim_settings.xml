@@ -97,6 +97,12 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/ExcelReadWriteUtils.java" timestamp="1589582279530">
         <mark key="'" line="13" column="15" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/IExpression.java" timestamp="1589586440800">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="49" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/PriorityGroupRepositoryTest.java" timestamp="1589579095612">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -120,29 +126,13 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/ContractOrchestratorTest.java" timestamp="1589582187281">
         <mark key="'" line="154" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/ClauseRepository.java" timestamp="1589575605714">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/AdminResource.java" timestamp="1589573475577">
-        <mark key="[" line="136" column="59" />
-        <mark key="]" line="138" column="7" />
-        <mark key="^" line="138" column="7" />
-        <mark key="." line="138" column="6" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1589575952804">
-        <mark key="[" line="74" column="64" />
-        <mark key="]" line="74" column="64" />
-        <mark key="^" line="405" column="86" />
-        <mark key="." line="74" column="64" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalRuleSetDetail.java" timestamp="1589585173254">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="37" />
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/Attribute.java" timestamp="1589586394340" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleRepository.java" timestamp="1589578780377">
         <mark key="[" line="47" column="100" />
         <mark key="]" line="47" column="97" />
@@ -166,6 +156,9 @@
         <mark key="]" line="29" column="105" />
         <mark key="^" line="87" column="64" />
         <mark key="." line="29" column="105" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/MVELExpression.java" timestamp="1589586395280">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepositoryTest.java" timestamp="1589576146087">
         <mark key="[" line="36" column="12" />
@@ -298,43 +291,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getInternalRuleDetails</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>getInternalRuleDetails</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>InputStre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbVJlYWRlciBpbnB1dFN0cmVhbVJlYWRlciA9IG5ldyBJbnB1dFN0cmVhbVJlYWRlcihydWxlU2V0T2JqZWN0LmdldE9iamVjdENvbnRlbnQoKSwgU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90U3VwcG9ydGVkRXhjZXB0aW9uKCJ0b01WRUxFeHByZXNzaW9uIGlzIG5vdCBzdXBwb3J0ZWQgZm9yIHRoaXMgY2xhc3MiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSU9VdGlscy50b0lucHV0U3RyZWFtKGpzb25TdHJpbmcsICJVVEYtOCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9TdHJpbmcoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIElucHV0U3RyZWFtIHN0dWJJbnB1dFN0cmVhbSA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4oanNvblN0cmluZyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSU9VdGlscy50b0lucHV0U3RyZWFtKGpzb25TdHJpbmcsICJVVEYtOCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oYnVmZmVyZWRSZWFkZXIucmVhZExpbmUoKSkK</text>
+        <text encoding="base64">Ly8gICAgICAgIElucHV0U3RyZWFtIHN0dWJJbnB1dFN0cmVhbSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZlcmVkUmVhZGVyID0gbW9jayhCdWZmZXJlZFJlYWRlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4oanNvblN0cmluZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oczNPYmplY3QuZ2V0T2JqZWN0Q29udGVudCgpKS50aGVuUmV0dXJuKHMzT2JqZWN0SW5wdXRTdHJlYW0pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oYnVmZmVyZWRSZWFkZXIucmVhZExpbmUoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFMzT2JqZWN0SW5wdXRTdHJlYW0gczNPYmplY3RJbnB1dFN0cmVhbSA9IG1vY2soUzNPYmplY3RJbnB1dFN0cmVhbS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZlcmVkUmVhZGVyID0gbW9jayhCdWZmZXJlZFJlYWRlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbVJlYWRlciBpbnB1dFN0cmVhbVJlYWRlciA9IG5ldyBJbnB1dFN0cmVhbVJlYWRlcihydWxlU2V0T2JqZWN0LmdldE9iamVjdENvbnRlbnQoKSwgU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oczNPYmplY3QuZ2V0T2JqZWN0Q29udGVudCgpKS50aGVuUmV0dXJuKHMzT2JqZWN0SW5wdXRTdHJlYW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
