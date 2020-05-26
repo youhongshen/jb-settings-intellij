@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ruleRep</entry>
-        <entry>priorityGroupRe</entry>
-        <entry>CreateRule</entry>
-        <entry>validateIoLin</entry>
-        <entry>validateIoLine</entry>
         <entry>validateLineItem</entry>
         <entry>shouldCheckBudget</entry>
         <entry>IOLINE_UPD</entry>
@@ -27,6 +22,11 @@
         <entry>permission</entry>
         <entry>strt</entry>
         <entry>start</entry>
+        <entry>bulk</entry>
+        <entry>batchUp</entry>
+        <entry>batchU</entry>
+        <entry>update</entry>
+        <entry>updateLine</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
@@ -95,13 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1590510756913">
-        <mark key="'" line="735" column="53" />
-        <mark key="[" line="991" column="82" />
-        <mark key="]" line="980" column="74" />
-        <mark key="." line="980" column="73" />
-        <mark key="^" line="980" column="74" />
-      </file>
       <file name="/fragment.js" timestamp="1590508025945">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,11 +112,21 @@
         <mark key="." line="424" column="37" />
         <mark key="^" line="424" column="38" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" timestamp="1590512388686">
+        <mark key="'" line="212" column="68" />
+        <mark key="[" line="214" column="34" />
+        <mark key="]" line="213" column="84" />
+        <mark key="^" line="213" column="84" />
+        <mark key="." line="213" column="83" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1590502151821">
         <mark key="'" line="1071" column="54" />
         <mark key="[" line="598" column="0" />
         <mark key="]" line="598" column="0" />
         <mark key="." line="598" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/IOLineResourceImpl.java" timestamp="1590512308616">
+        <mark key="'" line="124" column="34" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/requests/RuleSetExecutionRequest.java" timestamp="1590277671335" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/converter/workflows/approvalworkflows/RuleSetExecutionToInternalRuleSetExecutionConverterTest.java" timestamp="1590276912406">
@@ -132,22 +135,10 @@
         <mark key="." line="92" column="56" />
         <mark key="^" line="92" column="57" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalRuleClauseMapping.java" timestamp="1590275694707">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="12" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/PermissionOrchestrator.java" timestamp="1590509361009">
         <mark key="[" line="344" column="0" />
         <mark key="]" line="344" column="0" />
         <mark key="." line="344" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/converter/workflows/approvalworkflows/RuleClauseConverterTest.java" timestamp="1590276418402">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="35" column="79" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/converter/workflows/approvalworkflows/CommentToInternalCommentConverterTest.java" timestamp="1590277007054">
         <mark key="[" line="47" column="53" />
@@ -158,12 +149,6 @@
       <file name="/JavaScript Console" timestamp="1590507893823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalRuleSetExecutionFlattened.java" timestamp="1590276515721">
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="45" column="8" />
-        <mark key="^" line="45" column="8" />
-        <mark key="." line="45" column="7" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590506775194">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,6 +158,13 @@
         <mark key="]" line="394" column="73" />
         <mark key="." line="394" column="0" />
         <mark key="^" line="239" column="60" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" timestamp="1590512429290">
+        <mark key="'" line="347" column="0" />
+        <mark key="[" line="212" column="53" />
+        <mark key="]" line="212" column="53" />
+        <mark key="." line="212" column="53" />
+        <mark key="^" line="212" column="59" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/lineItem/containers/LineItemReducer.test.js" timestamp="1590508570975">
         <mark key="[" line="1215" column="81" />
@@ -201,12 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" />
-      <jump line="116" column="103" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" />
-      <jump line="22" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
-      <jump line="34" column="69" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
-      <jump line="54" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
-      <jump line="85" column="79" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
       <jump line="201" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
       <jump line="25" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
       <jump line="204" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" />
@@ -301,6 +287,12 @@
       <jump line="398" column="52" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="692" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="735" column="53" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/IOLineResourceImpl.java" />
+      <jump line="124" column="34" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/IOLineResourceImpl.java" />
+      <jump line="212" column="68" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
+      <jump line="215" column="59" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
+      <jump line="304" column="4" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
+      <jump line="347" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +304,7 @@
         <text>250</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>updateLine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhydWxlU2V0RXhlY3V0aW9uLmdldFRyaWdnZXJlZFJ1bGVzKCkuZ2V0KDApLmdldENsYXVzZUlkcygpLmdldCgwKSwgQ0xBVVNFX0lEMSk7Cg==</text>
@@ -351,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>start</last-search>
+      <last-search>updateLine</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>updateLine</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
