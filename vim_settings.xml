@@ -118,19 +118,19 @@
         <mark key="^" line="957" column="149" />
         <mark key="." line="957" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" timestamp="1590680082914">
-        <mark key="'" line="279" column="13" />
-        <mark key="[" line="280" column="105" />
-        <mark key="]" line="280" column="136" />
-        <mark key="." line="280" column="135" />
-        <mark key="^" line="280" column="136" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" timestamp="1590680965045">
+        <mark key="'" line="280" column="12" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
+        <mark key="^" line="280" column="118" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/RepositoryModuleOverride.java" timestamp="1590599233926">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" timestamp="1590615367545">
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" timestamp="1590680955786">
         <mark key="'" line="646" column="113" />
         <mark key="[" line="434" column="103" />
         <mark key="]" line="646" column="114" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
       <jump line="288" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
       <jump line="213" column="43" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
       <jump line="316" column="4" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
@@ -283,6 +282,7 @@
       <jump line="289" column="72" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
       <jump line="437" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
       <jump line="279" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
+      <jump line="281" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1236,11 +1236,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>item1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oYnVsa09wUmVzSXRlbUxpbmVJdGVtQ29udmVydGVyLmNvbnZlcnRCYWNrKGFueShCdWxrT3BlcmF0aW9uUmVzdWx0LmNsYXNzKSkpLnRoZW5SZXR1cm4obmV3IEJ1bGtPcGVyYXRpb25SZXN1bHQ8PigpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>item1</text>
+        <text>bulkOpResItemLineItemConverter</text>
       </register>
       <register name="/" type="4">
         <text>bulkOpResItemLineItemC</text>
@@ -1249,31 +1249,31 @@
         <text encoding="base64">ICAgICAgICB3aGVuKGJ1bGtPcFJlc0l0ZW1MaW5lSXRlbUNvbnZlcnRlci5jb252ZXJ0QmFjayhlcShidWxrT3BlcmF0aW9uUmVzdWx0SXRlbSkpKS50aGVuUmV0dXJuKGl0ZW0xKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnVsa09wZXJhdGlvblJlc3VsdENvbnZlcnRlcjxMaW5lSXRlbSwgSW50ZXJuYWxMaW5lSXRlbT4gYnVsa09wZXJhdGlvblJlc3VsdENvbnZlcnRlcjsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oYnVsa09wUmVzSXRlbUxpbmVJdGVtQ29udmVydGVyLmNvbnZlcnRCYWNrKGFueShCdWxrT3BlcmF0aW9uUmVzdWx0LmNsYXNzKSkpLnRoZW5SZXR1cm4obmV3IEJ1bGtPcGVyYXRpb25SZXN1bHQ8PigpKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQnVsa09wZXJhdGlvblJlc3VsdENvbnZlcnRlcjxMaW5lSXRlbSwgSW50ZXJuYWxMaW5lSXRlbT4gYnVsa09wZXJhdGlvblJlc3VsdENvbnZlcnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQnVsa09wZXJhdGlvblJlc3VsdENvbnZlcnRlcjxMaW5lSXRlbSwgSW50ZXJuYWxMaW5lSXRlbT4gYnVsa09wZXJhdGlvblJlc3VsdENvbnZlcnRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYW55Qm9vbGVhbigpLCBhbnkoSU9MaW5lSHlkcmF0aW9uQ29uZmlnLmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZlcmlmeShpb0xpbmVPcmNoZXN0cmF0b3IsIHRpbWVzKDEpKS5iYXRjaFVwZGF0ZUlPTGluZXMoYW55TGlzdCgpLCBhbnkoUmVxdWVzdENvbnRleHQuY2xhc3MpLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYW55Qm9vbGVhbigpLCBhbnkoSU9MaW5lSHlkcmF0aW9uQ29uZmlnLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKGxpbmVJdGVtLCBhY3R1YWwpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZlcmlmeShpb0xpbmVPcmNoZXN0cmF0b3IsIHRpbWVzKDEpKS5iYXRjaFVwZGF0ZUlPTGluZXMoYW55TGlzdCgpLCBhbnkoUmVxdWVzdENvbnRleHQuY2xhc3MpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaW9MaW5lU3RhdHVzQ2hhbmdlU2V0dXAoaW50ZXJuYWxJT0xpbmUpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKGxpbmVJdGVtLCBhY3R1YWwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludGVybmFsSU9MaW5lLnNldFN0YXR1cyhJT0xpbmVTdGF0dXMuUkVTRVJWRUQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaW9MaW5lU3RhdHVzQ2hhbmdlU2V0dXAoaW50ZXJuYWxJT0xpbmUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEludGVybmFsSU9MaW5lIGludGVybmFsSU9MaW5lID0gbmV3IEludGVybmFsSU9MaW5lKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGludGVybmFsSU9MaW5lLnNldFN0YXR1cyhJT0xpbmVTdGF0dXMuUkVTRVJWRUQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>438</text>
