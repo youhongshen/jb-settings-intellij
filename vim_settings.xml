@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry>sdcRep</entry>
         <entry>ioline</entry>
         <entry>FeatureSc</entry>
         <entry>sdcRe</entry>
@@ -23,10 +21,12 @@
         <entry>collect</entry>
         <entry>internalIOLin</entry>
         <entry>updateIOLine</entry>
-        <entry>PatchIO</entry>
         <entry>permiss</entry>
         <entry>testBatchUpdate</entry>
         <entry>permis</entry>
+        <entry>DeleteIO</entry>
+        <entry>deleteIO</entry>
+        <entry>PatchIO</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
@@ -47,6 +47,7 @@
         <entry>q!</entry>
         <entry>set ic</entry>
         <entry>0</entry>
+        <entry>438</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -95,7 +96,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590618003459">
+      <file name="/Dummy.txt" timestamp="1590676977204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOOrchestratorTest.java" timestamp="1590611239579">
@@ -139,7 +140,8 @@
         <mark key="^" line="646" column="114" />
         <mark key="." line="646" column="113" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" timestamp="1590675416849">
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" timestamp="1590676821591">
+        <mark key="'" line="785" column="6" />
         <mark key="[" line="342" column="62" />
         <mark key="]" line="342" column="62" />
         <mark key="." line="342" column="62" />
@@ -156,9 +158,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" timestamp="1590675801712">
-        <mark key="[" line="437" column="66" />
-        <mark key="]" line="437" column="67" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" timestamp="1590676324557">
+        <mark key="[" line="440" column="12" />
+        <mark key="]" line="437" column="66" />
         <mark key="^" line="437" column="67" />
         <mark key="." line="437" column="66" />
       </file>
@@ -174,21 +176,15 @@
       <file name="/fragment.java" timestamp="1590675702282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" timestamp="1590676049013">
-        <mark key="'" line="382" column="35" />
-        <mark key="[" line="426" column="35" />
-        <mark key="]" line="426" column="35" />
-        <mark key="." line="426" column="35" />
-        <mark key="^" line="426" column="48" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" timestamp="1590676964523">
+        <mark key="'" line="459" column="20" />
+        <mark key="[" line="481" column="84" />
+        <mark key="]" line="481" column="96" />
+        <mark key="." line="481" column="95" />
+        <mark key="^" line="481" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="21" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
-      <jump line="302" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
-      <jump line="303" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
-      <jump line="314" column="16" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
-      <jump line="319" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
-      <jump line="878" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
       <jump line="280" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
       <jump line="281" column="74" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
       <jump line="283" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
@@ -283,6 +279,12 @@
       <jump line="435" column="43" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
       <jump line="1363" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
       <jump line="382" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
+      <jump line="436" column="67" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
+      <jump line="1112" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
+      <jump line="477" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
+      <jump line="785" column="6" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" />
+      <jump line="1138" column="75" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
+      <jump line="459" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestratorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1237,13 +1239,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CreateIoLines</text>
+        <text>createIOLine</text>
       </register>
       <register name="-" type="4">
-        <text>CreateIoLines</text>
+        <text>createIOLine</text>
       </register>
       <register name="/" type="4">
-        <text>permis</text>
+        <text>PatchIO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyh1cGRhdGVJT0xpbmVzLmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgxKS5pc1N1Y2Nlc3MoKSwgZmFsc2UpOwo=</text>
@@ -1276,15 +1278,15 @@
         <text encoding="base64">Ly8gICAgICAgIHdoZW4oaW9SZXBvc2l0b3J5LmdldElPKCJpbzEiLCBPcHRpb25hbC5lbXB0eSgpLCBmYWxzZSwgSW9IeWRyYXRpb25Db25maWcuTk9fSFlEUkFUSU9OLCByZXF1ZXN0Q29udGV4dCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>438</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>permis</last-search>
+      <last-search>PatchIO</last-search>
       <last-offset />
-      <last-pattern>permis</last-pattern>
+      <last-pattern>PatchIO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
