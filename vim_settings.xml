@@ -130,10 +130,11 @@
         <mark key="^" line="83" column="24" />
         <mark key="." line="84" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" timestamp="1591372219545">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" timestamp="1591372916262">
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="88" column="8" />
+        <mark key="." line="88" column="7" />
+        <mark key="^" line="88" column="8" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" timestamp="1591367037411" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/elasticsearch/RuleSetExecutionElasticSearchDaoTest.java" timestamp="1591228370202">
@@ -1232,11 +1233,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpb0xpbmUuc2V0UHJpCg==</text>
+      <register name="&quot;" type="4">
+        <text>contains</text>
       </register>
       <register name="-" type="4">
-        <text>abc</text>
+        <text>contains</text>
       </register>
       <register name="/" type="4">
         <text>pricing</text>
@@ -1245,12 +1246,24 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKCJhYmMiLmNvbnRhaW5zKCIiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpb0xpbmUuc2V0UHJpCg==</text>
+        <text encoding="base64">ICAgICAgICBpby5zZXRUb3RhbEJ1ZGdldChuZXcgQmlnRGVjaW1hbCgxKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJhYmMiOwo=</text>
+        <text encoding="base64">ICAgICAgICBJTyBpbyA9IG5ldyBJTygpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5JT0xpbmU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5JTzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpb0xpbmUuc2V0UHJpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJhYmMiOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text>{
   &quot;data&quot;: [
     {
@@ -2365,7 +2378,7 @@
   &quot;hasMoreData&quot;: true
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text>{
   &quot;data&quot;: [
     {
@@ -2787,20 +2800,8 @@
   &quot;hasMoreData&quot;: false
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnaXNDYXJkQ29sbGFwc2VkJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIElmIHRoZSBtb2RlbCBhdHRyaWJ1dGUgaXMgbm90IHByZXNlbnQsIGl0IHdpbGwgZG8gbm90aGluZy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgZnVuY3Rpb24gaXMgdXNlZCBmb3Igc2VhcmNoZXMgdGhhdCBuZWVkcyBhIHBhaW5sZXNzIHNjcmlwdC4gIEl0IGxvb2tzIGZvciBhIHNwZWNpZmljIG1vZGVsIGF0dHJpYnV0ZSB0byBhcHBseSB0aGUgcGFpbmxlc3Mgc2NyaXB0IHRvLgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAnaXNDYXJkQ29sbGFwc2VkJwo=</text>
       </register>
       <register name=":" type="4">
         <text>1199</text>
