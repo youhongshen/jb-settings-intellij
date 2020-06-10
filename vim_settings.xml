@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>adminRep</entry>
         <entry>instance</entry>
         <entry>initIo</entry>
         <entry>initSFData</entry>
@@ -27,6 +26,7 @@
         <entry>scanDdb</entry>
         <entry>awf</entry>
         <entry>updateIO</entry>
+        <entry>targeting</entry>
       </history-search>
       <history-cmd>
         <entry>398</entry>
@@ -143,7 +143,6 @@
         <mark key="]" line="201" column="53" />
         <mark key="." line="201" column="53" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/common/errorHandling/ErrorHandling.jsx" timestamp="1591717028673" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/Converters.js" timestamp="1591726937418" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineActionTypes.js" timestamp="1591825423691" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetExecutionRepository.java" timestamp="1591806338590">
@@ -151,6 +150,9 @@
         <mark key="[" line="230" column="5" />
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1591827307265">
+        <mark key="'" line="118" column="20" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1591820114824">
         <mark key="'" line="227" column="35" />
@@ -188,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="56" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/AdminOrchestratorTest.java" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="135" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="137" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
@@ -288,6 +289,7 @@
       <jump line="236" column="53" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="227" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="248" column="86" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="118" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1248,7 +1250,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>updateIO</text>
+        <text>targeting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrCg==</text>
@@ -1287,9 +1289,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>updateIO</last-search>
+      <last-search>targeting</last-search>
       <last-offset />
-      <last-pattern>updateIO</last-pattern>
+      <last-pattern>targeting</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
