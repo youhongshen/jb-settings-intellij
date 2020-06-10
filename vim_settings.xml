@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>refreshEsInd</entry>
         <entry>RefreshEsIndex</entry>
         <entry>adminRepp</entry>
         <entry>adminRep</entry>
@@ -27,6 +26,7 @@
         <entry>validateIo</entry>
         <entry>validate</entry>
         <entry>IOLINE_UP</entry>
+        <entry>awf</entry>
       </history-search>
       <history-cmd>
         <entry>398</entry>
@@ -154,8 +154,8 @@
         <mark key="]" line="231" column="0" />
         <mark key="." line="231" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1591728501216">
-        <mark key="'" line="122" column="58" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1591802679471">
+        <mark key="'" line="227" column="35" />
         <mark key="[" line="123" column="65" />
         <mark key="]" line="125" column="11" />
         <mark key="^" line="125" column="11" />
@@ -192,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="81" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
-      <jump line="103" column="28" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" />
       <jump line="123" column="131" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" />
       <jump line="233" column="65" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="532" column="40" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
@@ -292,6 +290,8 @@
       <jump line="549" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="688" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="422" column="64" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="131" column="60" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="227" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1252,7 +1252,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>IOLINE_UP</text>
+        <text>awf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrCg==</text>
@@ -1291,9 +1291,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>IOLINE_UP</last-search>
+      <last-search>awf</last-search>
       <last-offset />
-      <last-pattern>IOLINE_UP</last-pattern>
+      <last-pattern>awf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
