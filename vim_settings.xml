@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>budget</entry>
-        <entry>FromContr</entry>
-        <entry>disc</entry>
-        <entry>Hidden</entry>
         <entry>UPDATE_F</entry>
         <entry>IOLINE_UP</entry>
         <entry>PRICING</entry>
@@ -27,6 +23,10 @@
         <entry>====</entry>
         <entry>validateIo</entry>
         <entry>hasCu</entry>
+        <entry>initIoLine</entry>
+        <entry>costMe</entry>
+        <entry>util</entry>
+        <entry>canUpdateCo</entry>
       </history-search>
       <history-cmd>
         <entry>set noi</entry>
@@ -131,8 +131,8 @@
         <mark key="." line="591" column="33" />
         <mark key="^" line="591" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592327574981">
-        <mark key="'" line="610" column="47" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592338562348">
+        <mark key="'" line="231" column="26" />
         <mark key="[" line="230" column="26" />
         <mark key="]" line="230" column="26" />
         <mark key="^" line="850" column="56" />
@@ -160,12 +160,12 @@
         <mark key="." line="979" column="121" />
         <mark key="^" line="979" column="122" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" timestamp="1592327423849">
-        <mark key="'" line="247" column="12" />
-        <mark key="[" line="643" column="25" />
-        <mark key="]" line="643" column="28" />
-        <mark key="^" line="643" column="28" />
-        <mark key="." line="643" column="27" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" timestamp="1592339344834">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="48" column="119" />
+        <mark key="]" line="48" column="124" />
+        <mark key="." line="48" column="123" />
+        <mark key="^" line="48" column="124" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/utils/constants/Constants.js" timestamp="1592249081964" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1592262947175">
@@ -175,12 +175,12 @@
         <mark key="." line="100" column="12" />
         <mark key="^" line="128" column="19" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1592317094926">
-        <mark key="'" line="71" column="26" />
-        <mark key="[" line="457" column="76" />
-        <mark key="]" line="457" column="76" />
-        <mark key="." line="457" column="76" />
-        <mark key="^" line="457" column="77" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1592340020289">
+        <mark key="'" line="521" column="30" />
+        <mark key="[" line="608" column="32" />
+        <mark key="]" line="608" column="32" />
+        <mark key="." line="608" column="32" />
+        <mark key="^" line="607" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1592325662182">
         <mark key="[" line="0" column="0" />
@@ -202,10 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="223" column="93" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="224" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="225" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="226" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="227" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="228" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
@@ -302,6 +298,10 @@
       <jump line="610" column="47" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="40" column="86" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
       <jump line="27" column="61" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOReducer.js" />
+      <jump line="231" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="396" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="42" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" />
+      <jump line="521" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1255,44 +1255,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVSUk9SX0JVREdFVF9FUlJPUiA9ICdTYWxlc2ZvcmNlIGhhcyBtYXggbGltaXRzIG9mIDEyLjIgZGlnaXRzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>!costMethod;</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>!costMethod;</text>
       </register>
       <register name="/" type="4">
-        <text>hasCu</text>
+        <text>canUpdateCo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gaW9MaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoaXNDb3N0TWV0aG9kVmFsaWQoe29tc1Byb2R1Y3RUeXBlOiAnQ0xBU1NfSScsIGRlZmF1bHROYW1lOiAnY2xhc3MxJywgY29zdE1ldGhvZDogJ0NQTSd9KSkudG9FcXVhbCh0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVSUk9SX0JVREdFVF9FUlJPUiA9ICdTYWxlc2ZvcmNlIGhhcyBtYXggbGltaXRzIG9mIDEyLjIgZGlnaXRzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiY2NkZmJlLi4uIGNoYW5nZXMgdG8gYWRkIG9yZGVycyBwYWdlIHdoZXJlIGFwcGxpZWQgcmF0ZSB3b3VsZCBzdGF5IHRoZSBzYW1lIGlmIHByaWNpbmcgcmV0dXJucyBhIGRpZmYgcmF0ZSwgaHR0cHM6Ly9zaW0uYW1hem9uLmNvbS9pc3N1ZXMvVjIxMzQ3ODAzMiBodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9WMjA3MjQ3OTI4IGh0dHBzOi8vc2ltLmFtYXpvbi5jb20vaXNzdWVzL1YyMTM3NDI3MDEK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhblVwZGF0ZUNvc3RNZXRob2QgPSAhY29zdE1ldGhvZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaW9MaW5lID0geycnfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkaXNjb3VudHM6IGRpc2NvdW50UGVyY2VudGFnZSwK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhcHBsaWVkUmF0ZSwK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVSUk9SX0JVREdFVF9FUlJPUiA9ICdTYWxlc2ZvcmNlIGhhcyBtYXggbGltaXRzIG9mIDEyLjIgZGlnaXRzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBiY2NkZmJlLi4uIGNoYW5nZXMgdG8gYWRkIG9yZGVycyBwYWdlIHdoZXJlIGFwcGxpZWQgcmF0ZSB3b3VsZCBzdGF5IHRoZSBzYW1lIGlmIHByaWNpbmcgcmV0dXJucyBhIGRpZmYgcmF0ZSwgaHR0cHM6Ly9zaW0uYW1hem9uLmNvbS9pc3N1ZXMvVjIxMzQ3ODAzMiBodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9WMjA3MjQ3OTI4IGh0dHBzOi8vc2ltLmFtYXpvbi5jb20vaXNzdWVzL1YyMTM3NDI3MDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1301,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hasCu</last-search>
+      <last-search>canUpdateCo</last-search>
       <last-offset />
-      <last-pattern>hasCu</last-pattern>
+      <last-pattern>canUpdateCo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
