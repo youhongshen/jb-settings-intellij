@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>UPDATE_F</entry>
         <entry>IOLINE_UP</entry>
         <entry>PRICING</entry>
         <entry>quotePr</entry>
@@ -27,6 +26,7 @@
         <entry>costMe</entry>
         <entry>util</entry>
         <entry>canUpdateCo</entry>
+        <entry>Hidden</entry>
       </history-search>
       <history-cmd>
         <entry>set noi</entry>
@@ -101,7 +101,7 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/SelectionValues.js" timestamp="1592248812767" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1592323463399">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1592342499573">
         <mark key="'" line="1139" column="70" />
         <mark key="[" line="1142" column="62" />
         <mark key="]" line="1139" column="71" />
@@ -131,12 +131,12 @@
         <mark key="." line="591" column="33" />
         <mark key="^" line="591" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592341005706">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592341840024">
         <mark key="'" line="231" column="26" />
-        <mark key="[" line="230" column="26" />
-        <mark key="]" line="230" column="26" />
-        <mark key="^" line="850" column="56" />
-        <mark key="." line="230" column="26" />
+        <mark key="[" line="525" column="8" />
+        <mark key="]" line="525" column="8" />
+        <mark key="^" line="525" column="15" />
+        <mark key="." line="525" column="8" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1592328024228">
         <mark key="'" line="40" column="86" />
@@ -192,8 +192,8 @@
         <mark key="." line="154" column="8" />
         <mark key="^" line="151" column="12" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592317361493">
-        <mark key="'" line="0" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592342762553">
+        <mark key="'" line="136" column="0" />
         <mark key="[" line="418" column="0" />
         <mark key="m" line="116" column="20" />
         <mark key="]" line="418" column="0" />
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="227" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="228" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="229" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
@@ -302,6 +301,7 @@
       <jump line="396" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="42" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" />
       <jump line="521" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="136" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1256,43 +1256,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>!costMethod;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>!costMethod;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>canUpdateCo</text>
+        <text>Hidden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoaXNDb3N0TWV0aG9kVmFsaWQoe29tc1Byb2R1Y3RUeXBlOiAnQ0xBU1NfSScsIGRlZmF1bHROYW1lOiAnY2xhc3MxJywgY29zdE1ldGhvZDogJ0NQTSd9KSkudG9FcXVhbCh0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNhblVwZGF0ZUNvc3RNZXRob2QgPSAhY29zdE1ldGhvZDsK</text>
+        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgZGlzY291bnRzOiBuL2EK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgaW1wcmVzc2lvbnM6IG4vYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW9MaW5lID0geycnfQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgYXBwbGllZFJhdGU6IG5vIGNoYW5nZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBvZmZsaW5lICAgICAgYnVkZ2V0KHJhdGUpOiBubyBjaGFuZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVSUk9SX0JVREdFVF9FUlJPUiA9ICdTYWxlc2ZvcmNlIGhhcyBtYXggbGltaXRzIG9mIDEyLjIgZGlnaXRzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiY2NkZmJlLi4uIGNoYW5nZXMgdG8gYWRkIG9yZGVycyBwYWdlIHdoZXJlIGFwcGxpZWQgcmF0ZSB3b3VsZCBzdGF5IHRoZSBzYW1lIGlmIHByaWNpbmcgcmV0dXJucyBhIGRpZmYgcmF0ZSwgaHR0cHM6Ly9zaW0uYW1hem9uLmNvbS9pc3N1ZXMvVjIxMzQ3ODAzMiBodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9WMjA3MjQ3OTI4IGh0dHBzOi8vc2ltLmFtYXpvbi5jb20vaXNzdWVzL1YyMTM3NDI3MDEK</text>
+        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgZGlzY291bnRzOiBuL2EK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgaW1wcmVzc2lvbnM6IG4vYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgYXBwbGllZFJhdGU6IG5vIGNoYW5nZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1301,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>canUpdateCo</last-search>
+      <last-search>Hidden</last-search>
       <last-offset />
-      <last-pattern>canUpdateCo</last-pattern>
+      <last-pattern>Hidden</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
