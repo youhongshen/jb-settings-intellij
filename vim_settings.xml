@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>appliedRat</entry>
         <entry>isBudgetV</entry>
         <entry>===</entry>
         <entry>====</entry>
@@ -27,6 +26,7 @@
         <entry>ADD_PR</entry>
         <entry>isCost</entry>
         <entry>getCostM</entry>
+        <entry>calculateIm</entry>
       </history-search>
       <history-cmd>
         <entry>set noi</entry>
@@ -131,12 +131,12 @@
         <mark key="." line="591" column="33" />
         <mark key="^" line="591" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592403391715">
-        <mark key="'" line="328" column="12" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592410517556">
+        <mark key="'" line="311" column="39" />
         <mark key="[" line="326" column="31" />
-        <mark key="]" line="326" column="31" />
-        <mark key="^" line="327" column="55" />
-        <mark key="." line="326" column="31" />
+        <mark key="]" line="311" column="40" />
+        <mark key="^" line="311" column="40" />
+        <mark key="." line="311" column="39" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1592403009927">
         <mark key="'" line="48" column="71" />
@@ -192,7 +192,7 @@
         <mark key="." line="154" column="8" />
         <mark key="^" line="151" column="12" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592403083566">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592409837364">
         <mark key="'" line="163" column="31" />
         <mark key="[" line="200" column="96" />
         <mark key="m" line="116" column="20" />
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="595" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="17" column="1" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="228" column="18" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="230" column="54" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
@@ -302,6 +301,7 @@
       <jump line="242" column="54" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="328" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="163" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="311" column="39" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1262,7 +1262,7 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>getCostM</text>
+        <text>calculateIm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoaXNDb3N0TWV0aG9kVmFsaWQoe2RlZmF1bHROYW1lOiAnc292JywgY29zdE1ldGhvZDogJ1NPVl9GTEFUX1JBVEUnfSkpLnRvRXF1YWwodHJ1ZSk7Cg==</text>
@@ -1301,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getCostM</last-search>
+      <last-search>calculateIm</last-search>
       <last-offset />
-      <last-pattern>getCostM</last-pattern>
+      <last-pattern>calculateIm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
