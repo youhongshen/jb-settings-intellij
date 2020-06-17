@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>====</entry>
-        <entry>validateIo</entry>
-        <entry>hasCu</entry>
         <entry>util</entry>
         <entry>canUpdateCo</entry>
         <entry>Hidden</entry>
@@ -27,6 +24,9 @@
         <entry>calculateBud</entry>
         <entry>isField</entry>
         <entry>buff</entry>
+        <entry>shouldDis</entry>
+        <entry>buffer</entry>
+        <entry>requestedBudget</entry>
       </history-search>
       <history-cmd>
         <entry>set noi</entry>
@@ -192,28 +192,16 @@
         <mark key="." line="154" column="8" />
         <mark key="^" line="151" column="12" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592409837364">
-        <mark key="'" line="163" column="31" />
-        <mark key="[" line="200" column="96" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592427676863">
+        <mark key="'" line="290" column="12" />
+        <mark key="[" line="298" column="51" />
         <mark key="m" line="116" column="20" />
-        <mark key="]" line="200" column="119" />
-        <mark key="^" line="200" column="118" />
-        <mark key="." line="200" column="119" />
+        <mark key="]" line="298" column="56" />
+        <mark key="^" line="298" column="56" />
+        <mark key="." line="298" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="64" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="272" column="29" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="279" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="281" column="69" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="282" column="50" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="283" column="45" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="284" column="109" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="285" column="115" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="293" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="294" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="295" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="296" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="327" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="330" column="65" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="29" column="49" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
@@ -302,6 +290,18 @@
       <jump line="599" column="21" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="30" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="38" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="297" column="111" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="203" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="248" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="249" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="251" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="555" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="635" column="132" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="33" column="96" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="37" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="268" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="256" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="290" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1255,44 +1255,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWUg</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>buff</text>
+        <text>requestedBudget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoaXNDb3N0TWV0aG9kVmFsaWQoe2RlZmF1bHROYW1lOiAnc292JywgY29zdE1ldGhvZDogJ1NPVl9GTEFUX1JBVEUnfSkpLnRvRXF1YWwodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0aW5nQW5kT3B0aW1pemF0aW9uU2VjdGlvbjogeyBvZmZsaW5lT25seTogZmFsc2UsIHNvdk9ubHk6IHRydWUsIGJvdGg6IGZhbHNlLCBuZWl0aGVyOiB0cnVlLCB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gVGhlIHdheSB0byBkaXN0aW5ndWlzaCB3aGV0aGVyIGFwcGxpZWQgcmF0ZS9idWRnZXQgaGFzIGJlZW4gdXBkYXRlZCBpcyB0byBzZWUgaWYgaXQncyBOYU4uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gZGlzY291bnQsIGFwcGxpZWRSYXRlLCBhbmQgc3VnZ2VzdGVkUmF0ZSBhcmUgYWx3YXlzIGluIHN5bmMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gQnV0IGlmIHByaWNpbmcgaGFzIHN1Y2NlZWRlZCBiZWZvcmUgb3IgdGhlIHJhdGUvYnVkZ2V0IGhhcyBiZWVuIHVwZGF0ZWQsIHRoZW4gd2Ugd2FudCB0byB1cGRhdGUgZGlzY291bnQgaW5zdGVhZCAoYmVjYXVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgLy8gVGhlIHdheSB0byBkaXN0aW5ndWlzaCB3aGV0aGVyIGFwcGxpZWQgcmF0ZS9idWRnZXQgaGFzIGJlZW4gdXBkYXRlZCBpcyB0byBzZWUgaWYgaXQncyBOYU4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gd2Ugd2FudCB0byB1cGRhdGUgYXBwbGllZCByYXRlIChmb3Igbm90IGZsYXQgcmF0ZSkgYW5kIGJ1ZGdldCAoZm9yIGZsYXQgcmF0ZSkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgLy8gZGlzY291bnQsIGFwcGxpZWRSYXRlLCBhbmQgc3VnZ2VzdGVkUmF0ZSBhcmUgYWx3YXlzIGluIHN5bmMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gSWYgcHJpY2luZyBjYWxsIG5ldmVyIHN1Y2NlZWRlZCBiZWZvcmUgKGUuZy4gZmFpbGVkIHdoZW4gd2UgYWRkZWQgdGhlIHByb2R1Y3QpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgLy8gQnV0IGlmIHByaWNpbmcgaGFzIHN1Y2NlZWRlZCBiZWZvcmUgb3IgdGhlIHJhdGUvYnVkZ2V0IGhhcyBiZWVuIHVwZGF0ZWQsIHRoZW4gd2Ugd2FudCB0byB1cGRhdGUgZGlzY291bnQgaW5zdGVhZCAoYmVjYXVzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gSW4gZ2VuZXJhbCwgd2UgZG9uJ3Qgd2FudCB0byB1cGRhdGUgYSBmaWVsZCB0aGF0IGlzIGVkaXRlZCBieSB0aGUgdXNlci4K</text>
+        <text encoding="base64">ICAgICAgICAgLy8gd2Ugd2FudCB0byB1cGRhdGUgYXBwbGllZCByYXRlIChmb3Igbm90IGZsYXQgcmF0ZSkgYW5kIGJ1ZGdldCAoZm9yIGZsYXQgcmF0ZSkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgICAgICAgICAgLy8gU2luY2Ugd2UgYWxyZWFkeSBjYWxsZWQgcHJpY2luZyBkdXJpbmcgJ2FkZCBwcm9kdWN0JywgdGhpcyBpcyBub3QgdGhlIGZpcnN0IHRpbWUgd2UgY2FsbCBwcmljaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICAgLy8gSWYgcHJpY2luZyBjYWxsIG5ldmVyIHN1Y2NlZWRlZCBiZWZvcmUgKGUuZy4gZmFpbGVkIHdoZW4gd2UgYWRkZWQgdGhlIHByb2R1Y3QpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgLy8gSW4gZ2VuZXJhbCwgd2UgZG9uJ3Qgd2FudCB0byB1cGRhdGUgYSBmaWVsZCB0aGF0IGlzIGVkaXRlZCBieSB0aGUgdXNlci4K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1301,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>buff</last-search>
+      <last-search>requestedBudget</last-search>
       <last-offset />
-      <last-pattern>buff</last-pattern>
+      <last-pattern>requestedBudget</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
