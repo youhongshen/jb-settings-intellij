@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>calculateBudget</entry>
-        <entry>initIoLine</entry>
-        <entry>costMetho</entry>
         <entry>validateIoLine</entry>
         <entry>costMe</entry>
         <entry>COST_ME</entry>
@@ -19,7 +16,6 @@
         <entry>calculateIm</entry>
         <entry>calculateBud</entry>
         <entry>isField</entry>
-        <entry>buff</entry>
         <entry>shouldDis</entry>
         <entry>buffer</entry>
         <entry>requestedBudget</entry>
@@ -27,6 +23,10 @@
         <entry>Hidden</entry>
         <entry>FromStore</entry>
         <entry>min</entry>
+        <entry>initIoLine</entry>
+        <entry>target</entry>
+        <entry>FromSto</entry>
+        <entry>buff</entry>
       </history-search>
       <history-cmd>
         <entry>set noi</entry>
@@ -132,8 +132,8 @@
         <mark key="^" line="546" column="19" />
         <mark key="." line="546" column="18" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1592489814516">
-        <mark key="'" line="133" column="28" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1592493817644">
+        <mark key="'" line="142" column="33" />
         <mark key="[" line="450" column="95" />
         <mark key="]" line="450" column="95" />
         <mark key="." line="450" column="95" />
@@ -176,8 +176,8 @@
         <mark key="." line="100" column="12" />
         <mark key="^" line="128" column="19" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1592429219038">
-        <mark key="'" line="97" column="25" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1592493805153">
+        <mark key="'" line="560" column="53" />
         <mark key="[" line="600" column="0" />
         <mark key="]" line="600" column="0" />
         <mark key="." line="600" column="0" />
@@ -203,12 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="476" column="49" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="479" column="77" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="457" column="76" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="71" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="516" column="79" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
       <jump line="441" column="58" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="840" column="48" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="924" column="33" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -263,8 +257,6 @@
       <jump line="14" column="65" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="146" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="567" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="21" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="143" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="423" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="318" column="37" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="313" column="23" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
@@ -303,6 +295,14 @@
       <jump line="97" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="6" column="39" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="133" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
+      <jump line="600" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="21" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="143" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="515" column="29" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="412" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="562" column="63" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="560" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="142" column="33" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1263,7 +1263,7 @@
         <text>from.buffer,</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>buff</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBidWZmZXI6IGZyb20uYnVmZmVyLAo=</text>
@@ -1302,9 +1302,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>min</last-search>
+      <last-search>buff</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>buff</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
