@@ -7,15 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>testUtils.get</entry>
-        <entry>permiss</entry>
-        <entry>bulkInt</entry>
-        <entry>doNothing</entry>
-        <entry>FromController</entry>
-        <entry>suggestedR</entry>
-        <entry>floor</entry>
-        <entry>FromStore</entry>
-        <entry>ADD_PRODU</entry>
         <entry>initIoLine</entry>
         <entry>RECEIV</entry>
         <entry>PRICING</entry>
@@ -27,6 +18,15 @@
         <entry>pricingD</entry>
         <entry>ioLine</entry>
         <entry>Rate</entry>
+        <entry>validateIoLine</entry>
+        <entry>star</entry>
+        <entry>isDatesVa</entry>
+        <entry>child</entry>
+        <entry>startEndD</entry>
+        <entry>isChil</entry>
+        <entry>isChildrenValid</entry>
+        <entry>providRule</entry>
+        <entry>provide</entry>
       </history-search>
       <history-cmd>
         <entry>set noIc</entry>
@@ -101,12 +101,12 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/RequestContext.java" timestamp="1592599676663" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1592841302178">
-        <mark key="'" line="397" column="31" />
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="427" column="28" />
-        <mark key="." line="14" column="49" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1592848004219">
+        <mark key="'" line="435" column="14" />
+        <mark key="[" line="466" column="35" />
+        <mark key="]" line="467" column="16" />
+        <mark key="^" line="467" column="16" />
+        <mark key="." line="467" column="15" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/model/ReferenceDataResponse.java" timestamp="1592598249875">
         <mark key="[" line="23" column="0" />
@@ -122,8 +122,8 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ReferenceDataRestController.java" timestamp="1592598163385">
         <mark key="'" line="82" column="32" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1592605047337">
-        <mark key="'" line="1244" column="62" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1592850040205">
+        <mark key="'" line="50" column="78" />
         <mark key="[" line="1242" column="0" />
         <mark key="]" line="1242" column="0" />
         <mark key="^" line="1244" column="78" />
@@ -142,12 +142,12 @@
         <mark key="." line="121" column="37" />
         <mark key="^" line="121" column="38" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592844291142">
-        <mark key="'" line="594" column="18" />
-        <mark key="[" line="688" column="0" />
-        <mark key="]" line="688" column="48" />
-        <mark key="^" line="659" column="40" />
-        <mark key="." line="688" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592848106415">
+        <mark key="'" line="1255" column="20" />
+        <mark key="[" line="1273" column="98" />
+        <mark key="]" line="334" column="26" />
+        <mark key="^" line="334" column="26" />
+        <mark key="." line="334" column="25" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1592836189525">
         <mark key="'" line="372" column="8" />
@@ -210,22 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="91" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="687" column="45" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="722" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="725" column="40" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="719" column="71" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="858" column="57" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1252" column="51" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="267" column="69" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="269" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="747" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="821" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="835" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="341" column="4" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="99" column="83" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/PermissionOrchestrator.java" />
-      <jump line="422" column="32" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="427" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="433" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="770" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="825" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
@@ -310,6 +294,22 @@
       <jump line="567" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" />
       <jump line="322" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" />
       <jump line="347" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/Converters.test.js" />
+      <jump line="688" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="729" column="40" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="256" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="260" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="334" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="1230" column="55" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="402" column="67" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="431" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="432" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="434" column="64" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="435" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1214" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="1218" column="97" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="1255" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="1269" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
+      <jump line="50" column="78" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1263,44 +1263,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2luZ0RhdGU6IDAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Rate</text>
+        <text>provide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnByaWNpbmdEYXRlKS50b0JlR3JlYXRlclRoYW5PckVxdWFsKG5vdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRFbmREYXRlVmFsaWQ6IGlzRGF0ZXNWYWxpZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2luZ0RhdGU6IDAsCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGlzRGF0ZXNWYWxpZCA9IGlvTGluZS5zdGFydERhdGUgPCBpb0xpbmUuZW5kRGF0ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmNhblVwZGF0ZUNvc3RNZXRob2QpLnRvRXF1YWwoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2luZ0RhdGU6IDAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmNvc3RNZXRob2QpLnRvRXF1YWwoJ0ZMQVRfUkFURScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmNhblVwZGF0ZUNvc3RNZXRob2QpLnRvRXF1YWwoZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmZsb29yUmF0ZSkudG9FcXVhbChOYU4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmNvc3RNZXRob2QpLnRvRXF1YWwoJ0ZMQVRfUkFURScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmFwcGxpZWRSYXRlKS50b0VxdWFsKE5hTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmZsb29yUmF0ZSkudG9FcXVhbChOYU4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnN1Z2dlc3RlZFJhdGUpLnRvRXF1YWwoTmFOKTsK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmFwcGxpZWRSYXRlKS50b0VxdWFsKE5hTik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmJ1ZGdldCkudG9FcXVhbChOYU4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnN1Z2dlc3RlZFJhdGUpLnRvRXF1YWwoTmFOKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnByb2R1Y3RUeXBlKS50b0VxdWFsKCkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmJ1ZGdldCkudG9FcXVhbChOYU4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnByb2R1Y3RUeXBlKS50b0VxdWFsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1309,9 +1309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Rate</last-search>
+      <last-search>provide</last-search>
       <last-offset />
-      <last-pattern>Rate</last-pattern>
+      <last-pattern>provide</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
