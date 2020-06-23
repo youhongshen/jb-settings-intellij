@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>isChil</entry>
         <entry>isChildrenValid</entry>
         <entry>providRule</entry>
         <entry>provide</entry>
@@ -27,6 +26,7 @@
         <entry>getPric</entry>
         <entry>Price</entry>
         <entry>PRICING</entry>
+        <entry>addProdu</entry>
       </history-search>
       <history-cmd>
         <entry>-</entry>
@@ -190,19 +190,18 @@
         <mark key="." line="496" column="44" />
         <mark key="^" line="485" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592834951020">
+      <file name="/Dummy.txt" timestamp="1592929724140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1592928762459">
-        <mark key="'" line="151" column="62" />
-        <mark key="[" line="482" column="20" />
-        <mark key="]" line="482" column="20" />
-        <mark key="." line="482" column="20" />
-        <mark key="^" line="482" column="30" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1592929696801">
+        <mark key="'" line="362" column="0" />
+        <mark key="[" line="174" column="29" />
+        <mark key="]" line="174" column="29" />
+        <mark key="." line="174" column="29" />
+        <mark key="^" line="175" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="41" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="1208" column="84" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="309" column="26" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="432" column="70" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
@@ -302,6 +301,7 @@
       <jump line="756" column="35" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="119" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="151" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="361" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1255,17 +1255,17 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gPDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>293.5,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>293.5,</text>
       </register>
       <register name="/" type="4">
-        <text>PRICING</text>
+        <text>addProdu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRFbmREYXRlVmFsaWQ6IGlzRGF0ZXNWYWxpZCwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBwcmljZSA9IHBhcnNlSW50KHNlY29uZCkgJSAxMCA+PSA1ID8gMTAwIDogNTA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gPDw8PDw8PCBIRUFECg==</text>
@@ -1301,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>PRICING</last-search>
+      <last-search>addProdu</last-search>
       <last-offset />
-      <last-pattern>PRICING</last-pattern>
+      <last-pattern>addProdu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
