@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>isChildrenValid</entry>
-        <entry>providRule</entry>
-        <entry>provide</entry>
         <entry>====</entry>
         <entry>validateIoLine</entry>
         <entry>UPDATE_PROD</entry>
@@ -27,6 +24,9 @@
         <entry>Price</entry>
         <entry>PRICING</entry>
         <entry>addProdu</entry>
+        <entry>Floor</entry>
+        <entry>FLOR</entry>
+        <entry>FLOOR</entry>
       </history-search>
       <history-cmd>
         <entry>-</entry>
@@ -41,7 +41,6 @@
         <entry>1086</entry>
         <entry>1,$d</entry>
         <entry>1199</entry>
-        <entry>set noic</entry>
         <entry>671</entry>
         <entry>set ic</entry>
         <entry>1097</entry>
@@ -49,6 +48,7 @@
         <entry>$</entry>
         <entry>0</entry>
         <entry>692</entry>
+        <entry>set noic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,11 +142,12 @@
         <mark key="." line="121" column="37" />
         <mark key="^" line="121" column="38" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592924847145">
-        <mark key="'" line="756" column="35" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592929999884">
+        <mark key="'" line="1271" column="44" />
+        <mark key="[" line="1275" column="28" />
+        <mark key="]" line="1275" column="73" />
+        <mark key="." line="1275" column="72" />
+        <mark key="^" line="1275" column="73" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1592836189525">
         <mark key="'" line="372" column="8" />
@@ -155,8 +156,12 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="84" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1592924054952">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1592929869926">
         <mark key="'" line="305" column="68" />
+        <mark key="[" line="76" column="116" />
+        <mark key="]" line="76" column="116" />
+        <mark key="." line="76" column="116" />
+        <mark key="^" line="76" column="115" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToRegionMapping.java" timestamp="1592598223228" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/IORestController.java" timestamp="1592597752878">
@@ -202,9 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1208" column="84" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
-      <jump line="309" column="26" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
-      <jump line="432" column="70" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="444" column="26" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="1217" column="82" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestratorTest.java" />
@@ -302,6 +304,9 @@
       <jump line="119" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="151" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="361" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="537" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="604" column="43" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="1271" column="44" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1256,13 +1261,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>293.5,</text>
+        <text>FLOOR_RATE_GREATER_THAN_RATE_WARNING_MESSAGE</text>
       </register>
       <register name="-" type="4">
-        <text>293.5,</text>
+        <text>FLOOR_RATE_GREATER_THAN_RATE_WARNING_MESSAGE</text>
       </register>
       <register name="/" type="4">
-        <text>addProdu</text>
+        <text>FLOOR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zdCBwcmljZSA9IHBhcnNlSW50KHNlY29uZCkgJSAxMCA+PSA1ID8gMTAwIDogNTA7Cg==</text>
@@ -1295,15 +1300,15 @@
         <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmNhblVwZGF0ZUNvc3RNZXRob2QpLnRvRXF1YWwoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>692</text>
+        <text>set noic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>addProdu</last-search>
+      <last-search>FLOOR</last-search>
       <last-offset />
-      <last-pattern>addProdu</last-pattern>
+      <last-pattern>FLOOR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
