@@ -7,17 +7,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>formValid</entry>
-        <entry>====</entry>
-        <entry>valiateIoLine</entry>
-        <entry>ioLine.formV</entry>
-        <entry>setState</entry>
-        <entry>UPDATE_FIELD</entry>
-        <entry>Budget cannot</entry>
         <entry>request</entry>
         <entry>price</entry>
         <entry>priceProd</entry>
-        <entry>validateIoLine</entry>
         <entry>sovPortion</entry>
         <entry>sovPor</entry>
         <entry>FromCon</entry>
@@ -25,11 +17,18 @@
         <entry>sovPo</entry>
         <entry>sovP</entry>
         <entry>sov</entry>
-        <entry>initIoLine</entry>
         <entry>isSov</entry>
+        <entry>result of descr</entry>
+        <entry>SOV_FLAT_RATE_TARGETING_WARNING</entry>
+        <entry>SOV_FLAT_RATE_TARGETING_WARNING_KEY</entry>
+        <entry>validateIoLine</entry>
+        <entry>addProduct</entry>
+        <entry>ADD_PRODU</entry>
+        <entry>initForm</entry>
+        <entry>initIoLineFor</entry>
+        <entry>initIoLine</entry>
       </history-search>
       <history-cmd>
-        <entry>174</entry>
         <entry>151</entry>
         <entry>61</entry>
         <entry>166</entry>
@@ -49,6 +48,7 @@
         <entry>set noic</entry>
         <entry>413</entry>
         <entry>0</entry>
+        <entry>792</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,11 +118,10 @@
         <mark key="." line="348" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1592954389165">
-        <mark key="'" line="105" column="6" />
+        <mark key="'" line="109" column="6" />
         <mark key="[" line="46" column="49" />
         <mark key="]" line="46" column="49" />
         <mark key="." line="46" column="49" />
-        <mark key="^" line="74" column="4" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1592848004219">
         <mark key="'" line="435" column="14" />
@@ -135,32 +134,30 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1592954869759">
-        <mark key="'" line="154" column="17" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1593024002527">
+        <mark key="'" line="793" column="0" />
         <mark key="[" line="154" column="18" />
         <mark key="]" line="154" column="19" />
         <mark key="." line="154" column="18" />
-        <mark key="^" line="175" column="41" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1593013952752">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1593024124466">
         <mark key="'" line="90" column="10" />
         <mark key="[" line="154" column="15" />
         <mark key="]" line="154" column="19" />
         <mark key="." line="154" column="18" />
         <mark key="^" line="154" column="19" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/utils/FormValidationUtils.js" timestamp="1592955349710">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/utils/FormValidationUtils.js" timestamp="1593023952474">
         <mark key="[" line="48" column="12" />
         <mark key="]" line="52" column="59" />
         <mark key="." line="52" column="59" />
         <mark key="^" line="52" column="88" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1592954732780">
-        <mark key="'" line="296" column="12" />
-        <mark key="[" line="499" column="80" />
-        <mark key="]" line="499" column="80" />
-        <mark key="^" line="499" column="69" />
-        <mark key="." line="499" column="80" />
+        <mark key="[" line="516" column="80" />
+        <mark key="]" line="516" column="80" />
+        <mark key="^" line="516" column="69" />
+        <mark key="." line="516" column="80" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/containers/IOLineAction.test.js" timestamp="1592844710458">
         <mark key="'" line="95" column="22" />
@@ -181,12 +178,8 @@
       <file name="/JavaScript Console" timestamp="1592944068874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1592955237166">
-        <mark key="'" line="335" column="65" />
-        <mark key="[" line="345" column="84" />
-        <mark key="]" line="346" column="12" />
-        <mark key="." line="346" column="11" />
-        <mark key="^" line="346" column="12" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1593024144041">
+        <mark key="'" line="281" column="11" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1593014178588">
         <mark key="'" line="372" column="8" />
@@ -198,8 +191,8 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOIOLines.jsx" timestamp="1592950573527">
         <mark key="'" line="200" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1593014102300">
-        <mark key="'" line="568" column="58" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1593024095424">
+        <mark key="'" line="144" column="24" />
         <mark key="[" line="584" column="0" />
         <mark key="]" line="585" column="18" />
         <mark key="^" line="585" column="18" />
@@ -214,21 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1255" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1269" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="50" column="78" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="1261" column="39" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="15" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="34" column="1" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="88" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="25" column="51" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="26" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="304" column="68" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
-      <jump line="18" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="721" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="29" column="33" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="682" column="66" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1069" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1066" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1065" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1064" column="37" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
@@ -308,12 +286,27 @@
       <jump line="43" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
       <jump line="41" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
       <jump line="462" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="22" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="144" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="495" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="523" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="567" column="74" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="568" column="58" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="147" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="339" column="56" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="21" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="317" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="45" column="1" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="278" column="75" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="316" column="76" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="319" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="321" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="20" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="155" column="112" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="793" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="281" column="11" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="502" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="217" column="1" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="22" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="144" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1274,7 +1267,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>isSov</text>
+        <text>initIoLine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3ZQb3J0aW9uUGVyY2VudGFnZTogZnJvbS5zb3ZQb3J0aW9uLAo=</text>
@@ -1307,15 +1300,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdlBlcmNlbnRhZ2VFcnJvck1lc3NhZ2U6IEVSUk9SX0lNREJfUk9UT19TT1ZfVEFLRU9WRVJfUEVSQ0VOVEFHRV9CT1VOREFSWSwK</text>
       </register>
       <register name=":" type="4">
-        <text>413</text>
+        <text>792</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isSov</last-search>
+      <last-search>initIoLine</last-search>
       <last-offset />
-      <last-pattern>isSov</last-pattern>
+      <last-pattern>initIoLine</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
