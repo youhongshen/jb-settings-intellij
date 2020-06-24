@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>priceProd</entry>
-        <entry>sovPortion</entry>
         <entry>sovPor</entry>
         <entry>FromCon</entry>
         <entry>FromSto</entry>
@@ -27,6 +25,8 @@
         <entry>ADD_PRODU</entry>
         <entry>baseState</entry>
         <entry>bindle</entry>
+        <entry>A</entry>
+        <entry>AU</entry>
       </history-search>
       <history-cmd>
         <entry>151</entry>
@@ -178,8 +178,8 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOIOLines.jsx" timestamp="1592950573527">
         <mark key="'" line="200" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1593032368825">
-        <mark key="'" line="362" column="30" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1593033517663">
+        <mark key="'" line="405" column="5" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1593028051535">
         <mark key="'" line="144" column="24" />
@@ -197,10 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1048" column="68" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1044" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1043" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1042" column="37" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1032" column="47" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1028" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1027" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
@@ -297,6 +293,10 @@
       <jump line="369" column="34" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="370" column="34" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="362" column="30" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="343" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="345" column="7" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="352" column="41" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="405" column="5" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1257,7 +1257,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>bindle</text>
+        <text>AU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3ZQb3J0aW9uUGVyY2VudGFnZTogZnJvbS5zb3ZQb3J0aW9uLAo=</text>
@@ -1296,9 +1296,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bindle</last-search>
+      <last-search>AU</last-search>
       <last-offset />
-      <last-pattern>bindle</last-pattern>
+      <last-pattern>AU</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
