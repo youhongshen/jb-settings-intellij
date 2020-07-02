@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>CheckAcc</entry>
         <entry>provideRuleSetD</entry>
         <entry>initIoLine</entry>
         <entry>costMe</entry>
@@ -27,6 +26,7 @@
         <entry>databind</entry>
         <entry>DPXQA</entry>
         <entry>DPX</entry>
+        <entry>market</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -117,6 +117,9 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1593627666411">
         <mark key="'" line="65" column="22" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1593719701398">
+        <mark key="'" line="360" column="11" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1593532104728">
         <mark key="'" line="597" column="29" />
         <mark key="[" line="589" column="0" />
@@ -142,19 +145,9 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/Config" timestamp="1593700013605">
         <mark key="'" line="23" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToCurrencyMapping.java" timestamp="1593474578755" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/utils/id/Id.js" timestamp="1593625265625" />
     </filemarks>
     <jumps>
-      <jump line="294" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
-      <jump line="296" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
-      <jump line="153" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="154" column="17" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="712" column="107" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/containers/IOLineReducer.test.js" />
-      <jump line="293" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
-      <jump line="102" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
-      <jump line="144" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
-      <jump line="512" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="90" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
       <jump line="509" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="551" column="15" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
@@ -246,6 +239,15 @@
       <jump line="26" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
       <jump line="43" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
       <jump line="213" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="320" column="14" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="327" column="16" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="335" column="14" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="337" column="14" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="356" column="2" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="357" column="11" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="358" column="11" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="359" column="11" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="360" column="11" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1206,7 +1208,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>DPX</text>
+        <text>market</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3ZQb3J0aW9uUGVyY2VudGFnZTogZnJvbS5zb3ZQb3J0aW9uLAo=</text>
@@ -1245,9 +1247,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DPX</last-search>
+      <last-search>market</last-search>
       <last-offset />
-      <last-pattern>DPX</last-pattern>
+      <last-pattern>market</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
