@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>buff</entry>
-        <entry>initLineItem</entry>
         <entry>audienceFe</entry>
         <entry>initLineIt</entry>
         <entry>audie</entry>
@@ -27,6 +25,8 @@
         <entry>orderT</entry>
         <entry>pushToSold</entry>
         <entry>getIO</entry>
+        <entry>ioLines</entry>
+        <entry>ioLine</entry>
       </history-search>
       <history-cmd>
         <entry>438</entry>
@@ -132,7 +132,6 @@
         <mark key="." line="92" column="107" />
         <mark key="^" line="92" column="108" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ApprovalWorkflowsController.java" timestamp="1594400204929" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/Converters.js" timestamp="1594409566031">
         <mark key="'" line="179" column="39" />
         <mark key="[" line="134" column="48" />
@@ -149,6 +148,11 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="21" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" timestamp="1594668596935">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1594409496136">
         <mark key="'" line="123" column="30" />
@@ -171,6 +175,13 @@
         <mark key="^" line="45" column="80" />
         <mark key="." line="45" column="64" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1594669199586">
+        <mark key="'" line="407" column="20" />
+        <mark key="[" line="146" column="47" />
+        <mark key="]" line="146" column="47" />
+        <mark key="^" line="142" column="23" />
+        <mark key="." line="146" column="47" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/BinaryOperator.java" timestamp="1594664079748">
         <mark key="[" line="22" column="45" />
         <mark key="]" line="22" column="45" />
@@ -192,12 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="91" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="512" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="522" column="21" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="531" column="36" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="24" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="67" column="85" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/workflows/approvalworkflows/ApprovalWorkflowsResourceImpl.java" />
       <jump line="74" column="29" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/PermissionRepository.java" />
       <jump line="186" column="37" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/PermissionRepository.java" />
       <jump line="1336" column="58" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
@@ -292,6 +297,12 @@
       <jump line="32" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" />
       <jump line="1137" column="59" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/IOOrchestratorTest.java" />
       <jump line="418" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
+      <jump line="142" column="22" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="143" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="144" column="58" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="146" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="147" column="48" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="408" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1246,43 +1257,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Value</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>getIO</text>
+        <text>ioLine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE5PX09QKCJGcmVlIGZvcm0gTVZFTCBleHByZXNzaW9uIiwgIiVzIik7Cg==</text>
+        <text encoding="base64">ICAgIGF2X3RvdGFsX2J1ZGdldCA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFwcHJvdmFsU3RlcEZ1bmN0aW9uRXhjZXB0aW9uKG9tc0Vycm9yRGV0YWlsKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZXhjZXB0aW9uQ2xhc3MoZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSkuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmF3RXJyb3JNZXNzYWdlKGUuZ2V0TWVzc2FnZSgpKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZXJyb3JEYXRhU291cmNlKERhdGFTb3VyY2UuT01TKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdW0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub3BlcmF0aW9uTmFtZSgiUnVsZUNoZWNrQ29uZGl0aW9uR2VuZXJhdG9yIikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0ZXN0KCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZXJyb3JNZXNzYWdlKGVycm9yTWVzc2FnZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT21zRXJyb3JEZXRhaWwgb21zRXJyb3JEZXRhaWwgPSBPbXNFcnJvckRldGFpbC5idWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFwcHJvdmFsU3RlcEZ1bmN0aW9uRXhjZXB0aW9uKG9tc0Vycm9yRGV0YWlsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKGVycm9yTWVzc2FnZSwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZXhjZXB0aW9uQ2xhc3MoZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSkuYnVpbGQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>744</text>
@@ -1291,10 +1302,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getIO</last-search>
+      <last-search>ioLine</last-search>
       <last-offset />
-      <last-pattern>getIO</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>ioLine</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
