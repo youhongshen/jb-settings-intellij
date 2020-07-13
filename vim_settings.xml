@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>audienceFe</entry>
-        <entry>initLineIt</entry>
         <entry>audie</entry>
         <entry>targeting</entry>
         <entry>audien</entry>
@@ -27,6 +25,8 @@
         <entry>getIO</entry>
         <entry>ioLines</entry>
         <entry>ioLine</entry>
+        <entry>beta</entry>
+        <entry>omsS</entry>
       </history-search>
       <history-cmd>
         <entry>438</entry>
@@ -113,6 +113,13 @@
         <mark key="^" line="1155" column="36" />
         <mark key="." line="1158" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1594671450398">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="139" column="132" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" timestamp="1594409483545">
         <mark key="'" line="32" column="27" />
       </file>
@@ -183,13 +190,6 @@
         <mark key="]" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/approvals/component/RuleSetExecTableColumnConfig.js" timestamp="1594400615032">
-        <mark key="'" line="38" column="125" />
-        <mark key="[" line="361" column="4" />
-        <mark key="]" line="361" column="4" />
-        <mark key="^" line="361" column="55" />
-        <mark key="." line="361" column="55" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/BinaryOperator.java" timestamp="1594664053241">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="45" />
@@ -199,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="29" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/PermissionRepository.java" />
-      <jump line="186" column="37" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/PermissionRepository.java" />
       <jump line="1336" column="58" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="562" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="515" column="45" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
@@ -299,6 +297,8 @@
       <jump line="146" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="147" column="48" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="408" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="8" column="73" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
+      <jump line="30" column="0" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1253,16 +1253,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>ioLine</text>
+        <text>omsS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF2X3RvdGFsX2J1ZGdldCA9IDA7Cg==</text>
+        <text encoding="base64">dGVzdC4qLm9tc1NlcnZpY2UuZW5kcG9pbnQuaHR0cHMgPSAiaHR0cHM6Ly9kMTZnLW9tcy1zZXJ2aWNlLWlhZC1iZXRhLXRjcC5jb3JwLmFtYXpvbi5jb20iOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1298,10 +1298,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ioLine</last-search>
+      <last-search>omsS</last-search>
       <last-offset />
-      <last-pattern>ioLine</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>omsS</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
