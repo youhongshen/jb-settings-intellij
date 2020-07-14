@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>addPro</entry>
-        <entry>UPDATE_FIE</entry>
-        <entry>calculateIm</entry>
-        <entry>QUOTE_PR</entry>
-        <entry>PRICE</entry>
         <entry>PRICING_</entry>
         <entry>ruleMatchM</entry>
         <entry>orderT</entry>
@@ -27,6 +22,11 @@
         <entry>loadRuleSet</entry>
         <entry>loadRuleSetDeta</entry>
         <entry>isIncrem</entry>
+        <entry>123</entry>
+        <entry>RULE_SET_ID</entry>
+        <entry>previousRuleS</entry>
+        <entry>currentRuleSetE</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>438</entry>
@@ -118,9 +118,16 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalRuleSetExecution.java" timestamp="1594745354745">
         <mark key="'" line="50" column="29" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGeneratorTest.java" timestamp="1594757201256">
+        <mark key="'" line="45" column="40" />
+        <mark key="[" line="193" column="25" />
+        <mark key="]" line="193" column="30" />
+        <mark key="^" line="193" column="30" />
+        <mark key="." line="193" column="29" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/requests/PriorityGroupExecutionRequest.java" timestamp="1594746120151" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/requests/RuleSetExecutionRequest.java" timestamp="1594746229097" />
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/ruleaudits/RuleSetExecution.java" timestamp="1594752909023" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/ruleaudits/RuleSetExecution.java" timestamp="1594753147704" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/utils/MVELConstants.java" timestamp="1594670211415">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -144,42 +151,24 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1594670037817">
         <mark key="'" line="393" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/BinaryOperator.java" timestamp="1594664079748">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594672918634">
+      <file name="/Dummy.txt" timestamp="1594754246397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/RuleClauseMapping.java" timestamp="1594753018734" />
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" timestamp="1594752746170">
-        <mark key="[" line="112" column="75" />
-        <mark key="]" line="110" column="7" />
-        <mark key="^" line="110" column="7" />
-        <mark key="." line="110" column="6" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" timestamp="1594757900412">
+        <mark key="'" line="79" column="24" />
+        <mark key="[" line="72" column="148" />
+        <mark key="]" line="72" column="149" />
+        <mark key="." line="72" column="148" />
+        <mark key="^" line="72" column="149" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/BinaryOperator.java" timestamp="1594664053241">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="45" />
-      </file>
-      <file name="/fragment.java" timestamp="1594676141628">
+      <file name="/fragment.java" timestamp="1594757112847">
         <mark key="'" line="0" column="328" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/PermissionController.java" timestamp="1594755920454" />
     </filemarks>
     <jumps>
-      <jump line="312" column="5" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
-      <jump line="64" column="46" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/internal/InternalForecastBook.java" />
-      <jump line="69" column="48" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/internal/InternalForecastBook.java" />
-      <jump line="61" column="38" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/internal/InternalForecastBook.java" />
-      <jump line="597" column="29" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="65" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="50" column="29" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalRuleSetExecution.java" />
-      <jump line="27" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
-      <jump line="50" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
-      <jump line="136" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
-      <jump line="133" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
       <jump line="20" column="44" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSInterface/Config" />
       <jump line="79" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSInterface/Config" />
       <jump line="47" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSInterface/Config" />
@@ -269,6 +258,17 @@
       <jump line="659" column="59" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="636" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="724" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
+      <jump line="204" column="65" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGeneratorTest.java" />
+      <jump line="45" column="40" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGeneratorTest.java" />
+      <jump line="49" column="16" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="57" column="46" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="66" column="40" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="69" column="62" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="121" column="85" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="73" column="20" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="74" column="72" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="71" column="114" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
+      <jump line="79" column="24" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1223,43 +1223,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>isIncrem</text>
+        <text>current</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBjdXJyZW50UnVsZUlkU2V0ID0gY3VycmVudFJ1bGVTZXRFeGVjdXRpb24uZ2V0VHJpZ2dlcmVkUnVsZXMoKS5zdHJlYW0oKS5tYXAocnVsZVRvQ2xhdXNlTWFwIC0+IHJ1bGVUb0NsYXVzZU1hcC5nZXRSdWxlSWQoKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gQm9vbGVhbi5GQUxTRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aW91c1J1bGVTZXRFeGVjdXRpb24uZ2V0VHJpZ2dlcmVkUnVsZXMoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGN1cnJlbnRSdWxlU2V0RXhlY3V0aW9uUmVxdWVzdAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RPdXRwdXQuZ2V0Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIEkgPSAiMTExIjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBSdWxlRGV0YWlsKFJ1bGUuYnVpbGRlcigpLmlkKCJyMiIpLmJ1aWxkKCkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBSdWxlRGV0YWlsKFJ1bGUuYnVpbGRlcigpLmlkKCJyMSIpLmJ1aWxkKCkpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB2YWxpZGF0aW9uIGlzIG5vdCBkb25lIGZvciBmcmVlIGZvcm0gcnVsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bGVDbGF1c2VNYXBwaW5nLmJ1aWxkZXIoKS5ydWxlSWQoInIxIikuYnVpbGQoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBSdWxlRGV0YWlsKFJ1bGUuYnVpbGRlcigpLmlkKCJyMiIpLmJ1aWxkKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIF8xMDAgPSBuZXcgQmlnRGVjaW1hbCgxTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>744</text>
@@ -1268,9 +1268,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isIncrem</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>isIncrem</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
