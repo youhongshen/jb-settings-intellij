@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lineType</entry>
-        <entry>costMetho</entry>
         <entry>agencyName</entry>
         <entry>SALESFO</entry>
         <entry>Display</entry>
@@ -27,6 +25,8 @@
         <entry>productId</entry>
         <entry>productV</entry>
         <entry>product</entry>
+        <entry>hidden</entry>
+        <entry>hidde</entry>
       </history-search>
       <history-cmd>
         <entry>438</entry>
@@ -138,6 +138,9 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1595451059275">
         <mark key="'" line="43" column="19" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1595455375146">
+        <mark key="'" line="659" column="27" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" timestamp="1595451125665">
         <mark key="'" line="48" column="19" />
       </file>
@@ -164,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
-      <jump line="146" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/lineItem/Converters.test.js" />
       <jump line="573" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/ioLine/containers/IOLineAction.test.js" />
       <jump line="390" column="59" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="149" column="64" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
@@ -264,6 +265,8 @@
       <jump line="47" column="70" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
       <jump line="49" column="26" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
       <jump line="48" column="19" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
+      <jump line="227" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="659" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1224,7 +1227,7 @@
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>product</text>
+        <text>hidde</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibm9ybWFsaXplciI6ICJsb3dlcmNhc2Vfbm9ybWFsaXplciIK</text>
@@ -1263,9 +1266,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>product</last-search>
+      <last-search>hidde</last-search>
       <last-offset />
-      <last-pattern>product</last-pattern>
+      <last-pattern>hidde</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
