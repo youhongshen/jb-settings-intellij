@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Re</entry>
-        <entry>ruleset</entry>
-        <entry>rule</entry>
-        <entry>ruleSet</entry>
-        <entry>productId</entry>
-        <entry>productV</entry>
-        <entry>product</entry>
-        <entry>hidden</entry>
         <entry>hidde</entry>
         <entry>pricin</entry>
         <entry>RULESE</entry>
@@ -27,6 +19,14 @@
         <entry>arest</entry>
         <entry>DataMa</entry>
         <entry>Comment</entry>
+        <entry>MaxSupplyB</entry>
+        <entry>audienceF</entry>
+        <entry>isFieldRe</entry>
+        <entry>Requi</entry>
+        <entry>IsRequired</entry>
+        <entry>formValidation</entry>
+        <entry>initIoLine</entry>
+        <entry>audienceFee</entry>
       </history-search>
       <history-cmd>
         <entry>438</entry>
@@ -110,9 +110,20 @@
         <mark key="'" line="125" column="52" />
         <mark key="[" line="497" column="116" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/JavaxValidationApi/JavaxValidationApi-1.1.233637.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/validation-api-1.1.0.Final.jar!/META-INF/maven/javax.validation/validation-api/pom.xml" timestamp="1595620968963" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" timestamp="1596471599904">
+        <mark key="'" line="69" column="32" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/Config" timestamp="1595541257001">
+        <mark key="'" line="10" column="17" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" timestamp="1595613234016">
         <mark key="'" line="197" column="12" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1596471551979">
+        <mark key="'" line="386" column="0" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/comment.json" timestamp="1595515095907">
         <mark key="'" line="216" column="29" />
@@ -121,44 +132,20 @@
         <mark key="." line="248" column="0" />
         <mark key="^" line="247" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/DataType.java" timestamp="1595614442752" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalModelAttribute.java" timestamp="1595514908118">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1595455906817">
         <mark key="'" line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/ARest-Server-InputValidation/ARest-Server-InputValidation-1.0.208400.0/RHEL5_64/generic-flavor/src/src/com/amazon/arest/validation/ValidationProvider.java" timestamp="1595607927421" />
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/DeclarativeCoralMetrics/DeclarativeCoralMetrics-2.1.230520.0/RHEL5_64/generic-flavor/src/src/com/amazon/metrics/declarative/Metric.java" timestamp="1595632494963" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" timestamp="1595514914045">
         <mark key="'" line="22" column="42" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalRuleSetExecution.java" timestamp="1595514893546" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/Config" timestamp="1595541257001">
-        <mark key="'" line="10" column="17" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1596471499023">
+        <mark key="'" line="351" column="52" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/Jackson-annotations/Jackson-annotations-2.9.x.242104.0/RHEL5_64/generic-flavor/src/src/main/java/com/fasterxml/jackson/annotation/JsonIgnoreProperties.java" timestamp="1595540538829" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/DataMapping.java" timestamp="1595614434543" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/javax/DataMappingValidator.java" timestamp="1595608525893" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1595455375146">
-        <mark key="'" line="659" column="27" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/ServiceModule.java" timestamp="1595607934396" />
     </filemarks>
     <jumps>
-      <jump line="360" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
-      <jump line="318" column="98" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="215" column="47" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
-      <jump line="449" column="69" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="963" column="54" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="973" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="989" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="1010" column="37" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="425" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="531" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
-      <jump line="100" column="46" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
-      <jump line="103" column="59" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
       <jump line="44" column="62" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
       <jump line="46" column="42" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
       <jump line="425" column="23" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/approvals/component/RuleSetExecTableColumnConfig.js" />
@@ -246,6 +233,19 @@
       <jump line="197" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
       <jump line="27" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" />
       <jump line="52" column="41" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" />
+      <jump line="209" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
+      <jump line="386" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
+      <jump line="32" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="491" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="510" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="524" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="475" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="96" column="44" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="351" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="400" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="453" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="37" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
+      <jump line="69" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1200,43 +1200,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibm9ybWFsaXplciI6ICJsb3dlcmNhc2Vfbm9ybWFsaXplciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>Comment</text>
+        <text>audienceFee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibm9ybWFsaXplciI6ICJsb3dlcmNhc2Vfbm9ybWFsaXplciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5PX09QKCJGcmVlIGZvcm0gTVZFTCBleHByZXNzaW9uIiwgIiVzIiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaWVuY2VGZWU6IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE5PX09QKCJGcmVlIGZvcm0gTVZFTCBleHByZXNzaW9uIiwgIiVzIiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJ1bGVTZXREZXRhaWwuc2V0UnVsZURldGFpbHMoQXJyYXlzLmFzTGlzdChydWxlRGV0YWlsKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSW50ZXJuYWxSdWxlU2V0LmJ1aWxkZXIoKS5pZCgiUlMxIikuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEludGVybmFsUnVsZVNldERldGFpbCBydWxlU2V0RGV0YWlsID0gbmV3IEludGVybmFsUnVsZVNldERldGFpbCgK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJ1bGVTZXREZXRhaWwuc2V0UnVsZURldGFpbHMoQXJyYXlzLmFzTGlzdChydWxlRGV0YWlsKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJ1bGVEZXRhaWwuc2V0Q2xhdXNlcyhBcnJheXMuYXNMaXN0KGNsYXVzZSkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSW50ZXJuYWxSdWxlU2V0LmJ1aWxkZXIoKS5pZCgiUlMxIikuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSW50ZXJuYWxSdWxlLmJ1aWxkZXIoKS5pZCgicjEiKS5idWlsZCgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIEludGVybmFsUnVsZVNldERldGFpbCBydWxlU2V0RGV0YWlsID0gbmV3IEludGVybmFsUnVsZVNldERldGFpbCgK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1245,9 +1245,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Comment</last-search>
+      <last-search>audienceFee</last-search>
       <last-offset />
-      <last-pattern>Comment</last-pattern>
+      <last-pattern>audienceFee</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
