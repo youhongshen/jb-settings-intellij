@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>validator</entry>
         <entry>valida</entry>
         <entry>arest</entry>
         <entry>DataMa</entry>
@@ -27,6 +26,7 @@
         <entry>NAME</entry>
         <entry>PRIORITY_GROUP</entry>
         <entry>valueToDist</entry>
+        <entry>round</entry>
       </history-search>
       <history-cmd>
         <entry>438</entry>
@@ -47,8 +47,8 @@
         <entry>9871</entry>
         <entry>671</entry>
         <entry>744</entry>
-        <entry>0</entry>
         <entry>set ic</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,12 +109,25 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" timestamp="1596471805966">
         <mark key="'" line="69" column="32" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1596496959105">
-        <mark key="'" line="321" column="3" />
-        <mark key="[" line="324" column="20" />
-        <mark key="]" line="324" column="25" />
-        <mark key="." line="324" column="24" />
-        <mark key="^" line="324" column="25" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" timestamp="1596487507606">
+        <mark key="'" line="152" column="4" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/Config" timestamp="1595541257001">
+        <mark key="'" line="10" column="17" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1596550158872">
+        <mark key="'" line="6" column="82" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="322" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/lineItem/containers/LineItemReducer.test.js" timestamp="1596550346650">
+        <mark key="'" line="1961" column="7" />
+        <mark key="[" line="2170" column="28" />
+        <mark key="]" line="2170" column="28" />
+        <mark key="^" line="2173" column="41" />
+        <mark key="." line="2170" column="28" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" timestamp="1595613234016">
         <mark key="'" line="197" column="12" />
@@ -133,29 +146,20 @@
         <mark key="]" line="402" column="0" />
         <mark key="." line="402" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1596496845981" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1596550100215">
+        <mark key="[" line="433" column="29" />
+        <mark key="]" line="433" column="29" />
+        <mark key="^" line="432" column="48" />
+        <mark key="." line="433" column="29" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalModelAttribute.java" timestamp="1596487534851">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1596471499023">
         <mark key="'" line="351" column="52" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" timestamp="1596487507606">
-        <mark key="'" line="152" column="4" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/Config" timestamp="1595541257001">
-        <mark key="'" line="10" column="17" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/tests/app/lineItem/containers/LineItemReducer.test.js" timestamp="1596497029730">
-        <mark key="'" line="1961" column="7" />
-        <mark key="[" line="2154" column="31" />
-        <mark key="]" line="2154" column="32" />
-        <mark key="^" line="2149" column="32" />
-        <mark key="." line="2154" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="31" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="659" column="59" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="636" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="724" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
@@ -255,6 +259,7 @@
       <jump line="152" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalModelAttribute.java" />
       <jump line="321" column="3" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="6" column="82" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1209,22 +1214,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>round</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>round</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>valueToDist</text>
+        <text>round</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKGBkaXN0cmlidXRlIGlvbGluZSBidWRnZXQgaW52YWxpZCBpbnB1dCwgdGhlIGlucHV0IHZhbHVlIGNhbm5vdCBoYXZlIG1vcmUgdGhhbiAyIGRlY2ltYWwgcG9pbnRzIG9yIDwgMCwgJHt2YWx1ZX0sIG5vdCBkaXN0cmlidXRpbmdgKTsKICAgICAgICByZXR1cm4gbGluZUl0ZW1zOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1233,19 +1238,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTWF0aC5mbG9vcih2YWx1ZSAqIHJvdW5kVmFsdWUpL3JvdW5kVmFsdWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAxMjIuMjIgLSAyLjMxIC0gMi4xNSB3b3VsZCByZXN1bHQgaW4gMTE3Ljc1OTk5OTk5OTk5OTk5IGlmIGRpZCBub3QgZG8gcm91bmRpbmcK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByb3VuZFZhbHVlID0gMTAgKiogMjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2lkOiAnNycsIHJhdGU6IDIuMTUsIGFjdGlvblR5cGU6ICcnLCBpc0ZpZWxkRWRpdGFibGU6IHtyYXRlOiBmYWxzZX0sIGZpZWxkSGFzS3JhdG9zVmFsdWU6IHtyYXRlOiB0cnVlfX0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvdW5kVG9GbG9vciA9ICh2YWx1ZSkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2lkOiAnNicsIHJhdGU6IDIuMTUsIGFjdGlvblR5cGU6ICcnLCBpc0ZpZWxkRWRpdGFibGU6IHtyYXRlOiBmYWxzZX0sIGZpZWxkSGFzS3JhdG9zVmFsdWU6IHtyYXRlOiB0cnVlfX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1254,9 +1259,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>valueToDist</last-search>
+      <last-search>round</last-search>
       <last-offset />
-      <last-pattern>valueToDist</last-pattern>
+      <last-pattern>round</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
