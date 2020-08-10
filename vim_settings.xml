@@ -103,8 +103,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" timestamp="1596841916024">
+        <mark key="[" line="213" column="97" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1596748266401">
         <mark key="'" line="40" column="43" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" timestamp="1596842091419">
+        <mark key="[" line="51" column="101" />
+        <mark key="]" line="51" column="141" />
+        <mark key="." line="51" column="140" />
+        <mark key="^" line="51" column="141" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/RetailProductLine.java" timestamp="1596761117084">
         <mark key="[" line="200" column="39" />
@@ -118,7 +129,6 @@
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1596740305963">
         <mark key="'" line="21" column="59" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1596729064672" />
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.543338.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/AWSStepFunctionsJavaClient-1.11.x.jar!/com/amazonaws/services/stepfunctions/AWSStepFunctions.class" timestamp="1596733302135" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/ForecastBookRepository.java" timestamp="1596734511211" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1596735383402">
@@ -1207,44 +1217,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlvbGluZS5idWRnZXQgPT0gcHJldmlvdXNJb0xpbmUuYnVkZ2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: %s&quot;, ruleSetDetail.getRuleSetLevel()));</text>
       </register>
       <register name="-" type="4">
-        <text>CLASS_I</text>
+        <text>: %s&quot;, ruleSetDetail.getRuleSetLevel()));</text>
       </register>
       <register name="/" type="4">
         <text>valueTy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzczEuc2V0T21zUHJvZHVjdFR5cGUoT21zUHJvZHVjdFR5cGUuQ0xBU1NfSSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChydWxlU2V0RGV0YWlsLmdldFJ1bGVTZXRMZXZlbCgpLmVxdWFscyhSdWxlU2V0TGV2ZWwuSU8pKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlvbGluZS5idWRnZXQgPT0gcHJldmlvdXNJb0xpbmUuYnVkZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmUuc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFjdC5wdXQoTVZFTENvbnN0YW50cy5JT19MSU5FUywgaW9XcmFwcGVyLmdldElvTGluZXMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhwID0gImNsYXNzXzFfdG90YWxfYnVkZ2V0ID0gMDsgYXZfdG90YWxfYnVkZ2V0ID0gMDsgZm9yZWFjaCAoaW9MaW5lOiBJT0xpbmVzKSB7IGlmIChpb0xpbmUub21zUHJvZHVjdFR5cGUudG9TdHJpbmcoKS5lcXVhbHMiICsKICAgICAgICAgICAgICAgICIoXCJDTEFTU19JXCIpKSB7IGNsYXNzXzFfdG90YWxfYnVkZ2V0ICs9IGlvTGluZS5idWRnZXQ7IH0gaWYgKGlvTGluZS52YWx1ZVR5cGUudG9TdHJpbmcoKS5lcXVhbHMoXCJWQUxVRV9BRERcIikpIHsgIiArCiAgICAgICAgICAgICAgICAiYXZfdG90YWxfYnVkZ2V0ICs9IGlvTGluZS5idWRnZXQ7IH0gfSBhdl90b3RhbF9idWRnZXQgPiBjbGFzc18xX3RvdGFsX2J1ZGdldCAqIDAuMDU7IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlvbGluZS5idWRnZXQgPT0gcHJldmlvdXNJb0xpbmUuYnVkZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhwID0gImNsYXNzXzFfdG90YWxfYnVkZ2V0ID0gMDsgYXZfdG90YWxfYnVkZ2V0ID0gMDsgZm9yZWFjaCAoaW9MaW5lOiBJT0xpbmVzKSB7IGlmIChpb0xpbmUub21zUHJvZHVjdFR5cGUudG9TdHJpbmcoKS5lcXVhbHMiICsKICAgICAgICAgICAgICAgICIoXCJDTEFTU19JXCIpKSB7IGNsYXNzXzFfdG90YWxfYnVkZ2V0ICs9IGlvTGluZS5idWRnZXQ7IH0gaWYgKGlvTGluZS52YWx1ZVR5cGUudG9TdHJpbmcoKS5lcXVhbHMoXCJWQUxVRV9BRERcIikpIHsgIiArCiAgICAgICAgICAgICAgICAiYXZfdG90YWxfYnVkZ2V0ICs9IGlvTGluZS5idWRnZXQ7IH0gfSBhdl90b3RhbF9idWRnZXQgPiBjbGFzc18xX3RvdGFsX2J1ZGdldCAqIDAuMDU7IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlc3BvbnNlLnNpemUoKSwgcmV0YWlsSXRlbXMuc2l6ZSgpICsgdGhpcmRQYXJ0eUl0ZW1zLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
