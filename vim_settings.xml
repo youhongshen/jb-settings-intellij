@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>curren</entry>
-        <entry>Curr</entry>
-        <entry>Worker</entry>
         <entry>worker</entry>
         <entry>workflowId</entry>
         <entry>orchestratorCli</entry>
@@ -27,6 +24,9 @@
         <entry>io</entry>
         <entry>valueT</entry>
         <entry>valueTy</entry>
+        <entry>getGenerateDef</entry>
+        <entry>generateM</entry>
+        <entry>omsProdu</entry>
       </history-search>
       <history-cmd>
         <entry>451</entry>
@@ -103,14 +103,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" timestamp="1597069889117">
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" timestamp="1597072677107">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1596748266401">
         <mark key="'" line="40" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" timestamp="1596842146229">
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" timestamp="1597070581836">
         <mark key="[" line="48" column="81" />
         <mark key="]" line="51" column="141" />
         <mark key="." line="51" column="140" />
@@ -140,9 +141,6 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IO.java" timestamp="1596830759456">
         <mark key="'" line="35" column="28" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" timestamp="1596731778437">
-        <mark key="'" line="91" column="15" />
-      </file>
       <file name="/Dummy.txt" timestamp="1596833281718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,26 +151,17 @@
         <mark key="." line="459" column="44" />
         <mark key="^" line="459" column="10" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" timestamp="1596731423792">
-        <mark key="'" line="309" column="15" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" timestamp="1596840975934">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
+      <file name="/RuleCheckConditionGenerator.java" timestamp="1597070533326" />
+      <file name="/fragment.java" timestamp="1597073054368">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
-      <jump line="386" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
-      <jump line="32" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
-      <jump line="491" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
-      <jump line="510" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
-      <jump line="524" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
-      <jump line="475" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
-      <jump line="96" column="44" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
-      <jump line="351" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="400" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
       <jump line="453" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
       <jump line="37" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
       <jump line="69" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
@@ -263,6 +252,16 @@
       <jump line="109" column="36" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
       <jump line="111" column="136" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
       <jump line="112" column="102" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
+      <jump line="139" column="46" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="75" column="54" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="89" column="98" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="120" column="53" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="163" column="26" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="211" column="67" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="7" column="41" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="64" column="33" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="105" column="43" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
+      <jump line="142" column="43" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1216,44 +1215,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>: %s&quot;, ruleSetDetail.getRuleSetLevel()));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN0T3V0cHV0LmdldGoK</text>
       </register>
       <register name="-" type="4">
-        <text>: %s&quot;, ruleSetDetail.getRuleSetLevel()));</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>valueTy</text>
+        <text>omsProdu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChydWxlU2V0RGV0YWlsLmdldFJ1bGVTZXRMZXZlbCgpLmVxdWFscyhSdWxlU2V0TGV2ZWwuSU8pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGluc3RhbmNlLmdlbmVyYXRlUnVsZVNldENvbmRpdGlvbihnZW5lcmF0ZUlvTGluZUxldmVsVGVzdFJ1bGVTZXQoKSkuZXZhbHVhdGUoZmFjdHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYWN0T3V0cHV0LmdldGoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpb0xpbmUuc2UK</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUyLnNldENyZWF0ZWRUaW1lc3RhbXAoMjAwMGwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFjdC5wdXQoTVZFTENvbnN0YW50cy5JT19MSU5FUywgaW9XcmFwcGVyLmdldElvTGluZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUyLnNldE1vZGlmaWVkVGltZXN0YW1wKDEwMDBsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlvbGluZS5idWRnZXQgPT0gcHJldmlvdXNJb0xpbmUuYnVkZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUxLnNldE9tc1Byb2R1Y3RUeXBlKE9tc1Byb2R1Y3RUeXBlLkFBUCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUxLnNldE5hbWUoInh5eiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUxLnNldEJ1ZGdldChuZXcgQmlnRGVjaW1hbCgxMDApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhwID0gImNsYXNzXzFfdG90YWxfYnVkZ2V0ID0gMDsgYXZfdG90YWxfYnVkZ2V0ID0gMDsgZm9yZWFjaCAoaW9MaW5lOiBJT0xpbmVzKSB7IGlmIChpb0xpbmUub21zUHJvZHVjdFR5cGUudG9TdHJpbmcoKS5lcXVhbHMiICsKICAgICAgICAgICAgICAgICIoXCJDTEFTU19JXCIpKSB7IGNsYXNzXzFfdG90YWxfYnVkZ2V0ICs9IGlvTGluZS5idWRnZXQ7IH0gaWYgKGlvTGluZS52YWx1ZVR5cGUudG9TdHJpbmcoKS5lcXVhbHMoXCJWQUxVRV9BRERcIikpIHsgIiArCiAgICAgICAgICAgICAgICAiYXZfdG90YWxfYnVkZ2V0ICs9IGlvTGluZS5idWRnZXQ7IH0gfSBhdl90b3RhbF9idWRnZXQgPiBjbGFzc18xX3RvdGFsX2J1ZGdldCAqIDAuMDU7IjsK</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUxLnNldE9tc1Byb2R1Y3RUeXBlKE9tc1Byb2R1Y3RUeXBlLkNMQVNTX0kpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpb0xpbmVNYXRjaFJ1bGUxLnNldFByb2R1Y3RNZXRhZGF0YShQcm9kdWN0TWV0YWRhdGEuYnVpbGRlcigpLm5hbWUoIk1ldGFEYXRhTmFtZSIpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBJT0xpbmUuYgo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1262,9 +1261,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>valueTy</last-search>
+      <last-search>omsProdu</last-search>
       <last-offset />
-      <last-pattern>valueTy</last-pattern>
+      <last-pattern>omsProdu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
