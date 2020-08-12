@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>factInput</entry>
-        <entry>isRuleSetC</entry>
         <entry>isRuleSetChang</entry>
         <entry>Rodeo</entry>
         <entry>D16GRodeo</entry>
@@ -27,6 +25,8 @@
         <entry>provideRuleSetD</entry>
         <entry>recall</entry>
         <entry>awsStepFunc</entry>
+        <entry>discount</entry>
+        <entry>targeting</entry>
       </history-search>
       <history-cmd>
         <entry>451</entry>
@@ -137,8 +137,8 @@
         <mark key="." line="48" column="86" />
         <mark key="^" line="48" column="87" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1597180720879">
-        <mark key="'" line="24" column="4" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1597251356664">
+        <mark key="'" line="120" column="22" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/ValidateInputActivityWorker.java" timestamp="1597181788662" />
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1597167971050">
@@ -182,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="37" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
-      <jump line="65" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" />
       <jump line="73" column="94" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" />
       <jump line="77" column="32" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" />
       <jump line="91" column="15" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" />
@@ -282,6 +280,8 @@
       <jump line="165" column="58" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="215" column="32" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="340" column="15" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
+      <jump line="40" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
+      <jump line="120" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1242,7 +1242,7 @@
         <text>NOT_MATCHED</text>
       </register>
       <register name="/" type="4">
-        <text>awsStepFunc</text>
+        <text>targeting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJT1dyYXBwZXIgaW9XcmFwcGVyTm90TWF0Y2hlZCA9IG5ldyBJT1dyYXBwZXIoaW9NYXRjaFJ1bGUzLCBJbW11dGFibGVMaXN0Lm9mKGlvTGluZU1hdGNoUnVsZTEsIGlvTGluZU1hdGNoUnVsZTIpKTsK</text>
@@ -1281,9 +1281,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>awsStepFunc</last-search>
+      <last-search>targeting</last-search>
       <last-offset />
-      <last-pattern>awsStepFunc</last-pattern>
+      <last-pattern>targeting</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
