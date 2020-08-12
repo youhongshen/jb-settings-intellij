@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SAM</entry>
-        <entry>herd</entry>
         <entry>businessUnit</entry>
         <entry>always</entry>
         <entry>alwaysOn</entry>
@@ -27,6 +25,8 @@
         <entry>billable</entry>
         <entry>billab</entry>
         <entry>bill</entry>
+        <entry>portfo</entry>
+        <entry>portfolio</entry>
       </history-search>
       <history-cmd>
         <entry>451</entry>
@@ -1244,7 +1244,7 @@
         <text>NOT_MATCHED</text>
       </register>
       <register name="/" type="4">
-        <text>bill</text>
+        <text>portfolio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJT1dyYXBwZXIgaW9XcmFwcGVyTm90TWF0Y2hlZCA9IG5ldyBJT1dyYXBwZXIoaW9NYXRjaFJ1bGUzLCBJbW11dGFibGVMaXN0Lm9mKGlvTGluZU1hdGNoUnVsZTEsIGlvTGluZU1hdGNoUnVsZTIpKTsK</text>
@@ -1283,9 +1283,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bill</last-search>
+      <last-search>portfolio</last-search>
       <last-offset />
-      <last-pattern>bill</last-pattern>
+      <last-pattern>portfolio</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
