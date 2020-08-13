@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>targeting</entry>
-        <entry>discount</entry>
         <entry>buffer</entry>
         <entry>status</entry>
         <entry>billable</entry>
@@ -27,6 +25,8 @@
         <entry>props</entry>
         <entry>us-eas</entry>
         <entry>region</entry>
+        <entry>infraStack</entry>
+        <entry>InfraStack</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
@@ -111,21 +111,15 @@
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1597183166129">
         <mark key="'" line="40" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1597336172993">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="8" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1597337544458">
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="77" column="38" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="38" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/pipeline/l3-pipeline.d.ts" timestamp="1597336055108">
         <mark key="'" line="148" column="25" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" timestamp="1597161041903">
-        <mark key="[" line="48" column="86" />
-        <mark key="]" line="48" column="87" />
-        <mark key="." line="48" column="86" />
-        <mark key="^" line="48" column="87" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1597252703387">
         <mark key="'" line="24" column="4" />
@@ -156,6 +150,9 @@
         <mark key="^" line="1" column="8548" />
         <mark key="." line="1" column="8547" />
       </file>
+      <file name="/app.ts" timestamp="1597337390871">
+        <mark key="'" line="44" column="23" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/Config" timestamp="1597173886899">
         <mark key="'" line="82" column="27" />
         <mark key="[" line="75" column="0" />
@@ -170,10 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="55" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
-      <jump line="91" column="3" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
-      <jump line="67" column="3" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
-      <jump line="89" column="4" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
       <jump line="41" column="24" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGenerator.java" />
       <jump line="102" column="0" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
       <jump line="103" column="10" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
@@ -270,6 +263,10 @@
       <jump line="126" column="20" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/pipeline/l3-pipeline.d.ts" />
       <jump line="139" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/pipeline/l3-pipeline.d.ts" />
       <jump line="148" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/pipeline/l3-pipeline.d.ts" />
+      <jump line="16" column="29" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
+      <jump line="23" column="18" filename="/app.ts" />
+      <jump line="7" column="9" filename="/app.ts" />
+      <jump line="44" column="23" filename="/app.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1223,44 +1220,48 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DUB</text>
       </register>
       <register name="-" type="4">
-        <text>east-1'),</text>
+        <text>DUB</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text>InfraStack</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2FtbWFTdGFnZSA9IHBpcGVsaW5lLmFkZFN0YWdlKCdnYW1tYScpOwpjb25zdCBkZXBsb3ltZW50R3JvdXAgPSBnYW1tYVN0YWdlLmFkZERlcGxveW1lbnRHcm91cCh7CiAgbmFtZTogJ0QxNkdPTVNSb2Rlb1N5bmNXb3JrZmxvdycKfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>const gammaEUInfraStack = new InfraStack(app, `Infra-gamma-DUB`, {
+  env: pipeline.deploymentEnvironmentFor(gammaAccount, regionDUB),
+  softwareType: SoftwareType.INFRASTRUCTURE,
+});
+gammaDeploymentGroup.addStacks(gammaEUInfraStack);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWdpb246ICcnLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGlwZWxpbmUuZGVwbG95bWVudEVudmlyb25tZW50Rm9yKCkK</text>
+        <text encoding="base64">ICAgICAgcmVnaW9uOiByZWdpb25JQUQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGlwZWxpbmUuCg==</text>
+        <text encoding="base64">ICAgICAgc3RhY2tOYW1lOiAnZ2FtbWEgSUFEJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGlwZWxpbmUuYWRkCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lOiBgYmV0YUFwcGxpY2F0aW9uYAo=</text>
+        <text encoding="base64">ICBzdGFja3M6IFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuYW1lOiAnRDE2R09NU1JvZGVvU3luY1dvcmtmbG93JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnRDE2R09NU0Nka1Rlc3REb05vdFVzZS0xLjAnLAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1269,9 +1270,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>region</last-search>
+      <last-search>InfraStack</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern>InfraStack</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
