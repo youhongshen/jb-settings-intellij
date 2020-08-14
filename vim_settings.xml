@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>status</entry>
-        <entry>billable</entry>
-        <entry>billab</entry>
         <entry>bill</entry>
         <entry>portfo</entry>
         <entry>portfolio</entry>
@@ -27,6 +24,9 @@
         <entry>infraStack</entry>
         <entry>InfraStack</entry>
         <entry>accoun</entry>
+        <entry>productM</entry>
+        <entry>adPack</entry>
+        <entry>userSettingFie</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
@@ -141,7 +141,9 @@
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1597253095562">
         <mark key="'" line="87" column="17" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1597418351112" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1597420185679">
+        <mark key="'" line="262" column="59" />
+      </file>
       <file name="/app.ts" timestamp="1597337390871">
         <mark key="'" line="44" column="23" />
       </file>
@@ -157,12 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="48" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
-      <jump line="105" column="48" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
-      <jump line="108" column="62" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
-      <jump line="109" column="36" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
-      <jump line="111" column="136" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
-      <jump line="112" column="102" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/UtilsTest.java" />
       <jump line="139" column="46" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
       <jump line="75" column="54" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
       <jump line="89" column="98" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" />
@@ -257,6 +253,12 @@
       <jump line="113" column="4" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/pipeline/l3-pipeline.d.ts" />
       <jump line="59" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
       <jump line="34" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ProductMetadata.java" />
+      <jump line="279" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="282" column="51" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="287" column="32" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="297" column="36" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="502" column="20" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="262" column="59" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1217,7 +1219,7 @@
         <text>regionPDX</text>
       </register>
       <register name="/" type="4">
-        <text>accoun</text>
+        <text>userSettingFie</text>
       </register>
       <register name="0" type="4">
         <text>const gammaEUInfraStack = new InfraStack(app, `Infra-gamma-DUB`, {
@@ -1260,9 +1262,9 @@ gammaDeploymentGroup.addStacks(gammaEUInfraStack);</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>adPack</last-search>
+      <last-search>userSettingFie</last-search>
       <last-offset />
-      <last-pattern>adPack</last-pattern>
+      <last-pattern>userSettingFie</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
