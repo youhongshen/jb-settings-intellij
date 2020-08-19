@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Attempting to update IO</entry>
-        <entry>provideRule</entry>
         <entry>udpate</entry>
         <entry>update</entry>
         <entry>status</entry>
@@ -27,6 +25,8 @@
         <entry>country</entry>
         <entry>targetinU</entry>
         <entry>targetingU</entry>
+        <entry>serviceC</entry>
+        <entry>campaignsClient</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
@@ -122,6 +122,12 @@
       </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/SAMToolkit.devenv" timestamp="1597763779645" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/util/EmailUtilTest.java" timestamp="1597694824213" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/referenceData/DashboardDao.java" timestamp="1597866480978">
+        <mark key="'" line="45" column="95" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/config/D16GOMSWebSpringBeans.java" timestamp="1597866371273">
+        <mark key="'" line="180" column="15" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1597782377399">
         <mark key="'" line="50" column="19" />
       </file>
@@ -141,15 +147,9 @@
         <mark key="'" line="64" column="19" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1597850397823" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1597694690645">
-        <mark key="'" line="79" column="57" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/Config" timestamp="1597797250518" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" timestamp="1597762412767" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" timestamp="1597782694470" />
-      <file name="/fragment.java" timestamp="1597694245257">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/calculator/SetupCampaignProposalDetail.java" timestamp="1597866038370">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="50" />
@@ -157,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="30" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
-      <jump line="51" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
-      <jump line="91" column="63" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="181" column="91" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
       <jump line="85" column="27" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/Config" />
       <jump line="17" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
       <jump line="18" column="141" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/ForecastBookWorkflowPartitionInputHandler.java" />
@@ -257,6 +253,10 @@
       <jump line="602" column="35" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalIOLine.java" />
       <jump line="64" column="19" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalIOLine.java" />
+      <jump line="157" column="67" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/config/D16GOMSWebSpringBeans.java" />
+      <jump line="178" column="48" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/config/D16GOMSWebSpringBeans.java" />
+      <jump line="180" column="15" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/config/D16GOMSWebSpringBeans.java" />
+      <jump line="45" column="95" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/referenceData/DashboardDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1217,7 +1217,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>targetingU</text>
+        <text>campaignsClient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWF2ZW4tY29tLWZhc3RlcnhtbC1qYWNrc29uLWNvcmVfamFja3Nvbi1kYXRhYmluZCA9IDIuOC54Owo=</text>
@@ -1256,9 +1256,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>targetingU</last-search>
+      <last-search>campaignsClient</last-search>
       <last-offset />
-      <last-pattern>targetingU</last-pattern>
+      <last-pattern>campaignsClient</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
