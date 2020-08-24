@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getIo</entry>
-        <entry>getIO</entry>
-        <entry>lineItemRes</entry>
-        <entry>notif</entry>
         <entry>dagg</entry>
         <entry>import</entry>
         <entry>happy</entry>
@@ -27,6 +23,10 @@
         <entry>bat</entry>
         <entry>NonNu</entry>
         <entry>trust</entry>
+        <entry>Input</entry>
+        <entry>Raido</entry>
+        <entry>radio</entry>
+        <entry>legal</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
@@ -103,29 +103,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1598279397331" />
-      <file name="/Volumes/workplace/TagInputIngestionLambda/src/TagInputIngestionLambda/Config" timestamp="1598058554980" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/Config" timestamp="1598118561553" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/Config" timestamp="1598117993326">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="10" />
-      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1598282687006" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/aws_lambda/lambda-transform.yml" timestamp="1598231414421">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/SAMToolkit.devenv" timestamp="1598124169073">
-        <mark key="'" line="25" column="86" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/IExpression.java" timestamp="1598117624991" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/SAMToolkit.devenv" timestamp="1598123944172">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/PricingDetails.java" timestamp="1598284564194" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rules/components/RuleSetContainer.jsx" timestamp="1598284703194">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="28" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/AdminResourceImpl.java" timestamp="1598279171034" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1598231197473">
@@ -134,6 +121,24 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="120" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rules/components/RuleSet.jsx" timestamp="1598285482533">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="6" />
+        <mark key="^" line="50" column="7" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/omsApp.jsx" timestamp="1598284073668">
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="65" />
+        <mark key="^" line="62" column="65" />
+        <mark key="." line="62" column="64" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rules/components/RuleSetDetail.jsx" timestamp="1598286368017">
+        <mark key="[" line="86" column="8" />
+        <mark key="]" line="86" column="27" />
+        <mark key="^" line="86" column="27" />
+        <mark key="." line="86" column="26" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1598230179164">
         <mark key="[" line="98" column="0" />
@@ -149,7 +154,9 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="36" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/Resource.java" timestamp="1598117913617" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" timestamp="1598285357155">
+        <mark key="'" line="7" column="65" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/build.xml" timestamp="1598229514530">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="2" column="97" />
@@ -175,12 +182,12 @@
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/Config" timestamp="1598230196684">
         <mark key="'" line="94" column="12" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1598285072400">
+        <mark key="'" line="5" column="16" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/ActionType.java" timestamp="1598285634221" />
     </filemarks>
     <jumps>
-      <jump line="168" column="47" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/ExecuteRulesActivityWorker.java" />
-      <jump line="17" column="34" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
-      <jump line="60" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/util/EmailUtilTest.java" />
-      <jump line="79" column="57" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
       <jump line="42" column="7" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
       <jump line="406" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="583" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
@@ -277,6 +284,10 @@
       <jump line="52" column="38" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="18" column="14" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="41" column="0" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/build.xml" />
+      <jump line="4" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="5" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" />
+      <jump line="7" column="65" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1231,43 +1242,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>onMessageChange</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>onMessageChange</text>
       </register>
       <register name="/" type="4">
-        <text>trust</text>
+        <text>legal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF2ZW4tY29tLWZhc3RlcnhtbF9vc3MtcGFyZW50ID0gOTsKICAgICAgICAgICAgTWF2ZW4tb3JnLXNvbmF0eXBlLW9zc19vc3MtcGFyZW50ID0gOS54Owo=</text>
+        <text encoding="base64">ICAgICAgICBvbk1lc3NhZ2VDaGFuZ2U6IFByb3BUeXBlcy5mdW5jLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIEFXU0R5bmFtb0RCVXBkYXRlU3RyZWFtc0V4dGVybmFsSmF2YUNsaWVudCA9IDEuMTEueDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIEFXU0R5bmFtb0RCTWlkbGV2ZWwgPSAxLjExLng7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIEFXU0R5bmFtb0RCSmF2YU1vZGVsID0gMS4xMS54Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIEJPTkVTSHlkcmFUZW1wbGF0ZSA9IDEuMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImRlbGV0ZWQiOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIE1hdmVuLWNvbS1hbWF6b25hd3NfYXdzLWxhbWJkYS1qYXZhLWV2ZW50cyA9IDIueDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInZlcnNpb24iOiAxLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIE1hdmVuLWNvbS1hbWF6b25hd3NfYXdzLWxhbWJkYS1qYXZhLWNvcmUgPSAxLng7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWRUaW1lc3RhbXAiOiAxNTk2ODI5ODcwMDg5LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIEFXU0Nsb3VkV2F0Y2hKYXZhQ2xpZW50ID0gMS4xMS54Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWRCeSI6ICJBQTNFQTVaOFo3RUo2IiwK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1276,9 +1287,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>trust</last-search>
+      <last-search>legal</last-search>
       <last-offset />
-      <last-pattern>trust</last-pattern>
+      <last-pattern>legal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
