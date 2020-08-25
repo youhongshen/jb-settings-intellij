@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>props.id</entry>
-        <entry>initLine</entry>
         <entry>lineItem</entry>
         <entry>clauseId</entry>
         <entry>copy</entry>
@@ -27,6 +25,8 @@
         <entry>ruleDe</entry>
         <entry>clas</entry>
         <entry>clauses</entry>
+        <entry>fromStore</entry>
+        <entry>UPDATE_FIE</entry>
       </history-search>
       <history-cmd>
         <entry>413</entry>
@@ -103,17 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1598398100880">
+        <mark key="'" line="397" column="78" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" timestamp="1598395449109">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/config/D16GOMSWebSpringBeans.java" timestamp="1598394546738">
-        <mark key="'" line="54" column="15" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="143" column="5" />
-        <mark key="." line="139" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsMetadataOrchestrator.java" timestamp="1598396071466">
         <mark key="[" line="105" column="43" />
@@ -126,12 +122,6 @@
         <mark key="." line="90" column="105" />
         <mark key="^" line="90" column="106" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/constant/URLConstants.java" timestamp="1598392576968">
-        <mark key="[" line="114" column="92" />
-        <mark key="]" line="114" column="97" />
-        <mark key="." line="114" column="96" />
-        <mark key="^" line="114" column="97" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepository.java" timestamp="1598396089396">
         <mark key="[" line="76" column="59" />
         <mark key="]" line="76" column="65" />
@@ -143,12 +133,6 @@
         <mark key="]" line="16" column="44" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="44" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/utils/path/Path.js" timestamp="1598392875849">
-        <mark key="[" line="434" column="42" />
-        <mark key="]" line="434" column="43" />
-        <mark key="." line="434" column="42" />
-        <mark key="^" line="434" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/TestUtil.java" timestamp="1598396214947">
         <mark key="[" line="53" column="44" />
@@ -185,7 +169,11 @@
         <mark key="]" line="48" column="52" />
         <mark key="." line="48" column="52" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1598397913361">
+        <mark key="'" line="393" column="63" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/AdminResourceImpl.java" timestamp="1598396310861" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/IORestController.java" timestamp="1598398631826" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ApprovalWorkflowsController.java" timestamp="1598397186759">
         <mark key="'" line="654" column="5" />
         <mark key="[" line="633" column="66" />
@@ -217,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="47" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/SetupCampaignProposalDetail.java" />
       <jump line="44" column="18" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/SetupCampaignProposalDetail.java" />
       <jump line="13" column="80" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIOLineDeleteEventHandler.java" />
       <jump line="16" column="51" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIOLineDeleteEventHandler.java" />
@@ -293,7 +280,6 @@
       <jump line="52" column="18" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/containers/ClauseReducer.js" />
       <jump line="59" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/containers/ClauseReducer.js" />
       <jump line="274" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
-      <jump line="393" column="63" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="73" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/components/Clause.jsx" />
       <jump line="112" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/components/Clause.jsx" />
       <jump line="123" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/components/Clause.jsx" />
@@ -317,6 +303,8 @@
       <jump line="42" column="34" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/approvalworkflows/RuleSetS3DaoTest.java" />
       <jump line="78" column="57" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/approvalworkflows/RuleSetS3DaoTest.java" />
       <jump line="20" column="29" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/approvalworkflows/RuleSetS3DaoTest.java" />
+      <jump line="393" column="63" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
+      <jump line="397" column="78" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1277,7 +1265,7 @@
         <text encoding="base64">dXBkYXRpbmcg</text>
       </register>
       <register name="/" type="4">
-        <text>clauses</text>
+        <text>UPDATE_FIE</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEBCZWFuCiAgICBAQXV0b3dpcmVkCiAgICBwdWJsaWMgQWRtaW5SZXNvdXJjZSBnZXRBZG1pblJlc291cmNlKEQxNkdPTVNTZXJ2aWNlQ2xvdWRBdXRoQ2xpZW50RmFjdG9yeSBmYWN0b3J5KSB7CiAgICAgICAgcmV0dXJuIGZhY3RvcnkuZ2V0Q2xpZW50KEFkbWluUmVzb3VyY2UuY2xhc3MpOwogICAgfQ==</text>
@@ -1316,9 +1304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clauses</last-search>
+      <last-search>UPDATE_FIE</last-search>
       <last-offset />
-      <last-pattern>clauses</last-pattern>
+      <last-pattern>UPDATE_FIE</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
