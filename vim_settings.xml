@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>attributeTy</entry>
         <entry>getstate</entry>
         <entry>isIncrement</entry>
         <entry>legalTer</entry>
@@ -27,6 +26,7 @@
         <entry>RECEIVE_PRIC</entry>
         <entry>PRICING_</entry>
         <entry>convert</entry>
+        <entry>onChange</entry>
       </history-search>
       <history-cmd>
         <entry>413</entry>
@@ -133,29 +133,17 @@
         <mark key="^" line="144" column="69" />
         <mark key="." line="144" column="68" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/SelectionValues.js" timestamp="1598403877052">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rule/components/RuleDetail.jsx" timestamp="1598404000296">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/converter.js" timestamp="1598459469910">
         <mark key="[" line="70" column="18" />
         <mark key="]" line="67" column="74" />
         <mark key="^" line="67" column="74" />
         <mark key="." line="67" column="73" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rule/containers/RuleReducer.js" timestamp="1598456540006">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="93" column="18" />
-        <mark key="." line="97" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rule/containers/RuleReducer.js" timestamp="1598460979480">
+        <mark key="[" line="98" column="54" />
+        <mark key="]" line="98" column="57" />
+        <mark key="^" line="98" column="57" />
+        <mark key="." line="98" column="56" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/constant/URLConstants.java" timestamp="1598450095512">
         <mark key="[" line="114" column="92" />
@@ -164,12 +152,12 @@
         <mark key="^" line="114" column="97" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/CostMethodType.java" timestamp="1598452716500" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/SelectionValues.js" timestamp="1598403903616">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/SelectionValues.js" timestamp="1598461727765">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="16" />
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="37" />
         <mark key="^" line="31" column="45" />
-        <mark key="." line="26" column="16" />
+        <mark key="." line="26" column="37" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1598452891518">
         <mark key="'" line="0" column="0" />
@@ -180,8 +168,15 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" timestamp="1598449844395">
-        <mark key="'" line="320" column="102" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/components/Clause.jsx" timestamp="1598462044636">
+        <mark key="'" line="4" column="8" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="25" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="106" column="23" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" timestamp="1598461977262">
+        <mark key="'" line="149" column="61" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1598449648096">
         <mark key="'" line="25" column="4" />
@@ -191,9 +186,9 @@
         <mark key="." line="343" column="25" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/configuration/brazil-config/override/D16GOMSWeb.cfg" timestamp="1598450233563" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/containers/ClauseReducer.js" timestamp="1598459295657">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/clause/containers/ClauseReducer.js" timestamp="1598461014833">
         <mark key="'" line="87" column="52" />
-        <mark key="[" line="98" column="60" />
+        <mark key="[" line="105" column="55" />
         <mark key="]" line="98" column="60" />
         <mark key="." line="98" column="60" />
         <mark key="^" line="100" column="72" />
@@ -204,6 +199,13 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="46" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/components/RuleSetDetail.jsx" timestamp="1598460685130">
+        <mark key="'" line="159" column="8" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="78" column="64" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetActionType.js" timestamp="1598451326241">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="2" column="59" />
@@ -212,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="38" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="18" column="14" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="41" column="0" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/build.xml" />
       <jump line="4" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
@@ -312,6 +313,7 @@
       <jump line="86" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
       <jump line="88" column="81" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
       <jump line="95" column="43" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
+      <jump line="149" column="61" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1266,43 +1268,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHNwbGl0IGxocyB0byBhdHRyaWJ1dGUgdHlwZSBhbmQgYXR0cmlidXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9DYXJkTGF5b3V0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>convertAttribute(from.lhs),</text>
+        <text>onDeleteLineItem</text>
       </register>
       <register name="/" type="4">
-        <text>convert</text>
+        <text>onChange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcnVsZVR5cGVzIGZyb20gJy4uLy4uL3J1bGUvY29udGFpbmVycy9SdWxlQWN0aW9uVHlwZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJm5ic3A7Jm5ic3A7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHNwbGl0IGxocyB0byBhdHRyaWJ1dGUgdHlwZSBhbmQgYXR0cmlidXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9DYXJkTGF5b3V0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRpc3BhdGNoKHsgdHlwZTogdHlwZXMuUkVDRUlWRURfR0VUX0lPX1JFU1BPTlNFLCBvazogdHJ1ZSwgZGF0YTogaW8sIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnN0IGlvID0gY29udmVydElvRnJvbUNvbnRyb2xsZXIocmVzcG9uc2UuZGF0YS5pbywgZ2V0c3RhdGUoKS5pby5yZWZlcmVuY2VEYXRhLCByZXNwb25zZS5kYXRhLnJlYWxtKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkV2lkdGhQZXJjZW50YWdlID0gJzIzJSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb252ZXJ0SW9Gcm9tQ29udHJvbGxlcn0gZnJvbSAiLi4vLi4vaW8vQ29udmVydGVycyI7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVzZWprCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIHt9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/$/,/g</text>
@@ -1311,9 +1313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>convert</last-search>
+      <last-search>onChange</last-search>
       <last-offset />
-      <last-pattern>convert</last-pattern>
+      <last-pattern>onChange</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
