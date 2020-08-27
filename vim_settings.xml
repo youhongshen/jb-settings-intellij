@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>INIT_IO</entry>
         <entry>RECEIVE_PRIC</entry>
         <entry>PRICING_</entry>
         <entry>convert</entry>
@@ -27,6 +26,7 @@
         <entry>submit</entry>
         <entry>RECEIVED_IO_RE</entry>
         <entry>RECEIVED_IO</entry>
+        <entry>useEffect</entry>
       </history-search>
       <history-cmd>
         <entry>413</entry>
@@ -126,15 +126,10 @@
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1598561170243">
         <mark key="[" line="212" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOReducer.js" timestamp="1598561138098">
-        <mark key="'" line="388" column="19" />
+        <mark key="'" line="386" column="19" />
         <mark key="[" line="16" column="39" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="23" />
       </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/repository/LambdaModules.java" timestamp="1598557047286">
         <mark key="'" line="141" column="42" />
@@ -144,12 +139,8 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" timestamp="1598560996015">
-        <mark key="'" line="98" column="20" />
-        <mark key="[" line="258" column="28" />
-        <mark key="]" line="250" column="46" />
-        <mark key="." line="250" column="45" />
-        <mark key="^" line="250" column="46" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" timestamp="1598562063148">
+        <mark key="'" line="2" column="15" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/rule/components/RuleDetail.jsx" timestamp="1598481750229">
         <mark key="[" line="40" column="34" />
@@ -165,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="64" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
-      <jump line="154" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/BasicInfo.jsx" />
       <jump line="146" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/BasicInfo.jsx" />
       <jump line="55" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/BasicInfo.jsx" />
       <jump line="116" column="69" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" />
@@ -265,6 +254,8 @@
       <jump line="372" column="46" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOReducer.js" />
       <jump line="387" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOReducer.js" />
       <jump line="386" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOReducer.js" />
+      <jump line="241" column="45" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
+      <jump line="2" column="15" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1219,43 +1210,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVpRGlzcGxheSA9IHsKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja01hcHBpbmcgPSBpb0Zvcm1VcGRhdGVkID8gaW8udmVyc2lvbiA+IGlvVmVyc2lvbiA6IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>RECEIVED_IO</text>
+        <text>useEffect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja0lPVXBkYXRlU3VjY2VzcyA9IGlvRm9ybVVwZGF0ZWQgPyBpby52ZXJzaW9uID4gaW9WZXJzaW9uIDogdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVpRGlzcGxheSA9IHsKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja01hcHBpbmcgPSBpb0Zvcm1VcGRhdGVkID8gaW8udmVyc2lvbiA+IGlvVmVyc2lvbiA6IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja0lPVXBkYXRlU3VjY2VzcyA9IGlvRm9ybVVwZGF0ZWQgPyBpby52ZXJzaW9uID4gaW9WZXJzaW9uIDogdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVpRGlzcGxheSA9IHsKICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlvOiB7Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNTYXZlU3VjY2Vzcwo=</text>
+        <text encoding="base64">ICAgIGlvOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlIGZpZWxkID4gaXNTYXZlQW5kRXhpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKHt0eXBlOiB0eXBlc30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNTYXZlU3VjY2Vzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlIGZpZWxkID4gaXNTYXZlQW5kRXhpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/$/,/g</text>
@@ -1264,9 +1255,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>RECEIVED_IO</last-search>
+      <last-search>useEffect</last-search>
       <last-offset />
-      <last-pattern>RECEIVED_IO</last-pattern>
+      <last-pattern>useEffect</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
