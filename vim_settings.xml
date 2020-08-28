@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>billingMarke</entry>
         <entry>Button</entry>
         <entry>spinner</entry>
         <entry>io.version</entry>
@@ -27,6 +26,7 @@
         <entry>arn</entry>
         <entry>IAM</entry>
         <entry>iam</entry>
+        <entry>VPCStack-Cl</entry>
       </history-search>
       <history-cmd>
         <entry>1194</entry>
@@ -123,7 +123,7 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1598561170243">
         <mark key="[" line="212" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1598636530622">
+      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1598639316298">
         <mark key="'" line="75" column="30" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-iam/lib/iam.generated.d.ts" timestamp="1598636470348">
@@ -139,11 +139,11 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1598636506453">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1598639374294">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="83" />
       </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/build.xml" timestamp="1598631061679">
         <mark key="'" line="25" column="72" />
@@ -1207,43 +1207,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>iam</text>
+        <text>VPCStack-Cl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGlhbSA9IHJlcXVpcmUoJ0Bhd3MtY2RrL2F3cy1pYW0nKTsK</text>
+        <text encoding="base64">ICAgICAgICBpYW0uTWFuYWdlZFBvbGljeS5mcm9tQXdzTWFuYWdlZFBvbGljeU5hbWUoJ0FXU0xhbWJkYVZQQ0FjY2Vzc0V4ZWN1dGlvblJvbGUnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hbmFnZWRQb2xpY3kgPSByZXF1aXJlKCdAYXdzLWNkaycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1hbmFnZWRQb2xpY3kgCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hbmFnZWRQb2xpY3kgPSByZXF1aXJlKCdAYXdzLWNkaycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIE1hbmFnZWRQb2xpY3kgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBicmF6aWxQYWNrYWdlOiBCcmF6aWxQYWNrYWdlLmZyb21Qcm9wcyh7bmFtZTogJ0QxNkdPTVNSb2Rlb1N5bmNXb3JrZmxvdycsIGJyYW5jaDogJ21haW5saW5lJ30pLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBicmF6aWxQYWNrYWdlOiBCcmF6aWxQYWNrYWdlLmZyb21Qcm9wcyh7bmFtZTogJ0QxNkdPTVNSb2Rlb1N5bmNXb3JrZmxvdycsIGJyYW5jaDogJ21haW5saW5lJ30pLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja01hcHBpbmcgPSBpb0Zvcm1VcGRhdGVkID8gaW8udmVyc2lvbiA+IGlvVmVyc2lvbiA6IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja0lPVXBkYXRlU3VjY2VzcyA9IGlvRm9ybVVwZGF0ZWQgPyBpby52ZXJzaW9uID4gaW9WZXJzaW9uIDogdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja01hcHBpbmcgPSBpb0Zvcm1VcGRhdGVkID8gaW8udmVyc2lvbiA+IGlvVmVyc2lvbiA6IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1252,9 +1252,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>iam</last-search>
+      <last-search>VPCStack-Cl</last-search>
       <last-offset />
-      <last-pattern>iam</last-pattern>
+      <last-pattern>VPCStack-Cl</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
