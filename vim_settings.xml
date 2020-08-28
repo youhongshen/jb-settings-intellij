@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PRICING_</entry>
-        <entry>convert</entry>
         <entry>onChange</entry>
         <entry>displayN</entry>
         <entry>selected</entry>
@@ -27,10 +25,10 @@
         <entry>RECEIVED_IO</entry>
         <entry>useEffect</entry>
         <entry>Allegi</entry>
+        <entry>\\</entry>
+        <entry>fail</entry>
       </history-search>
       <history-cmd>
-        <entry>413</entry>
-        <entry>792</entry>
         <entry>1194</entry>
         <entry>294</entry>
         <entry>9871</entry>
@@ -40,15 +38,17 @@
         <entry>1103</entry>
         <entry>g/\\/s///g</entry>
         <entry>g/\/s///g</entry>
-        <entry>set ic</entry>
-        <entry>$</entry>
-        <entry>0</entry>
         <entry>.,$g/;/s///g</entry>
         <entry>.,$s/;//g</entry>
         <entry>.,$s/^/'/</entry>
         <entry>.,$s/$/'/</entry>
         <entry>.,$s/$/,/</entry>
         <entry>.,$s/$/,/g</entry>
+        <entry>s/\\//g</entry>
+        <entry>$A</entry>
+        <entry>$</entry>
+        <entry>0</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,14 +132,17 @@
         <mark key="'" line="386" column="19" />
         <mark key="[" line="16" column="39" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" timestamp="1598625742751">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="155" column="1" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/repository/LambdaModules.java" timestamp="1598557047286">
         <mark key="'" line="141" column="42" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1598559146708" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineCard.jsx" timestamp="1598481012745">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="34" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" timestamp="1598562063148">
         <mark key="'" line="2" column="15" />
       </file>
@@ -151,9 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/BasicInfo.jsx" />
-      <jump line="55" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/BasicInfo.jsx" />
-      <jump line="116" column="69" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" />
       <jump line="46" column="40" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" />
       <jump line="80" column="21" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/AccountDetails.jsx" />
       <jump line="37" column="33" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/BasicInfo.jsx" />
@@ -251,6 +251,9 @@
       <jump line="386" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOReducer.js" />
       <jump line="241" column="45" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
       <jump line="2" column="15" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
+      <jump line="1" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
+      <jump line="12" column="21" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1204,14 +1207,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja01hcHBpbmcgPSBpb0Zvcm1VcGRhdGVkID8gaW8udmVyc2lvbiA+IGlvVmVyc2lvbiA6IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Allegi</text>
+        <text>fail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBzaG91bGRDaGVja0lPVXBkYXRlU3VjY2VzcyA9IGlvRm9ybVVwZGF0ZWQgPyBpby52ZXJzaW9uID4gaW9WZXJzaW9uIDogdHJ1ZTsK</text>
@@ -1244,17 +1247,17 @@
         <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlIGZpZWxkID4gaXNTYXZlQW5kRXhpdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>.,$s/$/,/g</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Allegi</last-search>
+      <last-search>fail</last-search>
       <last-offset />
-      <last-pattern>Allegi</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>fail</last-pattern>
+      <last-replace />
+      <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
