@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>VPCStack-Cl</entry>
         <entry>arn:aws:iam::aws:policy</entry>
         <entry>OMS_AWS_REG</entry>
         <entry>OMS_SERVIC</entry>
@@ -27,6 +26,7 @@
         <entry>errorM</entry>
         <entry>GREAT</entry>
         <entry>THAN</entry>
+        <entry>recall</entry>
       </history-search>
       <history-cmd>
         <entry>294</entry>
@@ -106,7 +106,9 @@
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/RuleCheckConditionGeneratorTest.java" timestamp="1598991678205">
         <mark key="[" line="171" column="5" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1599004343771" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1599007801349">
+        <mark key="'" line="715" column="7" />
+      </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSModel/D16GOMSModel-1.0.2711.0/RHEL5_64/generic-flavor/src/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowRequest.java" timestamp="1598806674699" />
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/tst/com/amazon/d16gomslambda/lambda/handlers/OmsLineItemDDBToSNSHandlerTest.java" timestamp="1598807706974" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetail.java" timestamp="1598806747006">
@@ -159,9 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="83" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
-      <jump line="432" column="4" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
-      <jump line="479" column="30" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="482" column="90" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="121" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOContainer.jsx" />
       <jump line="245" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ApprovalWorkflowsController.java" />
@@ -259,6 +258,9 @@
       <jump line="25" column="29" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailTest.java" />
       <jump line="170" column="74" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" />
       <jump line="171" column="15" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" />
+      <jump line="935" column="10" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
+      <jump line="658" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
+      <jump line="715" column="7" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1219,7 +1221,7 @@
         <text>TRUE</text>
       </register>
       <register name="/" type="4">
-        <text>THAN</text>
+        <text>recall</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgiUm9kZW8gc3luYyBmYWlsZWQgZm9yIGlvTGluZUlkOiB7JXN9Iiwgc2RmLmZvcm1hdChuZXcgRGF0ZSgpKSk7Cg==</text>
@@ -1258,9 +1260,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>THAN</last-search>
+      <last-search>recall</last-search>
       <last-offset />
-      <last-pattern>THAN</last-pattern>
+      <last-pattern>recall</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
