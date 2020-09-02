@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>arn:aws:iam::aws:policy</entry>
         <entry>OMS_AWS_REG</entry>
         <entry>OMS_SERVIC</entry>
         <entry>Rodeo</entry>
@@ -27,6 +26,7 @@
         <entry>GREAT</entry>
         <entry>THAN</entry>
         <entry>recall</entry>
+        <entry>curr</entry>
       </history-search>
       <history-cmd>
         <entry>294</entry>
@@ -110,6 +110,7 @@
         <mark key="'" line="715" column="7" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSModel/D16GOMSModel-1.0.2711.0/RHEL5_64/generic-flavor/src/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowRequest.java" timestamp="1598806674699" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.10950.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Advertiser.java" timestamp="1599062605432" />
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/tst/com/amazon/d16gomslambda/lambda/handlers/OmsLineItemDDBToSNSHandlerTest.java" timestamp="1598807706974" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetail.java" timestamp="1598806747006">
         <mark key="[" line="18" column="40" />
@@ -134,11 +135,9 @@
         <mark key="." line="494" column="29" />
         <mark key="^" line="494" column="31" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1598805675774" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/ApprovalWorkflowExecutionRepository.java" timestamp="1599004233038" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/text/DateFormatSymbols.java" timestamp="1598974770051" />
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/tst/com/amazon/d16gomslambda/lambda/handlers/OmsIOLineDeleteEventHandlerTest.java" timestamp="1598807092890" />
-      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/tst/com/amazon/d16gomslambda/lambda/handlers/ForecastBookWorkflowPartitionInputHandlerTest.java" timestamp="1598806190710" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1598808830615">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -149,6 +148,7 @@
       <file name="/Dummy.txt" timestamp="1598807132793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GGssDashboardInterface/D16GGssDashboardInterface-1.0.2564.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/package.D16GGssDashboardInterface-1.0.jar!/com/amazon/d16g/gss/dashboard/model/external/AccountDetail.class" timestamp="1599062683471" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" timestamp="1598975182358">
         <mark key="'" line="171" column="15" />
         <mark key="[" line="171" column="0" />
@@ -1221,7 +1221,7 @@
         <text>TRUE</text>
       </register>
       <register name="/" type="4">
-        <text>recall</text>
+        <text>curr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgiUm9kZW8gc3luYyBmYWlsZWQgZm9yIGlvTGluZUlkOiB7JXN9Iiwgc2RmLmZvcm1hdChuZXcgRGF0ZSgpKSk7Cg==</text>
@@ -1260,9 +1260,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>recall</last-search>
+      <last-search>curr</last-search>
       <last-offset />
-      <last-pattern>recall</last-pattern>
+      <last-pattern>curr</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
