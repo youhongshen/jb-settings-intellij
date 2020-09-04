@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>VpnPrivateSubnetI</entry>
-        <entry>VpnPrivateSubnet</entry>
         <entry>VpcPrivateSubnet</entry>
         <entry>LamdaSecurityG</entry>
         <entry>LambdaSecurity</entry>
@@ -27,6 +24,9 @@
         <entry>rate</entry>
         <entry>copyValueToAllL</entry>
         <entry>copyValueToAll</entry>
+        <entry>hidden</entry>
+        <entry>calculateImre</entry>
+        <entry>calculateImpre</entry>
       </history-search>
       <history-cmd>
         <entry>294</entry>
@@ -110,8 +110,8 @@
         <mark key="'" line="715" column="7" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.10950.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Advertiser.java" timestamp="1599062605432" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599186446409">
-        <mark key="'" line="661" column="19" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599188007217">
+        <mark key="'" line="418" column="5" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailTest.java" timestamp="1598808930515">
         <mark key="[" line="11" column="0" />
@@ -148,20 +148,17 @@
         <mark key="^" line="171" column="134" />
         <mark key="." line="171" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1599186744032">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/approvalworkflows/businessrules/conditiongenerator/impl/IncrementalCheckConditionGenerator.java" timestamp="1599147688876">
         <mark key="[" line="78" column="17" />
         <mark key="]" line="78" column="27" />
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1598808115761">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="39" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
-      <jump line="83" column="48" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
-      <jump line="86" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
       <jump line="88" column="81" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
       <jump line="95" column="43" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ruleSet/containers/RuleSetAction.js" />
       <jump line="149" column="61" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
@@ -259,6 +256,9 @@
       <jump line="325" column="57" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="331" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="393" column="63" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
+      <jump line="311" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
+      <jump line="418" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1219,7 +1219,7 @@
         <text>TRUE</text>
       </register>
       <register name="/" type="4">
-        <text>copyValueToAll</text>
+        <text>calculateImpre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgiUm9kZW8gc3luYyBmYWlsZWQgZm9yIGlvTGluZUlkOiB7JXN9Iiwgc2RmLmZvcm1hdChuZXcgRGF0ZSgpKSk7Cg==</text>
@@ -1258,9 +1258,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>copyValueToAll</last-search>
+      <last-search>calculateImpre</last-search>
       <last-offset />
-      <last-pattern>copyValueToAll</last-pattern>
+      <last-pattern>calculateImpre</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
