@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>IOLINE_UPD</entry>
         <entry>ioLine</entry>
         <entry>ioRat</entry>
         <entry>priceProd</entry>
@@ -27,6 +26,7 @@
         <entry>RECEIVED_PRI</entry>
         <entry>23.87</entry>
         <entry>price</entry>
+        <entry>IOLINE_RECE</entry>
       </history-search>
       <history-cmd>
         <entry>9871</entry>
@@ -107,8 +107,8 @@
         <mark key="'" line="715" column="7" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.10950.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Advertiser.java" timestamp="1599062605432" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599255393498">
-        <mark key="'" line="486" column="49" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599258623040">
+        <mark key="'" line="710" column="0" />
         <mark key="[" line="1181" column="20" />
         <mark key="]" line="1168" column="11" />
         <mark key="^" line="1168" column="11" />
@@ -171,7 +171,6 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemContainer.jsx" timestamp="1599245682254" />
     </filemarks>
     <jumps>
-      <jump line="325" column="57" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="331" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="393" column="63" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="311" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
@@ -271,6 +270,7 @@
       <jump line="362" column="33" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="384" column="47" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="387" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="710" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1231,7 +1231,7 @@
         <text>price</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text>IOLINE_RECE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zdCBwcmljZSA9IDIzLjg3Owo=</text>
@@ -1270,9 +1270,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>price</last-search>
+      <last-search>IOLINE_RECE</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern>IOLINE_RECE</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
