@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>shouldCopyIOR</entry>
-        <entry>shouldCopyFC</entry>
-        <entry>getIO</entry>
         <entry>describe</entry>
         <entry>soldCPM</entry>
         <entry>addProd</entry>
@@ -27,6 +24,9 @@
         <entry>pricingResp</entry>
         <entry>ADD_PROD</entry>
         <entry>priceP</entry>
+        <entry>RECEIVED_PR</entry>
+        <entry>copyValueToAllLineI</entry>
+        <entry>RECEIVED_PRI</entry>
       </history-search>
       <history-cmd>
         <entry>9871</entry>
@@ -47,8 +47,8 @@
         <entry>$</entry>
         <entry>set ic</entry>
         <entry>-</entry>
-        <entry>0</entry>
         <entry>261</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,12 +107,12 @@
         <mark key="'" line="715" column="7" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.10950.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Advertiser.java" timestamp="1599062605432" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599246581564">
-        <mark key="'" line="890" column="93" />
-        <mark key="[" line="1085" column="0" />
-        <mark key="]" line="1071" column="20" />
-        <mark key="^" line="1071" column="20" />
-        <mark key="." line="1071" column="19" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599251440863">
+        <mark key="'" line="1173" column="26" />
+        <mark key="[" line="1181" column="20" />
+        <mark key="]" line="1168" column="11" />
+        <mark key="^" line="1168" column="11" />
+        <mark key="." line="1168" column="10" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1599249727215">
         <mark key="'" line="423" column="19" />
@@ -143,12 +143,12 @@
         <mark key="'" line="122" column="34" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GGssDashboardInterface/D16GGssDashboardInterface-1.0.2564.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/package.D16GGssDashboardInterface-1.0.jar!/com/amazon/d16g/gss/dashboard/model/external/AccountDetail.class" timestamp="1599062683471" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599249817292">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599251586541">
         <mark key="'" line="172" column="20" />
-        <mark key="[" line="156" column="21" />
-        <mark key="]" line="172" column="21" />
-        <mark key="." line="172" column="20" />
-        <mark key="^" line="172" column="21" />
+        <mark key="[" line="363" column="16" />
+        <mark key="]" line="363" column="16" />
+        <mark key="." line="363" column="16" />
+        <mark key="^" line="363" column="32" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1599245660238">
         <mark key="'" line="238" column="0" />
@@ -162,34 +162,6 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemContainer.jsx" timestamp="1599245682254" />
     </filemarks>
     <jumps>
-      <jump line="356" column="21" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
-      <jump line="354" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
-      <jump line="102" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="146" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="370" column="32" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="369" column="49" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="47" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="3" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="4" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="5" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="6" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="7" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="8" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="31" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="39" column="26" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" />
-      <jump line="180" column="4" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="192" column="18" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="237" column="34" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="257" column="6" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="261" column="36" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="232" column="36" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="210" column="36" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="188" column="36" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="54" column="22" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="38" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
-      <jump line="25" column="29" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailTest.java" />
       <jump line="170" column="74" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" />
       <jump line="171" column="15" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" />
       <jump line="935" column="10" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
@@ -230,8 +202,6 @@
       <jump line="400" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="401" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1073" column="122" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="1075" column="128" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="1076" column="126" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="122" column="34" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="203" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="391" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" />
@@ -262,6 +232,36 @@
       <jump line="175" column="40" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="423" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="172" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="1094" column="51" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1168" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="913" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="916" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="952" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="961" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="976" column="42" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="971" column="92" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="975" column="42" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="993" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="996" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1043" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1074" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1075" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1076" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1077" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1115" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1118" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1120" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1121" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1122" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1136" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1177" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1178" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1182" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="391" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="385" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1169" column="88" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1173" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1216,13 +1216,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>priceP</text>
+        <text>RECEIVED_PRI</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIGZpZWxkLCB7Cg==</text>
@@ -1261,9 +1261,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>priceP</last-search>
+      <last-search>RECEIVED_PRI</last-search>
       <last-offset />
-      <last-pattern>priceP</last-pattern>
+      <last-pattern>RECEIVED_PRI</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
