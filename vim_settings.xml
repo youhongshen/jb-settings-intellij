@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>describe</entry>
-        <entry>soldCPM</entry>
-        <entry>addProd</entry>
-        <entry>initLineItems</entry>
         <entry>initLineItem</entry>
         <entry encoding="base64">PExpbmVJ</entry>
         <entry>unca</entry>
@@ -27,6 +23,10 @@
         <entry>RECEIVED_PR</entry>
         <entry>copyValueToAllLineI</entry>
         <entry>RECEIVED_PRI</entry>
+        <entry>UPDATE_FIELD_IO</entry>
+        <entry>UPDATE_FIE</entry>
+        <entry>FORM_VALIDATION</entry>
+        <entry>UPDATE_IO</entry>
       </history-search>
       <history-cmd>
         <entry>9871</entry>
@@ -107,8 +107,8 @@
         <mark key="'" line="715" column="7" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.10950.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Advertiser.java" timestamp="1599062605432" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599251440863">
-        <mark key="'" line="1173" column="26" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1599254238272">
+        <mark key="'" line="1197" column="34" />
         <mark key="[" line="1181" column="20" />
         <mark key="]" line="1168" column="11" />
         <mark key="^" line="1168" column="11" />
@@ -147,7 +147,7 @@
         <mark key="'" line="122" column="34" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GGssDashboardInterface/D16GGssDashboardInterface-1.0.2564.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/package.D16GGssDashboardInterface-1.0.jar!/com/amazon/d16g/gss/dashboard/model/external/AccountDetail.class" timestamp="1599062683471" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599251586541">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599254230518">
         <mark key="'" line="172" column="20" />
         <mark key="[" line="363" column="16" />
         <mark key="]" line="363" column="16" />
@@ -166,10 +166,6 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemContainer.jsx" timestamp="1599245682254" />
     </filemarks>
     <jumps>
-      <jump line="170" column="74" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" />
-      <jump line="171" column="15" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetIOLineDetailsActivityWorker.java" />
-      <jump line="935" column="10" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="658" column="35" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="715" column="7" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="51" column="33" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="661" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -266,6 +262,10 @@
       <jump line="385" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1169" column="88" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1173" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1190" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="655" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="642" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="1197" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1226,7 +1226,7 @@
         <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>RECEIVED_PRI</text>
+        <text>UPDATE_IO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIGZpZWxkLCB7Cg==</text>
@@ -1265,9 +1265,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>RECEIVED_PRI</last-search>
+      <last-search>UPDATE_IO</last-search>
       <last-offset />
-      <last-pattern>RECEIVED_PRI</last-pattern>
+      <last-pattern>UPDATE_IO</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
