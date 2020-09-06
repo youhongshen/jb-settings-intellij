@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>RECEIVED_PR</entry>
         <entry>copyValueToAllLineI</entry>
         <entry>UPDATE_FIELD_IO</entry>
         <entry>UPDATE_FIE</entry>
@@ -27,6 +26,7 @@
         <entry>shouldCopy</entry>
         <entry>isSov</entry>
         <entry>shouldCopyIO</entry>
+        <entry>addProd</entry>
       </history-search>
       <history-cmd>
         <entry>9871</entry>
@@ -153,8 +153,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GGssDashboardInterface/D16GGssDashboardInterface-1.0.2564.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/package.D16GGssDashboardInterface-1.0.jar!/com/amazon/d16g/gss/dashboard/model/external/AccountDetail.class" timestamp="1599062683471" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599269230734">
-        <mark key="'" line="387" column="25" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599411592248">
+        <mark key="'" line="363" column="27" />
         <mark key="[" line="384" column="43" />
         <mark key="]" line="384" column="48" />
         <mark key="." line="384" column="47" />
@@ -178,7 +178,6 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemContainer.jsx" timestamp="1599259663529" />
     </filemarks>
     <jumps>
-      <jump line="172" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="1094" column="51" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1168" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="913" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -278,6 +277,7 @@
       <jump line="393" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="396" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="397" column="70" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
+      <jump line="363" column="27" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1238,7 +1238,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>shouldCopyIO</text>
+        <text>addProd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBpb0xpbmUuYWRQYWNrYWdlVHlwZSA9PT0gJ0NMQVNTX0knICYmICEgaXNGbGF0UmF0ZVByb2R1Y3QoaW9MaW5lKTsK</text>
@@ -1277,9 +1277,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>shouldCopyIO</last-search>
+      <last-search>addProd</last-search>
       <last-offset />
-      <last-pattern>shouldCopyIO</last-pattern>
+      <last-pattern>addProd</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
