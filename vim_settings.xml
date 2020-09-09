@@ -130,15 +130,8 @@
       <file name="/Volumes/workplace/RDE-D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/Config" timestamp="1599606005154">
         <mark key="[" line="16" column="15" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemContainer.jsx" timestamp="1599259663529" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" timestamp="1599592906651">
         <mark key="'" line="715" column="7" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1599255771584">
-        <mark key="'" line="1321" column="58" />
-        <mark key="[" line="1304" column="3" />
-        <mark key="]" line="1304" column="3" />
-        <mark key="." line="1304" column="3" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1599591247096">
         <mark key="'" line="334" column="44" />
@@ -148,12 +141,14 @@
         <mark key="." line="382" column="7" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/workflows/approvalworkflows/ApprovalWorkflowsMetadataResourceImpl.java" timestamp="1599593136022" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/dogma/dogma_tags.d.ts" timestamp="1599661152225" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/IOLineDao.java" timestamp="1599592667020" />
       <file name="/Config" timestamp="1599601177504" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/configuration/brazil-config/override/D16GOMSWeb.cfg" timestamp="1599252261868">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1599662505036">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" timestamp="1599275038731">
         <mark key="'" line="122" column="34" />
@@ -163,6 +158,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1599600603975">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1599661394096">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1599411592248">
         <mark key="'" line="363" column="27" />
@@ -1228,44 +1229,48 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getId(), &quot;1&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getId(), &quot;1&quot;);</text>
+        <text>alpha</text>
       </register>
       <register name="/" type="4">
         <text>costMe</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoaW8uZ2V0SWQoKSwgIjEiKTsK</text>
+      <register name="0" type="4">
+        <text>const alphaBootstrapStack = BootstrapStack.personalBootstrap(app, {
+  account: alphaAccount,
+  region: regionIAD,
+  disambiguator: 'D16GOMSServiceAlpha'    // I think this must be the account name
+});</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gfTsK</text>
+        <text encoding="base64">ICBzb2Z0d2FyZVR5cGU6IFNvZnR3YXJlVHlwZS5MT05HX1JVTk5JTkdfU0VSVklDRQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgIHJldHVybiBpb0xpbmUuYWRQYWNrYWdlVHlwZSA9PT0gJ0NMQVNTX0knICYmICEgaXNGbGF0UmF0ZVByb2R1Y3QoaW9MaW5lKTsK</text>
+        <text encoding="base64">ICBlbnY6IGJldGFCb290c3RyYXBTdGFjay5kZXBsb3ltZW50RW52aXJvbm1lbnQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc2hvdWxkQ29weUZDYXBWYWx1ZXMgPSAoaW9MaW5lKSA9PiB7Cg==</text>
+        <text encoding="base64">bmV3IEluZnJhU3RhY2soYXBwLCAnbGFtYmRhLWJldGEnLCAnYmV0YScsewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAhbGluZUl0ZW0uaXNGaWVsZEVkaXRhYmxlWyJmcmVxdWVuY3lDYXBNYXhDb3VudCJdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBkaXNhbWJpZ3VhdG9yOiAnRDE2R09NU1NlcnZpY2VCZXRhJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICByZWdpb246IHJlZ2lvbklBRCwK</text>
       </register>
       <register name=":" type="4">
         <text>261</text>
