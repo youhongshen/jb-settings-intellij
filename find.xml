@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="OMS*java, SetupCampaign*java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,5 +13,8 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*ActivityWorker.java</mask>
+    <mask>OMS*java</mask>
+    <mask>OMS*java, Setup*java</mask>
+    <mask>OMS*java, SetupCampaign*java</mask>
   </component>
 </application>
