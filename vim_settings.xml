@@ -161,12 +161,12 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalWorkflowMapping.java" timestamp="1599666820039">
         <mark key="'" line="44" column="54" />
       </file>
-      <file name="/Volumes/workplace/RDE-D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1599750960161">
+      <file name="/Volumes/workplace/RDE-D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1599752741459">
         <mark key="'" line="10" column="11" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="15" />
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="174" />
+        <mark key="." line="54" column="173" />
+        <mark key="^" line="54" column="174" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1599684125501">
         <mark key="[" line="40" column="64" />
@@ -1230,16 +1230,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>container</text>
+        <text>sam local invoke ExampleLambdaF227E16E --event /tmp/events/setup_campaign_proposal_detail_request.json</text>
       </register>
       <register name="-" type="4">
-        <text>container</text>
+        <text>sam local invoke ExampleLambdaF227E16E --event /tmp/events/setup_campaign_proposal_detail_request.json</text>
       </register>
       <register name="/" type="4">
         <text>IDM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZDogc2FtIGxvY2FsIGludm9rZSBFeGFtcGxlTGFtYmRhIC0tZXZlbnQgL3RtcC9ldmVudHMvc2V0dXBfY2FtcGFpZ25fcHJvcG9zYWxfZGV0YWlsX3JlcXVlc3QuanNvbgo=</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZDogc2FtIGxvY2FsIGludm9rZSBFeGFtcGxlTGFtYmRhRjIyN0UxNkUgLS1ldmVudCAvdG1wL2V2ZW50cy9zZXR1cF9jYW1wYWlnbl9wcm9wb3NhbF9kZXRhaWxfcmVxdWVzdC5qc29uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Igo=</text>
