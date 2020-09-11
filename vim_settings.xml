@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>shouldCopy</entry>
         <entry>isSov</entry>
         <entry>shouldCopyIO</entry>
         <entry>addProd</entry>
@@ -27,6 +26,7 @@
         <entry>bobaEa</entry>
         <entry>rodoeEasy</entry>
         <entry>rodeoEas</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -116,8 +116,8 @@
         <mark key="." line="102" column="106" />
         <mark key="^" line="102" column="107" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1599777552380">
-        <mark key="'" line="579" column="51" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1599849828248">
+        <mark key="'" line="152" column="54" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaign.json" timestamp="1599779509742">
         <mark key="[" line="0" column="0" />
@@ -181,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="5" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="385" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="921" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="924" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="959" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -281,6 +279,8 @@
       <jump line="130" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
       <jump line="166" column="50" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
       <jump line="167" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
+      <jump line="130" column="18" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="152" column="54" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1374,7 +1374,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>rodeoEas</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoImFib3V0IHRvIHJldHJpZXZlIGlvIGlkID0gJXMiLCByZXF1ZXN0LmdldElvSWQoKSkpOwo=</text>
@@ -1765,9 +1765,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rodeoEas</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>rodeoEas</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
