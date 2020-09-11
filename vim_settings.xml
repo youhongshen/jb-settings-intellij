@@ -116,7 +116,9 @@
         <mark key="." line="102" column="106" />
         <mark key="^" line="102" column="107" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1599849828248">
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1599851609485" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSInterface/D16GOMSInterface-1.0.4715.0/AL2012/generic-flavor/src/src/com/amazon/d16g/oms/service/resource/IOLineResource.java" timestamp="1599851782071" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1599851031642">
         <mark key="'" line="152" column="54" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaign.json" timestamp="1599779509742">
@@ -135,49 +137,31 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/.aws/credentials" timestamp="1599765479847">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/input/setup_campaign_proposal_detail_request.json" timestamp="1599766331329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/Config" timestamp="1599849315999" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/CampaignProposalDetailsSanityCheckWorker.java" timestamp="1599852573501" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1599850745925" />
       <file name="/Dummy.json" timestamp="1599767032000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1599767031995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1599765116405">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="48" column="109" />
-        <mark key="]" line="48" column="110" />
-        <mark key="." line="48" column="109" />
-        <mark key="^" line="48" column="110" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/template.yaml" timestamp="1599766189222">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1599849150485" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowRequest.java" timestamp="1599851388831" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateCampaignFromProposalDetailsWorker.java" timestamp="1599773981231">
         <mark key="'" line="125" column="24" />
-      </file>
-      <file name="/Volumes/workplace/RDE-D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1599764923155">
-        <mark key="'" line="10" column="11" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" timestamp="1599775727939">
         <mark key="'" line="167" column="16" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1599762635721">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="70" />
-        <mark key="." line="40" column="19" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1599852342993">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1235,143 +1219,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>{
-  &quot;Comment&quot;: &quot;Sync one oms ioline&quot;,
-  &quot;StartAt&quot;: &quot;SyncRodeoCampaigns&quot;,
-  &quot;States&quot;: {
-    &quot;SyncRodeoCampaigns&quot;: {
-      &quot;End&quot;: true,
-      &quot;Type&quot;: &quot;Map&quot;,
-      &quot;MaxConcurrency&quot;: 0,
-      &quot;Iterator&quot;: {
-        &quot;StartAt&quot;: &quot;SetupCampaignProposalDetails&quot;,
-        &quot;States&quot;: {
-          &quot;SetupCampaignProposalDetails&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;CampaignProposalDetailSanityCheck&quot;
-          },
-          &quot;CampaignProposalDetailSanityCheck&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;IsSanityCheckSuccess&quot;
-          },
-          &quot;IsSanityCheckSuccess&quot;: {
-            &quot;Type&quot;: &quot;Choice&quot;,
-            &quot;Choices&quot;: [
-              {
-                &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-                &quot;BooleanEquals&quot;: true,
-                &quot;Next&quot;: &quot;CampaignProposalOperationDecider&quot;
-              },
-              {
-                &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-                &quot;BooleanEquals&quot;: false,
-                &quot;Next&quot;: &quot;Fail&quot;
-              }
-            ]
-          },
-          &quot;CampaignProposalOperationDecider&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;IsCampaignCreateOrUpdate&quot;
-          },
-          &quot;IsCampaignCreateOrUpdate&quot;: {
-            &quot;Type&quot;: &quot;Choice&quot;,
-            &quot;Choices&quot;: [
-              {
-                &quot;Variable&quot;: &quot;$.operation&quot;,
-                &quot;StringEquals&quot;: &quot;CREATE&quot;,
-                &quot;Next&quot;: &quot;CreateCampaignFromProposalDetails&quot;
-              },
-              {
-                &quot;Variable&quot;: &quot;$.operation&quot;,
-                &quot;StringEquals&quot;: &quot;UPDATE&quot;,
-                &quot;Next&quot;: &quot;UpdateCampaignFromProposalDetails&quot;
-              }
-            ]
-          },
-          &quot;CreateCampaignFromProposalDetails&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;CreateProposalsMap&quot;
-          },
-          &quot;CreateProposalsMap&quot;: {
-            &quot;Type&quot;: &quot;Map&quot;,
-            &quot;MaxConcurrency&quot;: 0,
-            &quot;Iterator&quot;: {
-              &quot;StartAt&quot;: &quot;CreateProposal&quot;,
-              &quot;States&quot;: {
-                &quot;CreateProposal&quot;: {
-                  &quot;Type&quot;: &quot;Task&quot;,
-                  &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-                  &quot;End&quot;: true
-                }
-              }
-            },
-            &quot;Next&quot;: &quot;UpdateOMSMapping&quot;
-          },
-          &quot;UpdateCampaignFromProposalDetails&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;UpdateProposalsMap&quot;
-          },
-          &quot;UpdateProposalsMap&quot;: {
-            &quot;Type&quot;: &quot;Map&quot;,
-            &quot;MaxConcurrency&quot;: 0,
-            &quot;Iterator&quot;: {
-              &quot;StartAt&quot;: &quot;UpdateProposal&quot;,
-              &quot;States&quot;: {
-                &quot;ProposalOperationDecider&quot;: {
-                  &quot;Type&quot;: &quot;Task&quot;,
-                  &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-                  &quot;Next&quot;: &quot;IsProposalCreateOrUpdate&quot;
-                },
-                &quot;IsProposalCreateOrUpdate&quot;: {
-                  &quot;Type&quot;: &quot;Choice&quot;,
-                  &quot;Choices&quot;: [
-                    {
-                      &quot;Variable&quot;: &quot;$.operation&quot;,
-                      &quot;StringEquals&quot;: &quot;CREATE&quot;,
-                      &quot;Next&quot;: &quot;CreateProposal&quot;
-                    },
-                    {
-                      &quot;Variable&quot;: &quot;$.operation&quot;,
-                      &quot;StringEquals&quot;: &quot;UPDATE&quot;,
-                      &quot;Next&quot;: &quot;UpdateProposal&quot;
-                    }
-                  ]
-                },
-                &quot;CreateProposal&quot;: {
-                  &quot;Type&quot;: &quot;Task&quot;,
-                  &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-                  &quot;End&quot;: true
-                },
-                &quot;UpdateProposal&quot;: {
-                  &quot;Type&quot;: &quot;Task&quot;,
-                  &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-                  &quot;End&quot;: true
-                }
-              }
-            },
-            &quot;Next&quot;: &quot;UpdateOMSMapping&quot;
-          },
-          &quot;UpdateOMSMapping&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;End&quot;: true
-          },
-          &quot;Fail&quot;: {
-            &quot;Type&quot;: &quot;Fail&quot;
-          }
-        }
-      }
-    }
-  }
-}</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5JTzsK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.stream()</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -1380,6 +1231,30 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoImFib3V0IHRvIHJldHJpZXZlIGlvIGlkID0gJXMiLCByZXF1ZXN0LmdldElvSWQoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5JTzsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW87Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBJTyBpbyA9IHRoaXMuaW9SZXNvdXJjZS5nZXRJTyhyZXF1ZXN0LmdldElvSWQoKSwgbnVsbCwgZmFsc2UsIGZhbHNlLCByZXF1ZXN0LmdldFJlcXVlc3RDb250ZXh0KCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoInJldHJpZXZlZCBpbyBpZCA9ICVzLCBuYW1lID0gJXMsIHZlcnNpb24gPSAlZCIsIGlvLmdldElkKCksIGlvLmdldE5hbWUoKSwgaW8uZ2V0VmVyc2lvbigpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoImFib3V0IHRvIHJldHJpZXZlIGlvIGlkID0gJXMiLCByZXF1ZXN0LmdldElvSWQoKSkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJ0byBzaG93IHRoYXQgY29kZSBjaGFuZ2UgcmVmbGVjdHMiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5yb2Rlb1N5bmMuU2V0dXBDYW1wYWlnblByb3Bvc2FsRGV0YWlsUmVxdWVzdDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5SZXF1ZXN0Q29udGV4dDsK</text>
+      </register>
+      <register name="9" type="2">
         <text>{
   &quot;Comment&quot;: &quot;Sync one oms ioline&quot;,
   &quot;StartAt&quot;: &quot;SyncRodeoCampaigns&quot;,
@@ -1514,249 +1389,6 @@
     }
   }
 }</text>
-      </register>
-      <register name="2" type="2">
-        <text>{
-  &quot;Comment&quot;: &quot;Sync one oms ioline&quot;,
-  &quot;StartAt&quot;: &quot;SyncRodeoCampaigns&quot;,
-  &quot;States&quot;: {
-    &quot;SyncRodeoCampaigns&quot;: {
-      &quot;End&quot;: true,
-      &quot;Type&quot;: &quot;Map&quot;,
-      &quot;MaxConcurrency&quot;: 0,
-      &quot;Iterator&quot;: {
-        &quot;StartAt&quot;: &quot;SetupCampaignProposalDetails&quot;,
-        &quot;States&quot;: {
-          &quot;SetupCampaignProposalDetails&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;CampaignProposalDetailSanityCheck&quot;
-          },
-          &quot;CampaignProposalDetailSanityCheck&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;IsSanityCheckSuccess&quot;
-          },
-          &quot;IsSanityCheckSuccess&quot;: {
-            &quot;Type&quot;: &quot;Choice&quot;,
-            &quot;Choices&quot;: [
-              {
-                &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-                &quot;BooleanEquals&quot;: true,
-                &quot;Next&quot;: &quot;CampaignProposalOperationDecider&quot;
-              },
-              {
-                &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-                &quot;BooleanEquals&quot;: false,
-                &quot;Next&quot;: &quot;Fail&quot;
-              }
-            ]
-          },
-          &quot;CampaignProposalOperationDecider&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;IsCampaignCreateOrUpdate&quot;
-          },
-          &quot;IsCampaignCreateOrUpdate&quot;: {
-            &quot;Type&quot;: &quot;Choice&quot;,
-            &quot;Choices&quot;: [
-              {
-                &quot;Variable&quot;: &quot;$.operation&quot;,
-                &quot;StringEquals&quot;: &quot;CREATE&quot;,
-                &quot;Next&quot;: &quot;CreateCampaignFromProposalDetails&quot;
-              },
-              {
-                &quot;Variable&quot;: &quot;$.operation&quot;,
-                &quot;StringEquals&quot;: &quot;UPDATE&quot;,
-                &quot;Next&quot;: &quot;UpdateCampaignFromProposalDetails&quot;
-              }
-            ]
-          },
-          &quot;CreateCampaignFromProposalDetails&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;CreateProposalsMap&quot;
-          },
-          &quot;CreateProposalsMap&quot;: {
-            &quot;Type&quot;: &quot;Map&quot;,
-            &quot;MaxConcurrency&quot;: 0,
-            &quot;Iterator&quot;: {
-              &quot;StartAt&quot;: &quot;CreateProposal&quot;,
-              &quot;States&quot;: {
-                &quot;CreateProposal&quot;: {
-                  &quot;Type&quot;: &quot;Task&quot;,
-                  &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-                  &quot;End&quot;: true
-                }
-              }
-            },
-            &quot;Next&quot;: &quot;UpdateOMSMapping&quot;
-          },
-          &quot;UpdateCampaignFromProposalDetails&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;Next&quot;: &quot;UpdateProposalsMap&quot;
-          },
-          &quot;UpdateProposalsMap&quot;: {
-            &quot;Type&quot;: &quot;Map&quot;,
-            &quot;MaxConcurrency&quot;: 0,
-            &quot;Iterator&quot;: {
-              &quot;StartAt&quot;: &quot;UpdateProposal&quot;,
-              &quot;States&quot;: {
-                &quot;UpdateProposal&quot;: {
-                  &quot;Type&quot;: &quot;Task&quot;,
-                  &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-                  &quot;End&quot;: true
-                }
-              }
-            },
-            &quot;Next&quot;: &quot;UpdateOMSMapping&quot;
-          },
-          &quot;UpdateOMSMapping&quot;: {
-            &quot;Type&quot;: &quot;Task&quot;,
-            &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-            &quot;End&quot;: true
-          },
-          &quot;Fail&quot;: {
-            &quot;Type&quot;: &quot;Fail&quot;
-          }
-        }
-      }
-    }
-  }
-}</text>
-      </register>
-      <register name="3" type="2">
-        <text>{
-  &quot;Comment&quot;: &quot;Sync one oms ioline&quot;,
-  &quot;StartAt&quot;: &quot;SetupCampaignProposalDetails&quot;,
-  &quot;States&quot;: {
-    &quot;SetupCampaignProposalDetails&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;CampaignProposalDetailSanityCheck&quot;
-    },
-    &quot;CampaignProposalDetailSanityCheck&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;IsSanityCheckSuccess&quot;
-    },
-    &quot;IsSanityCheckSuccess&quot;: {
-      &quot;Type&quot;: &quot;Choice&quot;,
-      &quot;Choices&quot;: [
-        {
-          &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-          &quot;BooleanEquals&quot;: true,
-          &quot;Next&quot;: &quot;CampaignProposalOperationDecider&quot;
-        },
-        {
-          &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-          &quot;BooleanEquals&quot;: false,
-          &quot;Next&quot;: &quot;Done&quot;
-        }
-      ]
-    },
-    &quot;CampaignProposalOperationDecider&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,:1,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;IsCampaignCreateOrUpdate&quot;
-    },
-    &quot;IsCampaignCreateOrUpdate&quot;: {
-      &quot;Type&quot;: &quot;Choice&quot;,
-      &quot;Choices&quot;: [
-        {
-          &quot;Variable&quot;: &quot;$.operation&quot;,
-          &quot;StringEquals&quot;: &quot;CREATE&quot;,
-          &quot;Next&quot;: &quot;CreateCampaignFromProposalDetails&quot;
-        },
-        {
-          &quot;Variable&quot;: &quot;$.operation&quot;,
-          &quot;StringEquals&quot;: &quot;UPDATE&quot;,
-          &quot;Next&quot;: &quot;UpdateCampaignFromProposalDetails&quot;
-        }
-      ]
-    },
-    &quot;CreateCampaignFromProposalDetails&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;CreateProposals&quot;
-    },
-    &quot;CreateProposals&quot;: {
-
-    },
-    &quot;UpdateCampaignFromProposalDetails&quot;: {
-
-    },
-    &quot;Done&quot;: {
-      &quot;Type&quot;: &quot;Succeed&quot;
-    }
-  }
-}</text>
-      </register>
-      <register name="4" type="2">
-        <text>{
-  &quot;Comment&quot;: &quot;Sync one oms ioline&quot;,
-  &quot;StartAt&quot;: &quot;SetupCampaignProposalDetails&quot;,
-  &quot;States&quot;: {
-    &quot;SetupCampaignProposalDetails&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;CampaignProposalDetailSanityCheck&quot;
-    },
-    &quot;CampaignProposalDetailSanityCheck&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;IsSanityCheckSuccess&quot;
-    },
-    &quot;IsSanityCheckSuccess&quot;: {
-      &quot;Type&quot;: &quot;Choice&quot;,
-      &quot;Choices&quot;: [
-        {
-          &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-          &quot;BooleanEquals&quot;: true,
-          &quot;Next&quot;: &quot;CampaignProposalOperationDecider&quot;
-        },
-        {
-          &quot;Variable&quot;: &quot;$.isSuccess&quot;,
-          &quot;BooleanEquals&quot;: false,
-          &quot;Next&quot;: &quot;Done&quot;
-        }
-      ]
-    },
-    &quot;CampaignProposalOperationDecider&quot;: {
-      &quot;Type&quot;: &quot;Task&quot;,
-      &quot;Resource&quot;: &quot;arn:aws:lambda:us-east-1:793541245438:function:ExampleLambda&quot;,
-      &quot;Next&quot;: &quot;IsCampaignCreateOrUpdate&quot;
-    },
-    &quot;IsCampaignCreateOrUpdate&quot;: {
-      &quot;Type&quot;: &quot;Choice&quot;,
-      &quot;Choices&quot;: [
-        {
-          &quot;Variable&quot;: &quot;$.operation&quot;,
-          &quot;StringEquals&quot;:
-        }
-      ]
-    }
-    &quot;Done&quot;: {
-      &quot;Type&quot;: &quot;Succeed&quot;
-    }
-  }
-}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmVnaW9uPXVzLWVhc3QtMQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVnaW9uPXVzLWVhc3QtMQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICAgIGNvbW1hbmQ6IHNhbSBsb2NhbCBpbnZva2UgRXhhbXBsZUxhbWJkYSAtLWV2ZW50IC90bXAvZXZlbnRzL3NldHVwX2NhbXBhaWduX3Byb3Bvc2FsX2RldGFpbF9yZXF1ZXN0Lmpzb24K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICAgIGNvbW1hbmQ6IGF3cyBsYW1iZGEgaW52b2tlIC0tZnVuY3Rpb24tbmFtZSBFeGFtcGxlTGFtYmRhIC0taW52b2NhdGlvbi10eXBlIEV2ZW50IC0tcGF5bG9hZCBmaWxlOi8vL3RtcC9ldmVudHMvc2V0dXBfY2FtcGFpZ25fcHJvcG9zYWxfZGV0YWlsX3JlcXVlc3QuanNvbiAgcmVzcG9uc2UuanNvbgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgLSAK</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
