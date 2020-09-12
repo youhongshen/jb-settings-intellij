@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>shouldCopyIO</entry>
-        <entry>addProd</entry>
         <entry>frequencyCapMaxC</entry>
         <entry>IOLINE_UP</entry>
         <entry>costMe</entry>
@@ -27,6 +25,8 @@
         <entry>rodeoEas</entry>
         <entry>context</entry>
         <entry>new</entry>
+        <entry>OMSLam</entry>
+        <entry>Lambda</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -117,15 +117,13 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1599851031642">
         <mark key="'" line="152" column="54" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaign.json" timestamp="1599779509742">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsMap.json" timestamp="1599847795930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1599933493363">
+        <mark key="'" line="47" column="2" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/Config" timestamp="1599849315999" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/CampaignProposalDetailsSanityCheckWorker.java" timestamp="1599852573501" />
@@ -137,10 +135,16 @@
         <mark key="." line="14" column="26" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1599849150485" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/cdk.json" timestamp="1599928862320">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1599933362428">
+        <mark key="[" line="111" column="27" />
+        <mark key="]" line="111" column="27" />
+        <mark key="." line="111" column="27" />
+        <mark key="^" line="110" column="22" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/cdk.json" timestamp="1599932979115">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowRequest.java" timestamp="1599851388831" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/Config" timestamp="1599931960557">
@@ -157,10 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="924" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="959" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="960" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="967" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="983" column="42" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1002" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1032" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -257,6 +257,10 @@
       <jump line="130" column="18" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="152" column="54" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="40" column="56" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
+      <jump line="34" column="20" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
+      <jump line="42" column="5" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
+      <jump line="43" column="30" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
+      <jump line="47" column="2" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1211,43 +1215,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>Lambda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihzY29wZSwgaWQsIHByb3BzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAYW16bi9idWlsZGVyLXRvb2xzLXNjYWZmb2xkaW5nIjogIioiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5pdGlvblN0cmluZzogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAYW16bi9waXBlbGluZXMiOiAiKiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB4ID0gc2ZuLkNmblN0YXRlTWFjaGluZSh0aGlzLCAneCcsIHsKICAgICAgICAgICAgCiAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IERlcGxveW1lbnRQaXBlbGluZShhcHAsICd4Jywge30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzazogbmV3IHNmbi5DZm5TdGF0ZU1hY2hpbmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdXBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IHNmbi5UYXNrSW5wdXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzazogbmV3IHNmbl8K</text>
+        <text encoding="base64">aW1wb3J0IHNmbl90YXNrID0gcmVxdWlyZSgnQGF3cy1jZGsvYXdzLXN0ZXBmdW5jdGlvbnMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC5JTzsK</text>
+        <text encoding="base64">ICAgICAgImNka192ZXJzaW9uIjogIjEuMzIuMiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW87Cg==</text>
+        <text encoding="base64">ICAgICJAYW16bi9idWlsZGVyLXRvb2xzLXNjYWZmb2xkaW5nIjogIioiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJTyBpbyA9IHRoaXMuaW9SZXNvdXJjZS5nZXRJTyhyZXF1ZXN0LmdldElvSWQoKSwgbnVsbCwgZmFsc2UsIGZhbHNlLCByZXF1ZXN0LmdldFJlcXVlc3RDb250ZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICJAYW16bi9waXBlbGluZXMiOiAiKiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoInJldHJpZXZlZCBpbyBpZCA9ICVzLCBuYW1lID0gJXMsIHZlcnNpb24gPSAlZCIsIGlvLmdldElkKCksIGlvLmdldE5hbWUoKSwgaW8uZ2V0VmVyc2lvbigpKSk7Cg==</text>
+        <text encoding="base64">bmV3IERlcGxveW1lbnRQaXBlbGluZShhcHAsICd4Jywge30pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
@@ -1256,9 +1260,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>new</last-search>
+      <last-search>Lambda</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>Lambda</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
