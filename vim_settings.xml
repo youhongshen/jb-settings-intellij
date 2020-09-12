@@ -43,12 +43,12 @@
         <entry>.,$s/$/,/g</entry>
         <entry>s/\\//g</entry>
         <entry>$A</entry>
-        <entry>$</entry>
         <entry>set ic</entry>
         <entry>-</entry>
         <entry>261</entry>
         <entry>0</entry>
         <entry>1,$d</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,19 +103,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1599851031642">
-        <mark key="'" line="152" column="54" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" timestamp="1599951929108">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/CampaignProposalDetailsSanityCheckWorker.java" timestamp="1599852573501" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/a.json" timestamp="1599934550043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1599935303264">
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="58" column="82" />
-        <mark key="^" line="58" column="82" />
-        <mark key="." line="58" column="81" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1599951753277">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
+      <file name="/stepFunctionStack.ts" timestamp="1599952078496" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/cdk.json" timestamp="1599932979115">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -142,23 +144,32 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1599851609485" />
       <file name="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" timestamp="1599933597347" />
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSInterface/D16GOMSInterface-1.0.4715.0/AL2012/generic-flavor/src/src/com/amazon/d16g/oms/service/resource/IOLineResource.java" timestamp="1599851782071" />
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1599933493363">
         <mark key="'" line="47" column="2" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/CampaignProposalDetails.java" timestamp="1599857193749" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1599850745925" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/package.json" timestamp="1599930024184">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/constants.ts" timestamp="1599952105796">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="1" column="64" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.json" timestamp="1599951784232" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/x.json" timestamp="1599935079067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowRequest.java" timestamp="1599851388831" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/a.json" timestamp="1599935950761">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="135" />
+        <mark key="." line="1" column="134" />
+        <mark key="^" line="1" column="135" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="983" column="42" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -1215,10 +1226,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>json</text>
+        <text>ExampleLambda</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>ExampleLambda</text>
       </register>
       <register name="/" type="4">
         <text>Lambda</text>
@@ -1227,34 +1238,34 @@
         <text encoding="base64">aW1wb3J0IHtkZWZhdWx0IGFzIHJvZGVvU3luY1NmbkRlZn0gZnJvbSAnU3luY1JvZGVvQ2FtcGFpZ25zTWFwLmpzb24nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgcm9sZTogaGVsbG9Sb2xlLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgdGltZW91dDogY2RrLkR1cmF0aW9uLnNlY29uZHMoMzApLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgZGVmaW5pdGlvbjogY2hhaW4sCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBuZXcgc2ZuLlN0YXRlTWFjaGluZSh0aGlzLCAnSGVsbG9Xb3JsZENESycsIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGE6ICdiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh4KSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09Jyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB4ID0gZnMucmVhZEZpbGVTeW5jKCcuL2xpYi9hLmpzb24nKS50b0pTT04oKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIC5vdGhlcndpc2Uod2FpdFgpKTsK</text>
+        <text encoding="base64">ICAiYSI6IGAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIC53aGVuKHNmbi5Db25kaXRpb24uc3RyaW5nRXF1YWxzKCckLnN0YXR1cycsICdTVUNDRUVERUQnKSwgZmluYWxTdGF0dXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIC53aGVuKHNmbi5Db25kaXRpb24uc3RyaW5nRXF1YWxzKCckLnN0YXR1cycsICdGQUlMRUQnKSwgam9iRmFpbGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgcm9sZTogaGVsbG9Sb2xlLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>1,$d</text>
+        <text>$</text>
       </register>
     </registers>
   </component>
