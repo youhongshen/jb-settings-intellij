@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>kratosEasyClien</entry>
         <entry>rodeoEasyClient</entry>
         <entry>bobaEasy</entry>
         <entry>rodeoEasy</entry>
@@ -27,6 +26,7 @@
         <entry>lineItems</entry>
         <entry>getstate</entry>
         <entry>proposalDeta</entry>
+        <entry>pricePr</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -103,7 +103,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600096476477">
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1600116976013" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600111756489">
         <mark key="'" line="1039" column="136" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOStatus.java" timestamp="1600097622011" />
@@ -137,13 +138,13 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1600100127584">
         <mark key="'" line="118" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1599935045531">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-        <mark key="." line="23" column="42" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1600097882597" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/CampaignProposalDetails.java" timestamp="1600117161591">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="4" />
+        <mark key="^" line="36" column="48" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1600096347705">
         <mark key="'" line="412" column="0" />
       </file>
@@ -161,11 +162,8 @@
         <mark key="^" line="67" column="36" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.json" timestamp="1599951784232" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600096849280">
-        <mark key="'" line="982" column="43" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/x.json" timestamp="1599935079067">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600111785712">
+        <mark key="'" line="1051" column="4" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/a.json" timestamp="1599935950761">
         <mark key="[" line="0" column="1" />
@@ -175,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="131" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="137" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="147" column="41" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="148" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
@@ -275,6 +272,7 @@
       <jump line="108" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="113" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="118" column="43" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
+      <jump line="1051" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1229,13 +1227,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>proposalDeta</text>
+        <text>pricePr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6IGdldExhbWJkYVJlc291cmNlQXJuKHJlZ2lvbiwgYWNjb3VudCwgZXhhbXBsZUxhbWJkYUZ1bmN0aW9uTmFtZSksCg==</text>
@@ -1274,9 +1272,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>proposalDeta</last-search>
+      <last-search>pricePr</last-search>
       <last-offset />
-      <last-pattern>proposalDeta</last-pattern>
+      <last-pattern>pricePr</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
