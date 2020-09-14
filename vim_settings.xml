@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>odin</entry>
         <entry>kratosEasyClien</entry>
         <entry>rodeoEasyClient</entry>
         <entry>bobaEasy</entry>
@@ -27,6 +26,7 @@
         <entry>budget</entry>
         <entry>lineItems</entry>
         <entry>getstate</entry>
+        <entry>proposalDeta</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -107,8 +107,8 @@
         <mark key="'" line="1039" column="136" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOStatus.java" timestamp="1600097622011" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1600098166496">
-        <mark key="'" line="152" column="54" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1600099677522">
+        <mark key="'" line="170" column="76" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" timestamp="1600096923578">
         <mark key="'" line="108" column="19" />
@@ -123,9 +123,7 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" timestamp="1600096360019">
         <mark key="'" line="40" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/a.json" timestamp="1599934550043">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/CampaignProposalDetailsSanityCheckWorker.java" timestamp="1600099645991" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1599953337847">
         <mark key="[" line="58" column="109" />
         <mark key="]" line="57" column="25" />
@@ -133,6 +131,12 @@
         <mark key="^" line="57" column="25" />
       </file>
       <file name="/stepFunctionStack.ts" timestamp="1600093577367" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1600100104117">
+        <mark key="'" line="68" column="116" />
+      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1600100127584">
+        <mark key="'" line="118" column="43" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1599935045531">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="43" />
@@ -140,10 +144,6 @@
         <mark key="." line="23" column="42" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1600097882597" />
-      <file name="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" timestamp="1599933597347" />
-      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1599933493363">
-        <mark key="'" line="47" column="2" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1600096347705">
         <mark key="'" line="412" column="0" />
       </file>
@@ -175,13 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="81" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" />
-      <jump line="58" column="33" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" />
-      <jump line="64" column="14" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" />
-      <jump line="68" column="116" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" />
-      <jump line="64" column="55" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
-      <jump line="131" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
-      <jump line="67" column="34" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
       <jump line="119" column="131" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="137" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="147" column="41" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
@@ -275,6 +268,13 @@
       <jump line="89" column="31" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" />
       <jump line="107" column="23" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" />
       <jump line="108" column="19" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" />
+      <jump line="536" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="170" column="76" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="101" column="55" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
+      <jump line="106" column="82" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
+      <jump line="108" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
+      <jump line="113" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
+      <jump line="118" column="43" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1235,7 +1235,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>getstate</text>
+        <text>proposalDeta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6IGdldExhbWJkYVJlc291cmNlQXJuKHJlZ2lvbiwgYWNjb3VudCwgZXhhbXBsZUxhbWJkYUZ1bmN0aW9uTmFtZSksCg==</text>
@@ -1274,9 +1274,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getstate</last-search>
+      <last-search>proposalDeta</last-search>
       <last-offset />
-      <last-pattern>getstate</last-pattern>
+      <last-pattern>proposalDeta</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
