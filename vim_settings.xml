@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bobaEasy</entry>
-        <entry>rodeoEasy</entry>
         <entry>bobaE</entry>
         <entry>rodeoEa</entry>
         <entry>bobaEa</entry>
@@ -27,6 +25,8 @@
         <entry>proposalDeta</entry>
         <entry>pricePr</entry>
         <entry>pem</entry>
+        <entry>subnet</entry>
+        <entry>priceProd</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -104,7 +104,7 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1600116976013" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600111756489">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600275592175">
         <mark key="'" line="1039" column="136" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOStatus.java" timestamp="1600097622011" />
@@ -153,12 +153,11 @@
         <mark key="." line="67" column="35" />
         <mark key="^" line="67" column="36" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600111785712">
-        <mark key="'" line="1051" column="4" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600275456322">
+        <mark key="'" line="1041" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="147" column="41" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="148" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="180" column="101" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
@@ -258,6 +257,7 @@
       <jump line="113" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="118" column="43" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="1051" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="1041" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1218,7 +1218,7 @@
         <text>ioLineExecutionDetail</text>
       </register>
       <register name="/" type="4">
-        <text>pem</text>
+        <text>priceProd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgT2JqZWN0PiBtZXRhRGF0YSA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
@@ -1257,9 +1257,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pem</last-search>
+      <last-search>priceProd</last-search>
       <last-offset />
-      <last-pattern>pem</last-pattern>
+      <last-pattern>priceProd</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
