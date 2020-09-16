@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>new</entry>
-        <entry>OMSLam</entry>
         <entry>Lambda</entry>
         <entry>Resource</entry>
         <entry>Exampl</entry>
@@ -27,6 +25,8 @@
         <entry>PrivateSubnet01</entry>
         <entry>Private</entry>
         <entry>AE</entry>
+        <entry>SecurityG</entry>
+        <entry>SecurityGroup</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -104,24 +104,21 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1600116976013" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600288313592">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="2" column="83" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600295036672">
+        <mark key="[" line="89" column="45" />
+        <mark key="]" line="89" column="18" />
+        <mark key="." line="89" column="17" />
+        <mark key="^" line="89" column="18" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600275592175">
         <mark key="'" line="1039" column="136" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1600288088662">
-        <mark key="'" line="185" column="31" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1600294481345">
+        <mark key="'" line="210" column="56" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOStatus.java" timestamp="1600097622011" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1600099677522">
         <mark key="'" line="170" column="76" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemAction.js" timestamp="1600096923578">
-        <mark key="'" line="108" column="19" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/CampaignProposalDetailsSanityCheckWorker.java" timestamp="1600099645991" />
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600276388539">
@@ -145,6 +142,9 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" timestamp="1600292986945">
         <mark key="'" line="9" column="44" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1600295007750">
+        <mark key="'" line="47" column="2" />
+      </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/CampaignProposalDetails.java" timestamp="1600118221594">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="37" />
@@ -160,22 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="54" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
-      <jump line="40" column="56" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
-      <jump line="34" column="20" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="42" column="5" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="43" column="30" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="47" column="2" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="16" column="104" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="21" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="41" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="61" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="72" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="82" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="92" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="113" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="117" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
-      <jump line="130" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
       <jump line="139" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
       <jump line="128" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
       <jump line="127" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
@@ -251,15 +235,31 @@
       <jump line="558" column="23" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="567" column="74" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="568" column="18" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
-      <jump line="245" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="314" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="242" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="313" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="354" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="229" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="185" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="41" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" />
       <jump line="9" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" />
+      <jump line="245" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="309" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="310" column="25" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="350" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="351" column="25" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="176" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="177" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="185" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="186" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="188" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="192" column="50" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="194" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="195" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="197" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="203" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="204" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="206" column="37" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="210" column="56" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1213,44 +1213,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgaHR0cHM6Ly9kb2NzLmFtYXpvbmF3cy5jbi9lbl91cy9BV1NDbG91ZEZvcm1hdGlvbi9sYXRlc3QvVXNlckd1aWRlL2F3cy1yZXNvdXJjZS1kb2NkYi1kYnN1Ym5ldGdyb3VwLmh0bWwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVmIA==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">UmVmIA==</text>
       </register>
       <register name="/" type="4">
-        <text>AE</text>
+        <text>SecurityGroup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0FNX1JFR0lPTj0ke1NBTV9SRUdJT046LSJ1cy1lYXN0LTEifQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgaHR0cHM6Ly9kb2NzLmFtYXpvbmF3cy5jbi9lbl91cy9BV1NDbG91ZEZvcm1hdGlvbi9sYXRlc3QvVXNlckd1aWRlL2F3cy1yZXNvdXJjZS1kb2NkYi1kYnN1Ym5ldGdyb3VwLmh0bWwK</text>
+        <text encoding="base64">ICAgICAgVGFnczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgREJTdWJuZXRHcm91cE5hbWU6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFZhbHVlOiB7J0ZuOjpTdWInOiAnT21zTGFtYmRhU2VjdXJpdHlHcm91cC0ke0FXUzo6UmVnaW9ufSd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBkYi50My5tZWRpdW0K</text>
+        <text encoding="base64">ICAgICAgICAtIEtleTogTmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dGlvbkRldGFpbCBpb0xpbmVFeGVjdXRpb25EZXRhaWw7Cg==</text>
+        <text encoding="base64">ICAjIyBTZWN1cml0eSBHcm91cHMjIwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gYnJlYWsgdXAgdGhlIGNhbXBhaWduIGFuZCBpdHMgcHJvcG9zYWxzCg==</text>
+        <text encoding="base64">IyAgaHR0cHM6Ly9kb2NzLmFtYXpvbmF3cy5jbi9lbl91cy9BV1NDbG91ZEZvcm1hdGlvbi9sYXRlc3QvVXNlckd1aWRlL2F3cy1yZXNvdXJjZS1kb2NkYi1kYnN1Ym5ldGdyb3VwLmh0bWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnOwo=</text>
+        <text encoding="base64">ICAgICAgREJTdWJuZXRHcm91cE5hbWU6IFN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6NzkzNTQxMjQ1NDM4OmZ1bmN0aW9uOkV4YW1wbGVMYW1iZGEiLAo=</text>
+        <text encoding="base64">ICAgICAgLSBkYi50My5tZWRpdW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6NzkzNTQxMjQ1NDM4OmZ1bmN0aW9uOkV4YW1wbGVMYW1iZGEiLAo=</text>
+        <text encoding="base64">ICAgIEV4ZWN1dGlvbkRldGFpbCBpb0xpbmVFeGVjdXRpb25EZXRhaWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6NzkzNTQxMjQ1NDM4OmZ1bmN0aW9uOkV4YW1wbGVMYW1iZGEiLAo=</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gYnJlYWsgdXAgdGhlIGNhbXBhaWduIGFuZCBpdHMgcHJvcG9zYWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1259,9 +1259,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>AE</last-search>
+      <last-search>SecurityGroup</last-search>
       <last-offset />
-      <last-pattern>AE</last-pattern>
+      <last-pattern>SecurityGroup</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
