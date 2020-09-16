@@ -104,11 +104,11 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1600116976013" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600295036672">
-        <mark key="[" line="89" column="45" />
-        <mark key="]" line="89" column="18" />
-        <mark key="." line="89" column="17" />
-        <mark key="^" line="89" column="18" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600295344262">
+        <mark key="[" line="78" column="2" />
+        <mark key="]" line="78" column="11" />
+        <mark key="." line="78" column="10" />
+        <mark key="^" line="78" column="11" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600275592175">
         <mark key="'" line="1039" column="136" />
@@ -116,11 +116,15 @@
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1600294481345">
         <mark key="'" line="210" column="56" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOStatus.java" timestamp="1600097622011" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1600099677522">
         <mark key="'" line="170" column="76" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/CampaignProposalDetailsSanityCheckWorker.java" timestamp="1600099645991" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600297016630">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600276388539">
         <mark key="'" line="29" column="27" />
         <mark key="[" line="18" column="23" />
@@ -128,6 +132,7 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="1" />
       </file>
+      <file name="/documentdb_full_stack.yaml" timestamp="1600295779951" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1600200650873">
         <mark key="[" line="53" column="32" />
       </file>
@@ -137,7 +142,6 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1600100127584">
         <mark key="'" line="118" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1600097882597" />
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1600209639153" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" timestamp="1600292986945">
         <mark key="'" line="9" column="44" />
@@ -158,6 +162,7 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600275456322">
         <mark key="'" line="1041" column="0" />
       </file>
+      <file name="/009OMSDocumentDB.template.yaml" timestamp="1600296879852" />
     </filemarks>
     <jumps>
       <jump line="139" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/SyncRodeoCampaignsSfnDef.ts" />
@@ -1213,44 +1218,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UmVmIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJtdXN0IGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVmIA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>SecurityGroup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0FNX1JFR0lPTj0ke1NBTV9SRUdJT046LSJ1cy1lYXN0LTEifQo=</text>
+        <text encoding="base64">IyAgICAgIC0gZGIucjUubGFyZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGFnczoK</text>
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJtdXN0IGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZhbHVlOiB7J0ZuOjpTdWInOiAnT21zTGFtYmRhU2VjdXJpdHlHcm91cC0ke0FXUzo6UmVnaW9ufSd9Cg==</text>
+        <text encoding="base64">ICAgIEFsbG93ZWRQYXR0ZXJuIDogIlthLXpBLVowLTldKyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIEtleTogTmFtZQo=</text>
+        <text encoding="base64">ICAgIE1heExlbmd0aDogIjQxIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIyBTZWN1cml0eSBHcm91cHMjIwo=</text>
+        <text encoding="base64">ICAgIE1pbkxlbmd0aDogIjEiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgaHR0cHM6Ly9kb2NzLmFtYXpvbmF3cy5jbi9lbl91cy9BV1NDbG91ZEZvcm1hdGlvbi9sYXRlc3QvVXNlckd1aWRlL2F3cy1yZXNvdXJjZS1kb2NkYi1kYnN1Ym5ldGdyb3VwLmh0bWwK</text>
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJNdXN0IGJlZ2luIHdpdGggYSBsZXR0ZXIgYW5kIGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgREJTdWJuZXRHcm91cE5hbWU6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgIEFsbG93ZWRQYXR0ZXJuOiAiW2EtekEtWl1bYS16QS1aMC05XSoiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBkYi50My5tZWRpdW0K</text>
+        <text encoding="base64">ICAgIE1heExlbmd0aDogIjE2Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dGlvbkRldGFpbCBpb0xpbmVFeGVjdXRpb25EZXRhaWw7Cg==</text>
+        <text encoding="base64">ICAgIE1pbkxlbmd0aDogIjEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gYnJlYWsgdXAgdGhlIGNhbXBhaWduIGFuZCBpdHMgcHJvcG9zYWxzCg==</text>
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbjogIk11c3QgYmVnaW4gd2l0aCBhIGxldHRlciBhbmQgY29udGFpbiBvbmx5IGFscGhhbnVtZXJpYyBjaGFyYWN0ZXJzLiIK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
