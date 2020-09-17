@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1600360315671">
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1600378531671">
         <mark key="'" line="652" column="73" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600295344262">
@@ -118,6 +118,7 @@
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1600294481345">
         <mark key="'" line="210" column="56" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" timestamp="1600378790305" />
       <file name="/Volumes/workplace/D16GOMSVpcInfrastructure/src/D16GOMSVpcInfrastructure/SAMToolkit.devenv" timestamp="1600355370009">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="22" />
@@ -128,12 +129,12 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="14" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600375164081">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600378368551">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="87" column="12" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="75" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600354354923">
         <mark key="'" line="29" column="27" />
@@ -151,12 +152,6 @@
       </file>
       <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1600295007750">
         <mark key="'" line="47" column="2" />
-      </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/CampaignProposalDetails.java" timestamp="1600118221594">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="36" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1600276977110">
         <mark key="'" line="568" column="18" />
@@ -1230,10 +1225,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvUG9ydDogJzI3MDE3Jwo=</text>
+        <text encoding="base64">IyAgICAgICAgICBUb1BvcnQgOiAhRmluZEluTWFwIERlZmF1bHRQb3J0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;27017&quot;</text>
+        <text>PrivateSubnet01Block</text>
       </register>
       <register name="/" type="4">
         <text>NO_OP</text>
@@ -1242,31 +1237,31 @@
         <text encoding="base64">ICAgICAgICAgIFRvUG9ydCA6ICFGaW5kSW5NYXAgRGVmYXVsdFBvcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvUG9ydDogJzI3MDE3Jwo=</text>
+        <text encoding="base64">IyAgICAgICAgICBUb1BvcnQgOiAhRmluZEluTWFwIERlZmF1bHRQb3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvUG9ydDogJzI3MDE3Jwo=</text>
+        <text encoding="base64">IyAgICAgICAgICBJcFByb3RvY29sOiB0Y3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvUG9ydDogJzI3MDE3Jwo=</text>
+        <text encoding="base64">IyAgICAgICAgICBGcm9tUG9ydDogJzAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgREJDbHVzdGVySWRlbnRpZmllcjogIVJlZiBSb2Rlb1N5bmNEQkNsdXN0ZXIK</text>
+        <text encoding="base64">IyAgICAgICAgLSBDaWRySXA6ICFJbXBvcnRWYWx1ZSBQcml2YXRlU3VibmV0MDNCbG9jawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICBUb1BvcnQgOiAhRmluZEluTWFwIERlZmF1bHRQb3J0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXMtd2VzdC0yOgo=</text>
+        <text encoding="base64">IyAgICAgICAgICBJcFByb3RvY29sOiB0Y3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXUtd2VzdC0xOgo=</text>
+        <text encoding="base64">IyAgICAgICAgICBGcm9tUG9ydDogJzAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXMtZWFzdC0xOgo=</text>
+        <text encoding="base64">IyAgICAgICAgLSBDaWRySXA6ICFJbXBvcnRWYWx1ZSBQcml2YXRlU3VibmV0MDJCbG9jawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRvUG9ydDogJzI3MDE3Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
