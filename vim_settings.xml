@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getstate</entry>
-        <entry>proposalDeta</entry>
         <entry>pricePr</entry>
         <entry>pem</entry>
         <entry>subnet</entry>
@@ -27,6 +25,8 @@
         <entry>Subnet</entry>
         <entry>DbSubnet</entry>
         <entry>GetAtt</entry>
+        <entry>isFree</entry>
+        <entry>NO_OP</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -103,6 +103,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1600360315671">
+        <mark key="'" line="652" column="73" />
+      </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1600116976013" />
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600295344262">
         <mark key="[" line="78" column="2" />
@@ -139,9 +142,6 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1600200650873">
         <mark key="[" line="53" column="32" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1600100104117">
-        <mark key="'" line="68" column="116" />
-      </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1600100127584">
         <mark key="'" line="118" column="43" />
       </file>
@@ -168,7 +168,6 @@
       <file name="/009OMSDocumentDB.template.yaml" timestamp="1600296879852" />
     </filemarks>
     <jumps>
-      <jump line="429" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="432" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="480" column="119" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="490" column="101" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -268,6 +267,7 @@
       <jump line="64" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="78" column="19" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="77" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="652" column="73" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1228,7 +1228,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>GetAtt</text>
+        <text>NO_OP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0FNX1JFR0lPTj0ke1NBTV9SRUdJT046LSJ1cy1lYXN0LTEifQo=</text>
@@ -1267,9 +1267,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>GetAtt</last-search>
+      <last-search>NO_OP</last-search>
       <last-offset />
-      <last-pattern>GetAtt</last-pattern>
+      <last-pattern>NO_OP</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
