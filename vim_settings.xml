@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pricePr</entry>
-        <entry>pem</entry>
         <entry>subnet</entry>
         <entry>priceProd</entry>
         <entry>REGION</entry>
@@ -27,6 +25,8 @@
         <entry>GetAtt</entry>
         <entry>isFree</entry>
         <entry>NO_OP</entry>
+        <entry>FindInMa</entry>
+        <entry>Defaults</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -129,12 +129,12 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="14" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600378959345">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="75" column="43" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600381743930">
+        <mark key="'" line="82" column="31" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="59" column="8" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600354354923">
         <mark key="'" line="29" column="27" />
@@ -146,7 +146,7 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1600200650873">
         <mark key="[" line="53" column="32" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1600299011441" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1600380782580" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" timestamp="1600292986945">
         <mark key="'" line="9" column="44" />
       </file>
@@ -156,7 +156,6 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1600276977110">
         <mark key="'" line="568" column="18" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1600200550456" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1600364135441">
         <mark key="'" line="32" column="49" />
         <mark key="[" line="67" column="35" />
@@ -165,23 +164,13 @@
         <mark key="^" line="67" column="36" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-ec2/lib/security-group.d.ts" timestamp="1600364214597" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/003OmsSns.template.yml" timestamp="1600381344866" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600275456322">
         <mark key="'" line="1041" column="0" />
       </file>
       <file name="/009OMSDocumentDB.template.yaml" timestamp="1600375252483" />
     </filemarks>
     <jumps>
-      <jump line="480" column="119" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="490" column="101" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="671" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="680" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="688" column="32" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="701" column="91" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="906" column="22" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="917" column="63" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="975" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="995" column="36" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="1011" column="40" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1020" column="52" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1025" column="18" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1034" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -252,14 +241,11 @@
       <jump line="204" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="206" column="37" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="210" column="56" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="72" column="17" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
-      <jump line="80" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="57" column="14" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="67" column="4" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="82" column="4" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="86" column="52" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="76" column="5" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
-      <jump line="55" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="56" column="25" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="59" column="8" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="60" column="8" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
@@ -271,6 +257,20 @@
       <jump line="77" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="652" column="73" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" />
       <jump line="4" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="55" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="99" column="51" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="104" column="37" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="110" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="111" column="29" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="79" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="96" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="72" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="80" column="47" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="100" column="51" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="105" column="40" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="113" column="45" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="15" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="84" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1224,44 +1224,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'27017'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBOYW1lczoK</text>
       </register>
       <register name="-" type="4">
-        <text>'27017'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>NO_OP</text>
+        <text>Defaults</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFRvUG9ydCA6ICFGaW5kSW5NYXAgRGVmYXVsdFBvcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgICBUb1BvcnQgOiAhRmluZEluTWFwIERlZmF1bHRQb3J0Cg==</text>
+        <text encoding="base64">ICBOYW1lczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICAgICBJcFByb3RvY29sOiB0Y3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICBGcm9tUG9ydDogJzAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgLSBDaWRySXA6ICFJbXBvcnRWYWx1ZSBQcml2YXRlU3VibmV0MDNCbG9jawo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBEZWZhdWx0czoKICAgIERvY0RCOgogICAgICBNYXN0ZXJVc2VyOiAncm9kZW9zeW5jJwogICAgICBNYXN0ZXJQYXNzd29yZDogJ3JvZGVvc3luYycKICAgICAgUG9ydDogODE5NAogICAgICBEQkluc3RhbmNlQ2xhc3M6IGRiLnI1Lmxhcmdl</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgICBUb1BvcnQgOiAhRmluZEluTWFwIERlZmF1bHRQb3J0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICBJcFByb3RvY29sOiB0Y3AK</text>
+        <text encoding="base64">ICBTdGFnZToge1R5cGU6IFN0cmluZywgRGVmYXVsdDogJ2FscGhhJ30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICBGcm9tUG9ydDogJzAnCg==</text>
+        <text encoding="base64">UGFyYW1ldGVyczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgLSBDaWRySXA6ICFJbXBvcnRWYWx1ZSBQcml2YXRlU3VibmV0MDJCbG9jawo=</text>
+        <text encoding="base64">IyAgICAgICAgICBUb1BvcnQgOiAhRmluZEluTWFwIERlZmF1bHRQb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvUG9ydDogJzI3MDE3Jwo=</text>
+        <text encoding="base64">IyAgICAgICAgICBJcFByb3RvY29sOiB0Y3AK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1270,9 +1270,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>NO_OP</last-search>
+      <last-search>Defaults</last-search>
       <last-offset />
-      <last-pattern>NO_OP</last-pattern>
+      <last-pattern>Defaults</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
