@@ -106,7 +106,6 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/AdminOrchestrator.java" timestamp="1600360315671">
         <mark key="'" line="652" column="73" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1600116976013" />
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/documentdb_full_stack.yaml" timestamp="1600295344262">
         <mark key="[" line="78" column="2" />
         <mark key="]" line="78" column="11" />
@@ -125,12 +124,12 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600351383821">
-        <mark key="'" line="77" column="11" />
-        <mark key="[" line="59" column="46" />
-        <mark key="]" line="59" column="47" />
-        <mark key="^" line="59" column="46" />
-        <mark key="." line="59" column="47" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600364379313">
+        <mark key="'" line="76" column="11" />
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="73" column="26" />
+        <mark key="^" line="58" column="46" />
+        <mark key="." line="73" column="26" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600354354923">
         <mark key="'" line="29" column="27" />
@@ -141,9 +140,6 @@
       <file name="/documentdb_full_stack.yaml" timestamp="1600295779951" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1600200650873">
         <mark key="[" line="53" column="32" />
-      </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1600100127584">
-        <mark key="'" line="118" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1600299011441" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" timestamp="1600292986945">
@@ -162,6 +158,14 @@
         <mark key="'" line="568" column="18" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1600200550456" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1600364135441">
+        <mark key="'" line="32" column="49" />
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="67" column="35" />
+        <mark key="." line="67" column="35" />
+        <mark key="^" line="67" column="36" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-ec2/lib/security-group.d.ts" timestamp="1600364214597" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1600275456322">
         <mark key="'" line="1041" column="0" />
       </file>
@@ -1222,10 +1226,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>NO_OP</text>
@@ -1234,31 +1238,31 @@
         <text encoding="base64">U0FNX1JFR0lPTj0ke1NBTV9SRUdJT046LSJ1cy1lYXN0LTEifQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJtdXN0IGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
+        <text encoding="base64">IyAgICAgIHRvZG8gbm90IHN1cmUgaWYgdGhpcyBzaG91bGQgYmUgcHJpdmF0ZSBvciBwdWJsaWMgc3VibmV0IGlkcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFsbG93ZWRQYXR0ZXJuIDogIlthLXpBLVowLTldKyIK</text>
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJtdXN0IGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1heExlbmd0aDogIjQxIgo=</text>
+        <text encoding="base64">ICAgIEFsbG93ZWRQYXR0ZXJuIDogIlthLXpBLVowLTldKyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1pbkxlbmd0aDogIjEiCg==</text>
+        <text encoding="base64">ICAgIE1heExlbmd0aDogIjQxIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJNdXN0IGJlZ2luIHdpdGggYSBsZXR0ZXIgYW5kIGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEFsbG93ZWRQYXR0ZXJuOiAiW2EtekEtWl1bYS16QS1aMC05XSoiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIE1heExlbmd0aDogIjE2Igo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIE1pbkxlbmd0aDogIjEiCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbiA6ICJNdXN0IGJlZ2luIHdpdGggYSBsZXR0ZXIgYW5kIGNvbnRhaW4gb25seSBhbHBoYW51bWVyaWMgY2hhcmFjdGVycy4iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEFsbG93ZWRQYXR0ZXJuOiAiW2EtekEtWl1bYS16QS1aMC05XSoiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIE1heExlbmd0aDogIjE2Igo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbjogIk11c3QgYmVnaW4gd2l0aCBhIGxldHRlciBhbmQgY29udGFpbiBvbmx5IGFscGhhbnVtZXJpYyBjaGFyYWN0ZXJzLiIK</text>
+        <text encoding="base64">ICAgIE1pbkxlbmd0aDogIjEiCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
