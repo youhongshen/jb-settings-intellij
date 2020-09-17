@@ -25,8 +25,8 @@
         <entry>DefaultDBInstanceClass</entry>
         <entry>Type</entry>
         <entry>Subnet</entry>
-        <entry>GetAtt</entry>
         <entry>DbSubnet</entry>
+        <entry>GetAtt</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -119,12 +119,12 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1600099677522">
         <mark key="'" line="170" column="76" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600351327526">
-        <mark key="'" line="64" column="30" />
-        <mark key="[" line="73" column="52" />
-        <mark key="]" line="73" column="52" />
-        <mark key="^" line="73" column="30" />
-        <mark key="." line="73" column="52" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600351383821">
+        <mark key="'" line="77" column="11" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="47" />
+        <mark key="^" line="59" column="46" />
+        <mark key="." line="59" column="47" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600349855887">
         <mark key="'" line="29" column="27" />
@@ -166,8 +166,6 @@
       <file name="/009OMSDocumentDB.template.yaml" timestamp="1600296879852" />
     </filemarks>
     <jumps>
-      <jump line="423" column="21" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="426" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="429" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="432" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="480" column="119" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -266,6 +264,8 @@
       <jump line="62" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="63" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="64" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="78" column="19" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="77" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1220,13 +1220,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.DBSubnetGroupName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.DBSubnetGroupName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DbSubnet</text>
+        <text>GetAtt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0FNX1JFR0lPTj0ke1NBTV9SRUdJT046LSJ1cy1lYXN0LTEifQo=</text>
@@ -1265,9 +1265,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DbSubnet</last-search>
+      <last-search>GetAtt</last-search>
       <last-offset />
-      <last-pattern>DbSubnet</last-pattern>
+      <last-pattern>GetAtt</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
