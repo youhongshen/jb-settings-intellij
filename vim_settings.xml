@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lineItems</entry>
         <entry>getstate</entry>
         <entry>proposalDeta</entry>
         <entry>pricePr</entry>
@@ -27,6 +26,7 @@
         <entry>Type</entry>
         <entry>Subnet</entry>
         <entry>GetAtt</entry>
+        <entry>DbSubnet</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -119,12 +119,12 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1600099677522">
         <mark key="'" line="170" column="76" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600301759988">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1600351327526">
         <mark key="'" line="64" column="30" />
-        <mark key="[" line="73" column="33" />
-        <mark key="]" line="73" column="42" />
-        <mark key="^" line="73" column="42" />
-        <mark key="." line="73" column="41" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="73" column="52" />
+        <mark key="^" line="73" column="30" />
+        <mark key="." line="73" column="52" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/SAMToolkit.devenv" timestamp="1600349855887">
         <mark key="'" line="29" column="27" />
@@ -1220,13 +1220,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>.DBSubnetGroupName</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.DBSubnetGroupName</text>
       </register>
       <register name="/" type="4">
-        <text>GetAtt</text>
+        <text>DbSubnet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0FNX1JFR0lPTj0ke1NBTV9SRUdJT046LSJ1cy1lYXN0LTEifQo=</text>
@@ -1265,9 +1265,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>GetAtt</last-search>
+      <last-search>DbSubnet</last-search>
       <last-offset />
-      <last-pattern>GetAtt</last-pattern>
+      <last-pattern>DbSubnet</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
