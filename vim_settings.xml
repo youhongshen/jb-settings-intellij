@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>priceProd</entry>
         <entry>REGION</entry>
         <entry>isSov</entry>
         <entry>isSov(</entry>
@@ -27,6 +26,7 @@
         <entry>FindInMa</entry>
         <entry>Defaults</entry>
         <entry>Find</entry>
+        <entry>AmazonCA</entry>
       </history-search>
       <history-cmd>
         <entry>671</entry>
@@ -143,9 +143,6 @@
         <mark key="." line="7" column="23" />
       </file>
       <file name="/documentdb_full_stack.yaml" timestamp="1600295779951" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1600200650873">
-        <mark key="[" line="53" column="32" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1600381817913" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" timestamp="1600292986945">
         <mark key="'" line="9" column="44" />
@@ -169,9 +166,11 @@
         <mark key="'" line="1041" column="0" />
       </file>
       <file name="/009OMSDocumentDB.template.yaml" timestamp="1600375252483" />
+      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/Config" timestamp="1600706252747">
+        <mark key="'" line="31" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="38" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="121" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
       <jump line="246" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
@@ -271,6 +270,7 @@
       <jump line="109" column="39" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="110" column="40" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="111" column="35" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="31" column="29" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/Config" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1231,7 +1231,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>Find</text>
+        <text>AmazonCA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFRvUG9ydCA6ICFGaW5kSW5NYXAgRGVmYXVsdFBvcnQK</text>
@@ -1270,9 +1270,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Find</last-search>
+      <last-search>AmazonCA</last-search>
       <last-offset />
-      <last-pattern>Find</last-pattern>
+      <last-pattern>AmazonCA</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
