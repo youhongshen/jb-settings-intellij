@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>certPa</entry>
-        <entry>password</entry>
         <entry>LineIt</entry>
         <entry>dagg</entry>
         <entry>Provides</entry>
@@ -27,6 +25,8 @@
         <entry>cipherSuit</entry>
         <entry>DATA</entry>
         <entry>onBudgetCh</entry>
+        <entry>calculateR</entry>
+        <entry>calculate</entry>
       </history-search>
       <history-cmd>
         <entry>744</entry>
@@ -106,12 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1600900794606">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1601047280804">
         <mark key="'" line="14" column="63" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1600979392170" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1601046875496">
-        <mark key="'" line="1060" column="35" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1601047125001">
+        <mark key="'" line="718" column="39" />
         <mark key="[" line="1047" column="56" />
         <mark key="]" line="1047" column="56" />
         <mark key="^" line="1038" column="111" />
@@ -141,12 +141,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1601046759756">
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1601047877882">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="362" column="35" />
-        <mark key="]" line="383" column="46" />
-        <mark key="." line="383" column="45" />
-        <mark key="^" line="383" column="46" />
+        <mark key="[" line="235" column="7" />
+        <mark key="]" line="236" column="8" />
+        <mark key="." line="236" column="7" />
+        <mark key="^" line="236" column="8" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1600977226838">
         <mark key="'" line="57" column="55" />
@@ -212,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="50" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="194" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="195" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="197" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="203" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="204" column="20" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
@@ -290,7 +287,6 @@
       <jump line="57" column="55" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="1172" column="47" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="932" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="463" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1037" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1038" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1040" column="40" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
@@ -312,6 +308,10 @@
       <jump line="30" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/SAMToolkit.devenv" />
       <jump line="29" column="5" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/SAMToolkit.devenv" />
       <jump line="102" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
+      <jump line="463" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="703" column="39" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="713" column="41" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="718" column="39" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1272,7 +1272,7 @@
         <text>) {</text>
       </register>
       <register name="/" type="4">
-        <text>onBudgetCh</text>
+        <text>calculate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY2VydFBhdGggPSBQYXRocy5nZXQobGFtYmRhVGFza1Jvb3QsICJ0cnVzdHN0b3JlL0ludGVybmFsQW5kRXh0ZXJuYWxBbmRBV1NUcnVzdFN0b3JlLmprcyIpLnRvU3RyaW5nKCk7Cg==</text>
@@ -1311,9 +1311,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onBudgetCh</last-search>
+      <last-search>calculate</last-search>
       <last-offset />
-      <last-pattern>onBudgetCh</last-pattern>
+      <last-pattern>calculate</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
