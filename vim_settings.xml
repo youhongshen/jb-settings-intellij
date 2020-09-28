@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>now</entry>
-        <entry>ke</entry>
         <entry>onBudgetChan</entry>
         <entry>onBudgetC</entry>
         <entry>getPricingReq</entry>
@@ -27,6 +25,8 @@
         <entry>productId</entry>
         <entry>serverAd</entry>
         <entry>invalid</entry>
+        <entry>ssl</entry>
+        <entry>sslEnabled</entry>
       </history-search>
       <history-cmd>
         <entry>744</entry>
@@ -106,11 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1601324212339">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1601326486532">
         <mark key="'" line="98" column="22" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="102" column="43" />
+        <mark key="]" line="102" column="43" />
+        <mark key="." line="102" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/Infra-beta.template.json" timestamp="1600905853066">
         <mark key="'" line="19" column="5" />
@@ -118,6 +118,9 @@
         <mark key="]" line="98" column="23" />
         <mark key="^" line="98" column="24" />
         <mark key="." line="98" column="23" />
+      </file>
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/connection/SslSettings.java" timestamp="1601324431956">
+        <mark key="'" line="131" column="31" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/components/LineItem.jsx" timestamp="1601316545821" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/SAMToolkit.devenv" timestamp="1600992830325">
@@ -167,8 +170,8 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1601066258715">
         <mark key="'" line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/MongoClientOptions.java" timestamp="1601324313719">
-        <mark key="'" line="1410" column="0" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/MongoClientOptions.java" timestamp="1601324453934">
+        <mark key="'" line="194" column="29" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" timestamp="1600985126810">
         <mark key="'" line="114" column="43" />
@@ -184,13 +187,10 @@
         <mark key="^" line="31" column="108" />
         <mark key="." line="31" column="107" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1600893684266">
-        <mark key="'" line="472" column="63" />
-      </file>
-      <file name="/fragment.java" timestamp="1601323348522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/fragment.java" timestamp="1601326469869">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1601324037231">
         <mark key="'" line="56" column="55" />
@@ -200,12 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="99" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
-      <jump line="40" column="90" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
-      <jump line="43" column="101" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
-      <jump line="44" column="92" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
-      <jump line="49" column="99" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
-      <jump line="50" column="91" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
       <jump line="61" column="95" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
       <jump line="62" column="84" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/DEV.STD.PTHREAD/build/lib/mongo-java-driver-3.12.1.jar!/com/mongodb/MongoCredential.class" />
       <jump line="39" column="4" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -300,6 +294,12 @@
       <jump line="100" column="62" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="102" column="22" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="1410" column="0" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/MongoClientOptions.java" />
+      <jump line="105" column="84" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/connection/SslSettings.java" />
+      <jump line="129" column="20" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/connection/SslSettings.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/connection/SslSettings.java" />
+      <jump line="131" column="31" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/connection/SslSettings.java" />
+      <jump line="192" column="12" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/MongoClientOptions.java" />
+      <jump line="194" column="29" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.337.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/MongoClientOptions.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1253,14 +1253,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>TRUE</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
-        <text>invalid</text>
+        <text>sslEnabled</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcG9ydCA9ICI4MTk0IjsK</text>
@@ -1299,9 +1299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>invalid</last-search>
+      <last-search>sslEnabled</last-search>
       <last-offset />
-      <last-pattern>invalid</last-pattern>
+      <last-pattern>sslEnabled</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
