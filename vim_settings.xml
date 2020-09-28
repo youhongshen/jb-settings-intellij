@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onBudgetC</entry>
         <entry>getPricingReq</entry>
         <entry>product</entry>
         <entry>getPricingRe</entry>
@@ -27,6 +26,7 @@
         <entry>ssl</entry>
         <entry>sslEnabled</entry>
         <entry>lambda</entry>
+        <entry>ServiceCli</entry>
       </history-search>
       <history-cmd>
         <entry>744</entry>
@@ -133,7 +133,10 @@
         <mark key="^" line="115" column="22" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1601330742876">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/annotation-generated-src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DaggerDDBEventComponent.java" timestamp="1601330933839">
+        <mark key="'" line="58" column="32" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1601330906271">
         <mark key="'" line="28" column="50" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -187,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="86" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="15" column="7" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="16" column="14" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
@@ -287,6 +289,7 @@
       <jump line="26" column="50" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="27" column="50" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="28" column="50" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
+      <jump line="58" column="32" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/annotation-generated-src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DaggerDDBEventComponent.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1247,7 +1250,7 @@
         <text>initAppConfig();</text>
       </register>
       <register name="/" type="4">
-        <text>lambda</text>
+        <text>ServiceCli</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcG9ydCA9ICI4MTk0IjsK</text>
@@ -1286,9 +1289,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lambda</last-search>
+      <last-search>ServiceCli</last-search>
       <last-offset />
-      <last-pattern>lambda</last-pattern>
+      <last-pattern>ServiceCli</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
