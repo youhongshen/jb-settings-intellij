@@ -131,6 +131,12 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="53" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1601413430248">
+        <mark key="[" line="16" column="82" />
+        <mark key="]" line="16" column="82" />
+        <mark key="." line="16" column="82" />
+        <mark key="^" line="16" column="73" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/SyncRodeoCampaignsSfnDef.ts" timestamp="1601407921575">
         <mark key="'" line="97" column="116" />
         <mark key="[" line="108" column="25" />
@@ -153,11 +159,12 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/build.xml" timestamp="1601334423089">
-        <mark key="'" line="27" column="46" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1601413473433">
+        <mark key="'" line="34" column="50" />
+        <mark key="[" line="107" column="43" />
+        <mark key="]" line="107" column="59" />
+        <mark key="^" line="107" column="59" />
+        <mark key="." line="107" column="58" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/infraStack.ts" timestamp="1601392896061">
         <mark key="[" line="17" column="0" />
@@ -198,16 +205,11 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1601413287399">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1601334918579">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="52" column="117" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1601413426898">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -1264,22 +1266,17 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBpbiBnYW1tYSwgc2VlIGlmIGVhY2ggcm9sZSAiZmluZHMiIGEgZGlmZiBDbG91ZEF1dGhJbnZva2VQb2xpY3kK</text>
+      <register name="&quot;" type="4">
+        <text>TRUE</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
         <text>beta</text>
       </register>
-      <register name="0" type="4">
-        <text>gammaDeploymentGroup.addStacks(
-  new LambdaStack(app, `${lambdaStackName}-${gammaStageName}-${regionIAD}`,gammaStageName, {
-    env: pipeline.deploymentEnvironmentFor(gammaAccount, regionIAD),
-    softwareType: SoftwareType.INFRASTRUCTURE,
-  })
-);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENPTkZJR19LRVlfRE9DX0RCX1BBU1NXT1JEID0gImRvY2RiLnBhc3N3b3JkIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBpbiBnYW1tYSwgc2VlIGlmIGVhY2ggcm9sZSAiZmluZHMiIGEgZGlmZiBDbG91ZEF1dGhJbnZva2VQb2xpY3kK</text>
