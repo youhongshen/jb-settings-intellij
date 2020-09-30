@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lambdaS</entry>
         <entry>ex</entry>
         <entry>examp</entry>
         <entry>Example</entry>
@@ -27,9 +26,9 @@
         <entry>output</entry>
         <entry>props.</entry>
         <entry>region</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>744</entry>
         <entry>-0</entry>
         <entry>1103</entry>
         <entry>g/\\/s///g</entry>
@@ -47,8 +46,9 @@
         <entry>261</entry>
         <entry>1,$d</entry>
         <entry>w</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>.,$d</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,11 +154,11 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/rodeoSyncSfnDef.ts" timestamp="1601482968020">
-        <mark key="[" line="97" column="73" />
-        <mark key="]" line="97" column="85" />
-        <mark key="." line="97" column="84" />
-        <mark key="^" line="97" column="85" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/rodeoSyncSfnDef.ts" timestamp="1601483226198">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="68" />
+        <mark key="." line="2" column="68" />
+        <mark key="^" line="103" column="9" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1601413473433">
         <mark key="'" line="34" column="50" />
@@ -193,18 +193,18 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/omsRodeoSyncSfnDef.ts" timestamp="1601480352572">
-        <mark key="[" line="30" column="78" />
-        <mark key="]" line="30" column="78" />
-        <mark key="^" line="30" column="79" />
-        <mark key="." line="30" column="78" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/omsRodeoSyncSfnDef.ts" timestamp="1601483465916">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="51" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1601479837932">
-        <mark key="'" line="11" column="33" />
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="14" column="74" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/stepFunctionStack.ts" timestamp="1601483481144">
+        <mark key="'" line="12" column="33" />
+        <mark key="[" line="63" column="79" />
+        <mark key="]" line="63" column="67" />
+        <mark key="." line="63" column="66" />
+        <mark key="^" line="63" column="67" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1601413426898">
         <mark key="[" line="20" column="34" />
@@ -1268,57 +1268,57 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>account</text>
+        <text>nestedSfnArn</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>nestedSfnArn</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBgYXJuOmF3czpsYW1iZGE6JHtyZWdpb259OiR7YWNjb3VudH06ZnVuY3Rpb246JHtsYW1iZGFOYW1lfWA7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBuZXcgc2ZuLkNmblN0YXRlTWFjaGluZSh0aGlzLCAnUm9kZW9TeW5jV29ya2Zsb3cnLCB7CiAgICAgICAgICAgIHJvbGVBcm46IHJvbGUucm9sZUFybiwKICAgICAgICAgICAgZGVmaW5pdGlvblN0cmluZzogSlNPTi5zdHJpbmdpZnkoZ2V0Um9kZW9TeW5jU2ZuRGVmKGxhbWJkYUFybk1hcCksIG51bGwgLCAyKSwKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBgYXJuOmF3czpsYW1iZGE6JHtyZWdpb259OiR7YWNjb3VudH06ZnVuY3Rpb246JHtsYW1iZGFOYW1lfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6OTQ0NjgzNjM4ODg0OmZ1bmN0aW9uOlNldHVwQ2FtcGFpZ25Qcm9wb3NhbCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtQQUNLQUdFX05BTUV9IGZyb20gIi4vdXRpbHMvY29uc3RhbnRzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6OTQ0NjgzNjM4ODg0OmZ1bmN0aW9uOlNldHVwQ2FtcGFpZ25Qcm9wb3NhbCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnYW1tYURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6OTQ0NjgzNjM4ODg0OmZ1bmN0aW9uOlNldHVwQ2FtcGFpZ25Qcm9wb3NhbCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6OTQ0NjgzNjM4ODg0OmZ1bmN0aW9uOlNldHVwQ2FtcGFpZ25Qcm9wb3NhbCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWdpb24gPSBwcm9wcy5lbnYucmVnaW9uOwo=</text>
+        <text encoding="base64">IlJlc291cmNlIjogZ2V0TGFtYmRhUmVzb3VyY2VBcm4obGFtYmRhQXJuTWFwLCBTRVRVUF9DQU1QQUlHTl9QUk9QT1NBTF9MQU1CREFfTkFNRSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmV0YUxhbWJkYVN0YWNrLnNldHVwQ2FtcGFpZ25Qcm9wb3NhbExhbWJkYUFybgo=</text>
+        <text encoding="base64">ICAgICAgICAiQ29tbWVudCI6ICJSb2Rlb1N5bmMgbmVzdGVkIHdvcmtmbG93IiwKICAgICAgICAiU3RhcnRBdCI6ICJTeW5jUm9kZW9DYW1wYWlnbnMiLAogICAgICAgICJTdGF0ZXMiOiB7CiAgICAgICAgICAgICJTeW5jUm9kZW9DYW1wYWlnbnMiOiB7CiAgICAgICAgICAgICAgICAiRW5kIjogdHJ1ZSwKICAgICAgICAgICAgICAgICJUeXBlIjogIk1hcCIsCiAgICAgICAgICAgICAgICAiTWF4Q29uY3VycmVuY3kiOiAwLAogICAgICAgICAgICAgICAgIkl0ZXJhdG9yIjogewogICAgICAgICAgICAgICAgICAgICJTdGFydEF0IjogIlNldHVwQ2FtcGFpZ25Qcm9wb3NhbERldGFpbHMiLAogICAgICAgICAgICAgICAgICAgICJTdGF0ZXMiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJTZXR1cENhbXBhaWduUHJvcG9zYWxEZXRhaWxzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlR5cGUiOiAiVGFzayIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUmVzb3VyY2UiOiBnZXRMYW1iZGFSZXNvdXJjZUFybihsYW1iZGFBcm5NYXAsIFNFVFVQX0NBTVBBSUdOX1BST1BPU0FMX0xBTUJEQV9OQU1FKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJOZXh0IjogIkNhbXBhaWduUHJvcG9zYWxPcGVyYXRpb25EZWNpZGVyIgogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAiQ2FtcGFpZ25Qcm9wb3NhbE9wZXJhdGlvbkRlY2lkZXIiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiVHlwZSI6ICJUYXNrIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6IGdldExhbWJkYVJlc291cmNlQXJuKGxhbWJkYUFybk1hcCwgU0VUVVBfQ0FNUEFJR05fUFJPUE9TQUxfTEFNQkRBX05BTUUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIk5leHQiOiAiSXNDYW1wYWlnbkNyZWF0ZU9yVXBkYXRlIgogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAiSXNDYW1wYWlnbkNyZWF0ZU9yVXBkYXRlIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlR5cGUiOiAiQ2hvaWNlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDaG9pY2VzIjogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlZhcmlhYmxlIjogIiQub3BlcmF0aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlN0cmluZ0VxdWFscyI6ICJDUkVBVEUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTmV4dCI6ICJDcmVhdGVDYW1wYWlnbkZyb21Qcm9wb3NhbERldGFpbHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJWYXJpYWJsZSI6ICIkLm9wZXJhdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTdHJpbmdFcXVhbHMiOiAiVVBEQVRFIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIk5leHQiOiAiVXBkYXRlQ2FtcGFpZ25Gcm9tUHJvcG9zYWxEZXRhaWxzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgIkNyZWF0ZUNhbXBhaWduRnJvbVByb3Bvc2FsRGV0YWlscyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJUeXBlIjogIlRhc2siLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlJlc291cmNlIjogZ2V0TGFtYmRhUmVzb3VyY2VBcm4obGFtYmRhQXJuTWFwLCBTRVRVUF9DQU1QQUlHTl9QUk9QT1NBTF9MQU1CREFfTkFNRSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTmV4dCI6ICJDcmVhdGVQcm9wb3NhbHNNYXAiCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICJDcmVhdGVQcm9wb3NhbHNNYXAiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiVHlwZSI6ICJNYXAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIk1heENvbmN1cnJlbmN5IjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJJdGVyYXRvciI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiU3RhcnRBdCI6ICJDcmVhdGVQcm9wb3NhbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlN0YXRlcyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkNyZWF0ZVByb3Bvc2FsIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlR5cGUiOiAiVGFzayIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUmVzb3VyY2UiOiBnZXRMYW1iZGFSZXNvdXJjZUFybihsYW1iZGFBcm5NYXAsIFNFVFVQX0NBTVBBSUdOX1BST1BPU0FMX0xBTUJEQV9OQU1FKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFbmQiOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIk5leHQiOiAiVXBkYXRlT01TTWFwcGluZyIKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgIlVwZGF0ZUNhbXBhaWduRnJvbVByb3Bvc2FsRGV0YWlscyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJUeXBlIjogIlRhc2siLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlJlc291cmNlIjogZ2V0TGFtYmRhUmVzb3VyY2VBcm4obGFtYmRhQXJuTWFwLCBTRVRVUF9DQU1QQUlHTl9QUk9QT1NBTF9MQU1CREFfTkFNRSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTmV4dCI6ICJVcGRhdGVQcm9wb3NhbHNNYXAiCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICJVcGRhdGVQcm9wb3NhbHNNYXAiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiVHlwZSI6ICJNYXAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIk1heENvbmN1cnJlbmN5IjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJJdGVyYXRvciI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiU3RhcnRBdCI6ICJQcm9wb3NhbE9wZXJhdGlvbkRlY2lkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTdGF0ZXMiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJQcm9wb3NhbE9wZXJhdGlvbkRlY2lkZXIiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiVHlwZSI6ICJUYXNrIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6IGdldExhbWJkYVJlc291cmNlQXJuKGxhbWJkYUFybk1hcCwgU0VUVVBfQ0FNUEFJR05fUFJPUE9TQUxfTEFNQkRBX05BTUUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIk5leHQiOiAiSXNQcm9wb3NhbENyZWF0ZU9yVXBkYXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSXNQcm9wb3NhbENyZWF0ZU9yVXBkYXRlIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlR5cGUiOiAiQ2hvaWNlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDaG9pY2VzIjogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlZhcmlhYmxlIjogIiQub3BlcmF0aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlN0cmluZ0VxdWFscyI6ICJDUkVBVEUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTmV4dCI6ICJDcmVhdGVQcm9wb3NhbDEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJWYXJpYWJsZSI6ICIkLm9wZXJhdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTdHJpbmdFcXVhbHMiOiAiVVBEQVRFIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIk5leHQiOiAiVXBkYXRlUHJvcG9zYWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ3JlYXRlUHJvcG9zYWwxIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlR5cGUiOiAiVGFzayIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUmVzb3VyY2UiOiBnZXRMYW1iZGFSZXNvdXJjZUFybihsYW1iZGFBcm5NYXAsIFNFVFVQX0NBTVBBSUdOX1BST1BPU0FMX0xBTUJEQV9OQU1FKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFbmQiOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJVcGRhdGVQcm9wb3NhbCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJUeXBlIjogIlRhc2siLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlJlc291cmNlIjogZ2V0TGFtYmRhUmVzb3VyY2VBcm4obGFtYmRhQXJuTWFwLCBTRVRVUF9DQU1QQUlHTl9QUk9QT1NBTF9MQU1CREFfTkFNRSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiRW5kIjogdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJOZXh0IjogIlVwZGF0ZU9NU01hcHBpbmciCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICJVcGRhdGVPTVNNYXBwaW5nIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlR5cGUiOiAiVGFzayIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUmVzb3VyY2UiOiBnZXRMYW1iZGFSZXNvdXJjZUFybihyZWdpb24sIGFjY291bnQsIFNFVFVQX0NBTVBBSUdOX1BST1BPU0FMX0xBTUJEQV9OQU1FKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFbmQiOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Owp9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cENhbXBhaWduUHJvcG9zYWxMYW1iZGEuZnVuY3Rpb25Bcm47Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBgYXJuOmF3czpsYW1iZGE6JHtyZWdpb259OiR7YWNjb3VudH06ZnVuY3Rpb246JHtsYW1iZGFOYW1lfWA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHtQQUNLQUdFX05BTUV9IGZyb20gIi4vdXRpbHMvY29uc3RhbnRzIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBnYW1tYURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>.,$d</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>region</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
