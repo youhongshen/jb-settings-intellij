@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ruleset</entry>
-        <entry>approv</entry>
-        <entry>execut</entry>
-        <entry>Request.call</entry>
-        <entry>fetchRuleSetExecD</entry>
         <entry>create</entry>
         <entry>setModifi</entry>
         <entry>updateIOSt</entry>
@@ -27,6 +22,11 @@
         <entry>RequestCont</entry>
         <entry>context</entry>
         <entry>rodeoServiceC</entry>
+        <entry>getCampaignById</entry>
+        <entry>getAdGroup</entry>
+        <entry>getAdGroup(</entry>
+        <entry>getProposals</entry>
+        <entry>updateProposalForInternalE</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -123,14 +123,14 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" timestamp="1602101371660">
         <mark key="'" line="156" column="4" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1602177466914">
-        <mark key="'" line="89" column="35" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1602178238281">
+        <mark key="'" line="651" column="59" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResource.java" timestamp="1602176911251">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="38" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResource.java" timestamp="1602178300574">
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="53" column="50" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" timestamp="1602024784553">
         <mark key="'" line="66" column="0" />
@@ -185,20 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="61" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="97" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="388" column="57" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="352" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="366" column="98" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="364" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="367" column="22" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="347" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="357" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="112" column="4" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
-      <jump line="119" column="77" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestratorTest.java" />
-      <jump line="128" column="31" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestratorTest.java" />
-      <jump line="66" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/ForecastBookOrchestrator.java" />
       <jump line="92" column="61" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="103" column="62" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="1072" column="43" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/components/ForecastBookTable.jsx" />
@@ -285,6 +271,20 @@
       <jump line="98" column="81" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
       <jump line="87" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
       <jump line="89" column="35" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="781" column="5" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="25" column="29" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="53" column="34" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="555" column="89" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="730" column="22" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="731" column="15" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="734" column="45" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="735" column="48" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="737" column="27" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="755" column="74" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="31" column="29" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="32" column="29" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="56" column="34" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
+      <jump line="651" column="59" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1239,43 +1239,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ioId</text>
+        <text>getProposalById</text>
       </register>
       <register name="-" type="4">
-        <text>ioId</text>
+        <text>getProposalById</text>
       </register>
       <register name="/" type="4">
-        <text>rodeoServiceC</text>
+        <text>updateProposalForInternalE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCIvZ2V0QWxsQWdlbmNpZXMiKQogICAgQFBPU1QK</text>
+        <text encoding="base64">ICAgIEBQVVQKICAgIEBQYXRoKCIvZ2V0UHJvcG9zYWxCeUlkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQT1NUCg==</text>
+        <text encoding="base64">ICAgIEFkR3JvdXAgZ2V0QWRHcm91cChTdHJpbmcgbWFwcGVkSWQsIGJvb2xlYW4gaW5jbHVkZURvbWFpbkxpc3RJblJlc3BvbnNlLCBSZXF1ZXN0Q29udGV4dCByZXF1ZXN0Q29udGV4dCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0UHVzaFRvU29sZCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgIENhbXBhaWduRGV0YWlscyBnZXRDYW1wYWlnbkJ5SWQoQE5vdE51bGwgQFBhdGhQYXJhbSgiY2FtcGFpZ25JZCIpIFN0cmluZyBjYW1wYWlnbklkLCBSZXF1ZXN0Q29udGV4dCByZXF1ZXN0Q29udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0U3RhdHVzKElPU3RhdHVzLkFXQUlUSU5HX1FBKTsK</text>
+        <text encoding="base64">ICAgIEBQT1NUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0UHVzaFRvU29sZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0UHVzaFRvU29sZCh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0U3RhdHVzKElPU3RhdHVzLkFXQUlUSU5HX1FBKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0UHVzaFRvU29sZCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0UHVzaFRvU29sZChmYWxzZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0U3RhdHVzKElPU3RhdHVzLkFXQUlUSU5HX1FBKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0U3RhdHVzKElPU3RhdHVzLlJFU0VSVkVEKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0UHVzaFRvU29sZCh0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0U3RhdHVzKElPU3RhdHVzLlJFU0VSVkVEKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SU8uc2V0U3RhdHVzKElPU3RhdHVzLkFXQUlUSU5HX1FBKTsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1284,9 +1284,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rodeoServiceC</last-search>
+      <last-search>updateProposalForInternalE</last-search>
       <last-offset />
-      <last-pattern>rodeoServiceC</last-pattern>
+      <last-pattern>updateProposalForInternalE</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
