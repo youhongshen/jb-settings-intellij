@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getProposals</entry>
-        <entry>updateProposalForInternalE</entry>
-        <entry>adPack</entry>
-        <entry>validateIo</entry>
         <entry>validateIoLine</entry>
         <entry>createPackageProductPro</entry>
         <entry>createPackageOr</entry>
@@ -27,6 +23,10 @@
         <entry>BobaClien</entry>
         <entry>rode</entry>
         <entry>setModifiedB</entry>
+        <entry>krato</entry>
+        <entry>bob</entry>
+        <entry>boba</entry>
+        <entry>kra</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -46,9 +46,9 @@
         <entry>1,$d</entry>
         <entry>w</entry>
         <entry>.,$d</entry>
-        <entry>set ic</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,18 +115,18 @@
         <mark key="." line="35" column="4" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1602277934168">
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1602280818321">
         <mark key="'" line="51" column="59" />
         <mark key="[" line="80" column="90" />
         <mark key="]" line="51" column="60" />
         <mark key="." line="51" column="59" />
         <mark key="^" line="51" column="60" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/DependenciesModule.java" timestamp="1602271662618">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="10" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/DependenciesModule.java" timestamp="1602280358589">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="64" />
+        <mark key="^" line="42" column="64" />
+        <mark key="." line="42" column="63" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/KratosResourceImpl.java" timestamp="1602272732470">
         <mark key="'" line="18" column="20" />
@@ -135,11 +135,11 @@
         <mark key="." line="83" column="19" />
         <mark key="^" line="83" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/util/Constants.java" timestamp="1602271506176">
-        <mark key="[" line="35" column="75" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/util/Constants.java" timestamp="1602280890248">
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="75" />
+        <mark key="^" line="37" column="75" />
+        <mark key="." line="37" column="74" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1602266374092">
         <mark key="'" line="53" column="34" />
@@ -149,9 +149,6 @@
         <mark key="]" line="32" column="103" />
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="50" />
-      </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/Config" timestamp="1602196952443">
-        <mark key="'" line="39" column="12" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/Config" timestamp="1602253912059">
         <mark key="[" line="32" column="12" />
@@ -175,6 +172,9 @@
         <mark key="]" line="52" column="58" />
         <mark key="^" line="52" column="58" />
         <mark key="." line="52" column="57" />
+      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/configuration/brazil-config/global/D16GOrchestratorWorker.cfg" timestamp="1602280082986">
+        <mark key="[" line="42" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/productcatalog/ProductCatalogDao.java" timestamp="1602272802253" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Constant.java" timestamp="1602271509105" />
@@ -1250,16 +1250,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>new com.amazon.d16g.oms.service.exception.NotFoundException(err);</text>
+        <text>endpoint</text>
       </register>
       <register name="-" type="4">
-        <text>new com.amazon.d16g.oms.service.exception.NotFoundException(err);</text>
+        <text>endpoint</text>
       </register>
       <register name="/" type="4">
-        <text>setModifiedB</text>
+        <text>kra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcm9kdWN0c1Jlc291cmNlLmRlc2NyaWJlUHJvZHVjdChpZCwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtSQVRPU19FTkRQT0lOVF9DT05GSUcgPSAia3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBrcmF0b3NDbGllbnQuZ2V0UmVzb3VyY2UoUHJvZHVjdHNSZXNvdXJjZS5jbGFzcykuZGVzY3JpYmVQcm9kdWN0KGlkLCBjb250ZXh0KTsK</text>
@@ -1289,15 +1289,15 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKGVycm9yTWVzc2FnZSwgZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setModifiedB</last-search>
+      <last-search>kra</last-search>
       <last-offset />
-      <last-pattern>setModifiedB</last-pattern>
+      <last-pattern>kra</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
