@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Kratos</entry>
-        <entry>getCampaignById</entry>
         <entry>targetEx</entry>
         <entry>target</entry>
         <entry>targeting</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxSZXF1ZXN0Q29udGV4dFw+</entry>
         <entry>test</entry>
         <entry>USAma</entry>
+        <entry>build</entry>
+        <entry>domain</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -115,12 +115,12 @@
         <mark key="." line="35" column="4" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1602284548898">
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1602285161244">
         <mark key="'" line="25" column="5" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="54" />
-        <mark key="^" line="53" column="1" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="59" column="1" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/DependenciesModule.java" timestamp="1602280358589">
         <mark key="[" line="42" column="45" />
@@ -169,7 +169,8 @@
         <mark key="^" line="52" column="58" />
         <mark key="." line="52" column="57" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" timestamp="1602284057659">
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" timestamp="1602285313763">
+        <mark key="'" line="75" column="24" />
         <mark key="[" line="75" column="39" />
         <mark key="]" line="75" column="39" />
         <mark key="." line="75" column="39" />
@@ -191,9 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
-      <jump line="739" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
-      <jump line="795" column="8" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="292" column="55" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="504" column="75" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="34" column="55" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/utils/IOIOLineUtils.java" />
@@ -291,6 +289,9 @@
       <jump line="19" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="20" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="21" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
+      <jump line="54" column="41" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
+      <jump line="67" column="33" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
+      <jump line="75" column="24" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1244,17 +1245,17 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmV0YS4qLmJyYXNzLmNvbmZpZyA9ICJBQUEuUHJvZFBEWF9DT1JQX0NST1NTX1JFR0lPTiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>beta</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>beta</text>
       </register>
       <register name="/" type="4">
-        <text>USAma</text>
+        <text>domain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmV0YS4qLmJyYXNzLmNvbmZpZyA9ICJBQUEuUHJvZFBEWF9DT1JQX0NST1NTX1JFR0lPTiI7Cg==</text>
+        <text encoding="base64">YmV0YS4qLnJvZGVvLmNvcmFsUXVhbGlmaWVyID0gIkJhc2UuQmV0YSI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY3JlYXRlUGFja2FnZVByb2R1Y3RQcm9wb3NhbChwYWNrYWdlUHJvZHVjdFByb3Bvc2FsLCByZXF1ZXN0Q29udGV4dCk7Cg==</text>
@@ -1290,9 +1291,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>USAma</last-search>
+      <last-search>domain</last-search>
       <last-offset />
-      <last-pattern>USAma</last-pattern>
+      <last-pattern>domain</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
