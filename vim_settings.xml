@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry>targeting</entry>
         <entry>useStat</entry>
         <entry>kratos</entry>
         <entry>Package</entry>
@@ -27,6 +25,8 @@
         <entry>build</entry>
         <entry>domain</entry>
         <entry>provideRule</entry>
+        <entry>getTargetingV</entry>
+        <entry>validateLineIt</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -164,6 +164,13 @@
         <mark key="." line="587" column="76" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/productcatalog/ProductCatalogModule.java" timestamp="1602271868428" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1602541092818">
+        <mark key="'" line="389" column="79" />
+        <mark key="[" line="424" column="58" />
+        <mark key="]" line="424" column="92" />
+        <mark key="." line="424" column="91" />
+        <mark key="^" line="424" column="92" />
+      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/resource/BobaResource.java" timestamp="1602281430400">
         <mark key="[" line="52" column="49" />
         <mark key="]" line="52" column="58" />
@@ -180,20 +187,14 @@
         <mark key="[" line="42" column="43" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/productcatalog/ProductCatalogDao.java" timestamp="1602272802253" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Constant.java" timestamp="1602271509105" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1602282499170">
         <mark key="'" line="19" column="33" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResourceImpl.java" timestamp="1602271776046">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="130" column="94" />
-        <mark key="]" line="130" column="109" />
-        <mark key="." line="130" column="108" />
-        <mark key="^" line="130" column="109" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1602540994210">
+        <mark key="'" line="168" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="75" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" />
       <jump line="34" column="55" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/utils/IOIOLineUtils.java" />
       <jump line="144" column="23" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
       <jump line="421" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/Converters.js" />
@@ -293,6 +294,7 @@
       <jump line="67" column="33" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
       <jump line="75" column="24" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
       <jump line="1338" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
+      <jump line="168" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1253,7 +1255,7 @@
         <text encoding="base64">UnNFeGVjSWQg</text>
       </register>
       <register name="/" type="4">
-        <text>provideRule</text>
+        <text>validateLineIt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YmV0YS4qLnJvZGVvLmNvcmFsUXVhbGlmaWVyID0gIkJhc2UuQmV0YSI7Cg==</text>
@@ -1292,9 +1294,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>provideRule</last-search>
+      <last-search>validateLineIt</last-search>
       <last-offset />
-      <last-pattern>provideRule</last-pattern>
+      <last-pattern>validateLineIt</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
