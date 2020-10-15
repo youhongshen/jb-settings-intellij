@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>kratosEasyC</entry>
-        <entry>rodeoEasyClient</entry>
         <entry>hydrate</entry>
         <entry>produ</entry>
         <entry>descr</entry>
@@ -27,6 +25,8 @@
         <entry>getRequest</entry>
         <entry>budgetLe</entry>
         <entry>budget</entry>
+        <entry>contxt</entry>
+        <entry>MAPP</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -153,17 +153,17 @@
         <mark key="'" line="848" column="25" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1602783379987" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602783735278">
-        <mark key="'" line="171" column="67" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602796395217">
+        <mark key="'" line="124" column="57" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" timestamp="1602792168583">
         <mark key="'" line="467" column="55" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602784779202">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="31" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602796452578">
+        <mark key="[" line="26" column="63" />
+        <mark key="]" line="26" column="63" />
+        <mark key="^" line="26" column="62" />
+        <mark key="." line="26" column="63" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1602795091210" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1602784773538">
@@ -178,8 +178,6 @@
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GBobaInterface/D16GBobaInterface-1.0.210187.0/RHEL5_64/generic-flavor/src/src/com/amazon/d16g/boba/model/v2/PackageProductProposal.java" timestamp="1602784107513" />
     </filemarks>
     <jumps>
-      <jump line="3" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
-      <jump line="4" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="5" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="7" column="7" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="8" column="7" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
@@ -278,6 +276,8 @@
       <jump line="171" column="67" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="443" column="85" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" />
       <jump line="467" column="55" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" />
+      <jump line="116" column="81" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="124" column="57" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1231,44 +1231,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFkZCgiYSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getMetaData()</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>getMetaData()</text>
       </register>
       <register name="/" type="4">
-        <text>budget</text>
+        <text>MAPP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiLmFkZCgiYSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFkZCgiYiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBMaW5lSXRlbVJlc291cmNlIGxpbmVJdGVtUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiLmFkZCgiYiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSU9MaW5lUmVzb3VyY2UgaW9MaW5lUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBMaW5lSXRlbVJlc291cmNlIGxpbmVJdGVtUmVzb3VyY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBJT1Jlc291cmNlIGlvUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSU9MaW5lUmVzb3VyY2UgaW9MaW5lUmVzb3VyY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTW9uZ29DbGllbnQgbW9uZ29DbGllbnQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBJT1Jlc291cmNlIGlvUmVzb3VyY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuaW5qZWN0KHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTW9uZ29DbGllbnQgbW9uZ29DbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEREJFdmVudENvbXBvbmVudCBjb21wb25lbnQgPSBEYWdnZXJEREJFdmVudENvbXBvbmVudC5jcmVhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuaW5qZWN0KHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBEREJFdmVudENvbXBvbmVudCBjb21wb25lbnQgPSBEYWdnZXJEREJFdmVudENvbXBvbmVudC5jcmVhdGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMubGluZUl0ZW1SZXNvdXJjZSA9IGxpbmVJdGVtUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1277,9 +1277,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>budget</last-search>
+      <last-search>MAPP</last-search>
       <last-offset />
-      <last-pattern>budget</last-pattern>
+      <last-pattern>MAPP</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
