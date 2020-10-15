@@ -108,22 +108,26 @@
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/IOLineResource.java" timestamp="1602799083922" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/LineItemRepositoryTest.java" timestamp="1602796606809" />
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1602783843242">
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/RodeoSyncInput.java" timestamp="1602799490188" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/dao/IODao.java" timestamp="1602799325854" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1602799442394">
         <mark key="'" line="153" column="13" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/workflow/Artifact.java" timestamp="1602782984714" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/OMSEasyClient.java" timestamp="1602798656473" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/workflow/StepExecutionDetail.java" timestamp="1602783156727" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" timestamp="1602784707862">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="42" column="1" />
         <mark key="^" line="42" column="1" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/RodeoSyncInput.java" timestamp="1602799632184">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" timestamp="1602791943519">
         <mark key="'" line="848" column="25" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1602783379987" />
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSInterface/D16GOMSInterface-1.0.5142.0/AL2012/DEV.STD.PTHREAD/build/lib/package.D16GOMSInterface-1.0.jar!/com/amazon/d16g/oms/service/resource/IOLineResource.class" timestamp="1602798879433">
         <mark key="'" line="85" column="25" />
       </file>
@@ -139,11 +143,11 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602799101918">
-        <mark key="[" line="34" column="133" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602799750017">
+        <mark key="[" line="35" column="33" />
         <mark key="]" line="35" column="33" />
         <mark key="^" line="35" column="33" />
-        <mark key="." line="35" column="32" />
+        <mark key="." line="35" column="33" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1602795091210" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1602784773538">
@@ -1219,16 +1223,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getOmsHistoricalIOLineWithMappings</text>
+        <text>requestContext</text>
       </register>
       <register name="-" type="4">
-        <text>getOmsHistoricalIOLineWithMappings</text>
+        <text>requestContext</text>
       </register>
       <register name="/" type="4">
         <text>getHistori</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFkZCgiYSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHdvcmtmbG93SWQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
