@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getTargetingV</entry>
-        <entry>validateLineIt</entry>
-        <entry>SERVICE_ENDP</entry>
         <entry>Client</entry>
         <entry>CampaignPropsalDe</entry>
         <entry>CampaignPro</entry>
@@ -27,6 +24,9 @@
         <entry>Conte</entry>
         <entry>RequestCon</entry>
         <entry>createPackageOr</entry>
+        <entry>startRodeoSy</entry>
+        <entry>CampainDe</entry>
+        <entry>Campaign</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -112,6 +112,9 @@
         <mark key="^" line="68" column="58" />
         <mark key="." line="69" column="35" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1602777491634">
+        <mark key="'" line="25" column="111" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailTest.java" timestamp="1602718407624">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -127,10 +130,14 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/BobaEasyClient.java" timestamp="1602716839905">
         <mark key="'" line="219" column="39" />
       </file>
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.10552.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" timestamp="1602777822771" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1602718484454">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1602777692004">
+        <mark key="'" line="153" column="13" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/calculator/CalculatorTest.java" timestamp="1602718831173">
         <mark key="[" line="15" column="0" />
@@ -155,27 +162,15 @@
         <mark key="." line="119" column="52" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/PackageResourceImpl.java" timestamp="1602713810253" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602704972640">
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602778109166">
         <mark key="'" line="595" column="51" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" timestamp="1602716348285">
         <mark key="'" line="554" column="37" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/annotation-generated-src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DaggerDDBEventComponent.java" timestamp="1602701909890">
-        <mark key="'" line="58" column="32" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1602775092072" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" timestamp="1602704861921">
         <mark key="'" line="179" column="22" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1602701954732">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="52" column="117" />
-      </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1602704813066">
-        <mark key="'" line="183" column="24" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/productcatalog/ProductCatalogDaoTest.java" timestamp="1602713075442" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" timestamp="1602716329199">
@@ -190,9 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="25" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/workflows/approvalworkflows/RuleSetRepository.java" />
-      <jump line="75" column="62" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/BobaResourceImpl.java" />
-      <jump line="19" column="33" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="63" column="7" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="69" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="72" column="6" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
@@ -290,6 +282,9 @@
       <jump line="4" column="34" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/BobaResourceImpl.java" />
       <jump line="48" column="63" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/BobaResourceImpl.java" />
       <jump line="219" column="39" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/BobaEasyClient.java" />
+      <jump line="25" column="111" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
+      <jump line="119" column="45" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
+      <jump line="153" column="13" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1250,7 +1245,7 @@
         <text>getProposalById</text>
       </register>
       <register name="/" type="4">
-        <text>createPackageOr</text>
+        <text>Campaign</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBhID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGEuYWRkKCJhIik7CiAgICAgICAgYS5hZGQoImIiKTsK</text>
@@ -1289,9 +1284,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>createPackageOr</last-search>
+      <last-search>Campaign</last-search>
       <last-offset />
-      <last-pattern>createPackageOr</last-pattern>
+      <last-pattern>Campaign</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
