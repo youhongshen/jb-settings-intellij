@@ -154,7 +154,7 @@
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/ReflectionSimpleUtils.java" timestamp="1602863653471" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/OMSForecastBookUtils.java" timestamp="1602863457474" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602883873163">
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602885087746">
         <mark key="'" line="876" column="47" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/IOLineRepository.java" timestamp="1602859865001">
@@ -163,11 +163,11 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602883961828">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602885107110">
         <mark key="'" line="287" column="47" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+        <mark key="[" line="138" column="77" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
         <mark key="^" line="137" column="73" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1602863294202">
@@ -1245,10 +1245,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQcm9wb3NhbERldGFpbDxQcm9kdWN0UHJvcG9zYWw+PiBwcm9kdWN0UHJvcG9zYWxMaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>campaign</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>lineItem</text>
@@ -1257,31 +1257,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcm9kZW9DYW1wYWlnbi5zZXRGcmVxdWVuY3lDYXAoZnJlcXVlbmN5Q2FwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQcm9wb3NhbERldGFpbDxQcm9kdWN0UHJvcG9zYWw+PiBwcm9kdWN0UHJvcG9zYWxMaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZmllbGQgLT4gb3RoZXJGaWx0ZXIgPT0gbnVsbCB8fCBvdGhlckZpbHRlci5jaGVjayhmaWVsZCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZmllbGQgLT4gb3RoZXJGaWx0ZXIgPT0gbnVsbCB8fCBvdGhlckZpbHRlci5jaGVjayhmaWVsZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPE9iamVjdCwgT2JqZWN0PiBjYW1wYWlnblByb3Bvc2FsTWV0YURhdGEgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPE9iamVjdCwgT2JqZWN0PiBjYW1wYWlnblByb3Bvc2FsTWV0YURhdGEgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHZXQgbGluZSBpdGVtcyBhbmQgYXBwbHkgbGluZUl0ZW0gYnVkZ2V0IG92ZXJyaWRlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
