@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>describe</entry>
-        <entry>Requ</entry>
         <entry>Conte</entry>
         <entry>RequestCon</entry>
         <entry>createPackageOr</entry>
@@ -27,6 +25,8 @@
         <entry>batchGetLin</entry>
         <entry>getRequ</entry>
         <entry>getIoLine</entry>
+        <entry>lineItem</entry>
+        <entry>convertSel</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -154,8 +154,8 @@
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/ReflectionSimpleUtils.java" timestamp="1602863653471" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/OMSForecastBookUtils.java" timestamp="1602863457474" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602882363930">
-        <mark key="'" line="408" column="24" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1602883091178">
+        <mark key="'" line="900" column="82" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/IOLineRepository.java" timestamp="1602859865001">
         <mark key="[" line="16" column="15" />
@@ -163,12 +163,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602882405642">
-        <mark key="'" line="78" column="50" />
-        <mark key="[" line="255" column="5" />
-        <mark key="]" line="271" column="83" />
-        <mark key="." line="271" column="82" />
-        <mark key="^" line="271" column="83" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1602883005265">
+        <mark key="'" line="287" column="47" />
+        <mark key="[" line="259" column="42" />
+        <mark key="]" line="259" column="54" />
+        <mark key="." line="239" column="95" />
+        <mark key="^" line="259" column="54" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1602863294202">
         <mark key="[" line="40" column="0" />
@@ -191,9 +191,6 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalClause.java" timestamp="1602860522563" />
     </filemarks>
     <jumps>
-      <jump line="183" column="77" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSServiceClient/src/com/amazon/d16g/oms/service/client/D16GOMSServiceCloudAuthClientFactory.java" />
-      <jump line="173" column="99" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSServiceClient/src/com/amazon/d16g/oms/service/client/D16GOMSServiceCloudAuthClientFactory.java" />
-      <jump line="16" column="46" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
       <jump line="48" column="33" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
       <jump line="49" column="18" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
       <jump line="50" column="42" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
@@ -291,6 +288,9 @@
       <jump line="408" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="76" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
       <jump line="78" column="50" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
+      <jump line="274" column="87" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
+      <jump line="287" column="47" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
+      <jump line="900" column="82" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1245,43 +1245,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>MAPPER</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>MAPPER</text>
       </register>
       <register name="/" type="4">
-        <text>getIoLine</text>
+        <text>convertSel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcm9kZW9DYW1wYWlnbi5zZXRGcmVxdWVuY3lDYXAoZnJlcXVlbmN5Q2FwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPE9iamVjdCwgT2JqZWN0PiBjYW1wYWlnblByb3Bvc2FsTWV0YURhdGEgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHZXQgbGluZSBpdGVtcyBhbmQgYXBwbHkgbGluZUl0ZW0gYnVkZ2V0IG92ZXJyaWRlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZmllbGQgLT4gb3RoZXJGaWx0ZXIgPT0gbnVsbCB8fCBvdGhlckZpbHRlci5jaGVjayhmaWVsZCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGluZUl0ZW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPE9iamVjdCwgT2JqZWN0PiBjYW1wYWlnblByb3Bvc2FsTWV0YURhdGEgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8T2JqZWN0LCBPYmplY3Q+IGNhbXBhaWduUHJvcG9zYWxNZXRhRGF0YSA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBHZXQgbGluZSBpdGVtcyBhbmQgYXBwbHkgbGluZUl0ZW0gYnVkZ2V0IG92ZXJyaWRlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1290,9 +1290,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getIoLine</last-search>
+      <last-search>convertSel</last-search>
       <last-offset />
-      <last-pattern>getIoLine</last-pattern>
+      <last-pattern>convertSel</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
