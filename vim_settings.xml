@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>startRodeoSy</entry>
-        <entry>CampainDe</entry>
         <entry>Campaign</entry>
         <entry>campa</entry>
         <entry>campaignProposalDetails</entry>
@@ -27,6 +25,8 @@
         <entry>For</entry>
         <entry>buildFre</entry>
         <entry>Metadata</entry>
+        <entry>updateForeca</entry>
+        <entry>updateForecastBookItem</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -106,22 +106,58 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1603123489191">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/RodeoRepository.java" timestamp="1602879909300">
         <mark key="[" line="15" column="57" />
         <mark key="]" line="15" column="73" />
         <mark key="^" line="15" column="73" />
         <mark key="." line="15" column="72" />
       </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1602879776947">
+        <mark key="'" line="53" column="34" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/ForecastBookRepository.java" timestamp="1603123537696">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="5" />
+      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1603118588219" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/ForecastBookWorkflowsDao.java" timestamp="1603123140615">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="26" column="54" />
+      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603122250304">
+        <mark key="'" line="158" column="12" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1603123852641">
+        <mark key="'" line="840" column="61" />
+        <mark key="[" line="879" column="46" />
+        <mark key="]" line="879" column="68" />
+        <mark key="^" line="879" column="68" />
+        <mark key="." line="879" column="67" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/ForecastBookWorkflowsRepository.java" timestamp="1603123440150">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+        <mark key="." line="8" column="60" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/ForecastBookUtil.java" timestamp="1603122324557">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="51" column="40" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/ForecastBookDao.java" timestamp="1603123530829" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1602879653535">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/ReflectionSimpleUtil.java" timestamp="1602863600403">
-        <mark key="[" line="17" column="79" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="12" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1602879802441">
         <mark key="[" line="37" column="0" />
@@ -129,48 +165,23 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1602879776947">
-        <mark key="'" line="53" column="34" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/IODao.java" timestamp="1603122660995">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="14" column="11" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/workflow/RequestContext.java" timestamp="1602878979216" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/OMSEasyClient.java" timestamp="1602860694712">
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/OMSEasyClient.java" timestamp="1603123338132">
         <mark key="'" line="116" column="67" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/LineItemRepository.java" timestamp="1602860570547">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1603122976080">
+        <mark key="'" line="39" column="50" />
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="68" />
+        <mark key="." line="68" column="67" />
+        <mark key="^" line="68" column="68" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/KratosRepository.java" timestamp="1602862324521">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/ReflectionSimpleUtils.java" timestamp="1602863653471" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/OMSForecastBookUtils.java" timestamp="1602863457474" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/ProposalDetails.java" timestamp="1603118588219" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603120772443">
-        <mark key="'" line="1052" column="37" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1603120808181">
-        <mark key="'" line="164" column="49" />
-        <mark key="[" line="189" column="34" />
-        <mark key="]" line="189" column="34" />
-        <mark key="." line="189" column="34" />
-        <mark key="^" line="182" column="39" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1602863294202">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" timestamp="1602862297130">
-        <mark key="[" line="41" column="58" />
-        <mark key="]" line="41" column="58" />
-        <mark key="^" line="29" column="78" />
-        <mark key="." line="41" column="58" />
-      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/OMSForecastBookUtils.java" timestamp="1603122520757" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/utils/Constants.java" timestamp="1602879629364" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/ProposalDetail.java" timestamp="1603118359499">
         <mark key="[" line="14" column="0" />
@@ -178,20 +189,14 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/ForecastBookUtil.java" timestamp="1602863356410">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="26" column="74" />
-        <mark key="." line="21" column="133" />
-        <mark key="^" line="26" column="74" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/ForecastBookWorkflowsResource.java" timestamp="1603122632216">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="3" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/rules/InternalClause.java" timestamp="1602860522563" />
     </filemarks>
     <jumps>
-      <jump line="75" column="45" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
-      <jump line="81" column="14" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
-      <jump line="85" column="97" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
-      <jump line="88" column="30" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
-      <jump line="147" column="41" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="148" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="182" column="34" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
       <jump line="183" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
@@ -256,7 +261,6 @@
       <jump line="25" column="111" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
       <jump line="119" column="45" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
       <jump line="153" column="13" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
-      <jump line="158" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="171" column="67" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="443" column="85" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" />
       <jump line="467" column="55" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" />
@@ -287,6 +291,12 @@
       <jump line="290" column="32" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="1052" column="37" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="164" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
+      <jump line="546" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="543" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="172" column="20" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="549" column="8" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="158" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="840" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1240,44 +1250,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>omsEasyClient</text>
       </register>
       <register name="/" type="4">
-        <text>Metadata</text>
+        <text>updateForecastBookItem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2V0VXNlckZpZWxkU292UG9ydGlvbih1c2VyU2V0dGluZ0ZpZWxkcywgaW9MaW5lLCBsaW5lSXRlbSwga3JhdG9zUGFja2FnZSwgcGFja2FnZVByb2R1Y3QsIG9wdGlvbmFsRXhpc3RpbmdTZWxlY3RlZEZpZWxkTWFwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5tZXRhRGF0YShJbW11dGFibGVNYXAub2YoTElORUlURU1fS0VZLCBsaW5lSXRlbS5nZXRJZCgpLAovLyAgICAgICAgICAgICAgICAgICAgRkJfV09SS0ZMT1dfSUQsIHdvcmtmbG93SWQpKQo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWV0YURhdGEoSW1tdXRhYmxlTWFwLm9mKExJTkVJVEVNX0tFWSwgbGluZUl0ZW0uZ2V0SWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZCX1dPUktGTE9XX0lELCB3b3JrZmxvd0lkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVUUllfU1RSQVRFR1ksICgpIC0+IGZhY3RvcnkuZ2V0Q2xpZW50KEZvcmVjYXN0Qm9va1dvcmtmbG93c1Jlc291cmNlLmNsYXNzKS5zZWFyY2hGb3JlY2FzdEJvb2soZmlsdGVyLCBjb250ZXh0KSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dCBjb250ZXh0ID0gY29udmVydFRvT01TUmVxdWVzdENvbnRleHQob3JjaGVzdHJhdG9yUmVxdWVzdENvbnRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPE1hcDxTdHJpbmcsIFNlbGVjdGVkRmllbGQ+PiBvcHRpb25hbEV4aXN0aW5nU2VsZWN0ZWRGaWVsZE1hcCkgewo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhY2thZ2VQcm9kdWN0IHBhY2thZ2VQcm9kdWN0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5hbWF6b24uZDE2Zy5vcmNoZXN0cmF0b3IubW9kZWwud29ya2Zsb3cuUmVxdWVzdENvbnRleHQgb3JjaGVzdHJhdG9yUmVxdWVzdENvbnRleHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgc2V0VXNlckZpZWxkU292UG9ydGlvbihTZXQ8U2VsZWN0ZWRGaWVsZD4gdXNlclNldHRpbmdGaWVsZHMsIElPTGluZSBpb0xpbmUsIExpbmVJdGVtIGxpbmVJdGVtLCBQYWNrYWdlIGtyYXRvc1BhY2thZ2UsCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Zy5vbXMuc2VydmljZS5tb2RlbC53b3JrZmxvd3MuZm9yZWNhc3Rib29rLkZvcmVjYXN0Qm9vazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1286,12 +1296,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Metadata</last-search>
+      <last-search>updateForecastBookItem</last-search>
       <last-offset />
-      <last-pattern>Metadata</last-pattern>
+      <last-pattern>updateForecastBookItem</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
