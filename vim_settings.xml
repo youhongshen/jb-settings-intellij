@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>campaignProposalDetails</entry>
-        <entry>getRequest</entry>
         <entry>budgetLe</entry>
         <entry>budget</entry>
         <entry>contxt</entry>
@@ -27,6 +25,8 @@
         <entry>updateForecastBookItem</entry>
         <entry>forecastBookRepo</entry>
         <entry>batchUpdateForecastB</entry>
+        <entry>failedC</entry>
+        <entry>campmaignPropos</entry>
       </history-search>
       <history-cmd>
         <entry>-0</entry>
@@ -131,15 +131,15 @@
         <mark key="^" line="26" column="55" />
         <mark key="." line="26" column="54" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603122250304">
-        <mark key="'" line="158" column="12" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603126755428">
+        <mark key="'" line="172" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1603125601758">
-        <mark key="'" line="837" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="739" column="0" />
-        <mark key="^" line="864" column="30" />
-        <mark key="." line="739" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" timestamp="1603126798986">
+        <mark key="'" line="836" column="42" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="142" column="12" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/ForecastBookWorkflowsRepository.java" timestamp="1603123440150">
         <mark key="[" line="2" column="46" />
@@ -207,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" />
-      <jump line="88" column="35" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
       <jump line="167" column="50" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
       <jump line="168" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
       <jump line="26" column="48" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" />
@@ -296,17 +294,19 @@
       <jump line="310" column="100" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="319" column="32" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="430" column="20" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
-      <jump line="290" column="32" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="1052" column="37" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="164" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
       <jump line="546" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
-      <jump line="543" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
-      <jump line="172" column="20" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="549" column="8" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="158" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="840" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
       <jump line="837" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
       <jump line="297" column="4" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/OMSEasyClient.java" />
+      <jump line="290" column="32" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="543" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="172" column="20" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="830" column="101" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
+      <jump line="836" column="42" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/businessLogic/SetupCampaignProposalDetail.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1261,43 +1261,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>omsEasyClient</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>batchUpdateForecastB</text>
+        <text>campmaignPropos</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2V0VXNlckZpZWxkU292UG9ydGlvbih1c2VyU2V0dGluZ0ZpZWxkcywgaW9MaW5lLCBsaW5lSXRlbSwga3JhdG9zUGFja2FnZSwgcGFja2FnZVByb2R1Y3QsIG9wdGlvbmFsRXhpc3RpbmdTZWxlY3RlZEZpZWxkTWFwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgZm9yZWNhc3RCb29rIHRhYmxlIHdpdGggRXhlY3V0aW9uSWQKICAgICAgICB1cGRhdGVGb3JlY2FzdEJvb2tJdGVtc1dpdGhFeGVjdXRpb25JZChjYW1wYWlnblByb3Bvc2FsRGV0YWlsc0lucHV0LCByb2Rlb1N5bmNFeGVjdXRpb25JZCwgcmVxdWVzdENvbnRleHQpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIHdlIGRvbid0IGhhdmUgdGhlIGhlcmQgZXhlYyBpZCBhbnltb3JlLCBhbnl0aGluZyB0byB1cGRhdGUgaW4gdGhlIGYvYiB0YWJsZSB0byBsZXQgcHBsIGtub3cgdGhhdCByb2RlbyBzeW5jIHN0YXJ0ZWQ/Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9yZWNhc3RCb29rV29ya2Zsb3dzUmVzb3VyY2UuYmF0Y2hVcGRhdGVGb3JlY2FzdEJvb2sod29ya2Zsb3dJZCwgdmFsaWRMaXN0LCByZXF1ZXN0Q29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGNoZWNrIGFsbCB0aGUgdHJ5L2NhdGNoIHRvIG1ha2Ugc3VyZSB3ZSBhY3QgY29ycmVjdGx5IGZvciB0aGUgZXJyb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZExpc3QuYWRkQWxsKGxpc3RPZkZvcmVjYXN0Qm9vayk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZExpc3Q8Rm9yZWNhc3RCb29rPiB2YWxpZExpc3QgPSBuZXcgVmFsaWRMaXN0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uamF2YS5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1306,9 +1306,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>batchUpdateForecastB</last-search>
+      <last-search>campmaignPropos</last-search>
       <last-offset />
-      <last-pattern>batchUpdateForecastB</last-pattern>
+      <last-pattern>campmaignPropos</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
