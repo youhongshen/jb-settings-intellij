@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>RequestC</entry>
         <entry>ADD_PROD</entry>
         <entry>createKr</entry>
         <entry>onEndTi</entry>
@@ -27,6 +26,7 @@
         <entry>D16GCCSMawsProxyServiceVpcEndpoints</entry>
         <entry>OnlyUntilB</entry>
         <entry>OnlyBet</entry>
+        <entry>OnlyB</entry>
       </history-search>
       <history-cmd>
         <entry>g/\/s///g</entry>
@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/002OmsDDb.template.yml" timestamp="1603301240710" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/002OmsDDb.template.yml" timestamp="1603302553218" />
       <file name="$USER_HOME$/brazil-pkg-cache/packages/GoogleGuava/GoogleGuava-21.x.324635.0/AL2012/generic-flavor/src/src/com/google/common/base/Preconditions.java" timestamp="1603145119716">
         <mark key="'" line="78" column="11" />
       </file>
@@ -141,12 +141,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="1" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1603301244977">
-        <mark key="'" line="414" column="31" />
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="2" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1603302640522">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="425" column="0" />
+        <mark key="]" line="425" column="23" />
+        <mark key="^" line="126" column="23" />
+        <mark key="." line="425" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1603228399555">
         <mark key="'" line="372" column="59" />
@@ -177,7 +177,7 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/LineItemRepository.java" timestamp="1603147979173">
         <mark key="'" line="92" column="17" />
       </file>
-      <file name="/002OmsDDb.template.yml" timestamp="1603301182275" />
+      <file name="/002OmsDDb.template.yml" timestamp="1603302675909" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/IOLineRepository.java" timestamp="1603148358325">
         <mark key="'" line="848" column="25" />
       </file>
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="41" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="583" column="52" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="587" column="37" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="117" column="65" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
@@ -296,6 +295,7 @@
       <jump line="393" column="38" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="402" column="38" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="413" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="2" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1249,44 +1249,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogT25seUJldGEK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>OnlyBet</text>
+        <text>OnlyB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU2VydmljZU5hbWU6ICJjb20uYW1hem9uYXdzLnZwY2UudXMtZWFzdC0xLnZwY2Utc3ZjLTBlNzUyNTcyNjA3OGNjMGMyIgogICAgICBTZXJ2aWNlRW5kcG9pbnQ6ICJkMTZnLWNjcy1tYXdzLXByb3h5LXNlcnZpY2UtaWFkLWJldGEtdGNwLmNvcnAuYW1hem9uLmNvbSIK</text>
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogT25seUJldGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU2VydmljZUVuZHBvaW50OiAiZDE2Zy1vbXMtc2VydmljZS1pYWQtYmV0YS10Y3AuY29ycC5hbWF6b24uY29tIgo=</text>
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogT25seUJldGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU2VydmljZU5hbWU6ICJjb20uYW1hem9uYXdzLnZwY2UuZXUtd2VzdC0xLnZwY2Utc3ZjLTBjMzYyYmE3NGRiNzU2ZDU1Igo=</text>
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogT25seUJldGEK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgU2VydmljZUVuZHBvaW50OiAiZDE2Zy1vbXMtc2VydmljZS1pYWQtYmV0YS10Y3AuY29ycC5hbWF6b24uY29tIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU2VydmljZU5hbWU6ICJjb20uYW1hem9uYXdzLnZwY2UudXMtd2VzdC0yLnZwY2Utc3ZjLTAzYWUwYTUzNDNhZWM3OWRhIgo=</text>
+        <text encoding="base64">ICAgICAgU2VydmljZU5hbWU6ICJjb20uYW1hem9uYXdzLnZwY2UuZXUtd2VzdC0xLnZwY2Utc3ZjLTBjMzYyYmE3NGRiNzU2ZDU1Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlvLmdldE9NU0lPKGVxKE9NU19JT19JRCksIGFueShSZXF1ZXN0Q29udGV4dC5jbGFzcykpKS50aGVuUmV0dXJuKG9tc0lPKTsK</text>
+        <text encoding="base64">ICAgICAgU2VydmljZUVuZHBvaW50OiAiZDE2Zy1vbXMtc2VydmljZS1pYWQtYmV0YS10Y3AuY29ycC5hbWF6b24uY29tIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoc3RlcEV4ZWN1dGlvbkRldGFpbCkuYWRkRXJyb3IoZXJyb3JDYXB0b3IuY2FwdHVyZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgU2VydmljZU5hbWU6ICJjb20uYW1hem9uYXdzLnZwY2UudXMtd2VzdC0yLnZwY2Utc3ZjLTAzYWUwYTUzNDNhZWM3OWRhIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGlvLmdldE9NU0lPKGVxKE9NU19JT19JRCksIGFueShSZXF1ZXN0Q29udGV4dC5jbGFzcykpKS50aGVuUmV0dXJuKG9tc0lPKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBub3cgPSBtb21lbnQoKS52YWx1ZU9mKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoc3RlcEV4ZWN1dGlvbkRldGFpbCkuYWRkRXJyb3IoZXJyb3JDYXB0b3IuY2FwdHVyZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBub3cgPSBtb21lbnQoKS52YWx1ZU9mKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1044</text>
@@ -1295,9 +1295,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>OnlyBet</last-search>
+      <last-search>OnlyB</last-search>
       <last-offset />
-      <last-pattern>OnlyBet</last-pattern>
+      <last-pattern>OnlyB</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
