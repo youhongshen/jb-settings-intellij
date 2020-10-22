@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>OnlyB</entry>
-        <entry>SetupCampaignProposalDetailHandler</entry>
-        <entry>com.amazon.d16gomsrodeosyncworkflow.lambda.handlers</entry>
-        <entry>kratosR</entry>
-        <entry>cfn.t</entry>
-        <entry>Re</entry>
         <entry>add</entry>
         <entry>Base.B</entry>
         <entry>COR</entry>
@@ -27,6 +21,12 @@
         <entry>brass</entry>
         <entry>Rodeo</entry>
         <entry>Guice</entry>
+        <entry>mainD</entry>
+        <entry>modelM</entry>
+        <entry>id</entry>
+        <entry>name</entry>
+        <entry>cfId</entry>
+        <entry>fre</entry>
       </history-search>
       <history-cmd>
         <entry>g/\/s///g</entry>
@@ -43,11 +43,11 @@
         <entry>1,$d</entry>
         <entry>w</entry>
         <entry>.,$d</entry>
-        <entry>$</entry>
         <entry>493</entry>
         <entry>set noic</entry>
         <entry>1044</entry>
         <entry>set ic</entry>
+        <entry>$</entry>
         <entry>0</entry>
       </history-cmd>
       <history-expr />
@@ -114,6 +114,9 @@
         <mark key="." line="302" column="19" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/PackageResourceImpl.java" timestamp="1603310998423" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" timestamp="1603324426897">
+        <mark key="'" line="92" column="27" />
+      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1603318068363">
         <mark key="'" line="68" column="14" />
         <mark key="[" line="71" column="0" />
@@ -150,11 +153,11 @@
         <mark key="^" line="133" column="10" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" timestamp="1603319119380" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1603311345069">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1603324477913">
+        <mark key="'" line="90" column="7" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/ProposalDetail.java" timestamp="1603307957289">
         <mark key="[" line="23" column="11" />
@@ -171,23 +174,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1603307815614">
-        <mark key="'" line="42" column="15" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="28" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" timestamp="1603317240771">
         <mark key="'" line="80" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="80" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="401" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="409" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="411" column="15" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
-      <jump line="413" column="67" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="1027" column="62" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="126" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
@@ -283,6 +274,11 @@
       <jump line="61" column="16" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="157" column="16" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="69" column="30" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="37" column="31" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
+      <jump line="64" column="35" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
+      <jump line="92" column="27" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
+      <jump line="69" column="3" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
+      <jump line="90" column="7" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1237,54 +1233,54 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>campaign</text>
       </register>
       <register name="/" type="4">
-        <text>Guice</text>
+        <text>fre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KFNldHVwQ2FtcGFpZ25Qcm9wb3NhbERldGFpbEhhbmRsZXJPbGQgc2V0dXBDYW1wYWlnblByb3Bvc2FsRGV0YWlsSGFuZGxlck9sZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3Byb2QuSlBBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcy0zb28tcC1qcC1wLXBkeC5wZHgucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
+        <text encoding="base64">ICAgICJtb2RlbE1ldGFkYXRhIjogbnVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3Byb2QuRVVBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcy0zb28tcC1ldS1wLWR1Yi5kdWIucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
+        <text encoding="base64">ICAgICAgIm1haW5EZXRhaWxzIjogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3Byb2QuVVNBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcy0zb28tcC1uYS1wLWlhZC5pYWQucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
+        <text encoding="base64">ICAgICJsYW5ndWFnZVRhZyI6IG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I21hc3Rlci5KUEFtYXpvbi5rcmF0b3Muc2VydmljZS5lbmRwb2ludCA9ICJodHRwczovL2tzLTNvby1wLWpwLXBwLXBkeC5wZHgucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
+        <text encoding="base64">ICAgICJzdGF0dXNDb2RlIjogMjAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I21hc3Rlci5FVUFtYXpvbi5rcmF0b3Muc2VydmljZS5lbmRwb2ludCA9ICJodHRwczovL2tzLTNvby1wLWV1LXBwLWR1Yi5kdWIucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I21hc3Rlci5VU0FtYXpvbi5rcmF0b3Muc2VydmljZS5lbmRwb2ludCA9ICJodHRwczovL2tzLTNvby1wLW5hLXBwLWlhZC5pYWQucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
+        <text encoding="base64">I3Byb2QuSlBBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcy0zb28tcC1qcC1wLXBkeC5wZHgucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2JldGEuSlBBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcmF0b3NzZXJ2aWNlLWpwLXBkeC5pbnRlZy5hbWF6b24uY29tLyI7Cg==</text>
+        <text encoding="base64">I3Byb2QuRVVBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcy0zb28tcC1ldS1wLWR1Yi5kdWIucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2JldGEuRVVBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcmF0b3NzZXJ2aWNlLWV1LXBkeC5pbnRlZy5hbWF6b24uY29tLyI7Cg==</text>
+        <text encoding="base64">I3Byb2QuVVNBbWF6b24ua3JhdG9zLnNlcnZpY2UuZW5kcG9pbnQgPSAiaHR0cHM6Ly9rcy0zb28tcC1uYS1wLWlhZC5pYWQucHJveHkuYW1hem9uLmNvbS8iOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>$</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Guice</last-search>
+      <last-search>fre</last-search>
       <last-offset />
-      <last-pattern>Guice</last-pattern>
+      <last-pattern>fre</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
