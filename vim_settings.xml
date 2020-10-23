@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>amzn1.bindle.resource.bblnckhusomr4j7ywfya</entry>
-        <entry>BINDL</entry>
-        <entry>amzn1.bindle.resource.inxzgtf4x255iajkd54a</entry>
-        <entry>Role</entry>
         <entry>OMSServi</entry>
         <entry>d16g-ccs-maws-proxy-service-iad-beta-tcp.corp.amazon.com</entry>
         <entry>Jackson</entry>
@@ -27,6 +23,10 @@
         <entry>Dagg</entry>
         <entry>metadata</entry>
         <entry>batch</entry>
+        <entry>useSelect</entry>
+        <entry>UPDATE_FIELD_IO_</entry>
+        <entry>addProdu</entry>
+        <entry>ADD_PRODU</entry>
       </history-search>
       <history-cmd>
         <entry>g/\/s///g</entry>
@@ -119,18 +119,20 @@
         <mark key="." line="122" column="116" />
         <mark key="^" line="122" column="104" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/SetupCampaignProposalDetailInput.java" timestamp="1603406188367">
-        <mark key="[" line="17" column="62" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalModelAttribute.java" timestamp="1603398459047">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" timestamp="1603399112439">
-        <mark key="'" line="55" column="19" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1603470600277">
+        <mark key="'" line="953" column="72" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1603461730148" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalRuleSetExecution.java" timestamp="1603398502680" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1603470068723">
+        <mark key="'" line="108" column="26" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="236" column="39" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/LineItemSyncDetails.java" timestamp="1603407017083" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/main.jsx" timestamp="1603470019852" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/omsApp.jsx" timestamp="1603470031601" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1603461783901">
         <mark key="'" line="715" column="100" />
         <mark key="[" line="664" column="83" />
@@ -145,9 +147,8 @@
         <mark key="." line="88" column="38" />
         <mark key="^" line="88" column="39" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/PaginationMetadata.java" timestamp="1603399090672" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItemIdVersionTuple.java" timestamp="1603407093522" />
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ApprovalWorkflowsController.java" timestamp="1603399304271" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ApprovalWorkflowsController.java" timestamp="1603468050338" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1603462186822">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="7" />
@@ -167,12 +168,14 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/RodeoSyncInput.java" timestamp="1603406961675">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="1" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1603470341210">
+        <mark key="'" line="1060" column="45" />
+        <mark key="[" line="141" column="48" />
+        <mark key="]" line="141" column="58" />
+        <mark key="^" line="141" column="58" />
+        <mark key="." line="141" column="57" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/components/IOLineDetails.jsx" timestamp="1603468450771" />
       <file name="/fragment.java" timestamp="1603465565645">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="138" />
@@ -180,12 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="30" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
-      <jump line="37" column="31" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
-      <jump line="64" column="35" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
-      <jump line="92" column="27" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.1.4681.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
-      <jump line="69" column="3" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
-      <jump line="90" column="7" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
       <jump line="115" column="68" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="144" column="66" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -280,6 +277,12 @@
       <jump line="219" column="32" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="226" column="21" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="715" column="100" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="400" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
+      <jump line="3" column="8" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
+      <jump line="108" column="26" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" />
+      <jump line="46" column="10" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
+      <jump line="1060" column="45" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="953" column="72" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1240,7 +1243,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>batch</text>
+        <text>ADD_PRODU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KFNldHVwQ2FtcGFpZ25Qcm9wb3NhbERldGFpbEhhbmRsZXJPbGQgc2V0dXBDYW1wYWlnblByb3Bvc2FsRGV0YWlsSGFuZGxlck9sZCk7Cg==</text>
@@ -1279,9 +1282,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>batch</last-search>
+      <last-search>ADD_PRODU</last-search>
       <last-offset />
-      <last-pattern>batch</last-pattern>
+      <last-pattern>ADD_PRODU</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
