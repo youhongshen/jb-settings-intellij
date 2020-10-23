@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ADD_PRODU</entry>
-        <entry>rodeoSyncInput</entry>
-        <entry>getSelectedFieldMapFromEx</entry>
-        <entry>convertAdGrouptoSel</entry>
         <entry>convertAdGroupT</entry>
         <entry>rodeoRepos</entry>
         <entry>static</entry>
@@ -27,6 +23,10 @@
         <entry>isFlatRa</entry>
         <entry>Rodeo</entry>
         <entry>orchest</entry>
+        <entry>rodeoEasyClien</entry>
+        <entry>RequestCont</entry>
+        <entry>CampaignProposa</entry>
+        <entry>RequestContext</entry>
       </history-search>
       <history-cmd>
         <entry>g/\/s///g</entry>
@@ -109,8 +109,8 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1603481873222">
         <mark key="'" line="695" column="52" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603473796408">
-        <mark key="'" line="543" column="16" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603489721659">
+        <mark key="'" line="35" column="51" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/ReflectionSimpleUtil.java" timestamp="1603467112314">
         <mark key="[" line="122" column="103" />
@@ -124,6 +124,7 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1603482717614">
         <mark key="'" line="462" column="24" />
       </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1603489666906" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1603481821632">
         <mark key="'" line="233" column="50" />
         <mark key="[" line="235" column="0" />
@@ -151,13 +152,16 @@
         <mark key="^" line="88" column="39" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/ApprovalWorkflowsController.java" timestamp="1603468050338" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1603489998157">
+        <mark key="'" line="71" column="110" />
+        <mark key="[" line="122" column="55" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1603472735696">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="38" column="34" />
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorInterface/src/com/amazon/d16g/orchestrator/model/proposal/CampaignProposalDetails.java" timestamp="1603460858420" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/RequestContext.java" timestamp="1603462180394" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1603481154925">
         <mark key="'" line="540" column="33" />
@@ -181,13 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="70" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="195" column="50" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="203" column="54" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="55" column="19" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ModelAttribute.java" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalModelAttribute.java" />
-      <jump line="142" column="55" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="148" column="60" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="149" column="18" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="150" column="40" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="152" column="34" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -281,6 +278,13 @@
       <jump line="100" column="31" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" />
       <jump line="2" column="15" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" />
       <jump line="79" column="15" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" />
+      <jump line="559" column="5" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="35" column="51" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="142" column="36" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
+      <jump line="227" column="98" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
+      <jump line="53" column="71" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
+      <jump line="63" column="88" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
+      <jump line="71" column="110" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1241,7 +1245,7 @@
         <text>RequestContext.builder().customerId(&quot;AA3EA5Z8Z7EJ6&quot;).marketplaceId(&quot;1&quot;).client(&quot;swagger&quot;).build());</text>
       </register>
       <register name="/" type="4">
-        <text>orchest</text>
+        <text>RequestContext</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KFNldHVwQ2FtcGFpZ25Qcm9wb3NhbERldGFpbEhhbmRsZXJPbGQgc2V0dXBDYW1wYWlnblByb3Bvc2FsRGV0YWlsSGFuZGxlck9sZCk7Cg==</text>
@@ -1280,9 +1284,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>orchest</last-search>
+      <last-search>RequestContext</last-search>
       <last-offset />
-      <last-pattern>orchest</last-pattern>
+      <last-pattern>RequestContext</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
