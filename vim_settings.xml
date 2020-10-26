@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>isFlatRa</entry>
         <entry>Rodeo</entry>
         <entry>orchest</entry>
         <entry>rodeoEasyClien</entry>
@@ -27,6 +26,7 @@
         <entry>budgetLe</entry>
         <entry>batchS</entry>
         <entry>version</entry>
+        <entry>insertMany</entry>
       </history-search>
       <history-cmd>
         <entry>g/\/s///g</entry>
@@ -134,6 +134,9 @@
         <mark key="." line="186" column="0" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1603489666906" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/client/MongoCollection.java" timestamp="1603740717986">
+        <mark key="'" line="821" column="98" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1603481821632">
         <mark key="'" line="233" column="50" />
         <mark key="[" line="235" column="0" />
@@ -142,12 +145,12 @@
         <mark key="^" line="236" column="39" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1603493803735" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1603739237387">
-        <mark key="'" line="309" column="24" />
-        <mark key="[" line="626" column="74" />
-        <mark key="]" line="626" column="80" />
-        <mark key="." line="626" column="79" />
-        <mark key="^" line="626" column="80" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1603740941408">
+        <mark key="'" line="318" column="24" />
+        <mark key="[" line="261" column="46" />
+        <mark key="]" line="261" column="46" />
+        <mark key="." line="261" column="45" />
+        <mark key="^" line="261" column="46" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1603485023608">
         <mark key="'" line="79" column="15" />
@@ -188,13 +191,6 @@
         <mark key="." line="136" column="59" />
         <mark key="^" line="136" column="60" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1603480677667">
-        <mark key="'" line="1060" column="45" />
-        <mark key="[" line="141" column="48" />
-        <mark key="]" line="141" column="58" />
-        <mark key="^" line="141" column="58" />
-        <mark key="." line="141" column="57" />
-      </file>
       <file name="/fragment.java" timestamp="1603727478346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="26" />
@@ -205,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="40" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="166" column="95" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="181" column="35" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="182" column="68" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -305,6 +300,7 @@
       <jump line="134" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
       <jump line="140" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
       <jump line="163" column="19" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
+      <jump line="821" column="98" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/client/MongoCollection.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1258,14 +1254,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJlbmREYXRlIjogTnVtYmVyTG9uZyggIjE2MDYxMDc1NDAwMDAiICkK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>stuff1</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>insertMany</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzdGFydERhdGUiOiBOdW1iZXJMb25nKCAiMTYwNTkzNDgwMDAwMCIgKSwKICAgICJlbmREYXRlIjogTnVtYmVyTG9uZyggIjE2MDYxMDc1NDAwMDAiICksCg==</text>
@@ -1304,9 +1300,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>version</last-search>
+      <last-search>insertMany</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>insertMany</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
