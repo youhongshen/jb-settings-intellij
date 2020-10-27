@@ -107,11 +107,11 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/RDE-D16GOMSIDMEventsLambda/src/D16GOMSIDMEventsLambda/src/com/amazon/d16gomsidmeventslambda/lambda/utils/CloudWatchMetricsFactory.java" timestamp="1603755942928" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/DocumentDBDao.java" timestamp="1603755774659">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="20" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/DocumentDBDao.java" timestamp="1603756607927">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1603749539240">
         <mark key="'" line="35" column="51" />
@@ -152,7 +152,7 @@
         <mark key="." line="14" column="1" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbDao.java" timestamp="1603755819523" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1603752813131">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1603756570583">
         <mark key="'" line="372" column="25" />
         <mark key="[" line="218" column="59" />
         <mark key="]" line="218" column="86" />
@@ -1250,10 +1250,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>id of the inserted document</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>id of the inserted document</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -1262,31 +1262,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgQnNvbkRvY3VtZW50IGRhdGE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIENvZGVjUmVnaXN0cnkgcG9qb0NvZGVjUmVnaXN0cnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbmdvQ2xpZW50ID0gbW9uZ29DbGllbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENsYXNzPFQ+IGdldFRDbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3ByaW5nRGF0YSA9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEb2N1bWVudERCRGFvLmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3ByaW5nQQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYmVhbnMuVHJhbnNpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vUHJvcHNhb0RldGFpbDxQYWNrYWdlUHJvZHVjdD4K</text>
+        <text encoding="base64">ICAgIENsYXNzPFQ+IGdldFRDbGFzcygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vUHJvcHNhb0RldGFpbDxDYW1wYWlnbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3ByaW5nRGF0YSA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBpb0xpbmVWZXJzaW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3ByaW5nQQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
