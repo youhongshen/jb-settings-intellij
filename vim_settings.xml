@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>campaignProposalMe</entry>
-        <entry>dataItem</entry>
         <entry>selectedFi</entry>
         <entry>SelectedF</entry>
         <entry>selected</entry>
@@ -27,6 +25,8 @@
         <entry>generateIO</entry>
         <entry>setErrorMes</entry>
         <entry>omsPro</entry>
+        <entry>addProduct</entry>
+        <entry>IOLINE_RECE</entry>
       </history-search>
       <history-cmd>
         <entry>.,$g/;/s///g</entry>
@@ -169,8 +169,8 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="54" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1604002278452">
-        <mark key="'" line="199" column="59" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1604007393193">
+        <mark key="'" line="173" column="49" />
         <mark key="[" line="141" column="48" />
         <mark key="]" line="141" column="58" />
         <mark key="^" line="141" column="58" />
@@ -183,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
-      <jump line="219" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="248" column="40" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="213" column="100" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="188" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
       <jump line="27" column="15" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
@@ -283,6 +280,9 @@
       <jump line="148" column="134" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/components/GenerateIOModal/GenerateIOModal.jsx" />
       <jump line="25" column="61" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/components/GenerateIOModal/GenerateIOModal.jsx" />
       <jump line="24" column="23" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/SelectionValues.js" />
+      <jump line="371" column="34" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="73" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
+      <jump line="173" column="49" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1243,7 +1243,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>omsPro</text>
+        <text>IOLINE_RECE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkUGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbChpbywgaW9MaW5lLCBsaW5lSXRlbSwga3JhdG9zUGFja2FnZSwgCiAgICAgICAgICAgICAgICAgICAgICAgIHJvZGVvQ2FtcGFpZ25JZCwgb21zUm9kZW9TeW5jSW5wdXQuZ2V0Rm9yZWNhc3RCb29rV29ya2Zsb3dJZCgpLCByb2Rlb1N5bmNFeGVjdXRpb25JZCwgcmVxdWVzdENvbnRleHQpOwo=</text>
@@ -1282,9 +1282,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>omsPro</last-search>
+      <last-search>IOLINE_RECE</last-search>
       <last-offset />
-      <last-pattern>omsPro</last-pattern>
+      <last-pattern>IOLINE_RECE</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
