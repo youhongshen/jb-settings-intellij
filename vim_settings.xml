@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>automatic</entry>
         <entry>Codec</entry>
         <entry>Selecte</entry>
         <entry>calculateImpre</entry>
@@ -27,6 +26,7 @@
         <entry>public class AttributeValueCodec</entry>
         <entry>AttributeValueCodec</entry>
         <entry>CodecReg</entry>
+        <entry>packages</entry>
       </history-search>
       <history-cmd>
         <entry>.,$g/;/s///g</entry>
@@ -135,17 +135,15 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/components/GenerateIOModal/GenerateIOModal.jsx" timestamp="1604003794007">
         <mark key="'" line="25" column="61" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1604013653310">
-        <mark key="'" line="53" column="44" />
-        <mark key="[" line="162" column="82" />
-        <mark key="]" line="162" column="82" />
-        <mark key="^" line="161" column="79" />
-        <mark key="." line="162" column="82" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1604068002423">
+        <mark key="'" line="54" column="44" />
+        <mark key="[" line="163" column="57" />
+        <mark key="]" line="165" column="24" />
+        <mark key="^" line="165" column="24" />
+        <mark key="." line="165" column="23" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/PackageProductProposalDetailDao.java" timestamp="1604001418505">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/org/bson/codecs/pojo/PojoCodecProvider.java" timestamp="1604068125619">
+        <mark key="'" line="107" column="61" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/converter/AttributeValueConverter.java" timestamp="1604014156735">
         <mark key="[" line="14" column="0" />
@@ -195,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="98" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/com/mongodb/client/MongoCollection.java" />
-      <jump line="232" column="19" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="237" column="33" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="351" column="46" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="370" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -295,6 +291,8 @@
       <jump line="37" column="37" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="52" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
       <jump line="53" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" />
+      <jump line="106" column="10" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/org/bson/codecs/pojo/PojoCodecProvider.java" />
+      <jump line="107" column="61" filename="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/org/bson/codecs/pojo/PojoCodecProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1255,7 +1253,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>CodecReg</text>
+        <text>packages</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb2RlY1JlZ2lzdHJ5IGNvZGVjUmVnaXN0cnkgPSBNb25nb0NsaWVudC5nZXREZWZhdWx0Q29kZWNSZWdpc3RyeSgpOwogICAgICAgIENvZGVjPERvY3VtZW50PiBkb2N1bWVudENvZGVjID0gY29kZWNSZWdpc3RyeS5nZXQoRG9jdW1lbnQuY2xhc3MpOwo=</text>
@@ -1294,9 +1292,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>CodecReg</last-search>
+      <last-search>packages</last-search>
       <last-offset />
-      <last-pattern>CodecReg</last-pattern>
+      <last-pattern>packages</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
