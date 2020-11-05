@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>generateIO</entry>
         <entry>setErrorMes</entry>
         <entry>omsPro</entry>
         <entry>addProduct</entry>
@@ -27,6 +26,7 @@
         <entry>product own</entry>
         <entry>budget</entry>
         <entry>owner</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -106,19 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Logger.java" timestamp="1604256537898">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="51" />
-        <mark key="." line="15" column="50" />
-        <mark key="^" line="15" column="51" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/converter/PersonConverter.java" timestamp="1604256130538">
-        <mark key="'" line="20" column="40" />
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="22" column="49" />
-        <mark key="^" line="22" column="49" />
-        <mark key="." line="22" column="48" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/test/Address.java" timestamp="1604257075406">
         <mark key="[" line="1" column="0" />
       </file>
@@ -146,31 +133,37 @@
         <mark key="." line="157" column="25" />
         <mark key="^" line="157" column="26" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src" timestamp="1604596129109" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1604442068802">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/MongoJavaDriver/MongoJavaDriver-3.12.x.406.0/AL2012/generic-flavor/src/third-party-artifacts/org/mongodb/mongo-java-driver/3.12.1/mongo-java-driver-3.12.1-sources/org/bson/Document.java" timestamp="1604256122960" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1604596023973">
+        <mark key="'" line="103" column="25" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/test/Person.java" timestamp="1604256987215">
         <mark key="[" line="14" column="24" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/ReferenceDataRepository.java" timestamp="1604507263904" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1604255703494">
-        <mark key="'" line="432" column="42" />
-        <mark key="[" line="260" column="26" />
-        <mark key="]" line="260" column="47" />
-        <mark key="." line="260" column="46" />
-        <mark key="^" line="260" column="47" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/PersonCodec.java" timestamp="1604257831022">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" timestamp="1604595953689">
+        <mark key="'" line="24" column="4" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/test/Asset.java" timestamp="1604256996503" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/ruleaudits/ApprovalWorkflowStatus.java" timestamp="1604360674537" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/referenceData/DashboardDao.java" timestamp="1604507281530" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOOrchestrator.java" timestamp="1604507210586">
         <mark key="'" line="629" column="51" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1604595986493">
+        <mark key="'" line="540" column="33" />
+        <mark key="[" line="580" column="35" />
+        <mark key="]" line="580" column="35" />
+        <mark key="." line="580" column="35" />
+        <mark key="^" line="580" column="133" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/converter/AssetConverter.java" timestamp="1604257211275">
         <mark key="[" line="17" column="58" />
@@ -186,11 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="38" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="191" column="71" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="216" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="246" column="31" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="750" column="17" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="754" column="77" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="755" column="69" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="758" column="79" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -286,6 +274,11 @@
       <jump line="83" column="23" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
       <jump line="334" column="9" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
       <jump line="369" column="3" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/x.json" />
+      <jump line="173" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
+      <jump line="276" column="7" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
+      <jump line="24" column="4" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/services/Store.js" />
+      <jump line="97" column="53" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
+      <jump line="103" column="25" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1246,7 +1239,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb2N1bWVudC5wdXQoImFnZSIsIHBlcnNvbi5nZXRBZ2UoKSk7Cg==</text>
@@ -1285,9 +1278,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>owner</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
