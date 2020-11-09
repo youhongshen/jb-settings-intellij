@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>billa</entry>
-        <entry>bookedB</entry>
-        <entry>Proxy</entry>
         <entry>kratosRe</entry>
         <entry>getK</entry>
         <entry>provideK</entry>
@@ -27,6 +24,9 @@
         <entry>set</entry>
         <entry>setDa</entry>
         <entry>metri</entry>
+        <entry>MetricsFactory</entry>
+        <entry>new Default</entry>
+        <entry>metricsHel</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -181,18 +181,11 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/DocumentDBModule.java" timestamp="1604956982879">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" timestamp="1604964223943" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" timestamp="1604964574851">
+        <mark key="'" line="7" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1660" column="33" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="35" column="4" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="96" column="20" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="86" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="87" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="104" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="236" column="50" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="998" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1002" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1647" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1651" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
@@ -284,6 +277,15 @@
       <jump line="63" column="10" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/DocumentDBDao.java" />
       <jump line="201" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="204" column="26" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="81" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="84" column="60" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="162" column="23" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="35" column="67" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="39" column="11" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="55" column="24" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="74" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="86" column="26" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="7" column="39" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1244,7 +1246,7 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>metri</text>
+        <text>metricsHel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQYWNrYWdlUmVzb3VyY2UgcGFja2FnZVJlc291cmNlID0gbW9jayhQYWNrYWdlUmVzb3VyY2UuY2xhc3MpOwo=</text>
@@ -1283,9 +1285,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>metri</last-search>
+      <last-search>metricsHel</last-search>
       <last-offset />
-      <last-pattern>metri</last-pattern>
+      <last-pattern>metricsHel</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
