@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>kratosRe</entry>
         <entry>getK</entry>
         <entry>provideK</entry>
         <entry>BobaServiceVpcEndpoints</entry>
@@ -27,6 +26,7 @@
         <entry>MetricsFactory</entry>
         <entry>new Default</entry>
         <entry>metricsHel</entry>
+        <entry>IOLINE_UPDATE</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -107,15 +107,19 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/BobaResourceImpl.java" timestamp="1604961112848" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1604960449102">
-        <mark key="'" line="182" column="57" />
-        <mark key="[" line="585" column="83" />
-        <mark key="]" line="526" column="20" />
-        <mark key="." line="526" column="19" />
-        <mark key="^" line="526" column="20" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1604967271561">
+        <mark key="'" line="1189" column="73" />
+        <mark key="[" line="931" column="0" />
+        <mark key="]" line="931" column="0" />
+        <mark key="^" line="930" column="27" />
+        <mark key="." line="931" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1604956836840">
-        <mark key="[" line="9" column="77" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1604967961271">
+        <mark key="'" line="182" column="57" />
+        <mark key="[" line="174" column="20" />
+        <mark key="]" line="174" column="20" />
+        <mark key="." line="174" column="20" />
+        <mark key="^" line="177" column="76" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1604963927876">
         <mark key="'" line="18" column="0" />
@@ -126,13 +130,11 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="/Volumes/workplace/RDE-D16GOMSIDMEventsLambda/src/D16GOMSIDMEventsLambda/src/com/amazon/d16gomsidmeventslambda/lambda/modules/IDMModules.java" timestamp="1604957468640" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/OmsModule.java" timestamp="1604956756318">
-        <mark key="^" line="47" column="5" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbDao.java" timestamp="1604962852265">
         <mark key="'" line="56" column="5" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/CommonModule.java" timestamp="1604964001916" />
+      <file name="/LineItemReducer.js" timestamp="1604966965099" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1604963339053">
         <mark key="'" line="201" column="26" />
         <mark key="[" line="240" column="0" />
@@ -186,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1002" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1647" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1651" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1846" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
@@ -286,6 +287,7 @@
       <jump line="74" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
       <jump line="86" column="26" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
       <jump line="7" column="39" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="1184" column="73" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1240,43 +1242,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>com.amazonaws.vpce.us-west-2.vpce-svc-083530df45e734fd3&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>com.amazonaws.vpce.us-west-2.vpce-svc-083530df45e734fd3&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>metricsHel</text>
+        <text>IOLINE_UPDATE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQYWNrYWdlUmVzb3VyY2UgcGFja2FnZVJlc291cmNlID0gbW9jayhQYWNrYWdlUmVzb3VyY2UuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcmV0dXJuIHN0YXRlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0Q29sbGVjdGlvbk5hbWUoQ29uc3RhbnRzLkRPQ19EQl9DT0xMRUNUSU9OX1BBQ0tBR0VfUFJPRFVDVF9QUk9QT1NBTF9ERVRBSUwpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0RGF0YWJhc2VOYW1lKENvbnN0YW50cy5ET0NfREJfUk9ERU9TWU5DX0RCX05BTUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0Q29sbGVjdGlvbk5hbWUoQ29uc3RhbnRzLkRPQ19EQl9DT0xMRUNUSU9OX1BBQ0tBR0VfUFJPRFVDVF9QUk9QT1NBTF9ERVRBSUwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25Qcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0Q29sbGVjdGlvbk5hbWUoQ29uc3RhbnRzLkRPQ19EQl9DT0xMRUNUSU9OX0NBTVBBSUdOX1BST1BPU0FMX0RFVEFJTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0RGF0YWJhc2VOYW1lKENvbnN0YW50cy5ET0NfREJfUk9ERU9TWU5DX0RCX05BTUUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25Qcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0RGF0YWJhc2VOYW1lKENvbnN0YW50cy5ET0NfREJfUk9ERU9TWU5DX0RCX05BTUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25Qcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0Q29sbGVjdGlvbk5hbWUoQ29uc3RhbnRzLkRPQ19EQl9DT0xMRUNUSU9OX0NBTVBBSUdOX1BST1BPU0FMX0RFVEFJTCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25Qcm9wb3NhbERldGFpbFJlcG9zaXRvcnkuc2V0RGF0YWJhc2VOYW1lKENvbnN0YW50cy5ET0NfREJfUk9ERU9TWU5DX0RCX05BTUUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1285,9 +1287,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>metricsHel</last-search>
+      <last-search>IOLINE_UPDATE</last-search>
       <last-offset />
-      <last-pattern>metricsHel</last-pattern>
+      <last-pattern>IOLINE_UPDATE</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
