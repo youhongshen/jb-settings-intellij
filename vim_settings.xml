@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>setDa</entry>
         <entry>metri</entry>
         <entry>MetricsFactory</entry>
         <entry>new Default</entry>
@@ -27,6 +25,8 @@
         <entry>kratos</entry>
         <entry>OMSService</entry>
         <entry>serviceEndp</entry>
+        <entry>resourceMa</entry>
+        <entry>Cloud</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -106,11 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" timestamp="1605044238184">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/EUAmazon/packages/aap_package_list_de.json" timestamp="1605042036498" />
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1605049312027">
         <mark key="'" line="0" column="0" />
@@ -118,18 +113,6 @@
         <mark key="]" line="174" column="20" />
         <mark key="." line="174" column="20" />
         <mark key="^" line="177" column="76" />
-      </file>
-      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/dpreview_packages_cross_site_ca.json" timestamp="1605042666999">
-        <mark key="'" line="20" column="31" />
-      </file>
-      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/class_1_cross_screen_detail_package_list_na.json" timestamp="1605042577145">
-        <mark key="'" line="21" column="9" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" timestamp="1605049457299">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="24" column="80" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/converter/AttributeValueConverter.java" timestamp="1605045271164">
         <mark key="[" line="36" column="0" />
@@ -143,10 +126,6 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1605048228898">
-        <mark key="'" line="298" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyServiceClient/configuration/brazil-config/global/D16GCCSMawsProxyServiceClient.cfg" timestamp="1605047949540" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/provider/AssetCodecProvider.java" timestamp="1605039698789" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/TestDocDBHandler.java" timestamp="1605045888493">
         <mark key="[" line="63" column="0" />
@@ -154,33 +133,47 @@
         <mark key="^" line="29" column="12" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/KratosServiceInterface/KratosServiceInterface-1.0.212132.0/AL2012/generic-flavor/src/src/com/amazon/kratos/value/AttributeValue.java" timestamp="1605046544404">
-        <mark key="'" line="170" column="57" />
-      </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/KratosClient/KratosClient-1.0.211779.0/AL2012/generic-flavor/src/src/com/amazon/kratos/client/KratosClient.java" timestamp="1605049442525">
-        <mark key="'" line="107" column="54" />
-      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyServiceClient/src/com/amazon/d16g/ccs/maws/proxy/service/client/D16GCCSMawsProxyServiceCloudAuthClientFactory.java" timestamp="1605051403423" />
       <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/products/firetv_inline_viewability_product_list_us.json" timestamp="1605043223579">
         <mark key="'" line="16" column="27" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MawsProxyModule.java" timestamp="1605048054720" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/AttributeValueCodec.java" timestamp="1605036453790">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="57" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MawsProxyModule.java" timestamp="1605051502637" />
+      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/firetv_inline_viewability_package_list_us.json" timestamp="1605043061626" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" timestamp="1605050253414">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/AssetCodec.java" timestamp="1605036449811" />
-      <file name="/fragment.java" timestamp="1605049619531">
+      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/dpreview_packages_cross_site_ca.json" timestamp="1605042666999">
+        <mark key="'" line="20" column="31" />
+      </file>
+      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/class_1_cross_screen_detail_package_list_na.json" timestamp="1605042577145">
+        <mark key="'" line="21" column="9" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" timestamp="1605051600297">
+        <mark key="[" line="85" column="38" />
+        <mark key="]" line="85" column="50" />
+        <mark key="." line="85" column="49" />
+        <mark key="^" line="85" column="50" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1605048228898">
+        <mark key="'" line="298" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyServiceClient/configuration/brazil-config/global/D16GCCSMawsProxyServiceClient.cfg" timestamp="1605047949540" />
+      <file name="/LambdaModule.java" timestamp="1605051563960" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/KratosServiceInterface/KratosServiceInterface-1.0.212132.0/AL2012/generic-flavor/src/src/com/amazon/kratos/value/AttributeValue.java" timestamp="1605046544404">
+        <mark key="'" line="170" column="57" />
+      </file>
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/KratosClient/KratosClient-1.0.211779.0/AL2012/generic-flavor/src/src/com/amazon/kratos/client/KratosClient.java" timestamp="1605051186168">
+        <mark key="'" line="107" column="54" />
+      </file>
+      <file name="/fragment.java" timestamp="1605049921173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
-      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/firetv_inline_viewability_package_list_us.json" timestamp="1605043061626" />
     </filemarks>
     <jumps>
-      <jump line="40" column="70" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
-      <jump line="431" column="37" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="458" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="497" column="24" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="572" column="22" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
@@ -279,6 +272,8 @@
       <jump line="161" column="18" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="107" column="54" filename="$USER_HOME$/brazil-pkg-cache/packages/KratosClient/KratosClient-1.0.211779.0/AL2012/generic-flavor/src/src/com/amazon/kratos/client/KratosClient.java" />
+      <jump line="60" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" />
+      <jump line="62" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1233,43 +1228,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/kratosservice-na-pdx.integ.amazon.com:443/&quot;;</text>
+        <text>this.clientConfig.getCloudAuthCredentials())</text>
       </register>
       <register name="-" type="4">
-        <text>/kratosservice-na-pdx.integ.amazon.com:443/&quot;;</text>
+        <text>this.clientConfig.getCloudAuthCredentials())</text>
       </register>
       <register name="/" type="4">
-        <text>serviceEndp</text>
+        <text>Cloud</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcga3JhdG9zU2VydmljZUVuZHBvaW50ID0gImh0dHBzOi8va3JhdG9zc2VydmljZS1uYS1wZHguaW50ZWcuYW1hem9uLmNvbTo0NDMvIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpZ0RlY2ltYWwuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZU1hcCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJvb2xlYW4udmFsdWVPZigpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRSZXRyeWFibGVSZXNvdXJjZShjbGF6eiwgcmVzb3VyY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVWYWx1ZS5nZXRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC52aXNpdG9yKG5ldyBDbG91ZEF1dGhWaXNpdG9yKGNsb3VkQXV0aENvbmZpZykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpZ0RlY2ltYWwuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZGVyKGNsYXp6LCB0YXJnZXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUIHJlc291cmNlID0gQVJlc3RXZWJSZXNvdXJjZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIHRoZSBDbG91ZEF1dGhSZXNvdXJjZSBjbGFzcyB0byBiZSB1c2VkIHRvIGFjY2VzcyBDbG91ZEF1dGggcHJvdGVjdGVkIHJlc291cmNlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5wdXQoInZhbHVlIiwgYXR0cmlidXRlVmFsdWUuZ2V0VmFsdWUoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXRDb25zdW1lci5hY2NlcHQodGFyZ2V0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgCg==</text>
+        <text encoding="base64">ICAgICAgICBXZWJUYXJnZXQgdGFyZ2V0ID0gY2xpZW50LnRhcmdldCh0aGlzLmQxNkdPTVNTZXJ2aWNlQ2xpZW50Q29uZmlnLmdldE9tc0VuZHBvaW50VXJsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1278,9 +1273,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>serviceEndp</last-search>
+      <last-search>Cloud</last-search>
       <last-offset />
-      <last-pattern>serviceEndp</last-pattern>
+      <last-pattern>Cloud</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
