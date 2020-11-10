@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>provideK</entry>
         <entry>BobaServiceVpcEndpoints</entry>
         <entry>Kratos</entry>
         <entry>Krato</entry>
@@ -27,6 +26,7 @@
         <entry>metricsHel</entry>
         <entry>IOLINE_UPDATE</entry>
         <entry>serviceLogP</entry>
+        <entry>describePack</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -115,45 +115,13 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDaoTest.java" timestamp="1605025614206">
         <mark key="[" line="49" column="49" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/PackageProductProposalDetailDao.java" timestamp="1604963678040">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="12" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/CampaignProposalDetailRepository.java" timestamp="1604963297533">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/PackageProductProposalDetailRepository.java" timestamp="1604963315584">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="53" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" timestamp="1605030509861" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" timestamp="1604967271561">
         <mark key="'" line="1189" column="73" />
         <mark key="[" line="931" column="0" />
         <mark key="]" line="931" column="0" />
         <mark key="^" line="930" column="27" />
         <mark key="." line="931" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/DocumentDBDao.java" timestamp="1604963558470">
-        <mark key="'" line="63" column="10" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="27" column="11" />
-      </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" timestamp="1605021929121">
-        <mark key="'" line="54" column="5" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDaoTest.java" timestamp="1605026454791">
-        <mark key="[" line="66" column="51" />
-        <mark key="]" line="66" column="51" />
-        <mark key="^" line="66" column="31" />
-        <mark key="." line="66" column="51" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1604967961271">
         <mark key="'" line="182" column="57" />
@@ -162,22 +130,17 @@
         <mark key="." line="174" column="20" />
         <mark key="^" line="177" column="76" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1605024848669">
-        <mark key="[" line="16" column="61" />
-        <mark key="]" line="16" column="62" />
-        <mark key="^" line="16" column="62" />
-        <mark key="." line="17" column="30" />
-      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1605021953336">
         <mark key="'" line="18" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1605027983437" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/BobaModule.java" timestamp="1605023491698">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="35" />
         <mark key="^" line="23" column="35" />
         <mark key="." line="22" column="79" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" timestamp="1605023497004">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" timestamp="1605030120190">
         <mark key="[" line="24" column="70" />
         <mark key="]" line="24" column="70" />
         <mark key="." line="24" column="70" />
@@ -189,21 +152,43 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/CampaignProposalDetailDao.java" timestamp="1604963630098">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" timestamp="1605026948900" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" timestamp="1605021929121">
+        <mark key="'" line="54" column="5" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1604963339053">
-        <mark key="'" line="202" column="26" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDaoTest.java" timestamp="1605029061677" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/OmsModule.java" timestamp="1605028836330">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="9" column="53" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1605024848669">
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="16" column="62" />
+        <mark key="^" line="16" column="62" />
+        <mark key="." line="17" column="30" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1605027122885">
+        <mark key="'" line="37" column="33" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="15" />
+        <mark key="^" line="78" column="27" />
+        <mark key="." line="80" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1605030459019">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1605029184333">
+        <mark key="'" line="186" column="0" />
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1651" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
-      <jump line="1846" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="1850" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="2019" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
       <jump line="2023" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/y.json" />
@@ -302,6 +287,8 @@
       <jump line="7" column="39" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
       <jump line="1184" column="73" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/lineItem/containers/LineItemReducer.js" />
       <jump line="54" column="5" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/MetricsModule.java" />
+      <jump line="32" column="33" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" />
+      <jump line="186" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1255,44 +1242,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Package</text>
+      <register name="&quot;" type="2">
+        <text>appConfigTree.findString(Constants.KRATOS_ENDPOINT_CONFIG);</text>
       </register>
       <register name="-" type="4">
-        <text>Package</text>
+        <text>requestContext</text>
       </register>
       <register name="/" type="4">
-        <text>serviceLogP</text>
+        <text>describePack</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB3aGVuKHBhY2thZ2VSZXNvdXJjZS5kZXNjcmliZVBhY2thZ2VWZXJzaW9uKGFueSgpLCBhbnkoKSwgYW55KCkpKS50aGVuUmV0dXJuKG1vY2soUGFja2FnZS5jbGFzcykpOwogICAgICAgIGtyYXRvc0Rhby5kZXNjcmliZVBhY2thZ2UoIjEiLCAxTCwgbW9jayhSZXF1ZXN0Q29udGV4dC5jbGFzcykpOwogICAgICAgIHZlcmlmeShwYWNrYWdlUmVzb3VyY2UsIHRpbWVzKDEpKS5kZXNjcmliZVBhY2thZ2VWZXJzaW9uKGFueSgpLCBhbnkoKSwgYW55KCkpOwoKICAgICAgICAvLyB3aXRob3V0IHZlcnNpb24KICAgICAgICB3aGVuKHBhY2thZ2VSZXNvdXJjZS5kZXNjcmliZVBhY2thZ2UoYW55KCksIGFueSgpKSkudGhlblJldHVybihtb2NrKFBhY2thZ2UuY2xhc3MpKTsKICAgICAgICBrcmF0b3NEYW8uZGVzY3JpYmVQYWNrYWdlKCIxIiwgbnVsbCwgbW9jayhSZXF1ZXN0Q29udGV4dC5jbGFzcykpOwogICAgICAgIHZlcmlmeShwYWNrYWdlUmVzb3VyY2UsIHRpbWVzKDEpKS5kZXNjcmliZVBhY2thZ2UoYW55KCksIGFueSgpKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgS3JhdG9zQ2xpZW50IGtyYXRvc0NsaWVudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoa3JhdG9zRGFvLCB0aW1lcygxKSkuZGVzY3JpYmVQcm9kdWN0KGFueSgpLCBhbnkoKSwgYW55KCkpOwo=</text>
+        <text>appConfigTree.findString(Constants.KRATOS_ENDPOINT_CONFIG);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrcmF0b3NEYW8uZGVzY3JpYmVQcm9kdWN0KCIxIiwgbnVsbCwgbW9jayhSZXF1ZXN0Q29udGV4dC5jbGFzcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGtyYXRvc1Jlc291cmNlLmRlc2NyaWJlUHJvZHVjdChhbnkoKSwgYW55KCksIGFueSgpKSkudGhlblJldHVybihtb2NrKFByb2R1Y3QuY2xhc3MpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGJvYmFDbGllbnQuZ2V0UmVzb3VyY2UoUGFja2FnZVByb2R1Y3RQcm9wb3NhbFJlc291cmNlLmNsYXNzKSkudGhlblJldHVybihwYWNrYWdlUHJvZHVjdFByb3Bvc2FsUmVzb3VyY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGtyYXRvc0NsaWVudC5nZXRSZXNvdXJjZShjb20uYW1hem9uLmtyYXRvcy5yZXNvdXJjZS52MS5QYWNrYWdlc1Jlc291cmNlLmNsYXNzKSkudGhlblJldHVybihwYWNrYWdlUmVzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQYWNrYWdlUHJvZHVjdFByb3Bvc2FsUmVzb3VyY2UgcGFja2FnZVByb2R1Y3RQcm9wb3NhbFJlc291cmNlID0gc3B5KFBhY2thZ2VQcm9kdWN0UHJvcG9zYWxSZXNvdXJjZS5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uYW1hem9uLmtyYXRvcy5yZXNvdXJjZS52MS5QYWNrYWdlc1Jlc291cmNlIHBhY2thZ2VSZXNvdXJjZSA9IHNweShjb20uYW1hem9uLmtyYXRvcy5yZXNvdXJjZS52MS5QYWNrYWdlc1Jlc291cmNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoa3JhdG9zRGFvLCB0aW1lcygxKSkuZGVzY3JpYmVQcm9kdWN0KGFueSgpLCBhbnkoKSwgYW55KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBrcmF0b3NEYW8uZGVzY3JpYmVQcm9kdWN0KCIxIiwgbnVsbCwgbW9jayhSZXF1ZXN0Q29udGV4dC5jbGFzcykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1301,9 +1288,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>serviceLogP</last-search>
+      <last-search>describePack</last-search>
       <last-offset />
-      <last-pattern>serviceLogP</last-pattern>
+      <last-pattern>describePack</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
