@@ -106,12 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1605021948449">
-        <mark key="[" line="58" column="37" />
-        <mark key="]" line="63" column="47" />
-        <mark key="^" line="63" column="47" />
-        <mark key="." line="63" column="46" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDaoTest.java" timestamp="1605025614206">
         <mark key="[" line="49" column="49" />
       </file>
@@ -121,9 +115,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1605021953336">
-        <mark key="'" line="18" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1605027983437" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/BobaModule.java" timestamp="1605023491698">
@@ -152,10 +143,10 @@
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDaoTest.java" timestamp="1605029061677" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/TestDocDBHandler.java" timestamp="1605035644080">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="36" column="12" />
-        <mark key="^" line="36" column="12" />
-        <mark key="." line="36" column="11" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="11" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/OmsModule.java" timestamp="1605028836330">
         <mark key="[" line="9" column="39" />
@@ -169,6 +160,13 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="30" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/AttributeValueCodec.java" timestamp="1605036453790">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="57" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/AssetCodec.java" timestamp="1605036449811" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1605027122885">
         <mark key="'" line="37" column="33" />
         <mark key="[" line="80" column="15" />
@@ -176,10 +174,10 @@
         <mark key="^" line="78" column="27" />
         <mark key="." line="80" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1605030459019">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1605036171600">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1605035717602">
         <mark key="[" line="109" column="0" />
@@ -1242,11 +1240,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Asset</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>Asset</text>
       </register>
       <register name="/" type="4">
         <text>mon</text>
@@ -1258,25 +1256,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTW9uZ29DbGllbnQgbW9uZ29DbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmF0dHJpYnV0ZVZhbHVlQ29udmVydGVyID0gbmV3IEF0dHJpYnV0ZVZhbHVlQ29udmVydGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmF0dHJpYnV0ZVZhbHVlQ29udmVydGVyID0gbmV3IEF0dHJpYnV0ZVZhbHVlQ29udmVydGVyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vbmdvQ2xpZW50ID0gbW9uZ29DbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmF0dHJpYnV0ZVZhbHVlQ29udmVydGVyID0gbmV3IEF0dHJpYnV0ZVZhbHVlQ29udmVydGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRvY3VtZW50Q29kZWMgPSBjb2RlYzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZ2lzdHJ5ID0gTW9uZ29DbGllbnQuZ2V0RGVmYXVsdENvZGVjUmVnaXN0cnkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBdHRyaWJ1dGVWYWx1ZUNvZGVjKENvZGVjPERvY3VtZW50PiBjb2RlYykgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
