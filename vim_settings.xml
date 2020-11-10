@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>com.amazonaws.vpce.us-west-2.vpce-svc-029e5c5f5509a9437</entry>
-        <entry>metr</entry>
         <entry>beforeSa</entry>
         <entry>set</entry>
         <entry>setDa</entry>
@@ -27,6 +25,8 @@
         <entry>ValueType.NUL</entry>
         <entry>serviceEndpoint</entry>
         <entry>ServiceEndpoint</entry>
+        <entry>kratos</entry>
+        <entry>OMSService</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -47,8 +47,8 @@
         <entry>50</entry>
         <entry>223</entry>
         <entry>1,$d</entry>
-        <entry>0</entry>
         <entry>set ic</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -111,15 +111,9 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/TestAllegianceHandler.java" timestamp="1605035671081">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/EUAmazon/packages/aap_package_list_de.json" timestamp="1605042036498" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1605046344755">
-        <mark key="'" line="409" column="144" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1605048307214">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="174" column="20" />
         <mark key="]" line="174" column="20" />
         <mark key="." line="174" column="20" />
@@ -131,7 +125,7 @@
       <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/class_1_cross_screen_detail_package_list_na.json" timestamp="1605042577145">
         <mark key="'" line="21" column="9" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" timestamp="1605043883382">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" timestamp="1605048154147">
         <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="80" />
         <mark key="." line="24" column="79" />
@@ -149,6 +143,10 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1605048228898">
+        <mark key="'" line="298" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyServiceClient/configuration/brazil-config/global/D16GCCSMawsProxyServiceClient.cfg" timestamp="1605047949540" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/provider/AssetCodecProvider.java" timestamp="1605039698789" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/TestDocDBHandler.java" timestamp="1605045888493">
         <mark key="[" line="63" column="0" />
@@ -159,15 +157,10 @@
       <file name="$USER_HOME$/brazil-pkg-cache/packages/KratosServiceInterface/KratosServiceInterface-1.0.212132.0/AL2012/generic-flavor/src/src/com/amazon/kratos/value/AttributeValue.java" timestamp="1605046544404">
         <mark key="'" line="170" column="57" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1605035598392">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="21" column="30" />
-      </file>
       <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/products/firetv_inline_viewability_product_list_us.json" timestamp="1605043223579">
         <mark key="'" line="16" column="27" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MawsProxyModule.java" timestamp="1605048054720" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/AttributeValueCodec.java" timestamp="1605036453790">
         <mark key="[" line="14" column="50" />
         <mark key="]" line="14" column="50" />
@@ -189,10 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="529" column="28" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
-      <jump line="404" column="17" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
-      <jump line="408" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
-      <jump line="179" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
       <jump line="178" column="15" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
       <jump line="40" column="70" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
       <jump line="431" column="37" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
@@ -216,7 +205,6 @@
       <jump line="563" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="577" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="587" column="56" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="201" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="14" column="35" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="31" column="66" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDaoTest.java" />
@@ -236,7 +224,6 @@
       <jump line="224" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="227" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="230" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="326" column="149" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="355" column="134" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="368" column="134" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="438" column="137" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
@@ -289,6 +276,12 @@
       <jump line="391" column="31" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="396" column="144" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="409" column="144" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="156" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="243" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="326" column="149" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="298" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="161" column="18" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1249,7 +1242,7 @@
         <text encoding="base64">ICAgICAgLy8gZG8gbm90aGluZyBoZXJlIHNpbmNlIHZhbHVlIGlzIG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text>ServiceEndpoint</text>
+        <text>OMSService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnB1dCgidmFsdWUiLCBMb25nLnZhbHVlT2YoYXR0cmlidXRlVmFsdWUuZ2V0VmFsdWUoKS50b1N0cmluZygpKSk7ICAvLyBEYXRlLmdldFRpbWUoKQo=</text>
@@ -1288,9 +1281,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ServiceEndpoint</last-search>
+      <last-search>OMSService</last-search>
       <last-offset />
-      <last-pattern>ServiceEndpoint</last-pattern>
+      <last-pattern>OMSService</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
