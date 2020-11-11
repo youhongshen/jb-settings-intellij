@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>metri</entry>
-        <entry>MetricsFactory</entry>
         <entry>new Default</entry>
         <entry>metricsHel</entry>
         <entry>IOLINE_UPDATE</entry>
@@ -27,6 +25,8 @@
         <entry>serviceEndp</entry>
         <entry>resourceMa</entry>
         <entry>Cloud</entry>
+        <entry>Jack</entry>
+        <entry>ObjectM</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/;//g</entry>
@@ -106,7 +106,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/EUAmazon/packages/aap_package_list_de.json" timestamp="1605042036498" />
+      <file name="/Volumes/workplace/KratosService/src/KratosService/Config" timestamp="1605123572813">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1605049312027">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="174" column="20" />
@@ -120,12 +122,6 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/codec/provider/AttributeValueCodecProvider.java" timestamp="1605039715487">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-        <mark key="." line="12" column="53" />
-      </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/ARest-Client-CloudAuth/ARest-Client-CloudAuth-1.0.304561.0/AL2012/DEV.STD.PTHREAD/build/lib/ARest-Client-CloudAuth-1.0.jar!/com/amazon/arest/client/cloudauth/config/CloudAuthConfig.class" timestamp="1605051694346" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/TestDocDBHandler.java" timestamp="1605045888493">
         <mark key="[" line="63" column="0" />
@@ -138,6 +134,9 @@
         <mark key="'" line="16" column="27" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MawsProxyModule.java" timestamp="1605051502637" />
+      <file name="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" timestamp="1605123643841">
+        <mark key="'" line="45" column="32" />
+      </file>
       <file name="/Volumes/workplace/KratosDefinitions/src/KratosDefinitions/configuration/definitions/USAmazon/packages/firetv_inline_viewability_package_list_us.json" timestamp="1605043061626" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" timestamp="1605115890705">
         <mark key="[" line="56" column="0" />
@@ -174,15 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="458" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="497" column="24" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="572" column="22" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="157" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="461" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="467" column="49" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="475" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="481" column="53" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
-      <jump line="487" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="495" column="24" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="499" column="93" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="501" column="94" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
@@ -274,6 +264,15 @@
       <jump line="107" column="54" filename="$USER_HOME$/brazil-pkg-cache/packages/KratosClient/KratosClient-1.0.211779.0/AL2012/generic-flavor/src/src/com/amazon/kratos/client/KratosClient.java" />
       <jump line="60" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" />
       <jump line="62" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/KratosModule.java" />
+      <jump line="35" column="35" filename="/Volumes/workplace/KratosService/src/KratosService/Config" />
+      <jump line="0" column="0" filename="/Volumes/workplace/KratosService/src/KratosService/Config" />
+      <jump line="64" column="25" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
+      <jump line="359" column="53" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
+      <jump line="360" column="15" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
+      <jump line="361" column="15" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
+      <jump line="364" column="15" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
+      <jump line="370" column="30" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
+      <jump line="45" column="32" filename="/Volumes/workplace/KratosService/src/KratosService/src/com/amazon/kratos/module/ServiceModule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1234,7 +1233,7 @@
         <text>client;</text>
       </register>
       <register name="/" type="4">
-        <text>Cloud</text>
+        <text>ObjectM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcga3JhdG9zU2VydmljZUVuZHBvaW50ID0gImh0dHBzOi8va3JhdG9zc2VydmljZS1uYS1wZHguaW50ZWcuYW1hem9uLmNvbTo0NDMvIjsK</text>
@@ -1273,9 +1272,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Cloud</last-search>
+      <last-search>ObjectM</last-search>
       <last-offset />
-      <last-pattern>Cloud</last-pattern>
+      <last-pattern>ObjectM</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
