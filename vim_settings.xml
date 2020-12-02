@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>useSelect</entry>
         <entry>ioData</entry>
         <entry>useState</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -27,6 +26,7 @@
         <entry>FOREC</entry>
         <entry>validInpu</entry>
         <entry>Context</entry>
+        <entry>ioLineRes</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/^/'/</entry>
@@ -112,14 +112,13 @@
         <mark key="^" line="38" column="103" />
         <mark key="." line="38" column="102" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandlerTest.java" timestamp="1606868830673">
-        <mark key="'" line="54" column="157" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandlerTest.java" timestamp="1606929873659">
+        <mark key="[" line="75" column="125" />
+        <mark key="]" line="76" column="16" />
+        <mark key="^" line="76" column="16" />
+        <mark key="." line="76" column="15" />
       </file>
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GBobaInterface/D16GBobaInterface-1.0.210284.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/D16GBobaInterface-1.0.jar!/com/amazon/d16g/boba/model/v2/PackageProductProposal.class" timestamp="1606848403471" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1606847196853">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1606929431637">
         <mark key="[" line="22" column="73" />
         <mark key="]" line="22" column="78" />
         <mark key="^" line="22" column="78" />
@@ -133,7 +132,6 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" timestamp="1606848320699" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/BobaRepository.java" timestamp="1606854875028">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="25" column="0" />
@@ -146,15 +144,10 @@
         <mark key="." line="175" column="0" />
         <mark key="^" line="178" column="12" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/tst/com/amazon/d16gomslambda/lambda/handlers/OmsIOLineDeleteEventHandlerTest.java" timestamp="1606928871211" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" timestamp="1606864743713">
         <mark key="'" line="63" column="24" />
         <mark key="[" line="73" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1606856683762">
-        <mark key="[" line="165" column="12" />
-        <mark key="]" line="165" column="69" />
-        <mark key="." line="165" column="12" />
-        <mark key="^" line="165" column="12" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1606922747072">
         <mark key="[" line="75" column="43" />
@@ -163,6 +156,9 @@
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIODeleteEventHandler.java" timestamp="1606928758467">
+        <mark key="'" line="112" column="38" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/RodeoSyncInputOutput.java" timestamp="1606864306662">
         <mark key="[" line="36" column="12" />
@@ -177,28 +173,30 @@
         <mark key="^" line="98" column="48" />
       </file>
       <file name="/ValidateInputHandlerTest.java" timestamp="1606855226121" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1606866848292">
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="8" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1606927419597">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+        <mark key="^" line="49" column="8" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/PackageProductProposalDetail.java" timestamp="1606848667270">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/DocumentDBModule.java" timestamp="1606847540831">
-        <mark key="[" line="43" column="134" />
-        <mark key="]" line="46" column="71" />
-        <mark key="^" line="46" column="71" />
-        <mark key="." line="46" column="70" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandlerTest.java" timestamp="1606929334071">
+        <mark key="[" line="51" column="87" />
+        <mark key="]" line="51" column="87" />
+        <mark key="." line="51" column="87" />
+        <mark key="^" line="51" column="73" />
+      </file>
+      <file name="/fragment.java" timestamp="1606928087528">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="887" column="74" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="158" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="200" column="92" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="263" column="46" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="265" column="43" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="333" column="67" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="159" column="86" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
@@ -295,6 +293,10 @@
       <jump line="1" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandlerTest.java" />
       <jump line="3" column="48" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandlerTest.java" />
       <jump line="48" column="157" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandlerTest.java" />
+      <jump line="50" column="0" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIODeleteEventHandler.java" />
+      <jump line="86" column="20" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIODeleteEventHandler.java" />
+      <jump line="105" column="60" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIODeleteEventHandler.java" />
+      <jump line="112" column="38" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/src/com/amazon/d16gomslambda/lambda/handlers/OmsIODeleteEventHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1248,44 +1250,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ucwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>setEnv()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Context</text>
+        <text>ioLineRes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGFja2FnZVByb2R1Y3RTeW5jUmVzdWx0LmJ1aWxkZXIoKS5idWlsZCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihpbnN0YW5jZSkudmFsaWRhdGVQYWNrYWdlUHJvcG9zYWxEZXRhaWxMaXN0KGFueSgpLCBhbnkoKSwgYW55Qm9vbGVhbigpLCBhbnkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ucwo=</text>
+        <text encoding="base64">ICAgICAgICBDYW1wYWlnbkRldGFpbHMgY2FtcGFpZ25EZXRhaWxzID0gbmV3IENhbXBhaWduRGV0YWlscygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">Ly8gICAgICAgIGluc3RhbmNlID0gbW9jayhTeW5jUm9kZW9DYW1wYWlnbkhhbmRsZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJvZGVvUmVwb3NpdG9yeSA9IG1vY2soUm9kZW9SZXBvc2l0b3J5LmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJvYmFSZXBvc2l0b3J5ID0gbW9jayhCb2JhUmVwb3NpdG9yeS5jbGFzcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbFJlcG9zaXRvcnkgcGFja2FnZVByb2R1Y3RQcm9wb3NhbERldGFpbFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNhbXBhaWduUHJvcG9zYWxEZXRhaWxSZXBvc2l0b3J5ID0gbW9jayhDYW1wYWlnblByb3Bvc2FsRGV0YWlsUmVwb3NpdG9yeS5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydE51bGwocmVzdWx0LmdldFBhY2thZ2VQcm9kdWN0U3luY1Jlc3VsdHMoKS5nZXQoMSkuZ2V0U3RhdHVzKCkpOyAgICAvLyB0aGlzIG9uZSBpcyBzdGlsbCB2YWxpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGVjaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGVjdXRlKCgpIC0+IFN5c3RlbS5nZXRlbnYoT01TX0FXU19SRUdJT05fU1lTX0VOVl9OQU1FKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW1MYW1iZGEud2l0aEVudmlyb25tZW50VmFyaWFibGUoT01TX0FXU19SRUdJT05fU1lTX0VOVl9OQU1FLCAidXMtZWFzdC0xIikK</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
@@ -1294,9 +1296,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Context</last-search>
+      <last-search>ioLineRes</last-search>
       <last-offset />
-      <last-pattern>Context</last-pattern>
+      <last-pattern>ioLineRes</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
