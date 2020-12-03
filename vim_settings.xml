@@ -106,11 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1607035927549">
-        <mark key="[" line="169" column="112" />
-        <mark key="]" line="167" column="82" />
-        <mark key="^" line="167" column="82" />
-        <mark key="." line="167" column="81" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1607036603894">
+        <mark key="[" line="188" column="96" />
+        <mark key="]" line="188" column="96" />
+        <mark key="." line="188" column="96" />
+        <mark key="^" line="189" column="8" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandlerTest.java" timestamp="1607018841108">
         <mark key="[" line="277" column="87" />
@@ -152,12 +152,6 @@
         <mark key="." line="255" column="0" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" timestamp="1607035856054" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1607018142816">
-        <mark key="[" line="365" column="0" />
-        <mark key="]" line="365" column="0" />
-        <mark key="^" line="221" column="97" />
-        <mark key="." line="365" column="0" />
-      </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1607027916210">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -199,6 +193,9 @@
         <mark key="]" line="256" column="88" />
         <mark key="^" line="256" column="95" />
         <mark key="." line="256" column="88" />
+      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/OMSForecastBookUtils.java" timestamp="1607036126622">
+        <mark key="'" line="126" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -1256,10 +1253,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>lineItemKey</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>lineItemKey</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Mapp</text>
@@ -1268,31 +1265,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW9MaW5lRGF0YU1hcHBpbmcuc2V0SWRUeXBlKERhdGFUeXBlLklPX0xJTkUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kYXRhVHlwZShEYXRhVHlwZS5MSU5FX0lURU0pCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kYXRhSWQobGluZUl0ZW1JZCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb2Rlb1N5bmNJbnB1dE91dHB1dC5nZXRyZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kYXRhVHlwZShEYXRhVHlwZS5MSU5FX0lURU0pCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VjY2VzcyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kYXRhSWQobGluZUl0ZW1JZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNTdWNjZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICByb2Rlb1N5bmNJbnB1dE91dHB1dC5nZXRyZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VjY2VzcyA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNTdWNjZXNzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
