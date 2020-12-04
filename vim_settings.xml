@@ -106,11 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1607100350298">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1607101858723">
         <mark key="[" line="190" column="24" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="203" column="25" />
-        <mark key="." line="206" column="0" />
+        <mark key="]" line="189" column="82" />
+        <mark key="^" line="189" column="82" />
+        <mark key="." line="189" column="81" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/SetupCampaignProposalDetailInput.java" timestamp="1607094187375">
         <mark key="[" line="16" column="18" />
@@ -131,11 +131,10 @@
         <mark key="^" line="31" column="86" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" timestamp="1607021633092">
-        <mark key="'" line="63" column="24" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/OmsRodeoSyncInput.java" timestamp="1607101666023">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" timestamp="1607035856054" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1607037255616">
@@ -158,6 +157,7 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" timestamp="1607034285368">
         <mark key="'" line="140" column="108" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/IOLineIdVersionTuple.java" timestamp="1607101918975" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/IOLineDao.java" timestamp="1607034377887">
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="4" />
@@ -174,18 +174,12 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/LineItemRepository.java" timestamp="1607034437803">
         <mark key="[" line="24" column="5" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1607101104858">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1607102140200">
         <mark key="'" line="145" column="85" />
-        <mark key="[" line="150" column="26" />
-        <mark key="]" line="150" column="64" />
-        <mark key="." line="150" column="63" />
-        <mark key="^" line="150" column="64" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandlerTest.java" timestamp="1607021202736">
-        <mark key="[" line="95" column="27" />
-        <mark key="]" line="95" column="27" />
-        <mark key="." line="95" column="27" />
-        <mark key="^" line="95" column="16" />
+        <mark key="[" line="166" column="96" />
+        <mark key="]" line="166" column="105" />
+        <mark key="." line="166" column="104" />
+        <mark key="^" line="166" column="105" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/LineItemDao.java" timestamp="1607034436267">
         <mark key="[" line="50" column="123" />
@@ -1252,43 +1246,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>rodeoCa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9yZWNhc3RCb29rV2ZJZCA9IHNldHVwQ2FtcGFpZ25Qcm9wb3NhbERldGFpbElucHV0TGlzdC5nZXQoMCkuZ2V0T21zUm9kZW9TeW5jSW5wdXQoKS5nZXRGb3JlY2FzdEJvb2tXb3JrZmxvd0lkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiB5ID0gc2V0dXBDYW1wYWlnblByb3Bvc2FsRGV0YWlsSW5wdXRzLnN0cmVhbSgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChpbnB1dCAtPgogICAgICAgICAgICAgICAgICAgIGlucHV0LmdldE9tc1JvZGVvU3luY0lucHV0KCkuZ2V0SW9MaW5lSWRWZXJzaW9uVHVwbGUoKS5nZXRJb0xpbmVJZCgpLCBpbnB1dCAtPiBpbnB1dC5nZXRSZXF1ZXN0SWQoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChpbnB1dCAtPiBpbnB1dC5nKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHR5cGVkSWRzLnN0cmVhbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWNhc3RCb29rTGlzdC5nZXQoOSkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHR5cGVkSWRzLnN0cmVhbSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWNhc3RCb29rTGlzdC5nZXQoOSkuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgUk9ERU9fRVJST1JfS0VZX01FU1NBR0VfRk9STUFUID0gIiVzOiAlcyI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgUk9ERU9fRVJST1JfS0VZX01FU1NBR0VfRk9STUFUID0gIiVzOiAlcyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFR5cGVkSWQoRGF0YVR5cGUgZGF0YVR5cGUsIFN0cmluZyBkYXRhSWQpIHsKICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJXMuXy4lcyIsIGRhdGFUeXBlLCBkYXRhSWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFR5cGVkSWQoRGF0YVR5cGUgZGF0YVR5cGUsIFN0cmluZyBkYXRhSWQpIHsKICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJXMuXy4lcyIsIGRhdGFUeXBlLCBkYXRhSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
