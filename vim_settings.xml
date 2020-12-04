@@ -112,6 +112,12 @@
         <mark key="^" line="203" column="25" />
         <mark key="." line="204" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/SetupCampaignProposalDetailInput.java" timestamp="1607094187375">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="28" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/IOLineOrchestrator.java" timestamp="1607027116111" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1607033340005">
         <mark key="'" line="1045" column="40" />
@@ -163,10 +169,11 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/LineItemRepository.java" timestamp="1607034437803">
         <mark key="[" line="24" column="5" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1607037796391">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1607094343419">
+        <mark key="[" line="86" column="56" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="11" />
+        <mark key="^" line="87" column="12" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandlerTest.java" timestamp="1607021202736">
         <mark key="[" line="95" column="27" />
@@ -179,13 +186,6 @@
         <mark key="]" line="50" column="133" />
         <mark key="^" line="50" column="133" />
         <mark key="." line="50" column="132" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandlerTest.java" timestamp="1607019715094">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="256" column="88" />
-        <mark key="]" line="256" column="88" />
-        <mark key="^" line="256" column="95" />
-        <mark key="." line="256" column="88" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/util/OMSForecastBookUtils.java" timestamp="1607036126622">
         <mark key="'" line="126" column="20" />
@@ -1245,11 +1245,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String omsRodeoSyncWorkflowId,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>String omsRodeoSyncWorkflowId,</text>
       </register>
       <register name="/" type="4">
         <text>rodeoCa</text>
