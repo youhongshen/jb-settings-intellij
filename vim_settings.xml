@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Mapp</entry>
         <entry>forecast</entry>
         <entry>rodeoCa</entry>
         <entry>StringU</entry>
@@ -27,6 +26,7 @@
         <entry>UPDATE_FIE</entry>
         <entry>rodeoRepos</entry>
         <entry>bobaRep</entry>
+        <entry>ad</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/^/'/</entry>
@@ -128,9 +128,14 @@
         <mark key="^" line="35" column="34" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1607442842606" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" timestamp="1607449197353">
-        <mark key="'" line="4" column="10" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1607450965514">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" timestamp="1607449996056">
+        <mark key="'" line="94" column="6" />
         <mark key="[" line="89" column="39" />
         <mark key="]" line="89" column="39" />
         <mark key="^" line="48" column="24" />
@@ -185,9 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="79" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="239" column="37" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="240" column="32" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="268" column="21" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="314" column="33" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="142" column="38" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
@@ -285,6 +287,9 @@
       <jump line="701" column="47" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="168" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
       <jump line="4" column="10" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
+      <jump line="31" column="14" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
+      <jump line="42" column="5" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
+      <jump line="94" column="6" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1238,579 +1243,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>bobaRep</text>
+        <text>ad</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkb1JldHVybih0cnVlKS53aGVuKGluc3RhbmNlKS51cGRhdGVJT0xpbmVNYXBwaW5nKGFueSgpKTsKICAgICAgICBkb1JldHVybih0cnVlKS53aGVuKGluc3RhbmNlKS51cGRhdGVMaW5lSXRlbXNNYXBwaW5nKGFueSgpKTsKICAgICAgICBkb1JldHVybih0cnVlKS53aGVuKGluc3RhbmNlKS51cGRhdGVGb3JlY2FzdEJvb2tUYWJsZShhbnkoKSk7CiAgICAgICAgZG9SZXR1cm4oZmFsc2UpLndoZW4oaW5zdGFuY2UpLnNhdmVSb2Rlb0NhbXBhaWduVG9TMyhhbnkoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJsaW5lSXRlbUlkVmVyc2lvblR1cGxlIjogewogICAgICAgICAgImxpbmVJdGVtSWQiOiAiMTU1MzU2NDU2IiwKICAgICAgICAgICJsaW5lSXRlbVZlcnNpb24iOiAxCiAgICAgICAgfSwKICAgICAgICAibGluZUl0ZW1JbnZlbnRvcnlPdmVycmlkZXMiOiB7fQogICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIxNjA2MTA3NTQwMDAwIgo=</text>
+        <text encoding="base64">ICAgICJtaWdyYXRlZEZyb20iOiBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJORVdfRU5EX0RBVEUiOiBOdW1iZXJMb25nKAo=</text>
+        <text encoding="base64">ICAgICJkZWxldGVkIjogZmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">ICAgICJ2ZXJzaW9uIjogMywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIxNjA1OTM0ODAwMDAwIgo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJORVdfU1RBUlRfREFURSI6IE51bWJlckxvbmcoCg==</text>
+        <text encoding="base64">ICAgICAgIm9iZnVzY2F0ZWRDdXN0b21lcklkIjogIkFBM0VBNVo4WjdFSjYiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJQQUNLQUdFX0xFVkVMX0ZPUkVDQVNUIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgImVtYWlsIjogInNoZW5qb2FuQGFtYXpvbi5jb20iLAo=</text>
       </register>
       <register name="8" type="2">
-        <text>{
-  &quot;id&quot;: &quot;a42639e4-850c-4297-a3b3-aaa352bf6880&quot;,
-  &quot;name&quot;: &quot;AMZN UK Fire TV Sponsored Tiles&quot;,
-  &quot;description&quot;: &quot;UK Sponsored tile ads on Fire TV Launcher&quot;,
-  &quot;status&quot;: &quot;ACTIVE&quot;,
-  &quot;adPackageType&quot;: &quot;AAP&quot;,
-  &quot;schema&quot;: &quot;RODEO&quot;,
-  &quot;validDateRange&quot;: null,
-  &quot;selectedFields&quot;: [
-    {
-      &quot;fieldId&quot;: &quot;endDate&quot;,
-      &quot;fieldType&quot;: &quot;BOTH&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;DATE&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: null
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: false,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;name&quot;,
-      &quot;fieldType&quot;: &quot;PACKAGE&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;STRING&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: null
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: true,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;classificationDetails&quot;,
-      &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;JSON&quot;,
-        &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupClassificationDetails&quot;,
-        &quot;value&quot;: {
-          &quot;brandNames&quot;: null,
-          &quot;productCategories&quot;: [
-            4002
-          ]
-        }
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: true,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;isForecastable&quot;,
-      &quot;fieldType&quot;: &quot;PACKAGE&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;BOOLEAN&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: false
-      },
-      &quot;editable&quot;: false,
-      &quot;required&quot;: true,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;comments&quot;,
-      &quot;fieldType&quot;: &quot;BOTH&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;STRING&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: null
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: false,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;targetingAdvancedSegments&quot;,
-      &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;STRING&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: null
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: false,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;billingTo&quot;,
-      &quot;fieldType&quot;: &quot;PACKAGE&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;STRING&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: null
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: false,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;frequencyCap&quot;,
-      &quot;fieldType&quot;: &quot;BOTH&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;JSON&quot;,
-        &quot;model&quot;: &quot;com.amazon.d16g.rodeo.FrequencyCap&quot;,
-        &quot;value&quot;: {
-          &quot;periodCount&quot;: 1,
-          &quot;maxCount&quot;: 5,
-          &quot;periodType&quot;: &quot;DAYS&quot;
-        }
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: false,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;campaignType&quot;,
-      &quot;fieldType&quot;: &quot;PACKAGE&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;STRING&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: &quot;BILLABLE&quot;
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: true,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;ioRate&quot;,
-      &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;JSON&quot;,
-        &quot;model&quot;: &quot;com.amazon.d16g.rodeo.Money&quot;,
-        &quot;value&quot;: {
-          &quot;currency&quot;: &quot;GBP&quot;,
-          &quot;millivalue&quot;: 180000
-        }
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: true,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;startDate&quot;,
-      &quot;fieldType&quot;: &quot;BOTH&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;DATE&quot;,
-        &quot;model&quot;: null,
-        &quot;value&quot;: null
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: false,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    },
-    {
-      &quot;fieldId&quot;: &quot;targetingDetails&quot;,
-      &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-      &quot;selectedValue&quot;: {
-        &quot;type&quot;: &quot;JSON&quot;,
-        &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupTargetingDetails&quot;,
-        &quot;value&quot;: {
-          &quot;publisherKeywords&quot;: null,
-          &quot;mobileOS&quot;: null,
-          &quot;mobileAppWebTargetingString&quot;: null,
-          &quot;domainListDetails&quot;: null,
-          &quot;adUnits&quot;: null,
-          &quot;audioDeviceTargetingList&quot;: null,
-          &quot;supplySourceDetails&quot;: {
-            &quot;isDeliveryChannelSplitEnabled&quot;: false,
-            &quot;deliveryChannelSplitOptOutReason&quot;: &quot;Automatically disabled previously when ALL sources were not chosen.&quot;,
-            &quot;supplySources&quot;: [
-              4103
-            ],
-            &quot;supplySourceType&quot;: &quot;SELECTED_SOURCES&quot;
-          },
-          &quot;prebidCustomSegments&quot;: null,
-          &quot;domainInheritanceValueMap&quot;: null,
-          &quot;iasViewabilityTargeting&quot;: null,
-          &quot;platformTargetingList&quot;: null,
-          &quot;contentCategories&quot;: null,
-          &quot;dayPartTargeting&quot;: null,
-          &quot;viewabilityTargeting&quot;: null,
-          &quot;preBidTargeting&quot;: null,
-          &quot;amazonOOSiteTargeting&quot;: null,
-          &quot;viewabilityProvider&quot;: null,
-          &quot;platformType&quot;: null,
-          &quot;targetingUserLocation&quot;: &quot;UK&quot;,
-          &quot;mobileEnvironmentTargetingList&quot;: null,
-          &quot;contentKeywords&quot;: null
-        }
-      },
-      &quot;editable&quot;: true,
-      &quot;required&quot;: true,
-      &quot;selectedRates&quot;: null,
-      &quot;field&quot;: null
-    }
-  ],
-  &quot;packageProducts&quot;: [
-    {
-      &quot;id&quot;: &quot;ea3d4472-5991-413e-bb05-8d183262d221&quot;,
-      &quot;productId&quot;: &quot;AMZN_UK_FireTV_SponsoredTile_Home&quot;,
-      &quot;packageProductFields&quot;: null,
-      &quot;associatedPackageAdIds&quot;: null,
-      &quot;status&quot;: &quot;ACTIVE&quot;,
-      &quot;product&quot;: {
-        &quot;id&quot;: &quot;AMZN_UK_FireTV_SponsoredTile_Home&quot;,
-        &quot;name&quot;: &quot;AMZN UK Fire TV Sponsored Tile Home&quot;,
-        &quot;description&quot;: &quot;Sponsored tile on Fire TV Launcher Home tab&quot;,
-        &quot;status&quot;: &quot;ACTIVE&quot;,
-        &quot;adProductType&quot;: &quot;AAP_MOBILE_APP&quot;,
-        &quot;schema&quot;: &quot;RODEO&quot;,
-        &quot;validDateRange&quot;: {
-          &quot;startTime&quot;: 0,
-          &quot;endTime&quot;: 1893459600
-        },
-        &quot;productFields&quot;: [
-          {
-            &quot;fieldId&quot;: &quot;frequencyCap&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.FrequencyCap&quot;,
-              &quot;value&quot;: {
-                &quot;periodCount&quot;: 1,
-                &quot;maxCount&quot;: 5,
-                &quot;periodType&quot;: &quot;DAYS&quot;
-              }
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: false,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;computedTargetingString&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;STRING&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: &quot;(geo=GB OR geoip=GB) AND (csRequest.mobileApp.appId=6ca99247d0c04edea1baaa73fbd52f5a AND (csRequest.pt=launcher_home OR csRequest.pt=launcher_home_jarvis) AND (csRequest.slot=sponsored_tiles_home_horizontal_1 OR csRequest.slot=sponsored_tiles_home_horizontal_2 OR csRequest.slot=sponsored_tiles_home_horizontal_3 OR csRequest.slot=sponsored_tiles_home_horizontal_4 OR csRequest.slot=sponsored_tiles_home_horizontal_5))&quot;
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;creativeSizes&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;LIST&quot;,
-              &quot;model&quot;: &quot;java.lang.String&quot;,
-              &quot;value&quot;: [
-                &quot;320x180&quot;
-              ]
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;name&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;STRING&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: &quot;AMZN UK Fire TV Sponsored Tiles Home&quot;
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;creativeRotationType&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;STRING&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: &quot;RANDOM&quot;
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;optimizationDetails&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupOptimizationDetails&quot;,
-              &quot;value&quot;: {
-                &quot;optimizationType&quot;: &quot;CTR&quot;,
-                &quot;minBidCPM&quot;: null,
-                &quot;ctrFloor&quot;: null,
-                &quot;csrFloor&quot;: null
-              }
-            },
-            &quot;editable&quot;: false,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;targetingAdvancedSegments&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;STRING&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: null
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: false,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;mobileAppDetails&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupMobileAppDetails&quot;,
-              &quot;value&quot;: {
-                &quot;deviceTypes&quot;: null,
-                &quot;appCategories&quot;: null,
-                &quot;userOwnedAppFilter&quot;: null,
-                &quot;imdbKeywords&quot;: null,
-                &quot;appFilter&quot;: null,
-                &quot;orientation&quot;: &quot;ANY&quot;
-              }
-            },
-            &quot;editable&quot;: null,
-            &quot;required&quot;: null,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;type&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;STRING&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: &quot;AMAN_APP&quot;
-            },
-            &quot;editable&quot;: false,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;rtbDetails&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupRtbDetails&quot;,
-              &quot;value&quot;: {
-                &quot;bidCPM&quot;: {
-                  &quot;currency&quot;: &quot;GBP&quot;,
-                  &quot;millivalue&quot;: 1000
-                }
-              }
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: false,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;programId&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;NUMERIC&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: 1013
-            },
-            &quot;editable&quot;: false,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;budget&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.Budget&quot;,
-              &quot;value&quot;: {
-                &quot;thirdPartyDataFees&quot;: null,
-                &quot;totalBudget&quot;: {
-                  &quot;currency&quot;: &quot;GBP&quot;,
-                  &quot;millivalue&quot;: 100000
-                },
-                &quot;deliveryProfileAssignment&quot;: null,
-                &quot;catchupBoost&quot;: null,
-                &quot;impressionDeliveryBuffer&quot;: 0,
-                &quot;hourlyDeliveryProfile&quot;: null,
-                &quot;dailyDeliveryProfile&quot;: null,
-                &quot;totalImpressions&quot;: null,
-                &quot;flatFeeImpressionLimit&quot;: null,
-                &quot;currency&quot;: &quot;GBP&quot;,
-                &quot;spendingPolicy&quot;: &quot;SPREAD&quot;,
-                &quot;agencyFee&quot;: null
-              }
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;priority&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;STRING&quot;,
-              &quot;model&quot;: null,
-              &quot;value&quot;: &quot;NORMAL&quot;
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;aapDetails&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupAapDetails&quot;,
-              &quot;value&quot;: {
-                &quot;marginRatio&quot;: null,
-                &quot;maxBidCPM&quot;: null,
-                &quot;bidStrategy&quot;: &quot;DYNAMIC&quot;,
-                &quot;placementType&quot;: null,
-                &quot;siteLanguageTargeting&quot;: null,
-                &quot;dcpmTargetValue&quot;: null,
-                &quot;dcpmTargetType&quot;: null,
-                &quot;dataFee&quot;: {
-                  &quot;currency&quot;: &quot;GBP&quot;,
-                  &quot;millivalue&quot;: 0
-                }
-              }
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          },
-          {
-            &quot;fieldId&quot;: &quot;mobileDetails&quot;,
-            &quot;fieldType&quot;: &quot;PRODUCT&quot;,
-            &quot;selectedValue&quot;: {
-              &quot;type&quot;: &quot;JSON&quot;,
-              &quot;model&quot;: &quot;com.amazon.d16g.rodeo.AdGroupMobileDetails&quot;,
-              &quot;value&quot;: {
-                &quot;priceType&quot;: &quot;CPC&quot;,
-                &quot;channelIdRange&quot;: {
-                  &quot;min&quot;: 100,
-                  &quot;max&quot;: 2147483647
-                }
-              }
-            },
-            &quot;editable&quot;: true,
-            &quot;required&quot;: true,
-            &quot;selectedRates&quot;: null,
-            &quot;field&quot;: null
-          }
-        ],
-        &quot;productAds&quot;: null,
-        &quot;defaultRate&quot;: null,
-        &quot;countryCodes&quot;: [
-          &quot;UK&quot;
-        ],
-        &quot;requestSubsystem&quot;: null,
-        &quot;requiredAssets&quot;: null,
-        &quot;requiredCreativeSpecifications&quot;: null,
-        &quot;version&quot;: 1,
-        &quot;owner&quot;: &quot;sophuang&quot;,
-        &quot;createdBy&quot;: &quot;KratosDefinitionsPublisher&quot;,
-        &quot;createdOn&quot;: 1577144876118,
-        &quot;updatedBy&quot;: &quot;KratosDefinitionsPublisher&quot;,
-        &quot;updatedOn&quot;: 1594765551783,
-        &quot;client&quot;: &quot;KratosDefinitionsPublisher&quot;,
-        &quot;tags&quot;: [],
-        &quot;txId&quot;: 404322622
-      },
-      &quot;calculatedPrice&quot;: null
-    }
-  ],
-  &quot;packageAds&quot;: null,
-  &quot;countryCodes&quot;: [
-    &quot;UK&quot;
-  ],
-  &quot;defaultRate&quot;: {
-    &quot;rateType&quot;: &quot;CPC&quot;,
-    &quot;stackable&quot;: null,
-    &quot;validDateRange&quot;: null,
-    &quot;floorValue&quot;: null,
-    &quot;suggestedValue&quot;: null
-  },
-  &quot;supportedCreativeTypes&quot;: [
-    &quot;FIRE_TV_INLINE_BANNER&quot;,
-    &quot;FIRE_TV_FEATURE_ROTATOR&quot;,
-    &quot;FIRE_TV_SCREENSAVER&quot;,
-    &quot;FIRE_TV_SPONSORED_TITLES&quot;,
-    &quot;FIRE_TV_OOBE&quot;,
-    &quot;FIRE_TV_VIDEO_LANDING_PAGE&quot;,
-    &quot;FIRE_TV_VIDEO_LANDING_PAGE_SEND_ME_MORE&quot;,
-    &quot;FIRE_TV_CAROUSAL&quot;,
-    &quot;FIRE_TV_GRID&quot;,
-    &quot;FIRE_TV_SINGLE_VIEW&quot;,
-    &quot;FIRE_TV_INTEGRATED_LANDING_PAGE&quot;,
-    &quot;CUSTOM&quot;
-  ],
-  &quot;calculatedPrice&quot;: null,
-  &quot;version&quot;: 5,
-  &quot;owner&quot;: &quot;sophuang&quot;,
-  &quot;createdBy&quot;: &quot;KratosDefinitionsPublisher&quot;,
-  &quot;createdOn&quot;: 1577144901579,
-  &quot;updatedBy&quot;: &quot;KratosDefinitionsPublisher&quot;,
-  &quot;updatedOn&quot;: 1598561849179,
-  &quot;client&quot;: &quot;KratosDefinitionsPublisher&quot;,
-  &quot;tags&quot;: [],
-  &quot;txId&quot;: 413524750
-}</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiAiam9hbiBzaGVuIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1YmxpY0FwaUNsaWVudElkKGN0eC5nZXRQdWJsaWNBcGlDbGllbnRJZCgpKQo=</text>
+        <text encoding="base64">ICAgICJtb2RpZmllZEJ5IjogIkFBM0VBNVo4WjdFSjYiLAogICAgIm1vZGlmaWVkVGltZXN0YW1wIjogMTYwMzMxNTYxOTUwNCwKICAgICJtb2RpZmllZEJ5Q3VzdG9tZXJJbmZvIjogewogICAgICAibmFtZSI6ICJqb2FuIHNoZW4iLAogICAgICAiZW1haWwiOiAic2hlbmpvYW5AYW1hem9uLmNvbSIsCiAgICAgICJvYmZ1c2NhdGVkQ3VzdG9tZXJJZCI6ICJBQTNFQTVaOFo3RUo2IgogICAgfSwKICAgICJjcmVhdGVkQnkiOiAiQUEzRUE1WjhaN0VKNiIsCiAgICAiY3JlYXRlZFRpbWVzdGFtcCI6IDE2MDMzMTQ1NTE2NDQsCiAgICAiY3JlYXRlZEJ5Q3VzdG9tZXJJbmZvIjogewo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
@@ -1819,9 +1289,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bobaRep</last-search>
+      <last-search>ad</last-search>
       <last-offset />
-      <last-pattern>bobaRep</last-pattern>
+      <last-pattern>ad</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
