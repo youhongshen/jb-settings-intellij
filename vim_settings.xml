@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>forecastBookM</entry>
         <entry>verify</entry>
         <entry>forecastBookUtil</entry>
         <entry>getTypedId</entry>
@@ -27,6 +26,7 @@
         <entry>Call Rodeo getAdGroup for lineitemId</entry>
         <entry>log4j</entry>
         <entry>Jackson</entry>
+        <entry>SetupCampaignProposal</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/^/'/</entry>
@@ -109,14 +109,14 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1607384462443">
         <mark key="'" line="56" column="31" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" timestamp="1607459895344">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" timestamp="1607467509363">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" timestamp="1607460845905">
-        <mark key="'" line="477" column="24" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" timestamp="1607467116079">
+        <mark key="'" line="121" column="29" />
         <mark key="[" line="477" column="21" />
         <mark key="]" line="477" column="21" />
         <mark key="." line="477" column="21" />
@@ -134,11 +134,18 @@
         <mark key="." line="162" column="37" />
         <mark key="^" line="162" column="38" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1607450965514">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="129" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/SetupCampaignProposalDetailInput.java" timestamp="1607467605579">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="28" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" timestamp="1607467675734">
+        <mark key="'" line="129" column="2" />
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/z.json" timestamp="1607451616210">
         <mark key="[" line="47" column="39" />
@@ -180,9 +187,13 @@
         <mark key="." line="78" column="74" />
         <mark key="^" line="76" column="61" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1607444851063" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1607467524652">
+        <mark key="[" line="119" column="92" />
+        <mark key="]" line="114" column="7" />
+        <mark key="." line="114" column="6" />
+        <mark key="^" line="114" column="7" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1607445164108" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandlerTest.java" timestamp="1607363681692" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1607461292733">
         <mark key="'" line="1035" column="18" />
         <mark key="[" line="157" column="27" />
@@ -192,14 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="43" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="190" column="37" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="191" column="19" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="195" column="47" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="119" column="96" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
-      <jump line="117" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
-      <jump line="144" column="101" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
-      <jump line="143" column="85" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
       <jump line="168" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
       <jump line="170" column="72" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
@@ -271,7 +274,6 @@
       <jump line="174" column="20" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="207" column="69" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
-      <jump line="121" column="29" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="210" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="299" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="388" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
@@ -292,6 +294,15 @@
       <jump line="164" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="165" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="175" column="21" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="563" column="94" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="568" column="26" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="571" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="576" column="82" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="209" column="4" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="121" column="29" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="2" column="28" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
+      <jump line="5" column="4" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
+      <jump line="128" column="2" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_request.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1246,34 +1257,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>Jackson</text>
+        <text>SetupCampaignProposal</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN5bmNSb2Rlb0NhbXBhaWduTGFtYmRhID0gbmV3IGxhbWJkYS5GdW5jdGlvbih0aGlzLCBTWU5DX1JPREVPX0NBTVBBSUdOX0xBTUJEQV9OQU1FLCB7CiAgICAgICAgICAgIGNvZGU6IG5ldyBCcmF6aWxQYWNrYWdlTGFtYmRhQ29kZSh7CiAgICAgICAgICAgICAgICBicmF6aWxQYWNrYWdlOiBCcmF6aWxQYWNrYWdlLmZyb21TdHJpbmcoJ0QxNkdPTVNSb2Rlb1N5bmNXb3JrZmxvdy0xLjAnKSwKICAgICAgICAgICAgICAgIGNvbXBvbmVudE5hbWU6IFNZTkNfUk9ERU9fQ0FNUEFJR05fTEFNQkRBX05BTUUKICAgICAgICAgICAgfSksCiAgICAgICAgICAgIGhhbmRsZXI6ICdjb20uYW1hem9uLmQxNmdvbXNyb2Rlb3N5bmN3b3JrZmxvdy5sYW1iZGEuaGFuZGxlcnMuU3luY1JvZGVvQ2FtcGFpZ25IYW5kbGVyOjpoYW5kbGVSZXF1ZXN0JywKICAgICAgICAgICAgLi4uIGxhbWJkYUNvbmZpZwogICAgICAgIH0pOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAtIFJvZGVvU3luYyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIFNldHVwQ2FtcGFpZ25Qcm9wb3NhbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwczovL2NvZGUuYW1hem9uLmNvbS9yZXZpZXdzL0NSLTQwNDMyNTM1L3JldmlzaW9ucy8xIy9kZXRhaWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBzZXR1cENhbXBhaWduUHJlcExhbWJkYTogbGFtYmRhLkZ1bmN0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwczovL2NvZGUuYW1hem9uLmNvbS9yZXZpZXdzL0NSLTQwNDMyNTM1L3JldmlzaW9ucy8xIy9kZXRhaWxzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSmVyc2V5TWVkaWFKc29uSmFja3NvbiA9IDIuMTkueF9qYWNrc29uXzIuOC54Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBzZXR1cENhbXBhaWduUHJlcExhbWJkYTogbGFtYmRhLkZ1bmN0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVFVQX0NBTVBBSUdOX1BST1BPU0FMX1BSRVBfTEFNQkRBX05BTUUgPSAnU2V0dXBDYW1wYWlnblByb3Bvc2FsUHJlcCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSmVyc2V5TWVkaWFKc29uSmFja3NvbiA9IDIuMTkueF9qYWNrc29uXzIuOC54Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVFVQX0NBTVBBSUdOX1BST1BPU0FMX1BSRVBfTEFNQkRBX05BTUUgPSAnU2V0dXBDYW1wYWlnblByb3Bvc2FsUHJlcCc7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICksCg==</text>
@@ -1282,7 +1293,7 @@
         <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjZklkIjogTnVtYmVyTG9uZygK</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1291,9 +1302,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Jackson</last-search>
+      <last-search>SetupCampaignProposal</last-search>
       <last-offset />
-      <last-pattern>Jackson</last-pattern>
+      <last-pattern>SetupCampaignProposal</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
