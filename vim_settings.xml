@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SetupCampaignProposal</entry>
-        <entry>Dom4j</entry>
         <entry>dom</entry>
         <entry>Swagg</entry>
         <entry>Dom</entry>
@@ -27,6 +25,8 @@
         <entry>wor</entry>
         <entry>DETAIL</entry>
         <entry>UpdateOMS</entry>
+        <entry>saveDra</entry>
+        <entry>rodeoData</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/^/'/</entry>
@@ -119,11 +119,12 @@
         <mark key="^" line="298" column="6" />
         <mark key="." line="210" column="18" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1607549272598">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1607557448228">
         <mark key="'" line="222" column="79" />
-        <mark key="[" line="285" column="12" />
-        <mark key="]" line="288" column="31" />
-        <mark key="." line="285" column="12" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="234" column="71" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_input.json" timestamp="1607548424394">
         <mark key="'" line="6" column="5" />
@@ -138,7 +139,6 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1607548733509">
         <mark key="'" line="77" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1607543733942" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineContainer.jsx" timestamp="1607553930453" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/lambdaStack.ts" timestamp="1607555021420">
         <mark key="[" line="16" column="0" />
@@ -165,7 +165,11 @@
         <mark key="^" line="206" column="28" />
         <mark key="." line="206" column="27" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/s3/RodeoS3Dao.java" timestamp="1607557271185" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/BobaModule.java" timestamp="1607555222462" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1607557347376">
+        <mark key="'" line="46" column="51" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/rodeo_sync_input_output.json" timestamp="1607548352090">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="27" />
@@ -178,13 +182,12 @@
         <mark key="^" line="54" column="45" />
         <mark key="." line="54" column="44" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/PackageProductProposalDetail.java" timestamp="1607545400522" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1607555125015">
-        <mark key="'" line="114" column="79" />
-        <mark key="[" line="128" column="94" />
-        <mark key="]" line="128" column="94" />
-        <mark key="." line="128" column="94" />
-        <mark key="^" line="130" column="7" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1607556179671">
+        <mark key="'" line="116" column="79" />
+        <mark key="[" line="123" column="92" />
+        <mark key="]" line="28" column="70" />
+        <mark key="." line="123" column="103" />
+        <mark key="^" line="28" column="70" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineAction.js" timestamp="1607554073879" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/RodeoSyncErrorCode.java" timestamp="1607556059819">
@@ -199,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" />
       <jump line="210" column="45" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
       <jump line="212" column="46" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
       <jump line="248" column="57" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
@@ -299,6 +301,7 @@
       <jump line="975" column="59" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="1079" column="105" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" />
       <jump line="247" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
+      <jump line="46" column="51" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1253,43 +1256,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgInJvZGVvU3luY0Vycm9yQ29kZSI6ICJJTlRFUk5BTF9FUlJPUiIsCiAgICAgICJlcnJvck1lc3NhZ2UiOiAic29tZXRoaW5nIHdlbnQgd3JvbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>SUCCESS</text>
+        <text>campaignSyncResult</text>
       </register>
       <register name="/" type="4">
-        <text>UpdateOMS</text>
+        <text>rodeoData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInJvZGVvU3luY0Vycm9yQ29kZSI6ICJJTlRFUk5BTF9FUlJPUiIsCiAgICAgICJlcnJvck1lc3NhZ2UiOiAic29tZXRoaW5nIHdlbnQgd3JvbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEN1cnJlbnRTdGVwRGV0YWlsKGxpbmVJdGVtRm9yZWNhc3RCb29rLCBwYWNrYWdlUHJvZHVjdFN5bmNSZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJBRF9SRVFVRVNULAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFZBTElEQVRFX0lOUFVUX0xBTUJEQV9OQU1FID0gJ1ZhbGlkYXRlSW5wdXQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSB2YWxpZGF0ZUlucHV0TGFtYmRhOiBsYW1iZGEuRnVuY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZXJyb3JNZXNzYWdlKGNhbXBhaWduU3luY1Jlc3VsdC5nZXRFcnJvck1lc3NhZ2UoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAub3BlcmF0aW9uTmFtZSgiUm9kZW9TeW5jIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT21zRXJyb3JEZXRhaWwuYnVpbGRlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlvTGluZUZvcmVjYXN0Qm9vay5nZXRFeGVjdXRpb25EZXRhaWwoKS5nZXRDdXJyZW50U3RlcERldGFpbCgpLnNldE9tc0Vycm9yRGV0YWlsKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAyMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlvTGluZUZvcmVjYXN0Qm9vay5nZXRFeGVjdXRpb25EZXRhaWwoKS5nZXRDdXJyZW50U3RlcERldGFpbCgpLnNldFJlYXNvbkNvZGUoUmVhc29uQ29kZS5FUlJPUik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlvTGluZUZvcmVjYXN0Qm9vay5nZXRFeGVjdXRpb25EZXRhaWwoKS5nZXRDdXJyZW50U3RlcERldGFpbCgpLnNldEN1cnJlbnRTdGVwU3RhdHVzKEZvcmVjYXN0Qm9va0V4ZWN1dGlvblN0YXR1cy5GQUlMRUQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAyMTMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1298,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>UpdateOMS</last-search>
+      <last-search>rodeoData</last-search>
       <last-offset />
-      <last-pattern>UpdateOMS</last-pattern>
+      <last-pattern>rodeoData</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
