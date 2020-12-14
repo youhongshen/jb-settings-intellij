@@ -113,13 +113,6 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="36" column="53" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1607708812382">
-        <mark key="'" line="53" column="13" />
-        <mark key="[" line="128" column="63" />
-        <mark key="]" line="128" column="63" />
-        <mark key="." line="128" column="63" />
-        <mark key="^" line="128" column="83" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1607961491592" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/rodeo_sync_input_output.json" timestamp="1607884845484">
         <mark key="[" line="1" column="19" />
@@ -177,11 +170,11 @@
         <mark key="^" line="191" column="20" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/oms_rodeo_sync_input_list.json" timestamp="1607964961746" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/omsRodeoSyncSfnStack.ts" timestamp="1607728548304">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="47" column="79" />
-        <mark key="^" line="47" column="79" />
-        <mark key="." line="47" column="78" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/omsRodeoSyncSfnStack.ts" timestamp="1607968772207">
+        <mark key="[" line="48" column="87" />
+        <mark key="]" line="48" column="110" />
+        <mark key="." line="48" column="109" />
+        <mark key="^" line="48" column="110" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1607961980970">
         <mark key="'" line="78" column="51" />
@@ -202,6 +195,12 @@
         <mark key="]" line="213" column="32" />
         <mark key="^" line="211" column="32" />
         <mark key="." line="212" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1607967983673">
+        <mark key="[" line="74" column="59" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="74" column="40" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1607963432845">
         <mark key="'" line="179" column="0" />
@@ -1265,11 +1264,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvbXNSb2Rlb1N5bmNNYXAuaXQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>CampaignSyncResult.builder()</text>
       </register>
       <register name="/" type="4">
         <text>Get Rodeo A</text>
@@ -1278,31 +1277,31 @@
         <text encoding="base64">Y29uc3Qgb21zUm9kZW9TeW5jU2ZuU3RhY2tOYW1lID0gYCR7UEFDS0FHRV9OQU1FfS1PbXNSb2Rlb1N5bmNTZm5TdGFja2A7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbXNSb2Rlb1N5bmNNYXAuaXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdhbW1hRGVwbG95bWVudEdyb3VwLmFkZFN0YWNrcyhnYW1tYUxhbWJkYVN0YWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXR1cyhTdGF0dXMuU1VDQ0VTUykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5hZGRTdGFja3MoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YUxhbWJkYVN0YWNrKTsKYmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
+        <text encoding="base64">ICAgIGdhbW1hRGVwbG95bWVudEdyb3VwLmFkZFN0YWNrcyhnYW1tYUxhbWJkYVN0YWNrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgIC5hZGRTdGFja3MoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoCg==</text>
+        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YUxhbWJkYVN0YWNrKTsKYmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
