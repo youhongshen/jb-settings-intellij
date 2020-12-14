@@ -106,12 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/rodeoSyncSfnStack.ts" timestamp="1607971233111">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/rodeoSyncSfnStack.ts" timestamp="1607972068721">
         <mark key="'" line="9" column="34" />
-        <mark key="[" line="30" column="72" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="15" />
+        <mark key="[" line="34" column="81" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="23" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1607961491592" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/rodeo_sync_input_output.json" timestamp="1607884845484">
@@ -169,12 +169,12 @@
         <mark key="." line="191" column="106" />
         <mark key="^" line="191" column="20" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/oms_rodeo_sync_input_list.json" timestamp="1607970993523" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/omsRodeoSyncSfnStack.ts" timestamp="1607971142814">
-        <mark key="[" line="57" column="68" />
-        <mark key="]" line="58" column="16" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="58" column="16" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/oms_rodeo_sync_input_list.json" timestamp="1607972391171" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/omsRodeoSyncSfnStack.ts" timestamp="1607972095090">
+        <mark key="[" line="52" column="87" />
+        <mark key="]" line="53" column="24" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1607961980970">
         <mark key="'" line="78" column="51" />
@@ -211,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
-      <jump line="210" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="299" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="388" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
       <jump line="477" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/cfn.template.json" />
@@ -311,6 +309,8 @@
       <jump line="101" column="69" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/lambdaStack.ts" />
       <jump line="611" column="29" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="179" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="51" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/omsRodeoSyncSfnStack.ts" />
+      <jump line="49" column="122" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/omsRodeoSyncSfnStack.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1265,10 +1265,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Get Rodeo A</text>
@@ -1277,31 +1277,31 @@
         <text encoding="base64">Y29uc3Qgb21zUm9kZW9TeW5jU2ZuU3RhY2tOYW1lID0gYCR7UEFDS0FHRV9OQU1FfS1PbXNSb2Rlb1N5bmNTZm5TdGFja2A7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElucHV0LiQ6ICckJwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbXNSb2Rlb1N5bmNNYXAuaXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXR1cyhTdGF0dXMuU1VDQ0VTUykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLm5leHQobmV3IHRhc2tzLkxhbWJkYUludm9rZSh0aGlzLCAnU3luY1JvZGVvUHJvcG9zYWwnLCB7bGFtYmRhRnVuY3Rpb246IHRoaXMubGFtYmRhU3RhY2suc3luY1JvZGVvUHJvcG9zYWxMYW1iZGF9KSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0KG5ldyB0YXNrcy5MYW1iZGFJbnZva2UodGhpcywgJ1N5bmNSb2Rlb0NhbXBhaWduJywge2xhbWJkYUZ1bmN0aW9uOiB0aGlzLmxhbWJkYVN0YWNrLnN5bmNSb2Rlb0NhbXBhaWduTGFtYmRhfSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc1ZhbGlkQnJhbmNoID0gc2ZuLkNoYWluCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzeW5jIGNhbXBhaWduIGFuZCBzeW5jIHByb3Bvc2FsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGUgcHJlcCBzdGVwIGFuZCB0aGUgbWFwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdhbW1hRGVwbG95bWVudEdyb3VwLmFkZFN0YWNrcyhnYW1tYUxhbWJkYVN0YWNrKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5hZGRTdGFja3MoCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGUgbWFwIHN0YXRlIHdoaWNoIGluY2x1ZGVzIHRoZSBzZXR1cCwgcm9kZW9TeW5jLCBhbmQgdXBkYXRlTWFwcGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
