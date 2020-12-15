@@ -107,28 +107,22 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/resource/BobaResource.java" timestamp="1608062825660" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/DocumentDBDao.java" timestamp="1607981572579">
-        <mark key="[" line="140" column="38" />
-        <mark key="]" line="140" column="38" />
-        <mark key="." line="140" column="38" />
-        <mark key="^" line="127" column="46" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/CampaignProposalDetail.java" timestamp="1607982186651">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/DocumentDBDaoTest.java" timestamp="1607981603045">
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="68" column="62" />
-        <mark key="." line="68" column="62" />
-        <mark key="^" line="67" column="63" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/PackageResourceImpl.java" timestamp="1608065525727">
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="112" />
+        <mark key="." line="49" column="111" />
+        <mark key="^" line="49" column="112" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1608051603091">
         <mark key="[" line="544" column="0" />
         <mark key="]" line="544" column="0" />
         <mark key="." line="544" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/productcatalog/ProductCatalogDao.java" timestamp="1608065839407">
+        <mark key="[" line="67" column="80" />
+        <mark key="]" line="67" column="87" />
+        <mark key="." line="67" column="86" />
+        <mark key="^" line="67" column="87" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1607991815099">
         <mark key="[" line="51" column="0" />
@@ -141,17 +135,17 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/Auditable.java" timestamp="1607981526457">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="17" column="34" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/BobaResource.java" timestamp="1608064407558">
         <mark key="[" line="24" column="7" />
         <mark key="]" line="24" column="7" />
         <mark key="^" line="46" column="34" />
         <mark key="." line="24" column="7" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/ProductCatalogRepository.java" timestamp="1608066016588">
+        <mark key="[" line="49" column="67" />
+        <mark key="]" line="49" column="67" />
+        <mark key="^" line="48" column="68" />
+        <mark key="." line="49" column="67" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/util/Constant.java" timestamp="1608064416422" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/ProductResource.java" timestamp="1608064951318">
@@ -184,6 +178,12 @@
         <mark key="]" line="191" column="33" />
         <mark key="." line="191" column="33" />
         <mark key="^" line="191" column="39" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/ProductCatalogOrchestrator.java" timestamp="1608065895949">
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="45" column="62" />
+        <mark key="." line="45" column="61" />
+        <mark key="^" line="45" column="62" />
       </file>
       <file name="/fragment.java" timestamp="1608056845319">
         <mark key="[" line="0" column="0" />
@@ -1251,43 +1251,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Call Rodeo getAd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE5vdE51bGwgQFBhdGhQYXJhbSgiaWQiKSBTdHJpbmcgaWQsCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQcm9kdWN0IGRlc2NyaWJlUHJvZHVjdChTdHJpbmcgaWQsIFJlcXVlc3RDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gcHJvZHVjdENhdGFsb2dSZXBvc2l0b3J5LmRlc2NyaWJlUHJvZHVjdChpZCwgY29udGV4dCk7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVyciA9IFN0cmluZy5mb3JtYXQoIkNhbm5vdCBmaW5kIHByb2R1Y3Qgd2l0aCBpZCA9ICVzIiwgaWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJjYWxsaW5nIHJvZGVvIGdldEFkR3JvdXBCeUlkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtyYXRvc0NsaWVudC5nZXRSZXNvdXJjZShQcm9kdWN0c1Jlc291cmNlLmNsYXNzKS5kZXNjcmliZVByb2R1Y3QoaWQsIGNvbnRleHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBGQl9XT1JLRkxPV19JRCA9ICJGQl9XT1JLRkxPV19JRCI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBQQUNLQUdFX0xFVkVMX0ZPUkVDQVNUID0gIlBBQ0tBR0VfTEVWRUxfRk9SRUNBU1QiOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBMSU5FSVRFTV9LRVkgPSAiTElORUlURU1fS0VZIjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
