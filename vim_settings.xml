@@ -106,6 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/BobaResource.java" timestamp="1608236520914" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/BobaResource.java" timestamp="1608064407558">
         <mark key="[" line="24" column="7" />
         <mark key="]" line="24" column="7" />
@@ -154,6 +155,12 @@
         <mark key="^" line="99" column="74" />
         <mark key="." line="99" column="73" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/BobaResourceImpl.java" timestamp="1608236586753">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="38" column="56" />
+        <mark key="^" line="36" column="127" />
+        <mark key="." line="38" column="56" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/ProductResource.java" timestamp="1608064951318">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="35" />
@@ -178,27 +185,15 @@
         <mark key="^" line="167" column="74" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorSILService/build.xml" timestamp="1608051209720">
-        <mark key="[" line="191" column="33" />
-        <mark key="]" line="191" column="33" />
-        <mark key="." line="191" column="33" />
-        <mark key="^" line="191" column="39" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/ProductCatalogOrchestrator.java" timestamp="1608077354526">
         <mark key="[" line="53" column="55" />
         <mark key="]" line="53" column="53" />
         <mark key="." line="53" column="52" />
         <mark key="^" line="53" column="53" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/IOResourceImpl.java" timestamp="1608236484748" />
       <file name="/fragment.java" timestamp="1608056845319">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1608048322394">
-        <mark key="'" line="678" column="26" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="165" column="16" />
-        <mark key="." line="122" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1256,10 +1251,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>descri</text>
+        <text>(&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>descri</text>
+        <text>(&quot;</text>
       </register>
       <register name="/" type="4">
         <text>repo</text>
@@ -1268,31 +1263,31 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLmphdmF3cy5KbmxweEFyZ3MudmVyaWZ5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB2ZXJzaW9uOwo=</text>
+        <text encoding="base64">ICAgIEBBQUEob3BlcmF0aW9uTmFtZSA9IENvbnN0YW50cy5PUEVSQVRJT05fTkFNRV9DUkVBVEVfUEFDS0FHRV9QUk9EVUNUX1BST1BPU0FMLCBzZXJ2aWNlTmFtZSA9IENvbnN0YW50cy5TRVJWSUNFX05BTUVfUkVTT1VSQ0UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQYXRoKCIvcGFja2FnZVByb2R1Y3RQcm9wb3NhbCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQT1NUCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVyciA9IFN0cmluZy5mb3JtYXQoIkNhbm5vdCBmaW5kIHByb2R1Y3Qgd2l0aCBpZCA9ICVzIiwgaWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW9PcmNoZXN0cmF0b3IuZ2V0SU8oaW9JZCwgT3B0aW9uYWwub2ZOdWxsYWJsZShvcHRpb25hbEFkdmVydGlzZXJJZCksIGluY2x1ZGVEZWxldGVkLCBpbmNsdWRlQWxsTWFwcGluZ3MsIHJlcXVlc3RDb250ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJTyBnZXRJTyhTdHJpbmcgaW9JZCwgU3RyaW5nIG9wdGlvbmFsQWR2ZXJ0aXNlcklkLCBib29sZWFuIGluY2x1ZGVEZWxldGVkLCBib29sZWFuIGluY2x1ZGVBbGxNYXBwaW5ncywgUmVxdWVzdENvbnRleHQgcmVxdWVzdENvbnRleHQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtyYXRvc0NsaWVudC5nZXRSZXNvdXJjZShQcm9kdWN0c1Jlc291cmNlLmNsYXNzKS5kZXNjcmliZVByb2R1Y3QoaWQsIGNvbnRleHQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLmphdmF3cy5KbmxweEFyZ3MudmVyaWZ5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB2ZXJzaW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
