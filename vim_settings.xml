@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>states</entry>
         <entry>FORMAT</entry>
         <entry>LOG</entry>
         <entry>ReactTool</entry>
@@ -27,6 +26,7 @@
         <entry>delet</entry>
         <entry>approval</entry>
         <entry>Error in starting OMS to R</entry>
+        <entry>Catch up boost</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -129,13 +129,6 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" timestamp="1609260556548">
         <mark key="'" line="109" column="45" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/RepositoryModule.java" timestamp="1608776473875">
-        <mark key="'" line="27" column="18" />
-        <mark key="[" line="161" column="71" />
-        <mark key="]" line="161" column="80" />
-        <mark key="^" line="161" column="80" />
-        <mark key="." line="161" column="79" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowState.java" timestamp="1608853715642">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="15" />
@@ -196,9 +189,15 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="31" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1609452173421">
+        <mark key="'" line="67" column="40" />
+        <mark key="[" line="878" column="45" />
+        <mark key="]" line="878" column="45" />
+        <mark key="." line="878" column="45" />
+        <mark key="^" line="878" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/rodeoSyncSfnStack.ts" />
       <jump line="101" column="23" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
       <jump line="95" column="22" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/rodeoSyncSfnStack.ts" />
       <jump line="100" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/rodeoSyncSfnStack.ts" />
@@ -298,6 +297,7 @@
       <jump line="106" column="11" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/approvalWorkflowExecution.json" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/approvalWorkflowExecution.json" />
       <jump line="106" column="41" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
+      <jump line="67" column="40" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1251,14 +1251,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oU3RyaW5nLmZvcm1hdCgiIikpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Error in starting OMS to R</text>
+        <text>Catch up boost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
@@ -1297,9 +1297,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Error in starting OMS to R</last-search>
+      <last-search>Catch up boost</last-search>
       <last-offset />
-      <last-pattern>Error in starting OMS to R</last-pattern>
+      <last-pattern>Catch up boost</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
