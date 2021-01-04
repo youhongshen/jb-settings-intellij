@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">TGluZUl0ZW1JZCA=</entry>
-        <entry>approv</entry>
         <entry>delet</entry>
         <entry>approval</entry>
         <entry>Error in starting OMS to R</entry>
@@ -26,7 +24,9 @@
         <entry>cfId</entry>
         <entry>proposalDet</entry>
         <entry>proposalDisplayDe</entry>
+        <entry>proposalDisp</entry>
         <entry>campaignId</entry>
+        <entry>proposalDisplayD</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -141,8 +141,8 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1609701940339">
-        <mark key="'" line="203" column="0" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1609778059970">
+        <mark key="'" line="131" column="64" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/dao/RodeoSyncDaoTest.java" timestamp="1608854141310">
         <mark key="[" line="22" column="5" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="17" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorSILService/Config" />
       <jump line="176" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorSILService/Config" />
       <jump line="2" column="12" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorSILService/Config" />
       <jump line="26" column="16" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorSILService/Config" />
@@ -292,13 +291,14 @@
       <jump line="591" column="85" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="595" column="96" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="603" column="122" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
-      <jump line="131" column="41" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="182" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="193" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="256" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="590" column="51" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="274" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="203" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="187" column="40" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="131" column="64" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1259,7 +1259,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>campaignId</text>
+        <text>proposalDisplayD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkoYXdzU3RlcEZ1bmN0aW9ucywgdGltZXMoMSkpLnNlbmRUYXNrU3VjY2VzcyhhbnkoU2VuZFRhc2tTdWNjZXNzUmVxdWVzdC5jbGFzcykpOwo=</text>
@@ -1298,9 +1298,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>campaignId</last-search>
+      <last-search>proposalDisplayD</last-search>
       <last-offset />
-      <last-pattern>campaignId</last-pattern>
+      <last-pattern>proposalDisplayD</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
