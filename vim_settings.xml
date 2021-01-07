@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>proposalDet</entry>
         <entry>proposalDisplayDe</entry>
         <entry>proposalDisp</entry>
         <entry>campaignId</entry>
@@ -27,6 +26,7 @@
         <entry>Arn</entry>
         <entry>pipelin</entry>
         <entry>betaSta</entry>
+        <entry>odin</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -106,8 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/approvalworkflows/ClauseDaoTest.java" timestamp="1609859517324">
-        <mark key="'" line="0" column="0" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610058157206">
+        <mark key="[" line="19" column="107" />
+        <mark key="]" line="19" column="110" />
+        <mark key="^" line="19" column="110" />
+        <mark key="." line="19" column="109" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" timestamp="1609860785935" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/ioLine.json" timestamp="1609866123772">
@@ -132,12 +135,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/converter/workflows/ForecastBookToInternalForecastBookConverterTest.java" timestamp="1609805593287">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="36" column="106" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1609980407605" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/workflows/ForecastBookToInternalForecastBookConverter.java" timestamp="1609871581670">
@@ -176,6 +173,7 @@
         <mark key="^" line="69" column="34" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1610058050128" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/resource/workflows/ForecastBookWorkflowsResourceImplTest.java" timestamp="1609862826011">
         <mark key="'" line="264" column="36" />
         <mark key="[" line="1116" column="95" />
@@ -1255,43 +1253,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>dub</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>dub</text>
       </register>
       <register name="/" type="4">
-        <text>betaSta</text>
+        <text>odin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwbG95VG9TdGFnZShnYW1tYVN0YWdlTmFtZSwgZ2FtbWFBd3NFbnYsIHBpcGVsaW5lKTsK</text>
+        <text encoding="base64">cHJvZC5FVUFtYXpvbi5hd3MuY3JlZGVudGlhbHMgPSAiY29tLmFtYXpvbi5hY2Nlc3MuRDE2R0NDU01hd3NQcm94eVNlcnZpY2VCZXRhLWNjcy1tYXdzLXByb3h5LXNlcnZpY2UtcHJvZC1kdWItMSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFzdGVyLlVTQW1hem9uLmF3cy5jcmVkZW50aWFscyA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YU9tc1JvZGVvU3luY1NmblN0YWNrKTsK</text>
+        <text encoding="base64">LlVTQW1hem9uLmF3cy5jcmVkZW50aWFscyA9ICIiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YUxhbWJkYVN0YWNrKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YU9tc1JvZGVvU3luY1NmblN0YWNrKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YUxhbWJkYVN0YWNrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGlvblByb3RlY3Rpb246IGZhbHNlLCAgIC8vIG9ubHkgZm9yIGJldGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb2Z0d2FyZVR5cGU6IFNvZnR3YXJlVHlwZS5JTkZSQVNUUlVDVFVSRSwK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6IHBpcGVsaW5lLmRlcGxveW1lbnRFbnZpcm9ubWVudEZvcihiZXRhQWNjb3VudCwgcmVnaW9uSUFEKSwK</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGlvblByb3RlY3Rpb246IGZhbHNlLCAgIC8vIG9ubHkgZm9yIGJldGEK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1300,12 +1298,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>betaSta</last-search>
+      <last-search>odin</last-search>
       <last-offset />
-      <last-pattern>betaSta</last-pattern>
+      <last-pattern>odin</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
