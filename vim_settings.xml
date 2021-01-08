@@ -35,7 +35,6 @@
         <entry>$A</entry>
         <entry>-</entry>
         <entry>261</entry>
-        <entry>w</entry>
         <entry>493</entry>
         <entry>1044</entry>
         <entry>.,$d</entry>
@@ -49,6 +48,7 @@
         <entry>A$</entry>
         <entry>0</entry>
         <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -106,12 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610122634508">
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610127430053">
         <mark key="'" line="79" column="53" />
-        <mark key="[" line="27" column="92" />
-        <mark key="]" line="27" column="93" />
-        <mark key="^" line="27" column="93" />
-        <mark key="." line="27" column="92" />
+        <mark key="[" line="27" column="81" />
+        <mark key="]" line="27" column="112" />
+        <mark key="^" line="27" column="112" />
+        <mark key="." line="27" column="111" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" timestamp="1609860785935" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/ioLine.json" timestamp="1609866123772">
@@ -1254,10 +1254,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>com.amazon.access.D16GCCSMawsProxyServiceBeta-ccs-maws-proxy-service-prod-pdx-1&quot;;</text>
+        <text>prxyprod-1&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>com.amazon.access.D16GCCSMawsProxyServiceBeta-ccs-maws-proxy-service-prod-pdx-1&quot;;</text>
+        <text>prxyprod-1&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -1293,7 +1293,7 @@
         <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGlvblByb3RlY3Rpb246IGZhbHNlLCAgIC8vIG9ubHkgZm9yIGJldGEK</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
