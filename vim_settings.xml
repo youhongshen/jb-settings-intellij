@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>proposalDisplayDe</entry>
         <entry>proposalDisp</entry>
         <entry>campaignId</entry>
         <entry>proposalDisplayD</entry>
@@ -27,6 +26,7 @@
         <entry>pipelin</entry>
         <entry>betaSta</entry>
         <entry>odin</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -106,7 +106,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610060316565">
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610121533379">
+        <mark key="'" line="79" column="53" />
         <mark key="[" line="19" column="107" />
         <mark key="]" line="19" column="110" />
         <mark key="^" line="19" column="110" />
@@ -199,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Constant.java" />
-      <jump line="206" column="60" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
-      <jump line="129" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/approvalworkflows/ApprovalWorkflowsOrchestrator.java" />
       <jump line="24" column="9" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/Config" />
       <jump line="286" column="43" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
       <jump line="237" column="75" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/RepositoryModule.java" />
@@ -299,6 +297,9 @@
       <jump line="92" column="85" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
       <jump line="98" column="94" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
       <jump line="27" column="6" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
+      <jump line="14" column="0" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
+      <jump line="80" column="43" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
+      <jump line="79" column="53" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1259,7 +1260,7 @@
         <text>dub</text>
       </register>
       <register name="/" type="4">
-        <text>odin</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJvZC5FVUFtYXpvbi5hd3MuY3JlZGVudGlhbHMgPSAiY29tLmFtYXpvbi5hY2Nlc3MuRDE2R0NDU01hd3NQcm94eVNlcnZpY2VCZXRhLWNjcy1tYXdzLXByb3h5LXNlcnZpY2UtcHJvZC1kdWItMSI7Cg==</text>
@@ -1298,9 +1299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>odin</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>odin</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
