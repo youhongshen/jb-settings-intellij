@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>campaignId</entry>
-        <entry>proposalDisplayD</entry>
-        <entry>ForecastBo</entry>
-        <entry>forecastBookDe</entry>
-        <entry encoding="base64">XDxpbnRlcm5hbEZvcmVjYXN0Qm9va1w+</entry>
-        <entry>dynamoDbM</entry>
-        <entry>dyna</entry>
-        <entry>Emb</entry>
         <entry>asyncEx</entry>
         <entry>OmsR</entry>
         <entry>forecastB</entry>
@@ -27,6 +19,14 @@
         <entry>odin</entry>
         <entry>json</entry>
         <entry>coral</entry>
+        <entry>tls.ca</entry>
+        <entry>tls.ca.pass</entry>
+        <entry>store</entry>
+        <entry>ssl</entry>
+        <entry>redis</entry>
+        <entry>ssl.secre</entry>
+        <entry>OmsSsl</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -43,12 +43,12 @@
         <entry>881</entry>
         <entry>set noic</entry>
         <entry>1,$d</entry>
-        <entry>set ic</entry>
         <entry>84</entry>
         <entry>A$</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry>w</entry>
+        <entry>set ic</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -106,14 +106,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610145319513">
-        <mark key="'" line="79" column="53" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610163084318">
+        <mark key="'" line="60" column="42" />
         <mark key="[" line="27" column="81" />
         <mark key="]" line="27" column="112" />
         <mark key="^" line="27" column="112" />
         <mark key="." line="27" column="111" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" timestamp="1609860785935" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/ioLine.json" timestamp="1609866123772">
         <mark key="[" line="615" column="12" />
         <mark key="]" line="426" column="32" />
@@ -123,15 +122,7 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/resources/elasticsearch/mappings/lineItem.json" timestamp="1609866133358">
         <mark key="[" line="341" column="12" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/converter/LineItemToInternalLineItemConverterTest.java" timestamp="1609862145438">
-        <mark key="[" line="40" column="117" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="32" column="69" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" timestamp="1609860809230">
-        <mark key="'" line="79" column="43" />
-      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/util/Constants.java" timestamp="1610151846690" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/internal/InternalOmsRodeoSyncExecutionDetail.java" timestamp="1609866412709">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -155,6 +146,16 @@
         <mark key="^" line="205" column="112" />
         <mark key="." line="205" column="111" />
       </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/util/Utils.java" timestamp="1610163144741">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="36" column="59" />
+        <mark key="]" line="36" column="59" />
+        <mark key="." line="36" column="59" />
+        <mark key="^" line="36" column="28" />
+      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" timestamp="1610151564780">
+        <mark key="'" line="33" column="17" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1609884632479">
         <mark key="'" line="121" column="64" />
         <mark key="[" line="173" column="0" />
@@ -174,8 +175,15 @@
         <mark key="^" line="69" column="34" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1610145403144">
-        <mark key="'" line="50" column="18" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1610162484166">
+        <mark key="'" line="585" column="22" />
+      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/EnvironmentModule.java" timestamp="1610162955318">
+        <mark key="'" line="94" column="78" />
+        <mark key="[" line="105" column="47" />
+        <mark key="]" line="105" column="47" />
+        <mark key="^" line="105" column="42" />
+        <mark key="." line="105" column="47" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/resource/workflows/ForecastBookWorkflowsResourceImplTest.java" timestamp="1609862826011">
         <mark key="'" line="264" column="36" />
@@ -184,7 +192,9 @@
         <mark key="^" line="1116" column="127" />
         <mark key="." line="1116" column="96" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookQueryFilter.java" timestamp="1609860015787" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" timestamp="1610151575521">
+        <mark key="'" line="64" column="49" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/internal/InternalForecastBook.java" timestamp="1609866034549">
         <mark key="[" line="60" column="12" />
         <mark key="]" line="60" column="20" />
@@ -194,27 +204,8 @@
       <file name="/fragment.java" timestamp="1609872882940">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/converter/IOLineToInternalIOLineConverterTest.java" timestamp="1609862143341">
-        <mark key="[" line="51" column="81" />
-        <mark key="]" line="51" column="81" />
-        <mark key="^" line="51" column="61" />
-        <mark key="." line="51" column="81" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="35" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" />
-      <jump line="44" column="61" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" />
-      <jump line="50" column="32" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" />
-      <jump line="83" column="44" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" />
-      <jump line="137" column="8" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
-      <jump line="140" column="71" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
-      <jump line="203" column="101" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" />
-      <jump line="65" column="35" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" />
-      <jump line="289" column="0" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" />
-      <jump line="294" column="36" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" />
-      <jump line="295" column="8" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" />
-      <jump line="296" column="53" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" />
-      <jump line="93" column="7" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" />
       <jump line="28" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" />
       <jump line="38" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" />
       <jump line="48" column="28" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToTimezoneMapping.java" />
@@ -292,7 +283,6 @@
       <jump line="14" column="0" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="80" column="43" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
       <jump line="79" column="53" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
-      <jump line="74" column="38" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="39" column="19" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="41" column="22" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="42" column="22" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
@@ -302,6 +292,20 @@
       <jump line="47" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="49" column="33" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
       <jump line="50" column="18" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="32" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="92" column="52" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
+      <jump line="61" column="79" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="18" column="39" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="33" column="17" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
+      <jump line="50" column="44" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="63" column="49" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="64" column="49" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
+      <jump line="60" column="42" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" />
+      <jump line="94" column="78" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/EnvironmentModule.java" />
+      <jump line="74" column="38" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="585" column="22" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="29" column="0" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/util/Utils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1256,54 +1260,54 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>prxyprod-1&quot;;</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>prxyprod-1&quot;;</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
-        <text>coral</text>
+        <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJvZC5FVUFtYXpvbi5hd3MuY3JlZGVudGlhbHMgPSAiY29tLmFtYXpvbi5hY2Nlc3MuRDE2R0NDU01hd3NQcm94eVNlcnZpY2VCZXRhLWNjcy1tYXdzLXByb3h5LXNlcnZpY2UtcHJvZC1kdWItMSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygidXNlciBuYW1lID0gIiArIGNyZWRlbnRpYWxzSnNvbk5vZGUuZ2V0KCJ1c2VybmFtZSIpLmFzVGV4dCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFzdGVyLlVTQW1hem9uLmF3cy5jcmVkZW50aWFscyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LlVTQW1hem9uLmF3cy5jcmVkZW50aWFscyA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRTZWNyZXRWYWx1ZVJlc3VsdC4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YU9tc1JvZGVvU3luY1NmblN0YWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICBHZXRTZWNyZXRWYWx1ZVJlcXVlc3QgZ2V0U2VjcmV0VmFsdWVSZXF1ZXN0ID0gbmV3IEdldFNlY3JldFZhbHVlUmVxdWVzdCgpLndpdGhTZWNyZXRJZChjcmVkZW50aWFsTmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
+        <text encoding="base64">bWFzdGVyLlVTQW1hem9uLmF3cy5jcmVkZW50aWFscyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YUxhbWJkYVN0YWNrKTsK</text>
+        <text encoding="base64">LlVTQW1hem9uLmF3cy5jcmVkZW50aWFscyA9ICIiOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YU9tc1JvZGVvU3luY1NmblN0YWNrKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGlvblByb3RlY3Rpb246IGZhbHNlLCAgIC8vIG9ubHkgZm9yIGJldGEK</text>
+        <text encoding="base64">YmV0YURlcGxveW1lbnRHcm91cC5hZGRTdGFja3MoYmV0YVJvZGVvU3luY1NmblN0YWNrKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>coral</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern>coral</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
