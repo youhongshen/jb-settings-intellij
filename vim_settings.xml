@@ -106,6 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" timestamp="1610478257015">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="25" />
+      </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSServiceClient/D16GOMSServiceClient-1.0.4940.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/D16GOMSServiceClient-1.0.jar!/com/amazon/d16g/oms/service/client/Constants.class" timestamp="1610468592794" />
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610382700748">
         <mark key="'" line="60" column="42" />
@@ -130,6 +136,12 @@
         <mark key="^" line="1" column="21" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/util/Constants.java" timestamp="1610151846690" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/lambdaStack.ts" timestamp="1610478464302">
+        <mark key="[" line="120" column="53" />
+        <mark key="]" line="121" column="34" />
+        <mark key="." line="121" column="33" />
+        <mark key="^" line="121" column="34" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/OmsModule.java" timestamp="1610468427512" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/stack/deployment_stack.d.ts" timestamp="1610476128387">
         <mark key="'" line="64" column="11" />
@@ -148,10 +160,7 @@
         <mark key="]" line="34" column="39" />
         <mark key="." line="34" column="39" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" timestamp="1610151564780">
-        <mark key="'" line="33" column="17" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1609892547123">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1610478044477">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -177,9 +186,6 @@
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1610468843878" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/RepositoryModule.java" timestamp="1610402457807" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" timestamp="1610151575521">
-        <mark key="'" line="64" column="49" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="85" column="20" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" />
@@ -1236,34 +1242,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>stage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERPTUFJTiA9ICJET01BSU4iOwo=</text>
+        <text encoding="base64">ICAgICAgICBbJ2V1LXdlc3QtMScsICdFVUFtYXpvbiddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBiZXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2JldGEudXMtZWFzdC0xLmRvY2RiLmVuZHBvaW50ID0gIjI0MC4xMC4wLjEiOwo=</text>
+        <text encoding="base64">IyBiZXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2JldGEudXMtZWFzdC0xLmRvY2RiLmVuZHBvaW50ID0gIjI0MC4xMC4wLjEiOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFzdGVyLmV1LXdlc3QtMS5kb2NkYi5lbmRwb2ludCA9ICJiZXRhLXJvZGVvc3luY2RvY2RiY2x1c3Rlci5jbHVzdGVyLWM5MzR0eXNvd29mbS51cy1lYXN0LTEuZG9jZGIuYW1hem9uYXdzLmNvbSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFzdGVyLmV1LXdlc3QtMS5kb2NkYi5lbmRwb2ludCA9ICJiZXRhLXJvZGVvc3luY2RvY2RiY2x1c3Rlci5jbHVzdGVyLWM5MzR0eXNvd29mbS51cy1lYXN0LTEuZG9jZGIuYW1hem9uYXdzLmNvbSI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
