@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>betaSta</entry>
         <entry>odin</entry>
         <entry>json</entry>
         <entry>coral</entry>
@@ -27,6 +26,7 @@
         <entry>only</entry>
         <entry>stage</entry>
         <entry>id</entry>
+        <entry>https</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -113,8 +113,8 @@
         <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GOMSServiceClient/D16GOMSServiceClient-1.0.4940.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/D16GOMSServiceClient-1.0.jar!/com/amazon/d16g/oms/service/client/Constants.class" timestamp="1610468592794" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610481441286">
-        <mark key="'" line="486" column="0" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610487563383">
+        <mark key="'" line="414" column="10" />
         <mark key="[" line="486" column="0" />
         <mark key="]" line="486" column="0" />
         <mark key="." line="486" column="0" />
@@ -194,15 +194,6 @@
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/RepositoryModule.java" timestamp="1610402457807" />
     </filemarks>
     <jumps>
-      <jump line="131" column="64" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
-      <jump line="781" column="13" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
-      <jump line="10" column="87" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
-      <jump line="11" column="77" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
-      <jump line="91" column="77" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
-      <jump line="119" column="64" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
-      <jump line="120" column="64" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
-      <jump line="107" column="16" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/workflows/ForecastBookToInternalForecastBookConverter.java" />
-      <jump line="63" column="3" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" />
       <jump line="61" column="27" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" />
       <jump line="65" column="27" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" />
       <jump line="42" column="30" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDaoTest.java" />
@@ -294,6 +285,15 @@
       <jump line="43" column="59" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/lambdaStack.ts" />
       <jump line="54" column="63" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/lambdaStack.ts" />
       <jump line="55" column="68" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/lambdaStack.ts" />
+      <jump line="525" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="5" column="51" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="47" column="61" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="89" column="39" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="168" column="3" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="202" column="3" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="344" column="10" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="373" column="10" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="414" column="10" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1254,7 +1254,7 @@
         <text>U</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>https</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbJ2V1LXdlc3QtMScsICdFVUFtYXpvbiddLAo=</text>
@@ -1293,9 +1293,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>id</last-search>
+      <last-search>https</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>https</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
