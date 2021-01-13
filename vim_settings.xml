@@ -112,6 +112,12 @@
         <mark key="." line="89" column="65" />
         <mark key="^" line="89" column="67" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/dao/RodeoSyncDao.java" timestamp="1610580799665">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/workflows/RodeoSyncWorkflowsResource.java" timestamp="1610577809125">
         <mark key="[" line="45" column="39" />
         <mark key="]" line="45" column="58" />
@@ -123,13 +129,6 @@
         <mark key="]" line="47" column="72" />
         <mark key="^" line="46" column="28" />
         <mark key="." line="47" column="72" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610497149249">
-        <mark key="'" line="414" column="10" />
-        <mark key="[" line="184" column="24" />
-        <mark key="]" line="184" column="24" />
-        <mark key="." line="184" column="24" />
-        <mark key="^" line="184" column="89" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1610553756967">
         <mark key="'" line="60" column="42" />
@@ -162,21 +161,19 @@
         <mark key="." line="56" column="70" />
         <mark key="^" line="69" column="88" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1610574757711">
-        <mark key="'" line="196" column="11" />
-        <mark key="[" line="155" column="75" />
-        <mark key="]" line="155" column="75" />
-        <mark key="^" line="155" column="44" />
-        <mark key="." line="155" column="75" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1610580347136">
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1610580929460">
         <mark key="'" line="122" column="64" />
-        <mark key="[" line="175" column="12" />
-        <mark key="]" line="175" column="12" />
-        <mark key="." line="175" column="103" />
-        <mark key="^" line="173" column="42" />
+        <mark key="[" line="176" column="104" />
+        <mark key="]" line="177" column="33" />
+        <mark key="." line="177" column="32" />
+        <mark key="^" line="177" column="33" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/LineItemResource.java" timestamp="1610577616839" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1610581311711">
+        <mark key="[" line="165" column="37" />
+        <mark key="]" line="165" column="37" />
+        <mark key="." line="165" column="37" />
+      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyServiceClient/configuration/brazil-config/global/D16GCCSMawsProxyServiceClient.cfg" timestamp="1610560430341">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1258,10 +1255,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>setRodeoSyncWorkflowId(requestId);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>setRodeoSyncWorkflowId(requestId);</text>
       </register>
       <register name="/" type="4">
         <text>getWo</text>
@@ -1270,31 +1267,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gZ2VuZXJhdGUgdXVpZCB0byBiZSB1c2VkIGFzIHRoZSBPbXNSb2Rlb1N5bmMgc2ZuIGV4ZWN1dGlvbiBpZAogICAgICAgICAgICB3b3JrZmxvd1JlcXVlc3QuZ2V0Rm9yZWNhc3RCb29rV29ya2Zsb3dTdGF0ZSgpLnNldFJvZGVvU3luY1dvcmtmbG93RXhlY0lkKFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29ya2Zsb3dSZXF1ZXN0LmdldEZvcmVjYXN0Qm9va1dvcmtmbG93U3RhdGUoKS5zZXRSb2Rlb1N5bmNXb3JrZmxvd0V4ZWNJZChzdGFydEV4ZWN1dGlvblJlc3VsdC5nZXRFeGVjdXRpb25Bcm4oKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29ya2Zsb3dSZXF1ZXN0LmdldEZvcmVjYXN0Qm9va1dvcmtmbG93U3RhdGUoKS5zZXRSb2Rlb1N5bmNXb3JrZmxvd0V4ZWNJZChzdGFydEV4ZWN1dGlvblJlc3VsdC5nZXRFeGVjdXRpb25Bcm4oKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc2V0cyB0aGUgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVXBkYXRlIEluIFByb2dyZXNzIHN0YXR1cy4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJpbnZva2UgZnVuY3Rpb24gYXJuICIgKyBjb250ZXh0LmdldEludm9rZWRGdW5jdGlvbkFybigpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd29ya2Zsb3dSZXF1ZXN0LmdldEZvcmVjYXN0Qm9va1dvcmtmbG93U3RhdGUoKS5zZXRSb2Rlb1N5bmNXb3JrZmxvd0V4ZWNJZChzdGFydEV4ZWN1dGlvblJlc3VsdC5nZXRFeGVjdXRpb25Bcm4oKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd29ya2Zsb3dSZXF1ZXN0LmdldEZvcmVjYXN0Qm9va1dvcmtmbG93U3RhdGUoKS5zZXRSb2Rlb1N5bmNXb3JrZmxvd0V4ZWNJZChzdGFydEV4ZWN1dGlvblJlc3VsdC5nZXRFeGVjdXRpb25Bcm4oKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc2V0cyB0aGUgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JlY2FzdEJvb2suc2V0Um9kZW9TeW5jV29ya2Zsb3dJZChudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXBkYXRlIEluIFByb2dyZXNzIHN0YXR1cy4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhlY3V0aW9uSWQgPSAiMTIzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JlY2FzdEJvb2suc2V0Um9kZW9TeW5jV29ya2Zsb3dJZChudWxsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
