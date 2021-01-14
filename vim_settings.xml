@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ssl.secre</entry>
-        <entry>OmsSsl</entry>
         <entry>pass</entry>
         <entry>service</entry>
         <entry>omsServi</entry>
@@ -27,6 +25,8 @@
         <entry>Role</entry>
         <entry>User</entry>
         <entry>AccountId</entry>
+        <entry>,</entry>
+        <entry>RoleName</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -47,8 +47,8 @@
         <entry>A$</entry>
         <entry>w</entry>
         <entry>set ic</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -197,12 +197,12 @@
         <mark key="^" line="34" column="96" />
         <mark key="." line="34" column="95" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" timestamp="1610654735264">
-        <mark key="'" line="123" column="67" />
-        <mark key="[" line="129" column="28" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="129" column="28" />
-        <mark key="." line="130" column="0" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" timestamp="1610657114229">
+        <mark key="'" line="113" column="8" />
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" timestamp="1610645997923">
         <mark key="[" line="367" column="119" />
@@ -212,13 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="20" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
-      <jump line="49" column="33" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
-      <jump line="50" column="18" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
-      <jump line="32" column="71" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
-      <jump line="92" column="52" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
-      <jump line="61" column="79" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
       <jump line="18" column="39" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
       <jump line="33" column="17" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/build.xml" />
       <jump line="50" column="44" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/build.xml" />
@@ -303,7 +296,6 @@
       <jump line="213" column="6" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
       <jump line="215" column="34" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" />
-      <jump line="80" column="69" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
       <jump line="83" column="53" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
       <jump line="93" column="55" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
       <jump line="94" column="55" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
@@ -312,6 +304,14 @@
       <jump line="110" column="55" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
       <jump line="117" column="53" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
       <jump line="123" column="67" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="58" column="35" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="77" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="80" column="68" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="2" column="10" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="3" column="22" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="54" column="26" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
+      <jump line="113" column="8" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1266,43 +1266,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEdyb3VwczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SinglePassSyncWriterIamUser:</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>AccountId</text>
+        <text>RoleName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTaW5nbGVQYXNzUzNCdWNrZXQ6Cg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdyb3VwczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiVmVyc2lvbiI6IjIwMTItMTAtMTciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyb3VwczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJvbGU6ICFSZWYgU3BpZUVDMkluc3RhbmNlUm9sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTcGllRUMySW5zdGFuY2VSb2xlOgogICAgVHlwZTogQVdTOjpJQU06OlJvbGUKICAgIFJvbGVOYW1lOiBTcGllRUMySW5zdGFuY2VSb2xlCg==</text>
+        <text encoding="base64">ICAgIFJvbGU6ICFSZWYgU3BpZUVDMkluc3RhbmNlUm9sZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBTcGllRUMySW5zdGFuY2VSb2xlOgogICAgVHlwZTogQVdTOjpJQU06OlJvbGUKICAgIFJvbGVOYW1lOiBTcGllRUMySW5zdGFuY2VSb2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgLSBzCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1311,9 +1311,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>AccountId</last-search>
+      <last-search>RoleName</last-search>
       <last-offset />
-      <last-pattern>AccountId</last-pattern>
+      <last-pattern>RoleName</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
