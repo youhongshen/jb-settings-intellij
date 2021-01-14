@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tls.ca</entry>
         <entry>tls.ca.pass</entry>
         <entry>store</entry>
         <entry>ssl</entry>
@@ -27,6 +26,7 @@
         <entry>Gizm</entry>
         <entry>getWo</entry>
         <entry>forecastBookList</entry>
+        <entry>proposalDisplay</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/</entry>
@@ -169,6 +169,9 @@
         <mark key="." line="56" column="70" />
         <mark key="^" line="69" column="88" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1610643304530">
+        <mark key="'" line="320" column="109" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1610580929460">
         <mark key="'" line="122" column="64" />
         <mark key="[" line="176" column="104" />
@@ -211,10 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" />
-      <jump line="79" column="43" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/workflows/ForecastBookDao.java" />
-      <jump line="252" column="59" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/resource/workflows/ForecastBookWorkflowsResourceImplTest.java" />
-      <jump line="187" column="52" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/resource/workflows/ForecastBookWorkflowsResourceImplTest.java" />
       <jump line="264" column="36" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/resource/workflows/ForecastBookWorkflowsResourceImplTest.java" />
       <jump line="121" column="64" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
       <jump line="80" column="6" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" />
@@ -311,6 +310,10 @@
       <jump line="219" column="16" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
       <jump line="169" column="142" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
       <jump line="170" column="90" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
+      <jump line="209" column="82" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="206" column="47" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="211" column="45" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="320" column="109" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1271,7 +1274,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>forecastBookList</text>
+        <text>proposalDisplay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9tc1JvZGVvU3luY0V4ZWN1dGlvbkRldGFpbChPbXNSb2Rlb1N5bmNFeGVjdXRpb25EZXRhaWwuYnVpbGRlcigpLmJ1aWxkKCkpLmRhdGFJZCgibGluZTEiKS5idWlsZCgpLAo=</text>
@@ -1310,9 +1313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>forecastBookList</last-search>
+      <last-search>proposalDisplay</last-search>
       <last-offset />
-      <last-pattern>forecastBookList</last-pattern>
+      <last-pattern>proposalDisplay</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
