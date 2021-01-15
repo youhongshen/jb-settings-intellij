@@ -46,9 +46,9 @@
         <entry>A$</entry>
         <entry>w</entry>
         <entry>set ic</entry>
-        <entry>$</entry>
         <entry>0</entry>
         <entry>read</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,12 +112,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1610736788118">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1610737344198">
         <mark key="'" line="9" column="30" />
-        <mark key="[" line="9" column="100" />
-        <mark key="]" line="9" column="107" />
-        <mark key="^" line="9" column="107" />
-        <mark key="." line="9" column="106" />
+        <mark key="[" line="255" column="83" />
+        <mark key="]" line="255" column="83" />
+        <mark key="." line="255" column="83" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/repository/RodeoSyncRepository.java" timestamp="1610645828153">
         <mark key="[" line="13" column="11" />
@@ -1266,19 +1265,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>rodeoSyncClusterName</text>
+        <text>: sg-0cfebf4bd7fd71e7a</text>
       </register>
       <register name="-" type="4">
-        <text>rodeoSyncClusterName</text>
+        <text>: sg-0cfebf4bd7fd71e7a</text>
       </register>
       <register name="/" type="4">
         <text>Vpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2VJZDogYW1pLTA0M2ZhYzFkMDQ1YTdlNTJmJQo=</text>
+        <text encoding="base64">ICAgICAgICAtICFGaW5kSW5NYXAgWyFSZWYgU3RhZ2UsICFSZWYgJ0FXUzo6UmVnaW9uJywgYWxsb3dQcm9kQ29ycFNzaFNHXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICFGaW5kSW5NYXAgWyFSZWYgU3RhZ2UsICFSZWYgJ0FXUzo6UmVnaW9uJywgYWxsb3dQcm9kQ29ycFBvcnQ4MTkyVG84MjAwU0c6IHNnLTBjZmViZjRiZDdmZDcxZTdhCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1287,22 +1286,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbWktMDQzZmFjMWQwNDVhN2U1MmYJCWV1LXdlc3QtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbWktMGI2M2MxMTFkZDUzYTE5ZTQJCXVzLXdlc3QtMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbWktMDEwNjI2YWNhOGQ3MDRmNmUlCQl1cy1lYXN0LTEK</text>
+        <text encoding="base64">ICBhbWktMDQzZmFjMWQwNDVhN2U1MmYJCWV1LXdlc3QtMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIFJlZjogU3BpZUVDMkluc3RhbmNlUm9sZQo=</text>
+        <text encoding="base64">ICBhbWktMGI2M2MxMTFkZDUzYTE5ZTQJCXVzLXdlc3QtMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIFNwaWVFQzJQb2xpY3kK</text>
+        <text encoding="base64">ICBhbWktMDEwNjI2YWNhOGQ3MDRmNmUlCQl1cy1lYXN0LTEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIFJlZjogU3BpZUVDMkluc3RhbmNlUm9sZQo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
