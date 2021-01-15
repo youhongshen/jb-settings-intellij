@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>User</entry>
-        <entry>AccountId</entry>
         <entry>,</entry>
         <entry>RoleName</entry>
         <entry>Assume</entry>
@@ -27,6 +25,8 @@
         <entry>Ref</entry>
         <entry>!Ref</entry>
         <entry>clusterName</entry>
+        <entry>VpcSt</entry>
+        <entry>Vpc</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/g</entry>
@@ -112,12 +112,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1610733895973">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1610736788118">
         <mark key="'" line="9" column="30" />
-        <mark key="[" line="248" column="59" />
-        <mark key="]" line="248" column="59" />
-        <mark key="^" line="248" column="80" />
-        <mark key="." line="248" column="59" />
+        <mark key="[" line="9" column="100" />
+        <mark key="]" line="9" column="107" />
+        <mark key="^" line="9" column="107" />
+        <mark key="." line="9" column="106" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/repository/RodeoSyncRepository.java" timestamp="1610645828153">
         <mark key="[" line="13" column="11" />
@@ -125,8 +125,8 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1610733886741">
-        <mark key="'" line="120" column="52" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1610734682026">
+        <mark key="'" line="127" column="91" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" timestamp="1610668829181">
         <mark key="'" line="121" column="12" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="25" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="30" column="7" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="24" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="26" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
@@ -312,6 +311,7 @@
       <jump line="2" column="22" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="1" column="45" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="120" column="52" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="127" column="91" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1272,7 +1272,7 @@
         <text>rodeoSyncClusterName</text>
       </register>
       <register name="/" type="4">
-        <text>clusterName</text>
+        <text>Vpc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW1hZ2VJZDogYW1pLTA0M2ZhYzFkMDQ1YTdlNTJmJQo=</text>
@@ -1311,9 +1311,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clusterName</last-search>
+      <last-search>Vpc</last-search>
       <last-offset />
-      <last-pattern>clusterName</last-pattern>
+      <last-pattern>Vpc</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
