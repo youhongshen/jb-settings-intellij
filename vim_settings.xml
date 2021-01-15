@@ -7,16 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb2NkYlw+</entry>
-        <entry encoding="base64">XDwxXD4=</entry>
-        <entry>beta</entry>
-        <entry>only</entry>
-        <entry>stage</entry>
-        <entry>id</entry>
-        <entry>https</entry>
-        <entry>Gizm</entry>
-        <entry>getWo</entry>
-        <entry>forecastBookList</entry>
         <entry>proposalDisplay</entry>
         <entry>DataMapping</entry>
         <entry>Role</entry>
@@ -27,9 +17,18 @@
         <entry>Assume</entry>
         <entry>AccessLogsBu</entry>
         <entry>AllegianceRole</entry>
+        <entry>ServerAcc</entry>
+        <entry>Acc</entry>
+        <entry>AccessLogsB</entry>
+        <entry>Output</entry>
+        <entry>AccessLog</entry>
+        <entry>write</entry>
+        <entry>READ_ACP</entry>
+        <entry>read</entry>
+        <entry>Condi</entry>
+        <entry>OnlyBe</entry>
       </history-search>
       <history-cmd>
-        <entry>.,$s/$/,/</entry>
         <entry>.,$s/$/,/g</entry>
         <entry>s/\\//g</entry>
         <entry>$A</entry>
@@ -49,6 +48,7 @@
         <entry>set ic</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>read</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,8 +127,10 @@
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1610648148968">
         <mark key="'" line="27" column="30" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" timestamp="1610664411695">
-        <mark key="'" line="60" column="15" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" timestamp="1610668829181">
+        <mark key="'" line="121" column="12" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="37" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1610638136419">
         <mark key="'" line="2" column="0" />
@@ -146,12 +148,12 @@
         <mark key="^" line="168" column="100" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/DataMapping.java" timestamp="1610643785678" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" timestamp="1610666098378">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.yml" timestamp="1610668857927">
         <mark key="'" line="113" column="8" />
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="21" />
-        <mark key="^" line="69" column="120" />
-        <mark key="." line="69" column="21" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="107" column="31" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorkerTest.java" timestamp="1610645997923">
         <mark key="[" line="367" column="119" />
@@ -166,10 +168,10 @@
         <mark key="^" line="287" column="53" />
         <mark key="." line="287" column="52" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610664743694">
-        <mark key="'" line="622" column="34" />
-        <mark key="[" line="184" column="24" />
-        <mark key="]" line="184" column="24" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610668835826">
+        <mark key="'" line="11" column="51" />
+        <mark key="[" line="522" column="0" />
+        <mark key="]" line="522" column="23" />
         <mark key="." line="184" column="24" />
         <mark key="^" line="184" column="89" />
       </file>
@@ -209,17 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="100" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="204" column="0" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="165" column="55" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="168" column="57" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="170" column="57" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="172" column="57" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="175" column="55" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="177" column="55" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="179" column="55" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="197" column="7" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" />
-      <jump line="14" column="1" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" />
       <jump line="13" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" />
       <jump line="26" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/stack/deployment_stack.d.ts" />
       <jump line="62" column="93" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/stack/deployment_stack.d.ts" />
@@ -303,12 +294,23 @@
       <jump line="134" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="144" column="26" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
-      <jump line="60" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="647" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="0" column="8" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="1" column="8" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="618" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
       <jump line="622" column="34" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="42" column="14" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="57" column="34" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="835" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="60" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="89" column="32" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="162" column="26" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="164" column="27" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="175" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="160" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="73" column="18" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="121" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
+      <jump line="11" column="51" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1262,44 +1264,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dG8g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogTm90QmV0YSAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>OnlyBeta</text>
       </register>
       <register name="/" type="4">
-        <text>AllegianceRole</text>
+        <text>OnlyBe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQXNzdW1lUm9sZVBvbGljeURvY3VtZW50Ogo=</text>
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogTm90QmV0YSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDcmVhdGVBbGxlZ2lhbmNlUm9sZTogIU9yIFshTm90IFshRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXV0sICFFcXVhbHMgWyAhUmVmICdBV1M6OlJlZ2lvbicsICd1cy1lYXN0LTEnIF1dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDcmVhdGVBbGxlZ2lhbmNlUm9sZTogIU9yIFshTm90IFshRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXV0sICFFcXVhbHMgWyAhUmVmICdBV1M6OlJlZ2lvbicsICd1cy1lYXN0LTEnIF1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlZjogU2luZ2xlUGFzc1MzQnVja2V0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtICFSZWYgU3BpZUVDMlBvbGljeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgLSBTcGllRUMySW5zdGFuY2VSb2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgIFJvbGVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAtICFSZWYgU3BpZUVDMlBvbGljeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1308,12 +1310,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>AllegianceRole</last-search>
+      <last-search>OnlyBe</last-search>
       <last-offset />
-      <last-pattern>AllegianceRole</last-pattern>
+      <last-pattern>OnlyBe</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
