@@ -112,17 +112,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1610671557584">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1610582446284">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="29" column="66" />
-        <mark key="." line="20" column="0" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1610673699543">
+        <mark key="'" line="9" column="30" />
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="61" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/repository/RodeoSyncRepository.java" timestamp="1610645828153">
         <mark key="[" line="13" column="11" />
@@ -146,6 +141,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/workflows/RodeoSyncWorkflowsResource.java" timestamp="1610645793515" />
+      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1610672372677">
+        <mark key="'" line="122" column="64" />
+        <mark key="[" line="176" column="104" />
+        <mark key="]" line="177" column="33" />
+        <mark key="." line="177" column="32" />
+        <mark key="^" line="177" column="33" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1610637725153">
         <mark key="'" line="168" column="90" />
         <mark key="[" line="168" column="31" />
@@ -167,7 +169,7 @@
         <mark key="^" line="368" column="53" />
         <mark key="." line="368" column="52" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610668835826">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610673197031">
         <mark key="'" line="11" column="51" />
         <mark key="[" line="522" column="0" />
         <mark key="]" line="522" column="23" />
@@ -210,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" />
-      <jump line="26" column="25" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/stack/deployment_stack.d.ts" />
       <jump line="62" column="93" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/stack/deployment_stack.d.ts" />
       <jump line="64" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@amzn/pipelines/lib/stack/deployment_stack.d.ts" />
       <jump line="92" column="25" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
@@ -310,6 +310,8 @@
       <jump line="73" column="18" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="121" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="11" column="51" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="7" column="64" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="9" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1263,11 +1265,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENvbmRpdGlvbjogTm90QmV0YSAK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>OnlyBeta</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>OnlyBe</text>
@@ -1276,19 +1278,19 @@
         <text encoding="base64">ICAgIENvbmRpdGlvbjogTm90QmV0YSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDcmVhdGVBbGxlZ2lhbmNlUm9sZTogIU9yIFshTm90IFshRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXV0sICFFcXVhbHMgWyAhUmVmICdBV1M6OlJlZ2lvbicsICd1cy1lYXN0LTEnIF1dCg==</text>
+        <text encoding="base64">IyBzaW5jZSB0aGVzZSByZXNvdXJjZXMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDcmVhdGVBbGxlZ2lhbmNlUm9sZTogIU9yIFshTm90IFshRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXV0sICFFcXVhbHMgWyAhUmVmICdBV1M6OlJlZ2lvbicsICd1cy1lYXN0LTEnIF1dCg==</text>
+        <text encoding="base64">IyB0aGUgU1BJRSBBV1MgcmVzb3VyY2UgYW5kIE5lYnVsYSBlYzIgaW5zdGFuY2UgYXJlIGNyZWF0ZWQgbWFudWFsbHkgaW4gYmV0YSwgdG8gYXZvaWQgY2xlYW4gdXAsIHRoaXMgdGVtcGxhdGUgd2lsbCBvbmx5IGFwcGx5IHRvIGdhbW1hIGFuZCBwcm9kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlZjogU2luZ2xlUGFzc1MzQnVja2V0Cg==</text>
+        <text encoding="base64">ICBDcmVhdGVBbGxlZ2lhbmNlUm9sZTogIU9yIFshTm90IFshRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXV0sICFFcXVhbHMgWyAhUmVmICdBV1M6OlJlZ2lvbicsICd1cy1lYXN0LTEnIF1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDcmVhdGVBbGxlZ2lhbmNlUm9sZTogIU9yIFshTm90IFshRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXV0sICFFcXVhbHMgWyAhUmVmICdBV1M6OlJlZ2lvbicsICd1cy1lYXN0LTEnIF1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlZjogU2luZ2xlUGFzc1MzQnVja2V0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1297,10 +1299,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtICFSZWYgU3BpZUVDMlBvbGljeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
