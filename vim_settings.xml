@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>READ_ACP</entry>
         <entry>read</entry>
         <entry>Condi</entry>
         <entry>OnlyBe</entry>
@@ -27,6 +26,7 @@
         <entry>APP_CONFIG_KE</entry>
         <entry>account</entry>
         <entry>9446</entry>
+        <entry>IsRode</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/g</entry>
@@ -124,11 +124,6 @@
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1610734682026">
         <mark key="'" line="127" column="91" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" timestamp="1610668829181">
-        <mark key="'" line="121" column="12" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="37" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/ApplicationModule.java" timestamp="1610821166396">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="37" />
@@ -165,6 +160,12 @@
         <mark key="." line="184" column="24" />
         <mark key="^" line="184" column="89" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandlerTest.java" timestamp="1610844522346">
+        <mark key="[" line="296" column="44" />
+        <mark key="]" line="296" column="51" />
+        <mark key="^" line="296" column="51" />
+        <mark key="." line="296" column="50" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/011OMSHydraTesting.template.yml" timestamp="1610737442120" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" timestamp="1610822330531">
         <mark key="'" line="102" column="24" />
@@ -179,6 +180,13 @@
         <mark key="." line="56" column="70" />
         <mark key="^" line="69" column="88" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1610844483390">
+        <mark key="'" line="369" column="25" />
+        <mark key="[" line="744" column="36" />
+        <mark key="]" line="744" column="43" />
+        <mark key="^" line="744" column="43" />
+        <mark key="." line="744" column="42" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/OmsRodeoSyncInput.java" timestamp="1610819543625">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="36" />
@@ -191,9 +199,6 @@
         <mark key="]" line="111" column="72" />
         <mark key="." line="111" column="71" />
         <mark key="^" line="111" column="72" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSLambda/src/D16GOMSLambda/configuration/cloudFormation/lambda_cloudformation.template.yml" timestamp="1610647129336">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Constant.java" timestamp="1610817917687">
         <mark key="'" line="206" column="64" />
@@ -1262,13 +1267,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>region = &quot;us-west-2&quot;;</text>
+        <text>Input</text>
       </register>
       <register name="-" type="4">
-        <text>region = &quot;us-west-2&quot;;</text>
+        <text>Input</text>
       </register>
       <register name="/" type="4">
-        <text>9446</text>
+        <text>IsRode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJvZC5KUEFtYXpvbi5hd3MucmVnaW9uID0gInVzLXdlc3QtMiI7Cg==</text>
@@ -1307,9 +1312,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>9446</last-search>
+      <last-search>IsRode</last-search>
       <last-offset />
-      <last-pattern>9446</last-pattern>
+      <last-pattern>IsRode</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
