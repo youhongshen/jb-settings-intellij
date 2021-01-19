@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>UUID</entry>
-        <entry>%s</entry>
         <entry>s</entry>
         <entry>AppCon</entry>
         <entry>region</entry>
@@ -27,6 +25,8 @@
         <entry>isRodeoS</entry>
         <entry>RodeoSyncD</entry>
         <entry>isRodeoSyncD</entry>
+        <entry>Vpc</entry>
+        <entry>vpc</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/g</entry>
@@ -106,12 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611079275974">
-        <mark key="'" line="9" column="30" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="55" column="10" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="10" column="29" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611082198054">
+        <mark key="'" line="265" column="6" />
+        <mark key="[" line="261" column="20" />
+        <mark key="]" line="261" column="21" />
+        <mark key="." line="261" column="20" />
+        <mark key="^" line="261" column="21" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1610821105294">
         <mark key="'" line="25" column="69" />
@@ -121,8 +121,8 @@
         <mark key="." line="191" column="18" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.674337.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/AWSStepFunctionsJavaClient-1.11.x.jar!/com/amazonaws/services/stepfunctions/model/ExecutionStatus.class" timestamp="1610823167999" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1610734682026">
-        <mark key="'" line="127" column="91" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1611082149873">
+        <mark key="'" line="6" column="15" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/ApplicationModule.java" timestamp="1610821166396">
         <mark key="[" line="24" column="37" />
@@ -147,18 +147,12 @@
         <mark key="." line="1048" column="26" />
         <mark key="^" line="1048" column="27" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1611081075739" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/ForecastBookWorkflowState.java" timestamp="1610822747568">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="15" />
         <mark key="^" line="29" column="15" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1610733801977">
-        <mark key="'" line="1" column="45" />
-        <mark key="[" line="522" column="0" />
-        <mark key="]" line="522" column="23" />
-        <mark key="." line="184" column="24" />
-        <mark key="^" line="184" column="89" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandlerTest.java" timestamp="1610844522346">
         <mark key="[" line="296" column="44" />
@@ -213,9 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="835" column="23" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
-      <jump line="60" column="30" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
-      <jump line="89" column="32" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="162" column="26" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="164" column="27" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="175" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
@@ -313,6 +304,9 @@
       <jump line="1009" column="35" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
       <jump line="1011" column="25" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
       <jump line="1017" column="37" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
+      <jump line="272" column="36" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="265" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="6" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1266,44 +1260,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOiAKICAgICAgYWxsb3dQcm9kQ29ycFBvcnQ4MTkyVG84MjAwU0c6IAo=</text>
+      <register name="&quot;" type="4">
+        <text>'65535'</text>
       </register>
       <register name="-" type="4">
-        <text>sg-0cfebf4bd7fd71e7a</text>
+        <text>'65535'</text>
       </register>
       <register name="/" type="4">
-        <text>isRodeoSyncD</text>
+        <text>vpc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOiAKICAgICAgYWxsb3dQcm9kQ29ycFBvcnQ4MTkyVG84MjAwU0c6IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9kZW9TeW5jV29ya2Zsb3dTdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgICAtIEVncmVzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIFRhZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4ZWN1dGlvbklkID0gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgVGFnczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgICAgVnBjSWQ6IFN0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW50ZXJwb2xhdGlvbjogPHJlZ2lvbj4sIDxhY2NvdW50IGlkPiwgPHdvcmtmbG93IG5hbWU+LCA8ZXhlY3V0aW9uIGlkPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFR0lPTiA9ICJyZWdpb24iOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUF9DT05GSUdfS0VZX1JFR0lPTiA9ICJhd3MucmVnaW9uIjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgR3JvdXBEZXNjcmlwdGlvbjogQWxsb3cgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFXU19BQ0NPVU5UX0lEID0gImF3cy5hY2NvdW50LmlkIjsK</text>
+        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOgo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1312,9 +1306,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isRodeoSyncD</last-search>
+      <last-search>vpc</last-search>
       <last-offset />
-      <last-pattern>isRodeoSyncD</last-pattern>
+      <last-pattern>vpc</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
