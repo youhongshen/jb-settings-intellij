@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ACCOUNT</entry>
         <entry>AWS_RE</entry>
         <entry>AWS_REG</entry>
         <entry>APP_CONFIG_KE</entry>
@@ -27,6 +26,7 @@
         <entry>updateRodeoSy</entry>
         <entry>AmazonE</entry>
         <entry>GetAtt</entry>
+        <entry>Condition</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/g</entry>
@@ -125,11 +125,16 @@
         <mark key="." line="191" column="18" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.674337.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/AWSStepFunctionsJavaClient-1.11.x.jar!/com/amazonaws/services/stepfunctions/model/ExecutionStatus.class" timestamp="1610823167999" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1611091749137">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1611095019244">
         <mark key="'" line="120" column="11" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" timestamp="1611095574154">
+        <mark key="'" line="121" column="12" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="37" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/ApplicationModule.java" timestamp="1610821166396">
         <mark key="[" line="24" column="37" />
@@ -194,9 +199,6 @@
         <mark key="]" line="111" column="72" />
         <mark key="." line="111" column="71" />
         <mark key="^" line="111" column="72" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Constant.java" timestamp="1610817917687">
-        <mark key="'" line="206" column="64" />
       </file>
       <file name="/fragment.java" timestamp="1610820448536">
         <mark key="[" line="0" column="0" />
@@ -1265,7 +1267,7 @@
         <text>arn</text>
       </register>
       <register name="/" type="4">
-        <text>GetAtt</text>
+        <text>Condition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAtIEdldEF0dCBTcGllRUMyUG9saWN5LnBvbGljeUFSTgo=</text>
@@ -1304,9 +1306,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>GetAtt</last-search>
+      <last-search>Condition</last-search>
       <last-offset />
-      <last-pattern>GetAtt</last-pattern>
+      <last-pattern>Condition</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
