@@ -106,12 +106,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611082198054">
+      <file name="/Volumes/workplace/D16GOMSVpcInfrastructure/src/D16GOMSVpcInfrastructure/configuration/cloudFormation/001Common.template.yml" timestamp="1611082975975" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611082334626">
         <mark key="'" line="265" column="6" />
-        <mark key="[" line="261" column="20" />
-        <mark key="]" line="261" column="21" />
-        <mark key="." line="261" column="20" />
-        <mark key="^" line="261" column="21" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="276" column="20" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="273" column="10" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1610821105294">
         <mark key="'" line="25" column="69" />
@@ -160,7 +161,6 @@
         <mark key="^" line="296" column="51" />
         <mark key="." line="296" column="50" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/011OMSHydraTesting.template.yml" timestamp="1610737442120" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/GetRodeoSyncStatusActivityWorker.java" timestamp="1610822330531">
         <mark key="'" line="102" column="24" />
         <mark key="[" line="73" column="20" />
@@ -1260,44 +1260,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'65535'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtIENpZHJJcDogJzUyLjI3LjE5MC4wLzIzJwogICAgICAgICAgSXBQcm90b2NvbDogdGNwCiAgICAgICAgICBGcm9tUG9ydDogMjIKICAgICAgICAgIFRvUG9ydDogMjIK</text>
       </register>
       <register name="-" type="4">
-        <text>'65535'</text>
+        <text>64.39.96.0/20'</text>
       </register>
       <register name="/" type="4">
         <text>vpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOiAKICAgICAgYWxsb3dQcm9kQ29ycFBvcnQ4MTkyVG84MjAwU0c6IAo=</text>
+        <text encoding="base64">ICAgICAgICAtIENpZHJJcDogJzUyLjI3LjE5MC4wLzIzJwogICAgICAgICAgSXBQcm90b2NvbDogdGNwCiAgICAgICAgICBGcm9tUG9ydDogMjIKICAgICAgICAgIFRvUG9ydDogMjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIEVncmVzcwo=</text>
+        <text encoding="base64">ICAgICAgICA2NC4zOS45Ni4wLzIwJyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIFRhZwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVGFnczoK</text>
+        <text encoding="base64">ICAgICAgICAgIElwUHJvdG9jb2w6IC0xCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVnBjSWQ6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAtIEluZ3Jlc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIEVncmVzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgR3JvdXBEZXNjcmlwdGlvbjogQWxsb3cgCg==</text>
+        <text encoding="base64">ICAgICAgICAtIFRhZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOgo=</text>
+        <text encoding="base64">ICAgICAgVGFnczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOgo=</text>
+        <text encoding="base64">ICAgICAgVnBjSWQ6IFN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dQcm9kQ29ycFNzaFNHOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
