@@ -107,12 +107,12 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSVpcInfrastructure/src/D16GOMSVpcInfrastructure/configuration/cloudFormation/001Common.template.yml" timestamp="1611082975975" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611082334626">
-        <mark key="'" line="265" column="6" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="276" column="20" />
-        <mark key="." line="273" column="0" />
-        <mark key="^" line="273" column="10" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611088916762">
+        <mark key="'" line="10" column="94" />
+        <mark key="[" line="301" column="13" />
+        <mark key="]" line="301" column="13" />
+        <mark key="." line="301" column="13" />
+        <mark key="^" line="301" column="13" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1610821105294">
         <mark key="'" line="25" column="69" />
@@ -207,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="26" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="164" column="27" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="175" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="160" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
@@ -307,6 +306,7 @@
       <jump line="272" column="36" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="265" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="6" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
+      <jump line="10" column="94" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1260,44 +1260,44 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIENpZHJJcDogJzUyLjI3LjE5MC4wLzIzJwogICAgICAgICAgSXBQcm90b2NvbDogdGNwCiAgICAgICAgICBGcm9tUG9ydDogMjIKICAgICAgICAgIFRvUG9ydDogMjIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aXMgdGhlIFNQSUUgc2NyaXB0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>64.39.96.0/20'</text>
+        <text encoding="base64">aXMgdGhlIFNQSUUgc2NyaXB0IA==</text>
       </register>
       <register name="/" type="4">
         <text>vpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIENpZHJJcDogJzUyLjI3LjE5MC4wLzIzJwogICAgICAgICAgSXBQcm90b2NvbDogdGNwCiAgICAgICAgICBGcm9tUG9ydDogMjIKICAgICAgICAgIFRvUG9ydDogMjIK</text>
+        <text encoding="base64">ICAgIENvbmRpdGlvbjogQ3JlYXRlUmVnaW9uYWxSZXNvdXJjZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA2NC4zOS45Ni4wLzIwJyAK</text>
+        <text encoding="base64">ICAgICAgICAtICFGaW5kSW5NYXAgWyFSZWYgU3RhZ2UsICFSZWYgJ0FXUzo6UmVnaW9uJywgYWxsb3dQcm9kQ29ycFNzaFNHXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIElwUHJvdG9jb2w6IC0xCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIEluZ3Jlc3MK</text>
+        <text encoding="base64">ICBDcmVhdGVSZXNvdXJjZXM6ICFPciBbICFBbmQgWyAhRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXSwgIUVxdWFscyBbICFSZWYgJ0FXUzo6UmVnaW9uJywgJ2V1LXdlc3QtMScgXV0sICFFcXVhbHMgWyAhUmVmIFN0YWdlLCBwcm9kIF1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIEVncmVzcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIFRhZwo=</text>
+        <text encoding="base64">IyBpbiBhbGwgcmVnaW9ucyBzaW5jZSB0aGVyZSBhcmUgc2VwYXJhdGUgQVdTIGFjY291bnRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVGFnczoK</text>
+        <text encoding="base64">IyAyLiB0aGVzZSByZXNvdXJjZXMgYXJlIGdsb2JhbCwgc28gaW4gdGhlIGNhc2Ugb2YgZ2FtbWEsIHdlIG9ubHkgd2FudCB0byBjcmVhdGUgaW4gb25lIHJlZ2lvbiBidXQgaW4gdGhlIGNhc2Ugb2YgcHJvZCwgd2Ugd2FudCB0byBjcmVhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVnBjSWQ6IFN0cmluZwo=</text>
+        <text encoding="base64">IyAxLiBiZXRhIHdhcyBjcmVhdGVkIG1hbnVhbGx5IHNvIHdpbGwgc2tpcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDcmVhdGVSZWdpb25hbFJlc291cmNlczogCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
