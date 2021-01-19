@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>AppCon</entry>
         <entry>region</entry>
         <entry>ACCOUNT</entry>
         <entry>AWS_RE</entry>
@@ -27,6 +26,7 @@
         <entry>Vpc</entry>
         <entry>vpc</entry>
         <entry>updateRodeoSy</entry>
+        <entry>AmazonE</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$/,/g</entry>
@@ -110,12 +110,12 @@
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/CheckRodeoSyncStatusActivityWorker.java" timestamp="1611089152827">
         <mark key="'" line="151" column="16" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611089914968">
-        <mark key="'" line="10" column="94" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="10" column="51" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1611091630005">
+        <mark key="'" line="236" column="26" />
+        <mark key="[" line="224" column="30" />
+        <mark key="]" line="224" column="31" />
+        <mark key="." line="224" column="31" />
+        <mark key="^" line="224" column="34" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/configuration/brazil-config/app/D16GOMSWorkflows.cfg" timestamp="1610821105294">
         <mark key="'" line="25" column="69" />
@@ -125,7 +125,7 @@
         <mark key="." line="191" column="18" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.674337.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/AWSStepFunctionsJavaClient-1.11.x.jar!/com/amazonaws/services/stepfunctions/model/ExecutionStatus.class" timestamp="1610823167999" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1611082149873">
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1611091625742">
         <mark key="'" line="6" column="15" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/modules/ApplicationModule.java" timestamp="1610821166396">
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="73" column="18" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="121" column="12" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/005OmsS3.template.yml" />
       <jump line="11" column="51" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
@@ -302,6 +301,7 @@
       <jump line="10" column="94" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="150" column="19" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/CheckRodeoSyncStatusActivityWorker.java" />
       <jump line="151" column="16" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/CheckRodeoSyncStatusActivityWorker.java" />
+      <jump line="236" column="26" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1256,43 +1256,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>arn</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>arn</text>
       </register>
       <register name="/" type="4">
-        <text>updateRodeoSy</text>
+        <text>AmazonE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBDcmVhdGVHbG9iYWxSZXNvdXJjZXM6ICFPciBbICFBbmQgWyAhRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXSwgIUVxdWFscyBbICFSZWYgJ0FXUzo6UmVnaW9uJywgJ2V1LXdlc3QtMScgXV0sICFFcXVhbHMgWyAhUmVmIFN0YWdlLCBwcm9kIF1dCiAgQ3JlYXRlUmVnaW9uYWxSZXNvdXJjZXM6ICFPciBbICFFcXVhbHMgWyAhUmVmIFN0YWdlLCBnYW1tYSBdLCAhRXF1YWxzIFsgIVJlZiBTdGFnZSwgcHJvZCBdXQo=</text>
+        <text encoding="base64">ICAgICAgTWFuYWdlZFBvbGljeUFybnM6CiAgICAgICAgLSBhcm46YXdzOmlhbTo6YXdzOnBvbGljeS9zZXJ2aWNlLXJvbGUvQW1hem9uRUMyUm9sZWZvclNTTQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtICFGaW5kSW5NYXAgWyFSZWYgU3RhZ2UsICFSZWYgJ0FXUzo6UmVnaW9uJywgYWxsb3dQcm9kQ29ycFNzaFNHXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAtIFJlZjogU3BpZUVDMlBvbGljeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBDcmVhdGVSZXNvdXJjZXM6ICFPciBbICFBbmQgWyAhRXF1YWxzIFsgIVJlZiBTdGFnZSwgZ2FtbWEgXSwgIUVxdWFscyBbICFSZWYgJ0FXUzo6UmVnaW9uJywgJ2V1LXdlc3QtMScgXV0sICFFcXVhbHMgWyAhUmVmIFN0YWdlLCBwcm9kIF1dCg==</text>
+        <text encoding="base64">ICAgICAgICAtIFJlZjogU3BpZUVDMlBvbGljeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBpbiBhbGwgcmVnaW9ucyBzaW5jZSB0aGVyZSBhcmUgc2VwYXJhdGUgQVdTIGFjY291bnRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAyLiB0aGVzZSByZXNvdXJjZXMgYXJlIGdsb2JhbCwgc28gaW4gdGhlIGNhc2Ugb2YgZ2FtbWEsIHdlIG9ubHkgd2FudCB0byBjcmVhdGUgaW4gb25lIHJlZ2lvbiBidXQgaW4gdGhlIGNhc2Ugb2YgcHJvZCwgd2Ugd2FudCB0byBjcmVhdGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAxLiBiZXRhIHdhcyBjcmVhdGVkIG1hbnVhbGx5IHNvIHdpbGwgc2tpcAo=</text>
+        <text encoding="base64">ICAgICAgICAtIFJlZjogQW1hem9uRUMyUm9sZWZvckFXU0NvZGVEZXBsb3kK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDcmVhdGVSZWdpb25hbFJlc291cmNlczogCg==</text>
+        <text encoding="base64">ICAgICAgICAtIFJlZjogQW1hem9uRUMyUm9sZWZvclNTTQo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1301,9 +1301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>updateRodeoSy</last-search>
+      <last-search>AmazonE</last-search>
       <last-offset />
-      <last-pattern>updateRodeoSy</last-pattern>
+      <last-pattern>AmazonE</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
