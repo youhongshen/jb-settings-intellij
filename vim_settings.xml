@@ -29,7 +29,6 @@
         <entry>ForecastIm</entry>
       </history-search>
       <history-cmd>
-        <entry>.,$s/$/,/g</entry>
         <entry>s/\\//g</entry>
         <entry>$A</entry>
         <entry>-</entry>
@@ -49,6 +48,7 @@
         <entry>read</entry>
         <entry>0</entry>
         <entry>$</entry>
+        <entry>200</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,9 +114,6 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/CommonModule.java" timestamp="1611342943318">
         <mark key="'" line="110" column="45" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/CheckRodeoSyncStatusActivityWorker.java" timestamp="1611186167603">
-        <mark key="'" line="151" column="16" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" timestamp="1611342529742">
         <mark key="'" line="176" column="96" />
         <mark key="[" line="226" column="81" />
@@ -173,6 +170,9 @@
         <mark key="]" line="149" column="5" />
         <mark key="." line="149" column="5" />
       </file>
+      <file name="/" timestamp="1611594478978">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResourceImpl.java" timestamp="1611592987727" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/RodeoSyncOrchestrator.java" timestamp="1611592624962">
         <mark key="[" line="69" column="80" />
@@ -180,18 +180,24 @@
         <mark key="^" line="52" column="92" />
         <mark key="." line="69" column="80" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1611254503381">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="82" column="41" />
-        <mark key="^" line="82" column="41" />
-        <mark key="." line="82" column="40" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1611594067898">
+        <mark key="[" line="78" column="93" />
+        <mark key="]" line="78" column="94" />
+        <mark key="^" line="78" column="94" />
+        <mark key="." line="78" column="93" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1611253893023">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandlerTest.java" timestamp="1611593772483">
+        <mark key="[" line="304" column="74" />
+        <mark key="]" line="304" column="75" />
+        <mark key="." line="304" column="75" />
+        <mark key="^" line="303" column="105" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1611594140938">
         <mark key="'" line="600" column="84" />
-        <mark key="[" line="764" column="56" />
-        <mark key="]" line="764" column="65" />
-        <mark key="^" line="764" column="65" />
-        <mark key="." line="764" column="64" />
+        <mark key="[" line="199" column="12" />
+        <mark key="]" line="199" column="58" />
+        <mark key="^" line="199" column="12" />
+        <mark key="." line="199" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -1248,47 +1254,47 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDb3VudCh2YWx1ZSA9IDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>// if id is null, then returns a  new campaign</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>// if id is null, then returns a  new campaign</text>
       </register>
       <register name="/" type="4">
         <text>ForecastIm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb3VudCh2YWx1ZSA9IDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhyZXN1bHQuZ2V0UGFja2FnZVByb2R1Y3RTeW5jUmVzdWx0cygpLmdldCgwKS5nZXRTdGF0dXMoKSwgU3RhdHVzLkZBSUxFRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIHNob3VsZCB3ZSBhbHdheXMgc2tpcCBzeW5jJ2luZyBsaW5lcyBpbiBhbiB1cGRhdGUgY2FzZT8gIFNob3VsZCBpdCBjb25zaWRlciB0aGUgaW9saW5lIHR5cGUgKGRzcCB2cyBjbGFzczEpPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJOZXh0IjogIlJvZGVvU3luY0RlZmF1bHRFbmRTdGF0ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTdHJpbmdFcXVhbHMiOiAiQUJPUlRFRCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYWNrYWdlUHJvZHVjdFN5bmNSZXN1bHRzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJWYXJpYWJsZSI6ICIkLmZvcmVjYXN0Qm9va1dvcmtmbG93U3RhdGUucm9kZW9TeW5jU2ZuRXhlY3V0aW9uU3RhdHVzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYW1wYWlnblN5bmNSZXN1bHQoQ2FtcGFpZ25TeW5jUmVzdWx0LmJ1aWxkZXIoKS5zdGF0dXMoU3RhdHVzLkZBSUxFRCkuYnVpbGQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJOZXh0IjogIlJvZGVvU3luY0RlZmF1bHRFbmRTdGF0ZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTdHJpbmdFcXVhbHMiOiAiVElNRURfT1VUIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTdHJpbmdFcXVhbHMiOiAiQUJPUlRFRCIsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJWYXJpYWJsZSI6ICIkLmZvcmVjYXN0Qm9va1dvcmtmbG93U3RhdGUucm9kZW9TeW5jU2ZuRXhlY3V0aW9uU3RhdHVzIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>200</text>
       </register>
     </registers>
   </component>
