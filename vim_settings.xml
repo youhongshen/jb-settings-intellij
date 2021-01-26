@@ -108,14 +108,15 @@
     <filemarks>
       <file name="/Volumes/workplace/RDE-D16GOMSIDMEventsLambda/src/D16GOMSIDMEventsLambda/src/com/amazon/d16gomsidmeventslambda/lambda/utils/CloudWatchMetricsFactory.java" timestamp="1611597440483" />
       <file name="/Volumes/workplace/RDE-D16GOMSIDMEventsLambda/src/D16GOMSIDMEventsLambda/src/com/amazon/d16gomsidmeventslambda/lambda/Constants.java" timestamp="1611597195877" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1611704307834" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1611692782202" />
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.669319.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazonaws/services/stepfunctions/model/StartExecutionResult.java" timestamp="1611596332798" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/s3/RodeoS3Dao.java" timestamp="1611691522155" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1611693702918">
-        <mark key="[" line="305" column="17" />
-        <mark key="]" line="305" column="17" />
-        <mark key="^" line="305" column="17" />
-        <mark key="." line="305" column="16" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1611704950264">
+        <mark key="[" line="127" column="18" />
+        <mark key="]" line="127" column="18" />
+        <mark key="^" line="127" column="74" />
+        <mark key="." line="127" column="18" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1611684144443">
         <mark key="'" line="668" column="45" />
@@ -133,15 +134,12 @@
         <mark key="]" line="395" column="0" />
         <mark key="." line="395" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1611681217580">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1611704881644">
         <mark key="'" line="70" column="43" />
         <mark key="]" line="204" column="5" />
         <mark key="." line="203" column="0" />
       </file>
       <file name="/Volumes/workplace/RDE-D16GOMSIDMEventsLambda/src/D16GOMSIDMEventsLambda/src/com/amazon/d16gomsidmeventslambda/lambda/dao/OmsDao.java" timestamp="1611595468867" />
-      <file name="/" timestamp="1611594478978">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/RodeoSyncOrchestrator.java" timestamp="1611596030743">
         <mark key="[" line="69" column="80" />
         <mark key="]" line="69" column="80" />
@@ -151,7 +149,7 @@
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.669319.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazonaws/services/stepfunctions/AWSStepFunctions.java" timestamp="1611596226535">
         <mark key="'" line="391" column="65" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1611680744383">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1611704919854">
         <mark key="[" line="156" column="47" />
         <mark key="]" line="78" column="94" />
         <mark key="^" line="78" column="94" />
@@ -1225,10 +1223,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>Status.SUCCESS.equals(campaignSyncResult.getStatus())) {</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>Status.SUCCESS.equals(campaignSyncResult.getStatus())) {</text>
       </register>
       <register name="/" type="4">
         <text>NO_OP</text>
