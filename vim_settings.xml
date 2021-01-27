@@ -122,9 +122,6 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1611684144443">
-        <mark key="'" line="668" column="45" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1611704881644">
         <mark key="'" line="70" column="43" />
         <mark key="]" line="204" column="5" />
@@ -143,20 +140,21 @@
         <mark key="^" line="78" column="94" />
         <mark key="." line="78" column="93" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" timestamp="1611693667064">
-        <mark key="'" line="127" column="105" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/AssembleSyncProposalOutput.java" timestamp="1611781226909">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="33" column="131" />
+        <mark key="^" line="33" column="131" />
+        <mark key="." line="33" column="130" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" timestamp="1611692811683" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1611704307834" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1611709489769" />
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/Config" timestamp="1611771997584">
         <mark key="'" line="32" column="16" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/s3/RodeoS3Dao.java" timestamp="1611691522155" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1611706667338">
         <mark key="'" line="149" column="58" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" timestamp="1611693502018">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" timestamp="1611781671677">
         <mark key="[" line="395" column="0" />
         <mark key="]" line="395" column="0" />
         <mark key="." line="395" column="0" />
@@ -172,11 +170,23 @@
         <mark key="^" line="46" column="48" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/PartitionSyncProposalInput.java" timestamp="1611779730594">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="36" />
-        <mark key="^" line="21" column="137" />
-        <mark key="." line="21" column="36" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/AssembleSyncProposalOutputTest.java" timestamp="1611782640017">
+        <mark key="[" line="33" column="64" />
+        <mark key="]" line="33" column="68" />
+        <mark key="^" line="33" column="68" />
+        <mark key="." line="33" column="67" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/PartitionSyncProposalInputTest.java" timestamp="1611782558170">
+        <mark key="[" line="61" column="112" />
+        <mark key="]" line="61" column="113" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="61" column="113" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/PartitionSyncProposalInput.java" timestamp="1611782118939">
+        <mark key="[" line="31" column="67" />
+        <mark key="]" line="42" column="114" />
+        <mark key="." line="42" column="113" />
+        <mark key="^" line="42" column="114" />
       </file>
     </filemarks>
     <jumps>
@@ -1234,43 +1244,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>inputSize</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>inputSize</text>
       </register>
       <register name="/" type="4">
         <text>AWS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiLS1yb290PSIgKyBTeXN0ZW0uZ2V0ZW52KExBTUJEQV9UQVNLX1JPT1QpLAo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhvdXRwdXQuZ2V0KDApLmdldFBhY2thZ2VQcm9kdWN0U3luY1Jlc3VsdHMoKS5nZXQoMCkuZ2V0U291cmNlRGF0YUlkKCksICJsaW5lMCIpOwogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKG91dHB1dC5nZXQoMCkuZ2V0UGFja2FnZVByb2R1Y3RTeW5jUmVzdWx0cygpLmdldCgwKS5nZXRUYXJnZXREYXRhSWQoKSwgInByb3Bvc2FsMCIpOwogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKG91dHB1dC5nZXQoMCkuZ2V0UGFja2FnZVByb2R1Y3RTeW5jUmVzdWx0cygpLmdldCgwKS5nZXRPcGVyYXRpb24oKSwgT3BlcmF0aW9uLkNSRUFURSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b24uZDE2Z29tc3JvZGVvc3luY3dvcmtmbG93LmxhbWJkYS51dGlsLkxvZ2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhvdXRwdXQuc2l6ZSgpLCAyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLmNvbnRhaW5zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlcXVlc3QgaWQgPSAlcyIsIHJlcXVlc3RJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoInNhdmVSb2Rlb0NhbXBhaWduVG9TMzogQ2FtcGFpZ25TeW5jUmVzdWx0IG9wZXJhdGlvbiBpcyBhIE5PX09QLCBza2lwIHNhdmluZyBkcmFmdCBjYW1wYWlnbiB0byBTMywgIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzaW5jZSB0aGlzIGNhbWUgZnJvbSBhIG1hcCBzdGF0ZSwgaXQgd2lsbCBoYXZlIGF0IGxlYXN0IG9uZSBpdGVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChjYW1wYWlnblN5bmNSZXN1bHQuZ2V0T3BlcmF0aW9uKCkuZXF1YWxzKE9wZXJhdGlvbi5OT19PUCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
