@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>materi</entry>
-        <entry>odin</entry>
-        <entry>omsgamma</entry>
-        <entry>EUAmazon.aws.acc</entry>
         <entry>awsRe</entry>
         <entry>region</entry>
         <entry>ForecastIm</entry>
@@ -27,9 +23,12 @@
         <entry>Output</entry>
         <entry>output</entry>
         <entry>NO_OP</entry>
+        <entry>DetailRepos</entry>
+        <entry>todo</entry>
+        <entry>during batchUp</entry>
+        <entry>batch</entry>
       </history-search>
       <history-cmd>
-        <entry>$A</entry>
         <entry>-</entry>
         <entry>261</entry>
         <entry>493</entry>
@@ -49,6 +48,7 @@
         <entry>$</entry>
         <entry>200</entry>
         <entry>764</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,7 +112,8 @@
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1611692782202" />
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.669319.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazonaws/services/stepfunctions/model/StartExecutionResult.java" timestamp="1611596332798" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/s3/RodeoS3Dao.java" timestamp="1611691522155" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1611704950264">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1611705110709">
+        <mark key="'" line="53" column="61" />
         <mark key="[" line="127" column="18" />
         <mark key="]" line="127" column="18" />
         <mark key="^" line="127" column="74" />
@@ -129,6 +130,9 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" timestamp="1611706667338">
+        <mark key="'" line="149" column="58" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" timestamp="1611693502018">
         <mark key="[" line="395" column="0" />
         <mark key="]" line="395" column="0" />
@@ -139,7 +143,6 @@
         <mark key="]" line="204" column="5" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/Volumes/workplace/RDE-D16GOMSIDMEventsLambda/src/D16GOMSIDMEventsLambda/src/com/amazon/d16gomsidmeventslambda/lambda/dao/OmsDao.java" timestamp="1611595468867" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/workflows/RodeoSyncOrchestrator.java" timestamp="1611596030743">
         <mark key="[" line="69" column="80" />
         <mark key="]" line="69" column="80" />
@@ -149,7 +152,8 @@
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AWSStepFunctionsJavaClient/AWSStepFunctionsJavaClient-1.11.x.669319.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazonaws/services/stepfunctions/AWSStepFunctions.java" timestamp="1611596226535">
         <mark key="'" line="391" column="65" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1611704919854">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1611706204205">
+        <mark key="'" line="222" column="61" />
         <mark key="[" line="156" column="47" />
         <mark key="]" line="78" column="94" />
         <mark key="^" line="78" column="94" />
@@ -169,12 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="7" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
-      <jump line="659" column="35" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
-      <jump line="684" column="27" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
-      <jump line="727" column="40" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
-      <jump line="1009" column="35" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
-      <jump line="1011" column="25" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
       <jump line="1017" column="37" filename="/Volumes/workplace/D16GOMSWorkflowInfrastructure/src/D16GOMSWorkflowInfrastructure/configuration/cloudFormation/001OmsStepfunctions.template.yml" />
       <jump line="272" column="36" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="265" column="6" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
@@ -269,6 +267,12 @@
       <jump line="121" column="65" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" />
       <jump line="123" column="26" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" />
       <jump line="127" column="105" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" />
+      <jump line="75" column="4" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="301" column="83" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="22" column="77" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="53" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="222" column="61" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
+      <jump line="149" column="58" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1229,7 +1233,7 @@
         <text>Status.SUCCESS.equals(campaignSyncResult.getStatus())) {</text>
       </register>
       <register name="/" type="4">
-        <text>NO_OP</text>
+        <text>batch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhpc3RpbmdDYW1wYWlnbi5zZXRTdGFydERhdGUoaW5wdXRTdGFydERhdGUpOwo=</text>
@@ -1262,15 +1266,15 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhTdHJpbmcuZm9ybWF0KCJzZXQgc3RhcnQvZW5kIGRhdGUgZm9yIGEgbmV3IGNhbXBhaWduLCBpb2xpbmUgaWQgPSAlcyIsIG9tc0lPTGluZS5nZXRJZCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>764</text>
+        <text>104</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>NO_OP</last-search>
+      <last-search>batch</last-search>
       <last-offset />
-      <last-pattern>NO_OP</last-pattern>
+      <last-pattern>batch</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
