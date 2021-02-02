@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SinglePassEc2In</entry>
-        <entry>dependsOn</entry>
         <entry>DependsOn</entry>
         <entry>BastionRo</entry>
         <entry>SinglePassWriterR</entry>
@@ -27,6 +25,8 @@
         <entry>CountMetr</entry>
         <entry>getPro</entry>
         <entry>getPropos</entry>
+        <entry>getProposal</entry>
+        <entry>bulkCre</entry>
       </history-search>
       <history-cmd>
         <entry>-</entry>
@@ -177,16 +177,9 @@
         <mark key="^" line="221" column="34" />
         <mark key="." line="221" column="45" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1612228387428">
-        <mark key="'" line="336" column="13" />
-        <mark key="[" line="63" column="18" />
-        <mark key="]" line="336" column="46" />
-        <mark key="^" line="266" column="76" />
-        <mark key="." line="63" column="24" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/RepositoryModule.java" timestamp="1612289827199" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612292367964">
-        <mark key="'" line="200" column="51" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612294937963">
+        <mark key="'" line="764" column="72" />
         <mark key="[" line="135" column="18" />
         <mark key="]" line="340" column="0" />
         <mark key="^" line="341" column="82" />
@@ -212,13 +205,15 @@
         <mark key="." line="66" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" timestamp="1612297126870">
+        <mark key="'" line="776" column="15" />
+        <mark key="[" line="710" column="0" />
+        <mark key="]" line="710" column="0" />
+        <mark key="." line="710" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/util/Constants.java" timestamp="1612287924470" />
     </filemarks>
     <jumps>
-      <jump line="72" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" />
-      <jump line="87" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" />
-      <jump line="103" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" />
-      <jump line="52" column="16" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="195" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="288" column="80" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="292" column="19" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
@@ -315,6 +310,10 @@
       <jump line="98" column="38" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/ValidateInputHandler.java" />
       <jump line="112" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="200" column="51" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="179" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="272" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="764" column="72" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="776" column="15" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1275,7 +1274,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>getPropos</text>
+        <text>bulkCre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhjYXB0dXJlZERhdGFNYXBwaW5ncy5nZXQoMSkuZ2V0SWRUeXBlKCksIERhdGFUeXBlLkxJTkVfSVRFTSk7Cg==</text>
@@ -1317,9 +1316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getPropos</last-search>
+      <last-search>bulkCre</last-search>
       <last-offset />
-      <last-pattern>getPropos</last-pattern>
+      <last-pattern>bulkCre</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
