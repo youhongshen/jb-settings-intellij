@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>CreateEc2</entry>
-        <entry>name</entry>
         <entry>recordC</entry>
         <entry>Metri</entry>
         <entry>@Metric</entry>
@@ -27,6 +25,8 @@
         <entry>proposalDisplayDet</entry>
         <entry>getProposals</entry>
         <entry>getProposal</entry>
+        <entry>Get Rodeo AdGroup</entry>
+        <entry>Get Rodeo Ad</entry>
       </history-search>
       <history-cmd>
         <entry>-</entry>
@@ -164,7 +164,7 @@
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="3" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1612370583738">
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1612372313749">
         <mark key="'" line="290" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MetricsModule.java" timestamp="1612307951437">
@@ -1274,7 +1274,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>getProposal</text>
+        <text>Get Rodeo Ad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfTlVNX1BST1BPU0FMU19QRVJfTEFNQkRBX0lOU1RBTkNFID0gNTsK</text>
@@ -1316,9 +1316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getProposal</last-search>
+      <last-search>Get Rodeo Ad</last-search>
       <last-offset />
-      <last-pattern>getProposal</last-pattern>
+      <last-pattern>Get Rodeo Ad</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
