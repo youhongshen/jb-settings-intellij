@@ -19,7 +19,6 @@
         <entry>handleRe</entry>
         <entry>eq</entry>
         <entry>proposalDisplayDet</entry>
-        <entry>getProposals</entry>
         <entry>getProposal</entry>
         <entry>Get Rodeo AdGroup</entry>
         <entry>Get Rodeo Ad</entry>
@@ -27,6 +26,7 @@
         <entry>getSelectedFie</entry>
         <entry>buildPackagePr</entry>
         <entry>getSelectedFi</entry>
+        <entry>getProposals</entry>
       </history-search>
       <history-cmd>
         <entry>-</entry>
@@ -199,16 +199,15 @@
         <mark key="^" line="59" column="85" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612373036949">
-        <mark key="'" line="359" column="56" />
-        <mark key="[" line="135" column="18" />
-        <mark key="]" line="340" column="0" />
-        <mark key="^" line="341" column="82" />
-        <mark key="." line="340" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612392039763">
+        <mark key="'" line="766" column="72" />
+        <mark key="[" line="230" column="85" />
+        <mark key="]" line="230" column="73" />
+        <mark key="^" line="230" column="73" />
+        <mark key="." line="230" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/IOLineDao.java" />
       <jump line="85" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/IOLineDao.java" />
       <jump line="46" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" />
       <jump line="73" column="13" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" />
@@ -301,13 +300,14 @@
       <jump line="97" column="30" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="228" column="15" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="230" column="36" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="764" column="72" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="290" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="235" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="364" column="46" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="359" column="56" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="287" column="93" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="566" column="49" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="387" column="55" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
+      <jump line="764" column="72" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1262,13 +1262,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UPDATE</text>
+        <text encoding="base64">cnVuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>UPDATE</text>
+        <text encoding="base64">cnVuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>getSelectedFi</text>
+        <text>getProposals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfTlVNX1BST1BPU0FMU19QRVJfTEFNQkRBX0lOU1RBTkNFID0gNTsK</text>
@@ -1310,12 +1310,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getSelectedFi</last-search>
+      <last-search>getProposals</last-search>
       <last-offset />
-      <last-pattern>getSelectedFi</last-pattern>
+      <last-pattern>getProposals</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
