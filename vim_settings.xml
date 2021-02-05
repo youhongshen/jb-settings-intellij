@@ -158,31 +158,31 @@
         <mark key="^" line="103" column="71" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/OmsModule.java" timestamp="1612407674702" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1612407634781">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="52" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="52" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1612482615981">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="30" column="52" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MawsProxyModule.java" timestamp="1612451442249">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/AssembleSyncProposalOutputTest.java" timestamp="1612310327636">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="55" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/PartitionSyncProposalInputTest.java" timestamp="1612310318080">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/module/DependenciesModule.java" timestamp="1612407835911" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/AssembleSyncProposalOutput.java" timestamp="1612483017943">
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="70" column="12" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="12" />
+      </file>
       <file name="/fragment.java" timestamp="1612312608363">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/PartitionSyncProposalInput.java" timestamp="1612483078814">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612393343961">
         <mark key="'" line="767" column="36" />
@@ -1250,7 +1250,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>catch (Exception e) {</text>
       </register>
       <register name="/" type="4">
         <text>getProposalById</text>
@@ -1265,28 +1265,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xpZW50RmFjdG9yeS5nZXRDbGllbnQoS3JhdG9zUmVzb3VyY2UuY2xhc3MpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBLcmF0b3NSZXNvdXJjZSBwcm92aWRlS3JhdG9zUmVzb3VyY2UoRDE2R0NDU01hd3NQcm94eVNlcnZpY2VDbG91ZEF1dGhDbGllbnRGYWN0b3J5IGNsaWVudEZhY3RvcnkpIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTaW5nbGV0b24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBQcm92aWRlcwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0TWV0cmljc1JlY29yZGVyKCkuZm9yY2VGbHVzaCgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhTdHJpbmcuZm9ybWF0KCJjYXVnaHQgZXhjZXB0aW9uIGluIEFzc2VtYmxlU3luY1BybyIpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xpZW50RmFjdG9yeS5nZXRDbGllbnQoQm9iYVJlc291cmNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
