@@ -121,11 +121,11 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/PackageProductProposalDetailDaoTest.java" timestamp="1612904210674">
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1612971934906">
-        <mark key="[" line="108" column="29" />
-        <mark key="]" line="108" column="29" />
-        <mark key="." line="108" column="29" />
-        <mark key="^" line="107" column="59" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1612976677449">
+        <mark key="[" line="141" column="55" />
+        <mark key="]" line="141" column="55" />
+        <mark key="." line="141" column="55" />
+        <mark key="^" line="141" column="30" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/converter/AttributeValueConverterTest.java" timestamp="1612904090779">
         <mark key="[" line="105" column="79" />
@@ -160,7 +160,7 @@
         <mark key="^" line="33" column="75" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612971115174">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1612976292102">
         <mark key="'" line="689" column="56" />
         <mark key="[" line="751" column="18" />
         <mark key="]" line="753" column="4" />
@@ -209,8 +209,10 @@
         <mark key="^" line="49" column="99" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1612908830744">
+      <file name="/fragment.java" timestamp="1612976135005">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1268,46 +1270,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>setIdType(DataType.LINE_ITEM);</text>
+        <text>inSecondPriceAuction</text>
       </register>
       <register name="-" type="4">
-        <text>setIdType(DataType.LINE_ITEM);</text>
+        <text>inSecondPriceAuction</text>
       </register>
       <register name="/" type="4">
         <text>rodeo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lSXRlbURhdGFNYXBwaW5nMS5zZXRJZFR5cGUoRGF0YVR5cGUuTElORV9JVEVNKTsK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoKEJvb2xlYW4pIGZpZWxkTWFwLmdldCgiaW5TZWNvbmRQcmljZUF1Y3Rpb24iKS5nZXRTZWxlY3RlZFZhbHVlKCkuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wb3NhbERpc3BsYXlEZXRhaWxzMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkuZ2V0S2V5KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>adGroup.setInSecondPriceAuction(Boolean.TRUE)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihmb3JlY2FzdEJvb2tVdGlsKS5maW5kRGF0YU1hcHBpbmcoYW55KCksIGFueSgpLCBhbnkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihpbnN0YW5jZSkuZ2V0U2VsZWN0ZWRGaWVsZE1hcEZyb21FeGlzdGluZ0FkR3JvdXAoYW55KCksIGFueSgpLCBhbnkoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihpbnN0YW5jZSkuZ2V0U2VsZWN0ZWRGaWVsZE1hcEZyb21FeGlzdGluZ0FkR3JvdXAoYW55KCksIGFueSgpLCBhbnkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb3Bvc2FsRGlzcGxheURldGFpbHM+IHByb3Bvc2FsRGlzcGxheURldGFpbHNMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wb3NhbDEuc2V0ZmkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wb3NhbERpc3BsYXlEZXRhaWxzMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhTWFwcGluZyBsaW5lSXRlbURhdGFNYXBwaW5nMSA9IG5ldyBEYXRhTWFwcGluZygpOwogICAgICAgIGxpbmVJdGVtRGF0YU1hcHBpbmcxLnNldElkKCJsaW5lMSIpOwogICAgICAgIGxpbmVJdGVtRGF0YU1hcHBpbmcxLnNldElkVHlwZShEYXRhVHlwZS5MSU5FX0lURU0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihmb3JlY2FzdEJvb2tVdGlsKS5maW5kRGF0YU1hcHBpbmcoYW55KCksIGFueSgpLCBhbnkoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$d</text>
