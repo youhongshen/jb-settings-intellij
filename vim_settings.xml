@@ -41,7 +41,6 @@
         <entry>84</entry>
         <entry>A$</entry>
         <entry>read</entry>
-        <entry>$</entry>
         <entry>200</entry>
         <entry>764</entry>
         <entry>104</entry>
@@ -49,6 +48,7 @@
         <entry>0</entry>
         <entry>set ic</entry>
         <entry>.,$d</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,11 +115,11 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/PackageProductProposalDetailDaoTest.java" timestamp="1612904210674">
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1613000910721">
-        <mark key="[" line="134" column="98" />
-        <mark key="]" line="136" column="57" />
-        <mark key="." line="136" column="56" />
-        <mark key="^" line="136" column="57" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1613004739508">
+        <mark key="[" line="130" column="40" />
+        <mark key="]" line="130" column="42" />
+        <mark key="." line="130" column="41" />
+        <mark key="^" line="130" column="42" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/IOLineRepositoryTest.java" timestamp="1612909282478">
         <mark key="[" line="53" column="67" />
@@ -1255,19 +1255,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>kratos</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lSXRlbS5zZXRQYWNrYWdlUHJvZHVjdElkKCJlOGFlNDIwNS0xM2Y2LWIxNTgtMzgyNS1mZmI5ZGY2NGYwMjEiKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBNb25leSBtb25leTIgPSBuZXcgTW9uZXkoKTsKICAgICAgICBtb25leTIuc2V0TWlsbGl2YWx1ZSgzMDAwTCk7CiAgICAgICAgbW9uZXkyLnNldEN1cnJlbmN5KCJVU0QiKTsKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lSXRlbS5zZXRQYWNrYWdlUHJvZHVjdElkKCJlOGFlNDIwNS0xM2Y2LWIxNTgtMzgyNS1mZmI5ZGY2NGYwMjEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1276,28 +1276,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5lSXRlbSBsaW5lSXRlbSA9IG5ldyBMaW5lSXRlbSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhZGRpdGlvbmFsIHNldHRpbmdzIHRvIHRoZSBsaW5lIGl0ZW0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYWNrYWdlUHJvZHVjdHMocGFja2FnZVByb2R1Y3RTZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlwbGUuZ2V0UmlnaHQoKS5zZXRUYXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYWNrYWdlIGtyYXRvc1BhY2thZ2UgPSBQYWNrYWdlLmJ1aWxkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmlwbGUuZ2V0UmlnaHQoKS5zZXRNCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrYWdlUHJvZHVjdFNldC5hZGQocGFja2FnZVByb2R1Y3QpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oaW5zdGFuY2UuZ2V0U2VsZWN0ZWRGaWVsZE1hcEZyb21FeGlzdGluZ0FkR3JvdXAoYW55KCksIGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8UGFja2FnZVByb2R1Y3Q+IHBhY2thZ2VQcm9kdWN0U2V0ID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>.,$d</text>
+        <text>$</text>
       </register>
     </registers>
   </component>
