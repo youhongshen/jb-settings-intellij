@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Adverti</entry>
         <entry>setupBudget</entry>
         <entry>Buff</entry>
         <entry>3000</entry>
@@ -27,9 +26,9 @@
         <entry>version</entry>
         <entry>platformVer</entry>
         <entry>Farg</entry>
+        <entry>endDate</entry>
       </history-search>
       <history-cmd>
-        <entry>-</entry>
         <entry>261</entry>
         <entry>493</entry>
         <entry>1044</entry>
@@ -37,7 +36,6 @@
         <entry>223</entry>
         <entry>881</entry>
         <entry>set noic</entry>
-        <entry>1,$d</entry>
         <entry>84</entry>
         <entry>A$</entry>
         <entry>read</entry>
@@ -49,6 +47,8 @@
         <entry>set ic</entry>
         <entry>.,$d</entry>
         <entry>$</entry>
+        <entry>1,$x</entry>
+        <entry>1,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,12 +115,12 @@
       <file name="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/app.ts" timestamp="1613508604750">
         <mark key="'" line="72" column="9" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1613093050470">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1613585632013">
         <mark key="'" line="283" column="0" />
-        <mark key="[" line="244" column="47" />
-        <mark key="]" line="244" column="47" />
-        <mark key="." line="244" column="47" />
-        <mark key="^" line="244" column="47" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+        <mark key="^" line="268" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToRegionMapping.java" timestamp="1613412921706">
         <mark key="'" line="13" column="17" />
@@ -167,12 +167,6 @@
         <mark key="^" line="53" column="65" />
         <mark key="." line="53" column="65" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/ForecastBookRepositoryTest.java" timestamp="1612909015618">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="43" column="108" />
-        <mark key="." line="43" column="107" />
-        <mark key="^" line="43" column="108" />
-      </file>
       <file name="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" timestamp="1613508957754">
         <mark key="'" line="34" column="60" />
         <mark key="[" line="52" column="0" />
@@ -184,6 +178,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" timestamp="1613585652305">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="750" column="29" />
+        <mark key="." line="750" column="28" />
+        <mark key="^" line="750" column="29" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1613090272622">
         <mark key="'" line="931" column="42" />
         <mark key="[" line="917" column="0" />
@@ -193,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="30" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package.json" />
-      <jump line="32" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/Config" />
       <jump line="38" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
       <jump line="80" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
       <jump line="63" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
@@ -293,6 +292,8 @@
       <jump line="40" column="26" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" />
       <jump line="47" column="58" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" />
       <jump line="34" column="60" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" />
+      <jump line="750" column="28" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
+      <jump line="26" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1247,57 +1248,253 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDogMSwgCg==</text>
+        <text>{
+  &quot;_id&quot;: ObjectId( &quot;5f988ff1202eb271b225bbd7&quot; ),
+  &quot;data&quot;: {
+    &quot;accountExecutive&quot;: {
+      &quot;username&quot;: &quot; V&quot;
+    },
+    &quot;accountManager&quot;: {
+      &quot;username&quot;: &quot; V&quot;
+    },
+    &quot;adPackageDetails&quot;: {
+      &quot;adPackageUnits&quot;: {
+        &quot;update&quot;: [
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;6caf8698-138a-b2b6-850a-667f9aba0f3e&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;f8af8698-138a-d412-bf8b-7484cbf3568c&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;e2af8698-138a-d723-9ef7-26c31364ecc4&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;26af8698-138a-b420-c65c-361745048d94&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;a0af8698-138a-b443-577d-16656273c951&quot;
+          }
+        ]
+      },
+      &quot;ioRate&quot;: {
+        &quot;currency&quot;: &quot;USD&quot;,
+        &quot;millivalue&quot;: NumberLong(605000)
+      },
+      &quot;targetingUserLocation&quot;: &quot;CA&quot;
+    },
+    &quot;advertiserId&quot;: NumberLong( &quot;3738255468089&quot; ),
+    &quot;billingTo&quot;: &quot;ADVERTISER&quot;,
+    &quot;budget&quot;: {
+      &quot;agencyFee&quot;: {
+        &quot;agencyFeeApplied&quot;: false
+      },
+      &quot;catchupBoost&quot;: NumberLong(101),
+      &quot;currency&quot;: &quot;USD&quot;,
+      &quot;deliveryProfileAssignment&quot;: &quot;ORDER&quot;,
+      &quot;spendingPolicy&quot;: &quot;SPREAD_CATCHUP&quot;,
+      &quot;thirdPartyDataFees&quot;: [],
+      &quot;totalImpressions&quot;: NumberLong(1983)
+    },
+    &quot;campaignType&quot;: &quot;BILLABLE&quot;,
+    &quot;catalogPackageId&quot;: &quot;0338153a-c24b-4b32-91ab-92fba6b5e655&quot;,
+    &quot;catalogPackageVersion&quot;: NumberLong(9),
+    &quot;cfId&quot;: NumberLong( &quot;4414561220001&quot; ),
+    &quot;conversionPixels&quot;: [],
+    &quot;conversionTrackingHvas&quot;: [],
+    &quot;conversionTrackingKeywords&quot;: {
+      &quot;brandKeywords&quot;: [],
+      &quot;categoryKeywords&quot;: []
+    },
+    &quot;conversionTrackingMobileApps&quot;: [],
+    &quot;deliveryCaps&quot;: [],
+    &quot;dsmOrderId&quot;: &quot;15094095&quot;,
+    &quot;endDate&quot;: ISODate( &quot;2020-11-23T04:59:00Z&quot; ),
+    &quot;frequencyCap&quot;: {
+      &quot;maxCount&quot;: NumberLong(5),
+      &quot;periodCount&quot;: NumberLong(1),
+      &quot;periodType&quot;: &quot;DAYS&quot;
+    },
+    &quot;goals&quot;: [
+      {
+        &quot;name&quot;: &quot;NONE&quot;
+      }
+    ],
+    &quot;importedFromDsm&quot;: false,
+    &quot;isAtfForRtbEnabled&quot;: false,
+    &quot;isForecastable&quot;: true,
+    &quot;isRenewal&quot;: false,
+    &quot;name&quot;: &quot;joan test beta f/b - Class 1: AMZN CA Cross Screen Detail BTF Product&quot;,
+    &quot;profileOnLine&quot;: false,
+    &quot;reconciledAmount&quot;: {
+      &quot;currency&quot;: &quot;USD&quot;,
+      &quot;millivalue&quot;: NumberLong(0)
+    },
+    &quot;startDate&quot;: ISODate( &quot;2020-11-21T05:00:00Z&quot; ),
+    &quot;status&quot;: &quot;ADS_NOT_RUNNING&quot;,
+    &quot;trafficker&quot;: {},
+    &quot;userActivated&quot;: false
+  },
+  &quot;metadata&quot;: {
+    &quot;PACKAGE_LEVEL_FORECAST&quot;: true,
+    &quot;NEW_START_DATE&quot;: NumberLong( &quot;1605934800000&quot; ),
+    &quot;NEW_END_DATE&quot;: NumberLong( &quot;1606107540000&quot; )
+  },
+  &quot;requestId&quot;: &quot;155309060&quot;
+}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0gdG9kbyBmaW5pc2ggdmVyaWZ5aW5n</text>
       </register>
       <register name="/" type="4">
-        <text>Farg</text>
+        <text>endDate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwcHBEZXRhaWxMaXN0LmdldCgwKS5nZXREYXRhKCkuZ2V0QWR2ZXJ0aXNlcklkKCksIGFkdmVydGlzZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDogMSwgCg==</text>
+        <text>{
+  &quot;_id&quot;: ObjectId( &quot;5f988ff1202eb271b225bbd7&quot; ),
+  &quot;data&quot;: {
+    &quot;accountExecutive&quot;: {
+      &quot;username&quot;: &quot; V&quot;
+    },
+    &quot;accountManager&quot;: {
+      &quot;username&quot;: &quot; V&quot;
+    },
+    &quot;adPackageDetails&quot;: {
+      &quot;adPackageUnits&quot;: {
+        &quot;update&quot;: [
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;6caf8698-138a-b2b6-850a-667f9aba0f3e&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;f8af8698-138a-d412-bf8b-7484cbf3568c&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;e2af8698-138a-d723-9ef7-26c31364ecc4&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;26af8698-138a-b420-c65c-361745048d94&quot;
+          },
+          {
+            &quot;os&quot;: &quot;NONE&quot;,
+            &quot;packageProductId&quot;: &quot;a0af8698-138a-b443-577d-16656273c951&quot;
+          }
+        ]
+      },
+      &quot;ioRate&quot;: {
+        &quot;currency&quot;: &quot;USD&quot;,
+        &quot;millivalue&quot;: NumberLong(605000)
+      },
+      &quot;targetingUserLocation&quot;: &quot;CA&quot;
+    },
+    &quot;advertiserId&quot;: NumberLong( &quot;3738255468089&quot; ),
+    &quot;billingTo&quot;: &quot;ADVERTISER&quot;,
+    &quot;budget&quot;: {
+      &quot;agencyFee&quot;: {
+        &quot;agencyFeeApplied&quot;: false
+      },
+      &quot;catchupBoost&quot;: NumberLong(101),
+      &quot;currency&quot;: &quot;USD&quot;,
+      &quot;deliveryProfileAssignment&quot;: &quot;ORDER&quot;,
+      &quot;spendingPolicy&quot;: &quot;SPREAD_CATCHUP&quot;,
+      &quot;thirdPartyDataFees&quot;: [],
+      &quot;totalImpressions&quot;: NumberLong(1983)
+    },
+    &quot;campaignType&quot;: &quot;BILLABLE&quot;,
+    &quot;catalogPackageId&quot;: &quot;0338153a-c24b-4b32-91ab-92fba6b5e655&quot;,
+    &quot;catalogPackageVersion&quot;: NumberLong(9),
+    &quot;cfId&quot;: NumberLong( &quot;4414561220001&quot; ),
+    &quot;conversionPixels&quot;: [],
+    &quot;conversionTrackingHvas&quot;: [],
+    &quot;conversionTrackingKeywords&quot;: {
+      &quot;brandKeywords&quot;: [],
+      &quot;categoryKeywords&quot;: []
+    },
+    &quot;conversionTrackingMobileApps&quot;: [],
+    &quot;deliveryCaps&quot;: [],
+    &quot;dsmOrderId&quot;: &quot;15094095&quot;,
+    &quot;endDate&quot;: ISODate( &quot;2020-11-23T04:59:00Z&quot; ),
+    &quot;frequencyCap&quot;: {
+      &quot;maxCount&quot;: NumberLong(5),
+      &quot;periodCount&quot;: NumberLong(1),
+      &quot;periodType&quot;: &quot;DAYS&quot;
+    },
+    &quot;goals&quot;: [
+      {
+        &quot;name&quot;: &quot;NONE&quot;
+      }
+    ],
+    &quot;importedFromDsm&quot;: false,
+    &quot;isAtfForRtbEnabled&quot;: false,
+    &quot;isForecastable&quot;: true,
+    &quot;isRenewal&quot;: false,
+    &quot;name&quot;: &quot;joan test beta f/b - Class 1: AMZN CA Cross Screen Detail BTF Product&quot;,
+    &quot;profileOnLine&quot;: false,
+    &quot;reconciledAmount&quot;: {
+      &quot;currency&quot;: &quot;USD&quot;,
+      &quot;millivalue&quot;: NumberLong(0)
+    },
+    &quot;startDate&quot;: ISODate( &quot;2020-11-21T05:00:00Z&quot; ),
+    &quot;status&quot;: &quot;ADS_NOT_RUNNING&quot;,
+    &quot;trafficker&quot;: {},
+    &quot;userActivated&quot;: false
+  },
+  &quot;metadata&quot;: {
+    &quot;PACKAGE_LEVEL_FORECAST&quot;: true,
+    &quot;NEW_START_DATE&quot;: NumberLong( &quot;1605934800000&quot; ),
+    &quot;NEW_END_DATE&quot;: NumberLong( &quot;1606107540000&quot; )
+  },
+  &quot;requestId&quot;: &quot;155309060&quot;
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDogMSwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydE51bGwocm9kZW9TeW5jSW5wdXRPdXRwdXQuZ2V0Q2FtcGFpZ25TeW5jUmVzdWx0KCkuZ2V0VGFyZ2V0RGF0YUlkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIC0gZmluaXNoIHZlcmlmeWluZyB0aGkK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydE51bGwocm9kZW9TeW5jSW5wdXRPdXRwdXQuZ2V0Q2FtcGFpZ25TeW5jUmVzdWx0KCkuZ2V0VGFyZ2V0RGF0YUlkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIC0gZmluaXNoIHZlcmlmeWluZyB0aGkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwcHBEZXRhaWxMaXN0LmdldCgwKS5nZXREYXRhKCkuZ2V0Q2FtcGFpZ25JZCgpLCByb2Rlb0NhbXBhaWduSWQpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwcHBEZXRhaWxMaXN0LmdldCgwKS5nZXREYXRhKCkuZ2V0Q2FtcGFpZ25JZCgpLCByb2Rlb0NhbXBhaWduSWQpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>1,$d</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Farg</last-search>
+      <last-search>endDate</last-search>
       <last-offset />
-      <last-pattern>Farg</last-pattern>
+      <last-pattern>endDate</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
