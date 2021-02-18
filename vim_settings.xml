@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setupBudget</entry>
-        <entry>Buff</entry>
-        <entry>3000</entry>
-        <entry>52</entry>
         <entry>applyO</entry>
         <entry>ioLine</entry>
         <entry>packageProductProposalD</entry>
@@ -27,6 +23,10 @@
         <entry>platformVer</entry>
         <entry>Farg</entry>
         <entry>endDate</entry>
+        <entry>remo</entry>
+        <entry>remot</entry>
+        <entry>Amzn</entry>
+        <entry>remote</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
@@ -122,18 +122,15 @@
         <mark key="." line="268" column="0" />
         <mark key="^" line="268" column="0" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1613587216849" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1613587808941" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/RodeoRepositoryTest.java" timestamp="1612912889850">
         <mark key="[" line="69" column="74" />
         <mark key="]" line="69" column="77" />
         <mark key="^" line="69" column="77" />
         <mark key="." line="69" column="76" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/IORepositoryTest.java" timestamp="1612909501600">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="87" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" timestamp="1613667214909">
+        <mark key="'" line="9" column="14" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/LineItemRepositoryTest.java" timestamp="1612910499690">
         <mark key="[" line="53" column="65" />
@@ -189,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
       <jump line="80" column="16" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
       <jump line="63" column="24" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
       <jump line="74" column="6" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/package-lock.json" />
@@ -289,6 +285,7 @@
       <jump line="34" column="60" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" />
       <jump line="750" column="28" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
       <jump line="26" column="11" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/campaignProposalDetail.json" />
+      <jump line="9" column="14" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1347,7 +1344,7 @@
         <text encoding="base64">IC0gdG9kbyBmaW5pc2ggdmVyaWZ5aW5n</text>
       </register>
       <register name="/" type="4">
-        <text>endDate</text>
+        <text>remote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwcHBEZXRhaWxMaXN0LmdldCgwKS5nZXREYXRhKCkuZ2V0QWR2ZXJ0aXNlcklkKCksIGFkdmVydGlzZXJJZCk7Cg==</text>
@@ -1487,9 +1484,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>endDate</last-search>
+      <last-search>remote</last-search>
       <last-offset />
-      <last-pattern>endDate</last-pattern>
+      <last-pattern>remote</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
