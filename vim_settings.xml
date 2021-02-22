@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SPEND_B</entry>
-        <entry>UIB</entry>
-        <entry>AE</entry>
-        <entry>Horizon</entry>
-        <entry>task</entry>
         <entry>alpha</entry>
         <entry>TaskDe</entry>
         <entry>version</entry>
@@ -27,6 +22,11 @@
         <entry>collect</entry>
         <entry>Colletd</entry>
         <entry>Collec</entry>
+        <entry>Logs</entry>
+        <entry>logs</entry>
+        <entry>BastionR</entry>
+        <entry>allowProdCorpPort8192To8200SG</entry>
+        <entry>AllowProdCorpSSHSecurityGroup</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
@@ -43,12 +43,12 @@
         <entry>764</entry>
         <entry>104</entry>
         <entry>w</entry>
-        <entry>0</entry>
-        <entry>set ic</entry>
         <entry>.,$d</entry>
         <entry>$</entry>
         <entry>1,$x</entry>
         <entry>1,$d</entry>
+        <entry>set ic</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,8 +123,12 @@
         <mark key="." line="268" column="0" />
         <mark key="^" line="268" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1614019933917">
-        <mark key="'" line="29" column="13" />
+      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" timestamp="1614026230186">
+        <mark key="'" line="306" column="15" />
+        <mark key="[" line="314" column="73" />
+        <mark key="]" line="315" column="32" />
+        <mark key="." line="315" column="31" />
+        <mark key="^" line="315" column="32" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1613587808941" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/RodeoRepositoryTest.java" timestamp="1612912889850">
@@ -173,22 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="16" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
-      <jump line="267" column="63" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
-      <jump line="270" column="69" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/workers/forecastbook/StartRodeoSyncActivityWorker.java" />
-      <jump line="814" column="21" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="818" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="25" column="64" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="816" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="215" column="46" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
-      <jump line="815" column="45" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="510" column="93" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="688" column="56" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="39" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" />
-      <jump line="50" column="39" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
-      <jump line="43" column="19" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/LineItem.java" />
-      <jump line="97" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDaoTest.java" />
       <jump line="78" column="45" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/DocumentDBDaoTest.java" />
       <jump line="127" column="32" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/DocumentDBDaoTest.java" />
       <jump line="41" column="15" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/Config" />
@@ -273,6 +261,22 @@
       <jump line="47" column="16" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="52" column="16" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="29" column="13" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="243" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="248" column="4" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="252" column="27" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="258" column="17" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="259" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="264" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="263" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="265" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="301" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="195" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="307" column="4" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="314" column="29" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="253" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="268" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
+      <jump line="306" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1226,112 +1230,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>{
-  &quot;_id&quot;: ObjectId( &quot;5f988ff1202eb271b225bbd7&quot; ),
-  &quot;data&quot;: {
-    &quot;accountExecutive&quot;: {
-      &quot;username&quot;: &quot; V&quot;
-    },
-    &quot;accountManager&quot;: {
-      &quot;username&quot;: &quot; V&quot;
-    },
-    &quot;adPackageDetails&quot;: {
-      &quot;adPackageUnits&quot;: {
-        &quot;update&quot;: [
-          {
-            &quot;os&quot;: &quot;NONE&quot;,
-            &quot;packageProductId&quot;: &quot;6caf8698-138a-b2b6-850a-667f9aba0f3e&quot;
-          },
-          {
-            &quot;os&quot;: &quot;NONE&quot;,
-            &quot;packageProductId&quot;: &quot;f8af8698-138a-d412-bf8b-7484cbf3568c&quot;
-          },
-          {
-            &quot;os&quot;: &quot;NONE&quot;,
-            &quot;packageProductId&quot;: &quot;e2af8698-138a-d723-9ef7-26c31364ecc4&quot;
-          },
-          {
-            &quot;os&quot;: &quot;NONE&quot;,
-            &quot;packageProductId&quot;: &quot;26af8698-138a-b420-c65c-361745048d94&quot;
-          },
-          {
-            &quot;os&quot;: &quot;NONE&quot;,
-            &quot;packageProductId&quot;: &quot;a0af8698-138a-b443-577d-16656273c951&quot;
-          }
-        ]
-      },
-      &quot;ioRate&quot;: {
-        &quot;currency&quot;: &quot;USD&quot;,
-        &quot;millivalue&quot;: NumberLong(605000)
-      },
-      &quot;targetingUserLocation&quot;: &quot;CA&quot;
-    },
-    &quot;advertiserId&quot;: NumberLong( &quot;3738255468089&quot; ),
-    &quot;billingTo&quot;: &quot;ADVERTISER&quot;,
-    &quot;budget&quot;: {
-      &quot;agencyFee&quot;: {
-        &quot;agencyFeeApplied&quot;: false
-      },
-      &quot;catchupBoost&quot;: NumberLong(101),
-      &quot;currency&quot;: &quot;USD&quot;,
-      &quot;deliveryProfileAssignment&quot;: &quot;ORDER&quot;,
-      &quot;spendingPolicy&quot;: &quot;SPREAD_CATCHUP&quot;,
-      &quot;thirdPartyDataFees&quot;: [],
-      &quot;totalImpressions&quot;: NumberLong(1983)
-    },
-    &quot;campaignType&quot;: &quot;BILLABLE&quot;,
-    &quot;catalogPackageId&quot;: &quot;0338153a-c24b-4b32-91ab-92fba6b5e655&quot;,
-    &quot;catalogPackageVersion&quot;: NumberLong(9),
-    &quot;cfId&quot;: NumberLong( &quot;4414561220001&quot; ),
-    &quot;conversionPixels&quot;: [],
-    &quot;conversionTrackingHvas&quot;: [],
-    &quot;conversionTrackingKeywords&quot;: {
-      &quot;brandKeywords&quot;: [],
-      &quot;categoryKeywords&quot;: []
-    },
-    &quot;conversionTrackingMobileApps&quot;: [],
-    &quot;deliveryCaps&quot;: [],
-    &quot;dsmOrderId&quot;: &quot;15094095&quot;,
-    &quot;endDate&quot;: ISODate( &quot;2020-11-23T04:59:00Z&quot; ),
-    &quot;frequencyCap&quot;: {
-      &quot;maxCount&quot;: NumberLong(5),
-      &quot;periodCount&quot;: NumberLong(1),
-      &quot;periodType&quot;: &quot;DAYS&quot;
-    },
-    &quot;goals&quot;: [
-      {
-        &quot;name&quot;: &quot;NONE&quot;
-      }
-    ],
-    &quot;importedFromDsm&quot;: false,
-    &quot;isAtfForRtbEnabled&quot;: false,
-    &quot;isForecastable&quot;: true,
-    &quot;isRenewal&quot;: false,
-    &quot;name&quot;: &quot;joan test beta f/b - Class 1: AMZN CA Cross Screen Detail BTF Product&quot;,
-    &quot;profileOnLine&quot;: false,
-    &quot;reconciledAmount&quot;: {
-      &quot;currency&quot;: &quot;USD&quot;,
-      &quot;millivalue&quot;: NumberLong(0)
-    },
-    &quot;startDate&quot;: ISODate( &quot;2020-11-21T05:00:00Z&quot; ),
-    &quot;status&quot;: &quot;ADS_NOT_RUNNING&quot;,
-    &quot;trafficker&quot;: {},
-    &quot;userActivated&quot;: false
-  },
-  &quot;metadata&quot;: {
-    &quot;PACKAGE_LEVEL_FORECAST&quot;: true,
-    &quot;NEW_START_DATE&quot;: NumberLong( &quot;1605934800000&quot; ),
-    &quot;NEW_END_DATE&quot;: NumberLong( &quot;1606107540000&quot; )
-  },
-  &quot;requestId&quot;: &quot;155309060&quot;
-}</text>
+      <register name="&quot;" type="4">
+        <text>ami-010626aca8d704f6e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gdG9kbyBmaW5pc2ggdmVyaWZ5aW5n</text>
+        <text>ami-010626aca8d704f6e</text>
       </register>
       <register name="/" type="4">
-        <text>Collec</text>
+        <text>AllowProdCorpSSHSecurityGroup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwcHBEZXRhaWxMaXN0LmdldCgwKS5nZXREYXRhKCkuZ2V0QWR2ZXJ0aXNlcklkKCksIGFkdmVydGlzZXJJZCk7Cg==</text>
@@ -1465,15 +1371,15 @@
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwcHBEZXRhaWxMaXN0LmdldCgwKS5nZXREYXRhKCkuZ2V0Q2FtcGFpZ25JZCgpLCByb2Rlb0NhbXBhaWduSWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>1,$d</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Collec</last-search>
+      <last-search>AllowProdCorpSSHSecurityGroup</last-search>
       <last-offset />
-      <last-pattern>Collec</last-pattern>
+      <last-pattern>AllowProdCorpSSHSecurityGroup</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
