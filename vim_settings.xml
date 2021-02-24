@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MAPP</entry>
         <entry>LINE_ITEM_M</entry>
         <entry>bulkCre</entry>
         <entry>getLineItemM</entry>
@@ -27,6 +26,7 @@
         <entry>PaginatedResponseDa</entry>
         <entry>paginatedRe</entry>
         <entry>aginatedR</entry>
+        <entry>bulkGetLin</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
@@ -128,6 +128,13 @@
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1614128191575">
         <mark key="'" line="312" column="56" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1614194227868">
+        <mark key="'" line="253" column="40" />
+        <mark key="[" line="917" column="0" />
+        <mark key="]" line="917" column="0" />
+        <mark key="^" line="917" column="4" />
+        <mark key="." line="917" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" timestamp="1614188435706">
         <mark key="'" line="114" column="44" />
         <mark key="[" line="247" column="36" />
@@ -135,7 +142,8 @@
         <mark key="^" line="247" column="65" />
         <mark key="." line="247" column="64" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/LineItemResource.java" timestamp="1614186217958">
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/LineItemResource.java" timestamp="1614194036686">
+        <mark key="'" line="182" column="0" />
         <mark key="[" line="157" column="45" />
         <mark key="]" line="157" column="51" />
         <mark key="." line="157" column="50" />
@@ -144,7 +152,6 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" timestamp="1614192177959">
         <mark key="'" line="167" column="89" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/src/com/amazon/d16g/oms/web/webapp/controller/api/IOLineRestController.java" timestamp="1614111696656" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/repository/LineItemRepository.java" timestamp="1614122033021">
         <mark key="[" line="36" column="46" />
         <mark key="]" line="36" column="46" />
@@ -184,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="264" column="11" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="263" column="28" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
       <jump line="265" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/012NebulaEc2.template.yml" />
@@ -284,6 +290,7 @@
       <jump line="151" column="96" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
       <jump line="187" column="44" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
       <jump line="167" column="89" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/converter/ConverterModule.java" />
+      <jump line="182" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/resource/LineItemResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1244,7 +1251,7 @@
         <text>Answer(new Answer() {</text>
       </register>
       <register name="/" type="4">
-        <text>aginatedR</text>
+        <text>bulkGetLin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcm5hbFBhZ2luYXRlZFJlc3BvbnNlMS5zZXREYXRhKEFycmF5cy5hc0xpc3QoSW50ZXJuYWxEYXRhTWFwcGluZy5idWlsZGVyKCkuaWQoImxpbmUxIikuaWRUeXBlKERhdGFUeXBlLkxJTkVfSVRFTSkubWFwcGVkSWQoIngiKQogICAgICAgICAgICAgICAgLm1hcHBlZERhdGFTb3VyY2UoRGF0YVNvdXJjZS5ST0RFTykubWFwcGVkRGF0YVR5cGUoRGF0YVR5cGUuUFJPUE9TQUwpLmJ1aWxkKCkpKTsK</text>
@@ -1286,9 +1293,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>aginatedR</last-search>
+      <last-search>bulkGetLin</last-search>
       <last-offset />
-      <last-pattern>aginatedR</last-pattern>
+      <last-pattern>bulkGetLin</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
