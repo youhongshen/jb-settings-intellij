@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>RodeoSyncIn</entry>
-        <entry>ioLine</entry>
         <entry>logger</entry>
         <entry>lambdaCon</entry>
         <entry>handleRe</entry>
@@ -27,6 +25,8 @@
         <entry>LINE_ITEM_M</entry>
         <entry>bulkCre</entry>
         <entry>getLineItemM</entry>
+        <entry>rodeoRep</entry>
+        <entry>rodeoRepos</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
@@ -113,10 +113,15 @@
         <mark key="." line="299" column="8" />
         <mark key="^" line="299" column="9" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1614100460873" />
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1614108851516" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/containers/IOLineReducer.js" timestamp="1614111282673">
         <mark key="'" line="576" column="43" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1614128166116">
+        <mark key="'" line="65" column="31" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1614128191575">
+        <mark key="'" line="312" column="56" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1614109848145">
         <mark key="'" line="253" column="40" />
@@ -179,15 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="923" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="930" column="47" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="931" column="42" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="283" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
-      <jump line="13" column="17" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/MarketToRegionMapping.java" />
-      <jump line="73" column="14" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
-      <jump line="206" column="12" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
-      <jump line="20" column="20" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
-      <jump line="54" column="82" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" />
       <jump line="58" column="16" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/ecs_service.ts" />
       <jump line="0" column="0" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/app.ts" />
       <jump line="19" column="15" filename="/Volumes/workplace/OmsTestARestService/src/OmsTestARestServiceCDK/lib/app.ts" />
@@ -279,6 +275,15 @@
       <jump line="751" column="68" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
       <jump line="228" column="4" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" />
       <jump line="262" column="125" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="27" column="58" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
+      <jump line="215" column="55" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
+      <jump line="43" column="28" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
+      <jump line="62" column="45" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
+      <jump line="65" column="31" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
+      <jump line="83" column="44" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
+      <jump line="84" column="31" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
+      <jump line="179" column="40" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
+      <jump line="312" column="56" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1239,7 +1244,7 @@
         <text>setErrorMessage(&quot;create line item mapping skipped since one already exist&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text>getLineItemM</text>
+        <text>rodeoRepos</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoISBsaW5lc1dpdGhNYXBwaW5ncy5pc0VtcHR5KCkpIHsK</text>
@@ -1281,9 +1286,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getLineItemM</last-search>
+      <last-search>rodeoRepos</last-search>
       <last-offset />
-      <last-pattern>getLineItemM</last-pattern>
+      <last-pattern>rodeoRepos</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
