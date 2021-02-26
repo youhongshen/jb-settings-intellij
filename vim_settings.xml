@@ -106,12 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1614290869124">
-        <mark key="'" line="266" column="14" />
-        <mark key="[" line="301" column="32" />
-        <mark key="]" line="301" column="32" />
-        <mark key="^" line="300" column="89" />
-        <mark key="." line="301" column="32" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1614297191023">
+        <mark key="'" line="283" column="14" />
+        <mark key="[" line="325" column="54" />
+        <mark key="]" line="325" column="76" />
+        <mark key="." line="325" column="75" />
+        <mark key="^" line="325" column="76" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/LineItemDaoTest.java" timestamp="1614209525696">
         <mark key="[" line="119" column="72" />
@@ -194,7 +194,7 @@
         <mark key="^" line="232" column="25" />
         <mark key="." line="232" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1614294659733">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1614294711366">
         <mark key="'" line="313" column="56" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -1277,47 +1277,47 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>failedLineItemList</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>failedLineItemList</text>
       </register>
       <register name="/" type="4">
         <text>empty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb2Rlb1N5bmNJbnB1dE91dHB1dC5nZXRQYWNrYWdlUHJvZHVjdFN5bmNSZXN1bHRzKCkuc2l6ZSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvZGVvU3luY0lucHV0T3V0cHV0LmdldENhbXBhaWduU3luY1Jlc3VsdCgpLmdldFNvdXJjZURhdGFJZCgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0SXRlbS5nZXREYXRhKCkuZ2V0SWQoKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvZGVvU3luY0lucHV0T3V0cHV0LmdldFBhY2thZ2VQcm9kdWN0U3luY1Jlc3VsdHMoKS5zaXplKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0SXRlbS5nZXREYXRhKCkuZ2V0TWFwcGVkSWQoKSwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoIlN0YXJ0IHN5bmMnaW5nIHJvZGVvIHByb3Bvc2FsIHdpdGggcmVxdWVzdCBpZCAlcywgcHJvcG9zYWwgaW5wdXQgc2l6ZSAlZCIsIHJlcXVlc3RJZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIocmVzdWx0SXRlbSAtPiAhIHJlc3VsdEl0ZW0uaXNTdWNjZXNzKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISByb2Rlb1N5bmNJbnB1dE91dHB1dC5nZXRQYWNrYWdlUHJvZHVjdFN5bmNSZXN1bHRzKCkuaXNFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISBsaW5lc1dpdGhFeGlzdGluZ01hcHBpbmdzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBza2lwcGVkUmVzdWx0SXRlbXMuYWRkQWxsKGJ1bGtPcGVyYXRpb25SZXN1bHQuZ2V0QnVsa09wZXJhdGlvblJlc3VsdEl0ZW1zKCkpOwogICAgICAgICAgICBidWxrT3BlcmF0aW9uUmVzdWx0LnNldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcyhza2lwcGVkUmVzdWx0SXRlbXMpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZygiZW1wdHkgIikK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZygiYnVsayBjcmVhdGUgbGluZSBpdGVtIG1hcHBpbmcgYWxsIHN1Y2NlZWRlZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
