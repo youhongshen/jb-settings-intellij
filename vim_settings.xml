@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>testBulkG</entry>
-        <entry>paginatedResponseC</entry>
         <entry>paginatedResponseDat</entry>
         <entry>PaginatedResponseDa</entry>
         <entry>paginatedRe</entry>
@@ -27,6 +25,8 @@
         <entry>\n</entry>
         <entry>\\n</entry>
         <entry>createLine</entry>
+        <entry>bulkGetLi</entry>
+        <entry>bulkGetL</entry>
       </history-search>
       <history-cmd>
         <entry>493</entry>
@@ -118,6 +118,13 @@
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="26" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" timestamp="1614619699331">
+        <mark key="'" line="180" column="62" />
+        <mark key="[" line="247" column="36" />
+        <mark key="]" line="247" column="65" />
+        <mark key="^" line="247" column="65" />
+        <mark key="." line="247" column="64" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1614618972188">
         <mark key="'" line="83" column="104" />
         <mark key="[" line="131" column="56" />
@@ -130,9 +137,6 @@
         <mark key="]" line="31" column="12" />
         <mark key="^" line="34" column="7" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/Clause.java" timestamp="1614272841266">
-        <mark key="'" line="27" column="27" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/rodeoSync/PackageProductSyncResult.java" timestamp="1614293933242">
         <mark key="[" line="27" column="75" />
@@ -161,9 +165,6 @@
         <mark key="^" line="92" column="106" />
         <mark key="." line="92" column="105" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/approvalworkflows/rules/RuleSet.java" timestamp="1614272859849">
-        <mark key="'" line="32" column="70" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/OperationStatus.java" timestamp="1614352678746">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="3" column="34" />
@@ -184,6 +185,13 @@
         <mark key="]" line="101" column="0" />
         <mark key="^" line="104" column="16" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/util/Constants.java" timestamp="1614619268861">
+        <mark key="'" line="96" column="78" />
+        <mark key="[" line="75" column="107" />
+        <mark key="]" line="75" column="80" />
+        <mark key="." line="75" column="79" />
+        <mark key="^" line="75" column="80" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/rodeoSync/CampaignSyncResult.java" timestamp="1614293976547">
         <mark key="[" line="34" column="42" />
@@ -208,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
-      <jump line="346" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
       <jump line="355" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
       <jump line="350" column="111" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
       <jump line="209" column="83" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
@@ -308,6 +314,8 @@
       <jump line="534" column="63" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
       <jump line="82" column="105" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
       <jump line="83" column="104" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="96" column="78" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/util/Constants.java" />
+      <jump line="180" column="62" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1268,7 +1276,7 @@
         <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
-        <text>createLine</text>
+        <text>bulkGetL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldHJpY3NSZWNvcmRlci5yZWNvcmRDb3VudE1ldHJpYyhNRVRSSUNTX05BTUVfQ1JFQVRFX0lPTElORV9NQVBQSU5HX0ZBSUxFRCwgMSk7Cg==</text>
@@ -1310,9 +1318,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>createLine</last-search>
+      <last-search>bulkGetL</last-search>
       <last-offset />
-      <last-pattern>createLine</last-pattern>
+      <last-pattern>bulkGetL</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
