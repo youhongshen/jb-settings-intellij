@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bulkGetL</entry>
         <entry>testBulkG</entry>
         <entry>paginatedResponseC</entry>
         <entry>paginatedResponseDat</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxBc3NlcnRpb25zXD4=</entry>
         <entry>\n</entry>
         <entry>\\n</entry>
+        <entry>createLine</entry>
       </history-search>
       <history-cmd>
         <entry>493</entry>
@@ -118,12 +118,12 @@
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1614616151965">
-        <mark key="'" line="529" column="83" />
-        <mark key="[" line="144" column="40" />
-        <mark key="]" line="144" column="40" />
-        <mark key="." line="144" column="40" />
-        <mark key="^" line="136" column="49" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1614618972188">
+        <mark key="'" line="83" column="104" />
+        <mark key="[" line="131" column="56" />
+        <mark key="]" line="131" column="61" />
+        <mark key="^" line="131" column="61" />
+        <mark key="." line="131" column="60" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/rodeoSync/RodeoSyncInputOutput.java" timestamp="1614294146213">
         <mark key="[" line="31" column="0" />
@@ -147,12 +147,12 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/model/SetupCampaignProposalDetailInput.java" timestamp="1614301793914" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" timestamp="1614616938884">
-        <mark key="'" line="674" column="8" />
-        <mark key="[" line="662" column="79" />
-        <mark key="]" line="662" column="79" />
-        <mark key="^" line="783" column="101" />
-        <mark key="." line="662" column="79" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" timestamp="1614617061634">
+        <mark key="'" line="677" column="8" />
+        <mark key="[" line="665" column="61" />
+        <mark key="]" line="665" column="61" />
+        <mark key="^" line="664" column="72" />
+        <mark key="." line="665" column="61" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1614293356286">
         <mark key="'" line="65" column="31" />
@@ -208,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="22" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
-      <jump line="260" column="32" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
-      <jump line="272" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
       <jump line="301" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
       <jump line="346" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
       <jump line="355" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" />
@@ -308,6 +305,9 @@
       <jump line="688" column="8" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" />
       <jump line="383" column="60" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
       <jump line="529" column="83" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="534" column="63" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="82" column="105" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
+      <jump line="83" column="104" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1262,46 +1262,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SUCCESS</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="-" type="4">
-        <text>SUCCESS</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
-        <text>\\n</text>
+        <text>createLine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lMkJ1bGtSZXN1bHQuc2V0RXJyb3JNZXNzYWdlKGlzTGluZTJTdWNjZXNzID8gIiIgOiAiZXJyb3IiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldHJpY3NSZWNvcmRlci5yZWNvcmRDb3VudE1ldHJpYyhNRVRSSUNTX05BTUVfQ1JFQVRFX0lPTElORV9NQVBQSU5HX0ZBSUxFRCwgMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBCdWxrT3BlcmF0aW9uUmVzdWx0SXRlbTw+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmYlJlc3VsdC5zZXRCdWxrT3BlcmF0aW9uUmVzdWx0SXRlbXMoQXJyYXlzLmFzTGlzdCgK</text>
+        <text encoding="base64">ICAgICAgICApKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBCdWxrT3BlcmF0aW9uUmVzdWx0SXRlbTw+KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGZiUmVzdWx0LmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgyKS5pc1N1Y2Nlc3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYlJlc3VsdC5zZXRCdWxrT3BlcmF0aW9uUmVzdWx0SXRlbXMoQXJyYXlzLmFzTGlzdCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGZiUmVzdWx0LmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgxKS5pc1N1Y2Nlc3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGZiUmVzdWx0LmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgwKS5pc1N1Y2Nlc3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGZiUmVzdWx0LmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgyKS5pc1N1Y2Nlc3MoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhmYlJlc3VsdC5nZXRCdWxrT3BlcmF0aW9uUmVzdWx0SXRlbXMoKS5zaXplKCksIDMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGZiUmVzdWx0LmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgxKS5pc1N1Y2Nlc3MoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGZiUmVzdWx0LmdldEJ1bGtPcGVyYXRpb25SZXN1bHRJdGVtcygpLmdldCgwKS5pc1N1Y2Nlc3MoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$d</text>
@@ -1310,9 +1310,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\\n</last-search>
+      <last-search>createLine</last-search>
       <last-offset />
-      <last-pattern>\\n</last-pattern>
+      <last-pattern>createLine</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
