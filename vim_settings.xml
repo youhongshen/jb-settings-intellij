@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>createLine</entry>
         <entry>bulkGetLi</entry>
         <entry>bulkGetL</entry>
         <entry>SyncDeta</entry>
@@ -27,6 +26,7 @@
         <entry>Dimens</entry>
         <entry>parseRodeo</entry>
         <entry>ParseRodeo</entry>
+        <entry>AUI</entry>
       </history-search>
       <history-cmd>
         <entry>493</entry>
@@ -146,6 +146,13 @@
         <mark key="^" line="101" column="33" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/LineItemSyncDetails.java" timestamp="1614633874537" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" timestamp="1614792185134">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="146" column="37" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1614704503758">
         <mark key="'" line="1050" column="55" />
         <mark key="[" line="1050" column="55" />
@@ -160,12 +167,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/workflows/forecastbook/OmsRodeoSyncInput.java" timestamp="1614633625792">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="34" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/utils/ForecastBookWorkflowUtils.java" timestamp="1614787226269">
         <mark key="'" line="655" column="50" />
@@ -187,10 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" />
-      <jump line="19" column="47" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" />
-      <jump line="114" column="44" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/resource/LineItemResourceImpl.java" />
-      <jump line="742" column="60" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
       <jump line="212" column="41" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
       <jump line="211" column="75" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
       <jump line="121" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
@@ -287,6 +284,10 @@
       <jump line="89" column="125" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/ForecastBookWorkflowUtilsTest.java" />
       <jump line="204" column="36" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/ForecastBookWorkflowUtilsTest.java" />
       <jump line="207" column="76" filename="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/ForecastBookWorkflowUtilsTest.java" />
+      <jump line="37" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
+      <jump line="90" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
+      <jump line="89" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
+      <jump line="88" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1241,46 +1242,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICs=</text>
       </register>
       <register name="/" type="4">
-        <text>ParseRodeo</text>
+        <text>AUI</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RGYWlsdXJlTWV0cmljLmNyZWF0ZUFsYXJtKHRoaXMsICdtZXRob2RGYWlsdXJlJywgewogICAgICAgICAgICB0aHJlc2hvbGQ6IDEsICAgICAgICAgICAgICAgLy8gMSBmYWlsdXJlCiAgICAgICAgICAgIGV2YWx1YXRpb25QZXJpb2RzOiA2MCwgICAgICAvLyA2MCBzZWMKICAgICAgICAgICAgZGF0YXBvaW50c1RvQWxhcm06IDEgICAgICAgIC8vIG1ldHJpY3MgbWV0IGluIG1vcmUgdGhhbiAxIG9mIHRoZSA2MCBzZWMKICAgICAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YXBvaW50c1RvQWxhcm06IDEgICAgICAgIC8vIG1ldHJpY3MgbWV0IGluIG1vcmUgdGhhbiAxIG9mIHRoZSA2MCBzZWMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBtZXRyaWNzID0gdGhpcy5hc3NlbWJsZU91dHB1dExhbWJkYS5tZXRyaWMoIngiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YXBvaW50c1RvQWxhcm06IDEgICAgICAgIC8vIG1ldHJpY3MgbWV0IGluIG1vcmUgdGhhbiAxIG9mIHRoZSA2MCBzZWMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdWNjZXNzTWV0cmljIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0cmljOiBtZXRyaWNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBtZXRyaWNzID0gdGhpcy5hc3NlbWJsZU91dHB1dExhbWJkYS5tZXRyaWMoIngiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdWNjZXNzTWV0cmljIAo=</text>
       </register>
       <register name=":" type="4">
         <text>.,$d</text>
@@ -1289,9 +1290,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ParseRodeo</last-search>
+      <last-search>AUI</last-search>
       <last-offset />
-      <last-pattern>ParseRodeo</last-pattern>
+      <last-pattern>AUI</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
