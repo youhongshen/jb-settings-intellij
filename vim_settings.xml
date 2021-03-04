@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bulkGetLi</entry>
         <entry>bulkGetL</entry>
         <entry>SyncDeta</entry>
         <entry>SyncDetail</entry>
@@ -27,6 +26,7 @@
         <entry>parseRodeo</entry>
         <entry>ParseRodeo</entry>
         <entry>AUI</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd>
         <entry>493</entry>
@@ -106,12 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandlerTest.java" timestamp="1614634686367">
-        <mark key="[" line="982" column="44" />
-        <mark key="]" line="982" column="49" />
-        <mark key="." line="982" column="48" />
-        <mark key="^" line="982" column="49" />
-      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/exception/handler/BaseExceptionHandler.java" timestamp="1614815743134" />
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1614697217515">
         <mark key="'" line="37" column="0" />
       </file>
@@ -119,12 +114,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailPrepHandlerTest.java" timestamp="1614634708663">
-        <mark key="[" line="304" column="44" />
-        <mark key="]" line="304" column="44" />
-        <mark key="." line="304" column="48" />
-        <mark key="^" line="292" column="49" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/custom_sync_rodeo_proposal.json" timestamp="1614810017228">
         <mark key="[" line="0" column="0" />
@@ -165,11 +154,11 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="6" column="86" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" timestamp="1614801576317">
-        <mark key="[" line="51" column="50" />
-        <mark key="]" line="51" column="50" />
-        <mark key="." line="51" column="50" />
-        <mark key="^" line="51" column="54" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" timestamp="1614816829381">
+        <mark key="[" line="54" column="90" />
+        <mark key="]" line="54" column="57" />
+        <mark key="." line="54" column="56" />
+        <mark key="^" line="54" column="57" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/tst/com/amazon/d16g/oms/workflows/utils/ForecastBookWorkflowUtilsTest.java" timestamp="1614787358041">
         <mark key="'" line="207" column="76" />
@@ -185,21 +174,22 @@
         <mark key="." line="113" column="70" />
         <mark key="^" line="106" column="101" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" timestamp="1614796328366">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="19" />
-        <mark key="^" line="34" column="20" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" timestamp="1614815668799">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/IOLine.java" timestamp="1614702138099">
         <mark key="'" line="120" column="32" />
       </file>
+      <file name="/fragment.java" timestamp="1614816677328">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="41" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
-      <jump line="211" column="75" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
-      <jump line="121" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
-      <jump line="167" column="33" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
       <jump line="318" column="106" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
       <jump line="171" column="56" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestrator.java" />
       <jump line="11" column="51" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/businesslogic/LineItemOrchestratorTest.java" />
@@ -296,6 +286,10 @@
       <jump line="90" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
       <jump line="89" column="13" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
       <jump line="88" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWeb/Config" />
+      <jump line="34" column="67" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" />
+      <jump line="35" column="25" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" />
+      <jump line="37" column="21" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" />
+      <jump line="39" column="21" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1250,46 +1244,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">anNvbiA=</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anNvbiA=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>AUI</text>
+        <text>err</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAtIHNvdXJjZVVSSTogbW91bnRzL2V2ZW50cy9yb2Rlb19zeW5jX2lucHV0X291dHB1dF93aXRoX3N0YXR1cy5qc29uCiAgICAgICAgICBkZXN0aW5hdGlvblVSSTogL3RtcC9ldmVudHMvcm9kZW9fc3luY19pbnB1dF9vdXRwdXRfd2l0aF9zdGF0dXMuanNvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
+        <text>r.getOmsErrorDetail();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
+        <text encoding="base64">UmVzcG9uc2VNZXRhZGF0YSByID0gKFJlc3BvbnNlTWV0YWRhdGEpIG87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uVUlBc3NldFVwbG9hZCA9IDEuMjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YXBvaW50c1RvQWxhcm06IDEgICAgICAgIC8vIG1ldHJpY3MgbWV0IGluIG1vcmUgdGhhbiAxIG9mIHRoZSA2MCBzZWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBtZXRyaWNzID0gdGhpcy5hc3NlbWJsZU91dHB1dExhbWJkYS5tZXRyaWMoIngiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdWNjZXNzTWV0cmljIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YXBvaW50c1RvQWxhcm06IDEgICAgICAgIC8vIG1ldHJpY3MgbWV0IGluIG1vcmUgdGhhbiAxIG9mIHRoZSA2MCBzZWMK</text>
       </register>
       <register name=":" type="4">
         <text>.,$d</text>
@@ -1298,9 +1292,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>AUI</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>AUI</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
