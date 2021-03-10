@@ -114,7 +114,7 @@
         <mark key="^" line="41" column="22" />
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/UpdateOMSMappingsWorker.java" timestamp="1615415223100" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1615411502191">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandler.java" timestamp="1615416138114">
         <mark key="'" line="516" column="11" />
         <mark key="[" line="506" column="106" />
         <mark key="]" line="506" column="106" />
@@ -142,6 +142,12 @@
       </file>
       <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSUpdateProposalWorker.java" timestamp="1615396735562" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/KratosDao.java" timestamp="1615391292276" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/UpdateOMSMappingHandlerTest.java" timestamp="1615416329692">
+        <mark key="[" line="672" column="23" />
+        <mark key="]" line="672" column="23" />
+        <mark key="^" line="714" column="113" />
+        <mark key="." line="672" column="23" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDao.java" timestamp="1615396870465">
         <mark key="'" line="68" column="50" />
         <mark key="[" line="206" column="33" />
@@ -149,7 +155,6 @@
         <mark key="." line="206" column="35" />
         <mark key="^" line="205" column="65" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/ForecastBookDao.java" timestamp="1615333515389" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/docDB/PackageProductProposalDetailDao.java" timestamp="1615333611171" />
       <file name="$USER_HOME$/brazil-pkg-cache/packages/AmsRestTypes/AmsRestTypes-1.0.207621.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/AmsRestTypes.jar!/com/amazon/ams/ServiceResponse.class" timestamp="1615396828836">
         <mark key="'" line="28" column="4" />
@@ -1230,46 +1235,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>SUCCESS</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>SUCCESS</text>
       </register>
       <register name="/" type="4">
         <text>forecastBookList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9tc0Vycm9yRGV0YWlsLmJ1aWxkZXIoKS5lcnJvck1lc3NhZ2UoCg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhmb3JlY2FzdEJvb2tzVG9VcGRhdGUuZ2V0KDApLmdldEV4ZWN1dGlvbkRldGFpbCgpLmdldEN1cnJlbnRTdGVwRGV0YWlsKCkuZ2V0Q3VycmVudFN0ZXBTdGF0dXMoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS51cGRhdGVGb3JlY2FzdEJvb2socm9kZW9TeW5jSW5wdXRPdXRwdXQsIHRydWUsIHRydWUsIGxpbmVJdGVtUmVzdWx0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgZmJSZXN1bHQgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNsb3Vkd2F0Y2ggPSByZXF1aXJlKCdAYXdzLWNkay9hd3MtY2xvdWR3YXRjaCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZm9yZWNhc3RCb29rUmVwb3NpdG9yeSwgdGltZXMoMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb2Rlb1N5bmNJbnB1dE91dHB1dC5nZXRQYWNrYWdlUHJvZHVjdFN5bmNSZXN1bHRzKCkuZ2V0KDApLnNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgZXZhbHVhdGlvblBlcmlvZHM6IDEsICAgICAgIC8vIDYwIHNlYwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgdGhyZXNob2xkOiAxLCAgICAgICAgICAgICAgIC8vIDEgZmFpbHVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
