@@ -7,13 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>for</entry>
-        <entry>update</entry>
-        <entry>batch</entry>
-        <entry>logger.lo</entry>
-        <entry>requestId</entry>
-        <entry>logger.log</entry>
-        <entry>orchestr</entry>
         <entry>orchestratorC</entry>
         <entry>integ</entry>
         <entry>region</entry>
@@ -21,12 +14,19 @@
         <entry>pass</entry>
         <entry>Passw</entry>
         <entry>SecretM</entry>
-        <entry>Secret</entry>
         <entry>aws</entry>
         <entry>gizm</entry>
         <entry>Gizmo</entry>
         <entry>Executable</entry>
         <entry>convertFromJson</entry>
+        <entry>getSecr</entry>
+        <entry>AWSSecretsManager</entry>
+        <entry>Secret</entry>
+        <entry>REGION</entry>
+        <entry>getSecre</entry>
+        <entry>secret</entry>
+        <entry>credi</entry>
+        <entry>crede</entry>
       </history-search>
       <history-cmd>
         <entry>1044</entry>
@@ -106,24 +106,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" timestamp="1615828972987">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="50" />
-        <mark key="." line="41" column="0" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/CommonModule.java" timestamp="1615838148748">
+        <mark key="'" line="69" column="65" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/app.ts" timestamp="1615592740713">
-        <mark key="[" line="94" column="56" />
-        <mark key="]" line="94" column="65" />
-        <mark key="." line="94" column="64" />
-        <mark key="^" line="94" column="65" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1615827040755">
-        <mark key="'" line="55" column="104" />
-      </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1615830069356">
-        <mark key="'" line="59" column="40" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1615836962453">
+        <mark key="'" line="32" column="83" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Util.java" timestamp="1615832872735">
         <mark key="[" line="89" column="15" />
@@ -132,35 +123,56 @@
         <mark key="." line="89" column="15" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWorkflows/src/D16GOMSWorkflows/src/com/amazon/d16g/oms/workflows/utils/ForecastBookWorkflowUtils.java" timestamp="1615832838963" />
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/KratosResourceImpl.java" timestamp="1615829541882" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1615827416377">
-        <mark key="'" line="48" column="0" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Constant.java" timestamp="1615837003603" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/ARest-GuiceServer/ARest-GuiceServer-1.0.222368.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/ARest-GuiceServer-1.0.jar!/com/amazon/arest/guice/ServiceDefinitionProvider.class" timestamp="1615837032990" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/CommonModule.java" timestamp="1615837503816">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="21" />
+        <mark key="^" line="51" column="22" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1615838122244">
+        <mark key="'" line="579" column="24" />
         <mark key="[" line="261" column="40" />
         <mark key="]" line="261" column="41" />
         <mark key="." line="261" column="41" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" timestamp="1615828427814" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1615831664222" />
-      <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1615827066854">
-        <mark key="'" line="115" column="61" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" timestamp="1615837067663">
+        <mark key="'" line="12" column="45" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/gizmo-config/config.json" timestamp="1615831926358">
-        <mark key="[" line="70" column="29" />
-        <mark key="]" line="70" column="30" />
-        <mark key="^" line="69" column="19" />
-        <mark key="." line="70" column="30" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1615837907064">
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" timestamp="1615832717952">
-        <mark key="'" line="116" column="17" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/OmsAWSCredentialsProvider.java" timestamp="1615835408346" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/DocumentDBModule.java" timestamp="1615837759164">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="81" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/QosResourceImpl.java" timestamp="1615830166581" />
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResourceImpl.java" timestamp="1615831918126">
-        <mark key="[" line="138" column="72" />
-        <mark key="]" line="138" column="73" />
-        <mark key="." line="138" column="73" />
-        <mark key="^" line="53" column="41" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/OmsAWSCredentialsProvider.java" timestamp="1615835406992">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/util/Constant.java" timestamp="1615830448954" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/cache/CacheModule.java" timestamp="1615835031677" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/LineItemDao.java" timestamp="1615836760986">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" timestamp="1615836035704">
+        <mark key="'" line="531" column="50" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/component/DDBEventComponent.java" timestamp="1615837387962">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="23" column="30" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/MawsProxyModule.java" timestamp="1615836711700" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Executable.java" timestamp="1615832313936" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Executable.java" timestamp="1615832278961">
         <mark key="[" line="4" column="0" />
@@ -169,17 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="24" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-cloudwatch/lib/metric-types.d.ts" />
-      <jump line="37" column="34" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-cloudwatch/lib/metric.js" />
-      <jump line="14" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/cloudwatchStack.ts" />
-      <jump line="25" column="22" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/cloudwatchStack.ts" />
-      <jump line="26" column="22" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/cloudwatchStack.ts" />
-      <jump line="27" column="43" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/cloudwatchStack.ts" />
-      <jump line="97" column="2" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-cloudwatch/lib/metric.d.ts" />
-      <jump line="140" column="75" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/node_modules/@aws-cdk/aws-cloudwatch/lib/metric.d.ts" />
-      <jump line="996" column="87" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
-      <jump line="58" column="55" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/cloudwatchStack.ts" />
-      <jump line="28" column="64" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" />
       <jump line="41" column="2" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" />
       <jump line="48" column="36" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" />
@@ -269,6 +270,17 @@
       <jump line="90" column="17" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
       <jump line="106" column="17" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
       <jump line="116" column="17" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
+      <jump line="540" column="28" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
+      <jump line="90" column="54" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" />
+      <jump line="95" column="58" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" />
+      <jump line="12" column="45" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/EnvironmentModule.java" />
+      <jump line="69" column="65" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/CommonModule.java" />
+      <jump line="32" column="83" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" />
+      <jump line="531" column="50" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
+      <jump line="568" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="571" column="63" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="578" column="26" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
+      <jump line="579" column="24" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1223,46 +1235,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>convertFromJson</text>
+        <text>crede</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUaHJvdHRsZWQoaWQgPSAicGluZyIsIGNhcGFjaXR5ID0gMTBMKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATmFtZWQoQ29uc3RhbnRzLkFXU19TRUNSRVRTX01BTkFHRVIpIEFXU1NlY3JldHNNYW5hZ2VyIGF3c1NlY3JldHNNYW5hZ2VyKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOYW1lZChDb25zdGFudHMuQVdTX1NFQ1JFVFNfTUFOQUdFUikgQVdTU2VjcmV0c01hbmFnZXIgYXdzU2VjcmV0c01hbmFnZXIpIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIENsb3VkQXV0aENyZWRlbnRpYWxzIGdldENsb3VkQXV0aENyZWRlbnRpYWxzKEBOYW1lZChDb25zdGFudHMuQVdTX1JFR0lPTikgU3RyaW5nIGF3c1JlZ2lvbikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxFcnJvcj4gbGlzdE9mRXJyb3JzID0gb2JqZWN0UmVhZGVyLnJlYWRWYWx1ZShleGNlcHRpb25NZXNzYWdlKTsK</text>
+        <text encoding="base64">Ly8gICAgQE5hbWVkKENvbnN0YW50cy5BV1NfQ1JFREVOVElBTFNfUFJPVklERVIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgQEluamVjdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0UmVhZGVyIG9iamVjdFJlYWRlciA9IG9iamVjdE1hcHBlci5yZWFkZXJGb3IobmV3IFR5cGVSZWZlcmVuY2U8TGlzdDxFcnJvcj4+KCkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOYW1lZChDb25zdGFudHMuQVdTX1JFR0lPTikgU3RyaW5nIHJlZ2lvbikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIEFXU1NlY3JldHNNYW5hZ2VyIGdldFNlY3JldHNNYW5hZ2VyKEBOYW1lZChDb25zdGFudHMuQVdTX0NSRURFTlRJQUxTX1BST1ZJREVSKSBBV1NDcmVkZW50aWFsc1Byb3ZpZGVyIGF3c0NyZWRlbnRpYWxzUHJvdmlkZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgQE5hbWVkKENvbnN0YW50cy5BV1NfU0VDUkVUU19NQU5BR0VSKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkV4ZWN1dGFibGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlJlcXVlc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -1271,9 +1283,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>convertFromJson</last-search>
+      <last-search>crede</last-search>
       <last-offset />
-      <last-pattern>convertFromJson</last-pattern>
+      <last-pattern>crede</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
