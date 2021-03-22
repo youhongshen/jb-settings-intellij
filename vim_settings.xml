@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Gizmo</entry>
-        <entry>Executable</entry>
         <entry>convertFromJson</entry>
         <entry>getSecr</entry>
         <entry>AWSSecretsManager</entry>
@@ -27,6 +25,8 @@
         <entry>cust</entry>
         <entry>CloudAuthSecurityGroup</entry>
         <entry>CloudAuthSecurityGroupIngress</entry>
+        <entry>createP</entry>
+        <entry>packageProd</entry>
       </history-search>
       <history-cmd>
         <entry>1044</entry>
@@ -43,12 +43,12 @@
         <entry>1,$x</entry>
         <entry>set noic</entry>
         <entry>509</entry>
-        <entry>1,$d</entry>
         <entry>.,$d</entry>
         <entry>$</entry>
         <entry>q!</entry>
         <entry>set ic</entry>
         <entry>0</entry>
+        <entry>1,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,12 +110,16 @@
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1616440738410">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/configuration/brazil-config/app/D16GCCSMawsProxyService.cfg" timestamp="1615842960013" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Constants.java" timestamp="1615842303356">
-        <mark key="'" line="34" column="83" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_input.json" timestamp="1616446963833">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="85" column="17" />
+        <mark key="." line="85" column="16" />
+        <mark key="^" line="85" column="17" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/custom_sync_rodeo_proposal.json" timestamp="1616447124426">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1616443889135">
         <mark key="'" line="126" column="61" />
@@ -131,13 +135,13 @@
         <mark key="." line="107" column="60" />
         <mark key="^" line="107" column="107" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1615848475287">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/configuration/brazil-config/app/D16GOMSRodeoSyncWorkflow.cfg" timestamp="1616446428769">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1616445757666">
-        <mark key="'" line="225" column="24" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1616447582883">
+        <mark key="'" line="126" column="53" />
         <mark key="[" line="235" column="40" />
         <mark key="]" line="235" column="41" />
         <mark key="^" line="235" column="41" />
@@ -148,17 +152,8 @@
         <mark key="'" line="173" column="17" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/util/UtilsTest.java" timestamp="1615848840077" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/CommonModule.java" timestamp="1615842072533">
-        <mark key="'" line="69" column="65" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" timestamp="1615845247116">
         <mark key="'" line="55" column="104" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/util/Util.java" timestamp="1615843324391">
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="89" column="15" />
-        <mark key="^" line="46" column="22" />
-        <mark key="." line="89" column="15" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/CommonModule.java" timestamp="1615843331572">
         <mark key="'" line="2" column="27" />
@@ -173,11 +168,11 @@
         <mark key="]" line="261" column="41" />
         <mark key="." line="261" column="41" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/LambdaModule.java" timestamp="1615841410006">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="42" column="34" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/rodeo_sync_input_output.json" timestamp="1616447990691">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/module/DocumentDBModule.java" timestamp="1615844375102">
         <mark key="[" line="45" column="0" />
@@ -185,12 +180,18 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="48" column="75" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/definition.yaml" timestamp="1616447107079" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/cloudwatchStack.ts" timestamp="1616445573063">
         <mark key="'" line="127" column="55" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="197" column="56" />
         <mark key="^" line="197" column="56" />
         <mark key="." line="197" column="55" />
+      </file>
+      <file name="/fragment.java" timestamp="1616448815211">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/util/UtilTest.java" timestamp="1615848838289">
         <mark key="[" line="112" column="30" />
@@ -200,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="27" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" />
-      <jump line="40" column="32" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflowCDK/lib/utils/constants.ts" />
-      <jump line="33" column="29" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.16353.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
       <jump line="84" column="28" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.16353.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/Campaign.java" />
       <jump line="38" column="33" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.16353.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/AdGroup.java" />
       <jump line="72" column="21" filename="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.16353.0/AL2012/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/AdGroup.java" />
@@ -300,6 +298,9 @@
       <jump line="115" column="61" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="173" column="17" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" />
       <jump line="308" column="2" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" />
+      <jump line="178" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
+      <jump line="98" column="80" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
+      <jump line="126" column="53" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1253,58 +1254,108 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>utils</text>
+      <register name="&quot;" type="2">
+        <text>{
+  &quot;requestId&quot;: &quot;c53e89c9-5e12-4a9d-813f-aa2991f183ea&quot;,
+  &quot;requestContext&quot;: {
+    &quot;client&quot;: &quot;swagger&quot;,
+    &quot;customerId&quot;: &quot;AA3EA5Z8Z7EJ6&quot;,
+    &quot;marketplaceId&quot;: &quot;1&quot;,
+    &quot;region&quot;: &quot;NA&quot;,
+    &quot;rodeoEntityId&quot;: &quot;ENTITY3IREMMPP472JK&quot;,
+    &quot;isUserInternal&quot;: true,
+    &quot;isRodeoEntityInternal&quot;: true
+  },
+  &quot;campaignSyncResult&quot;: {
+    &quot;status&quot;: &quot;SUCCESS&quot;,
+    &quot;sourceDataId&quot;: &quot;155415296&quot;,
+    &quot;targetDataId&quot;: &quot;7841062600501&quot;,
+    &quot;operation&quot;: &quot;UPDATE&quot;
+  },
+  &quot;packageProductSyncResults&quot;: [
+    {
+      &quot;sourceDataId&quot;: &quot;155422869&quot;,
+      &quot;operation&quot;: &quot;CREATE&quot;
+    }
+  ],
+  &quot;originatorWorkflowId&quot;: &quot;arn:aws:states:us-east-1:944683638884:execution:D16GOMSBookWorkflowVersion1-Tv9n4aETKR4U:4b964b0c-12dd-4c7f-be8d-3f04f304232c&quot;,
+  &quot;inputValid&quot;: true
+}</text>
       </register>
       <register name="-" type="4">
-        <text>utils</text>
+        <text>4794096390201</text>
       </register>
       <register name="/" type="4">
-        <text>CloudAuthSecurityGroupIngress</text>
+        <text>packageProd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTWFzdGVyVXNlclBhc3N3b3JkOiAhRmluZEluTWFwIFtEZWZhdWx0cywgRG9jREIsIE1hc3RlclBhc3N3b3JkXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{
+  &quot;requestId&quot;: &quot;c53e89c9-5e12-4a9d-813f-aa2991f183ea&quot;,
+  &quot;requestContext&quot;: {
+    &quot;client&quot;: &quot;swagger&quot;,
+    &quot;customerId&quot;: &quot;AA3EA5Z8Z7EJ6&quot;,
+    &quot;marketplaceId&quot;: &quot;1&quot;,
+    &quot;region&quot;: &quot;NA&quot;,
+    &quot;rodeoEntityId&quot;: &quot;ENTITY3IREMMPP472JK&quot;,
+    &quot;isUserInternal&quot;: true,
+    &quot;isRodeoEntityInternal&quot;: true
+  },
+  &quot;campaignSyncResult&quot;: {
+    &quot;status&quot;: &quot;SUCCESS&quot;,
+    &quot;sourceDataId&quot;: &quot;155415296&quot;,
+    &quot;targetDataId&quot;: &quot;7841062600501&quot;,
+    &quot;operation&quot;: &quot;UPDATE&quot;
+  },
+  &quot;packageProductSyncResults&quot;: [
+    {
+      &quot;sourceDataId&quot;: &quot;155422869&quot;,
+      &quot;operation&quot;: &quot;CREATE&quot;
+    }
+  ],
+  &quot;originatorWorkflowId&quot;: &quot;arn:aws:states:us-east-1:944683638884:execution:D16GOMSBookWorkflowVersion1-Tv9n4aETKR4U:4b964b0c-12dd-4c7f-be8d-3f04f304232c&quot;,
+  &quot;inputValid&quot;: true
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyouKi5kb2NkYi5wYXNzd29yZCA9ICJyb2Rlb3N5bmMiOwo=</text>
+        <text encoding="base64">ICAib3JpZ2luYXRvcldvcmtmbG93SWQiOiAid2YxIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBwYXNzd29yZCA9IGFwcENvbmZpZ1RyZWUuZmluZFN0cmluZyhDT05GSUdfS0VZX0RPQ19EQl9QQVNTV09SRCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3Byb2QuSlBBbWF6b24uYXdzLmFjY291bnQuaWQgPSAiOTMzOTY2MDkxOTkzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3Byb2QuSlBBbWF6b24uYXdzLnJlZ2lvbiA9ICJ1cy13ZXN0LTIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3Byb2QuSlBBbWF6b24uYXdzLmNyZWRlbnRpYWxzID0gImNvbS5hbWF6b24uYWNjZXNzLkQxNkdPTVNTZXJ2aWNlUHJvZEFzaWEtb21zcHJvZHBkeC0xIjsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3Byb2QuRVVBbWF6b24uYXdzLmFjY291bnQuaWQgPSAiNjM3OTE1NDg0NjAzIjsK</text>
+        <text encoding="base64">ewogICJyZXF1ZXN0SWQiOiAicmVxMTQiLAogICJvbXNSb2Rlb1N5bmNJbnB1dCI6IHsKICAgICJpb0xpbmVJZFZlcnNpb25UdXBsZSI6IHsKICAgICAgImlvTGluZUlkIjogIjE1NTM1NjQ1MCIsCiAgICAgICJpb0xpbmVWZXJzaW9uIjogMQogICAgfSwKICAgICJpb0xpbmVJbnZlbnRvcnlPdmVycmlkZXMiOiB7fSwKICAgICJmb3JlY2FzdEJvb2tXb3JrZmxvd0lkIjogIndmMSIsCiAgICAicmVxdWVzdENvbnRleHQiOiB7CiAgICAgICJjdXN0b21lcklkIjogIkFBM0VBNVo4WjdFSjYiLAogICAgICAibWFya2V0cGxhY2VJZCI6ICIxIiwKICAgICAgImNsaWVudCI6ICJzd2FnZ2VyIiwKICAgICAgInJlZ2lvbiI6ICJOQSIsCiAgICAgICJyb2Rlb0VudGl0eUlkIjogIkVOVElUWU1YNVNYSEowNUhOTyIKICAgIH0sCiAgICAibGluZUl0ZW1TeW5jSW5wdXRzIjogWwogICAgICB7CiAgICAgICAgImxpbmVJdGVtSWRWZXJzaW9uVHVwbGUiOiB7CiAgICAgICAgICAibGluZUl0ZW1JZCI6ICIxNTUzNTY0NTIiLAogICAgICAgICAgImxpbmVJdGVtVmVyc2lvbiI6IDEKICAgICAgICB9LAogICAgICAgICJsaW5lSXRlbUludmVudG9yeU92ZXJyaWRlcyI6IHt9CiAgICAgIH0KICAgIF0KICB9LAogICJpbyI6IHsKICAgICJpZCI6ICIxNTEwNTM1OCIsCiAgICAibmFtZSI6ICJqb2FuIHRlc3QgMTIvMDggYm9iYSAiLAogICAgImFkdmVydGlzZXJJZCI6ICIzNzM4MjU1NDY4MDg5IiwKICAgICJhZHZlcnRpc2VyTmFtZSI6ICIyMDE1MDQyOF94d3duX3Rlc3RfaW50ZXJuYWwiLAogICAgInBvcnRmb2xpb0lkIjogIjgwWG5GZ2p0c2o2QXJpIiwKICAgICJwb3J0Zm9saW9OYW1lIjogImxpY2FybCBUZXN0IHBvcnRmb2xpbyAzIiwKICAgICJtYXBwaW5ncyI6IFtdLAogICAgInN0YXJ0RGF0ZSI6IDE2MTIxNTU2MDAwMDAsCiAgICAiZW5kRGF0ZSI6IDE2Mjc3OTAzNDAwMDAsCiAgICAidGltZVpvbmUiOiAiQW1lcmljYS9OZXdfWW9yayIsCiAgICAic3RhdHVzIjogIlJFU0VSVkVEIiwKICAgICJidXNpbmVzc1VuaXQiOiBudWxsLAogICAgImFsd2F5c09uQ2FtcGFpZ24iOiBmYWxzZSwKICAgICJ0b3RhbEJ1ZGdldCI6IDEwLAogICAgInRvdGFsSW1wcmVzc2lvbnMiOiA2Njc5LAogICAgImJpbGxpbmdNYXJrZXQiOiAiVVMiLAogICAgInJldGFpbFByb2R1Y3RMaW5lIjogIkFNQVpPTl9GUkVTSF9CRUFVVFlfNjQwM19SRVRBSUwiLAogICAgImFkdmVydGlzZXJDYXRlZ29yeSI6ICJOT05fVkVORE9SIiwKICAgICJhZ2VuY3lJZCI6IG51bGwsCiAgICAiYWdlbmN5TmFtZSI6IG51bGwsCiAgICAiYmlsbGluZ0NvbW1lbnRzIjogbnVsbCwKICAgICJ0b3RhbEJ1ZGdldEN1cnJlbmN5IjogIlVTRCIsCiAgICAiaW9UeXBlIjogIkJJTExBQkxFIiwKICAgICJwb051bWJlciI6IG51bGwsCiAgICAic2FsZXNmb3JjZUlkIjogIjAwNjgwMDAwMDEzb0V0b0FBRSIsCiAgICAiYWNjb3VudE1hbmFnZXIiOiAiIFRDICIsCiAgICAiYWNjb3VudEV4ZWN1dGl2ZSI6ICIgVEMgIiwKICAgICJjYW1wYWlnbk1hbmFnZXIiOiBudWxsLAogICAgImRpc2NvdW50UGVyY2VudGFnZSI6IDAsCiAgICAiYmlsbGluZ1RvIjogIkFEVkVSVElTRVIiLAogICAgImJpbGxpbmdBY2NvdW50IjogewogICAgICAiaWQiOiBudWxsLAogICAgICAibmFtZSI6ICJCcmVudHdvb2QgSG9tZS1VUyB8fCBOTyBBR0VOQ1kgfHwgVVMiLAogICAgICAiZW1haWwiOiAic2lkcmFoQGF2b2NhZG9tYXR0cmVzcy5jb20iLAogICAgICAicGhvbmUiOiBudWxsLAogICAgICAiYmlsbGluZ0NvbXBhbnlOYW1lIjogIkJyZW50d29vZCBIb21lIiwKICAgICAgImJpbGxpbmdBZGRyZXNzIjogIjgzNTcgTG9jaCBMb21vbmQgRHJcclxuUGljb1xuIFJpdmVyYVxuIENhbGlmb3JuaWFcbiA5MDY2MFxuIFVuaXRlZCBTdGF0ZXMiLAogICAgICAic3RyZWV0IjogIjgzNTcgTG9jaCBMb21vbmQgRHJcclxuUGljbyIsCiAgICAgICJzdGF0ZSI6ICJDYWxpZm9ybmlhIiwKICAgICAgInN0YXRlQ29kZSI6IG51bGwsCiAgICAgICJjaXR5IjogIlJpdmVyYSIsCiAgICAgICJjb3VudHJ5IjogIlVuaXRlZCBTdGF0ZXMiLAogICAgICAicG9zdGFsQ29kZSI6ICI5MDY2MCIsCiAgICAgICJiaWxsaW5nUGFydHkiOiAiQWR2ZXJ0aXNlciIKICAgIH0sCiAgICAiYmlsbGluZ0V4Y2VwdGlvbnMiOiAiU2NoZWR1bGVkIEJpbGxpbmciLAogICAgImFkdmVydGlzaW5nVmVydGljYWwiOiAiRU5URVJUQUlOTUVOVCIsCiAgICAibGVnYWxUZXJtIjogIkFNQVpPTiIsCiAgICAicHVzaFRvU29sZCI6IGZhbHNlLAogICAgIm1vZGlmaWVkQnkiOiAiQUEzRUE1WjhaN0VKNiIsCiAgICAibW9kaWZpZWRUaW1lc3RhbXAiOiAxNjA3NDUwMzYzMzk5LAogICAgIm1vZGlmaWVkQnlDdXN0b21lckluZm8iOiB7CiAgICAgICJuYW1lIjogImpvYW4gc2hlbiIsCiAgICAgICJlbWFpbCI6ICJzaGVuam9hbkBhbWF6b24uY29tIiwKICAgICAgIm9iZnVzY2F0ZWRDdXN0b21lcklkIjogIkFBM0VBNVo4WjdFSjYiCiAgICB9LAogICAgImNyZWF0ZWRCeSI6ICJBQTNFQTVaOFo3RUo2IiwKICAgICJjcmVhdGVkVGltZXN0YW1wIjogMTYwNzQ1MDE1Mzc2MSwKICAgICJjcmVhdGVkQnlDdXN0b21lckluZm8iOiB7CiAgICAgICJuYW1lIjogImpvYW4gc2hlbiIsCiAgICAgICJlbWFpbCI6ICJzaGVuam9hbkBhbWF6b24uY29tIiwKICAgICAgIm9iZnVzY2F0ZWRDdXN0b21lcklkIjogIkFBM0VBNVo4WjdFSjYiCiAgICB9LAogICAgInZlcnNpb24iOiAzLAogICAgImRlbGV0ZWQiOiBmYWxzZSwKICAgICJtaWdyYXRlZEZyb20iOiBudWxsCiAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3Byb2QuRVVBbWF6b24uYXdzLnJlZ2lvbiA9ICJldS13ZXN0LTEiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>1,$d</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>CloudAuthSecurityGroupIngress</last-search>
+      <last-search>packageProd</last-search>
       <last-offset />
-      <last-pattern>CloudAuthSecurityGroupIngress</last-pattern>
+      <last-pattern>packageProd</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
