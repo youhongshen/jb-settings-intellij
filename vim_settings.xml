@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>credi</entry>
-        <entry>crede</entry>
-        <entry>Redis</entry>
         <entry>Odin</entry>
         <entry>pass</entry>
         <entry>Pass</entry>
@@ -27,6 +24,9 @@
         <entry>mainDe</entry>
         <entry>mainDetail</entry>
         <entry>additionalD</entry>
+        <entry>CampaignDeta</entry>
+        <entry>createPackagePro</entry>
+        <entry>skip</entry>
       </history-search>
       <history-cmd>
         <entry>1044</entry>
@@ -110,8 +110,8 @@
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/001AllegianceVPCResources.template.yml" timestamp="1616440738410">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1616457311438">
-        <mark key="'" line="235" column="58" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" timestamp="1616511407526">
+        <mark key="'" line="184" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/setup_campaign_proposal_detail_input.json" timestamp="1616446963833">
         <mark key="[" line="85" column="16" />
@@ -125,6 +125,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" timestamp="1616512274647">
+        <mark key="'" line="143" column="76" />
+        <mark key="]" line="153" column="133" />
+        <mark key="^" line="153" column="133" />
+        <mark key="." line="153" column="132" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" timestamp="1616443889135">
         <mark key="'" line="126" column="61" />
         <mark key="[" line="127" column="72" />
@@ -136,6 +142,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/BobaEasyClient.java" timestamp="1616511781782">
+        <mark key="'" line="222" column="37" />
+        <mark key="[" line="222" column="37" />
+        <mark key="]" line="222" column="40" />
+        <mark key="." line="222" column="39" />
+        <mark key="^" line="222" column="40" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" timestamp="1616450724721">
         <mark key="'" line="191" column="12" />
@@ -149,15 +162,9 @@
         <mark key="'" line="173" column="17" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/util/UtilsTest.java" timestamp="1615848840077" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1616457838230" />
-      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1616457243620" />
-      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.12272.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/CampaignDetails.java" timestamp="1616457298590" />
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/configuration/brazil-config/app/D16GOMSService.cfg" timestamp="1615848500487">
-        <mark key="'" line="53" column="47" />
-        <mark key="[" line="261" column="40" />
-        <mark key="]" line="261" column="41" />
-        <mark key="." line="261" column="41" />
-      </file>
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateCampaignFromProposalDetailsWorker.java" timestamp="1616511529499" />
+      <file name="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/OMSCreateProposalWorker.java" timestamp="1616512280644" />
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GRodeoServiceJavaClient/D16GRodeoServiceJavaClient-3.0.12272.0/RHEL5_64/DEV.STD.PTHREAD/build/generated-src/com/amazon/d16g/rodeo/CampaignDetails.java" timestamp="1616511470242" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/rodeo_sync_input_output.json" timestamp="1616449733444">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="20" />
@@ -177,17 +184,8 @@
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/util/UtilTest.java" timestamp="1615848838289">
-        <mark key="[" line="112" column="30" />
-        <mark key="]" line="112" column="34" />
-        <mark key="^" line="112" column="34" />
-        <mark key="." line="112" column="33" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="21" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
-      <jump line="122" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
-      <jump line="140" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
       <jump line="158" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
       <jump line="196" column="24" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/RodeoEasyClient.java" />
       <jump line="28" column="4" filename="$USER_HOME$/brazil-pkg-cache/packages/AmsRestTypes/AmsRestTypes-1.0.207621.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/AmsRestTypes.jar!/com/amazon/ams/ServiceResponse.class" />
@@ -285,6 +283,9 @@
       <jump line="171" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="236" column="46" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
       <jump line="235" column="58" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="184" column="0" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/workers/SetupCampaignProposalDetailsWorker.java" />
+      <jump line="88" column="6" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/BobaEasyClient.java" />
+      <jump line="222" column="37" filename="/Volumes/workplace/OrchestratorSIL/src/D16GOrchestratorWorker/src/com/amazon/d16gorchestratorworker/client/BobaEasyClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1238,39 +1239,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>{
-  &quot;requestId&quot;: &quot;c53e89c9-5e12-4a9d-813f-aa2991f183ea&quot;,
-  &quot;requestContext&quot;: {
-    &quot;client&quot;: &quot;swagger&quot;,
-    &quot;customerId&quot;: &quot;AA3EA5Z8Z7EJ6&quot;,
-    &quot;marketplaceId&quot;: &quot;1&quot;,
-    &quot;region&quot;: &quot;NA&quot;,
-    &quot;rodeoEntityId&quot;: &quot;ENTITY3IREMMPP472JK&quot;,
-    &quot;isUserInternal&quot;: true,
-    &quot;isRodeoEntityInternal&quot;: true
-  },
-  &quot;campaignSyncResult&quot;: {
-    &quot;status&quot;: &quot;SUCCESS&quot;,
-    &quot;sourceDataId&quot;: &quot;155415296&quot;,
-    &quot;targetDataId&quot;: &quot;7841062600501&quot;,
-    &quot;operation&quot;: &quot;UPDATE&quot;
-  },
-  &quot;packageProductSyncResults&quot;: [
-    {
-      &quot;sourceDataId&quot;: &quot;155422869&quot;,
-      &quot;operation&quot;: &quot;CREATE&quot;
-    }
-  ],
-  &quot;originatorWorkflowId&quot;: &quot;arn:aws:states:us-east-1:944683638884:execution:D16GOMSBookWorkflowVersion1-Tv9n4aETKR4U:4b964b0c-12dd-4c7f-be8d-3f04f304232c&quot;,
-  &quot;inputValid&quot;: true
-}</text>
+      <register name="&quot;" type="4">
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>4794096390201</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
-        <text>additionalD</text>
+        <text>skip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTWFzdGVyVXNlclBhc3N3b3JkOiAhRmluZEluTWFwIFtEZWZhdWx0cywgRG9jREIsIE1hc3RlclBhc3N3b3JkXQo=</text>
@@ -1337,9 +1313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>additionalD</last-search>
+      <last-search>skip</last-search>
       <last-offset />
-      <last-pattern>additionalD</last-pattern>
+      <last-pattern>skip</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
