@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>additionalD</entry>
-        <entry>CampaignDeta</entry>
         <entry>createPackagePro</entry>
         <entry>skip</entry>
         <entry>createPackageOrd</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDwqXD4=</entry>
         <entry>SimpleDate</entry>
         <entry>event</entry>
+        <entry>boba</entry>
+        <entry>Rodeo</entry>
       </history-search>
       <history-cmd>
         <entry>1044</entry>
@@ -127,6 +127,9 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="54" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" timestamp="1617130564964">
+        <mark key="'" line="146" column="16" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/ddb/DdbDao.java" timestamp="1616782304581">
         <mark key="'" line="77" column="11" />
       </file>
@@ -138,12 +141,6 @@
         <mark key="^" line="261" column="137" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/omsApp.jsx" timestamp="1616695893005" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SetupCampaignProposalDetailHandler.java" timestamp="1616533298012">
-        <mark key="'" line="173" column="17" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/tst/com/amazon/d16g/oms/service/util/UtilsTest.java" timestamp="1616708575181" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/InternalContract.java" timestamp="1616781764197" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/model/internal/workflows/approvalworkflows/ruleaudits/InternalComment.java" timestamp="1616789600407" />
@@ -177,10 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="16" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
-      <jump line="113" column="16" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
-      <jump line="114" column="16" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
-      <jump line="143" column="76" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoCampaignHandler.java" />
       <jump line="108" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
       <jump line="106" column="49" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
       <jump line="110" column="12" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/handlers/SyncRodeoProposalHandler.java" />
@@ -277,6 +270,10 @@
       <jump line="47" column="37" filename="/Volumes/workplace/D16GCCSNotificationLambda/src/D16GCCSNotificationLambda/src/com/amazon/d16gccsnotificationlambda/lambda/handlers/SQSMessageHandler.java" />
       <jump line="26" column="55" filename="/Volumes/workplace/D16GCCSNotificationLambda/src/D16GCCSNotificationLambda/src/com/amazon/d16gccsnotificationlambda/lambda/handlers/SQSMessageHandler.java" />
       <jump line="27" column="45" filename="/Volumes/workplace/D16GCCSNotificationLambda/src/D16GCCSNotificationLambda/src/com/amazon/d16gccsnotificationlambda/lambda/handlers/SQSMessageHandler.java" />
+      <jump line="34" column="46" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="55" column="44" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="53" column="16" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="146" column="16" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1237,7 +1234,7 @@
         <text encoding="base64">TG9uZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>Rodeo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb25nIGJvb2tlZFJldmVudWUgPSBjYWxjdWxhdGVCb29rZWRSZXZlbnVlKDkwOTFMLCAxMTAwMDBMLzEwMDBMKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYm9va2VkUmV2ZW51ZSk7CiAgICB9Cg==</text>
@@ -1279,9 +1276,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>event</last-search>
+      <last-search>Rodeo</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>Rodeo</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
