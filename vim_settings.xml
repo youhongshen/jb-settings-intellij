@@ -47,8 +47,8 @@
         <entry>$</entry>
         <entry>q!</entry>
         <entry>0</entry>
-        <entry>1,$d</entry>
         <entry>set ic</entry>
+        <entry>1,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,13 +121,12 @@
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" timestamp="1617132033585">
         <mark key="'" line="51" column="12" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/custom_sync_rodeo_proposal.json" timestamp="1617211492288">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="152" />
-        <mark key="." line="23" column="151" />
-        <mark key="^" line="23" column="152" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/RDE-D16GOMSRodeoSyncWorkflow/mounts/events/custom_sync_rodeo_proposal.json" timestamp="1617229156071">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1617226628321">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1617226879697">
         <mark key="'" line="96" column="42" />
         <mark key="[" line="171" column="97" />
         <mark key="]" line="172" column="20" />
@@ -1247,8 +1246,33 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>256</text>
+      <register name="&quot;" type="2">
+        <text>{
+  &quot;requestId&quot;: &quot;fa84ae8f-155f-4153-ae52-8f554e513d48&quot;,
+  &quot;requestContext&quot;: {
+    &quot;client&quot;: &quot;OMSWeb&quot;,
+    &quot;customerId&quot;: &quot;AA3EA5Z8Z7EJ6&quot;,
+    &quot;marketplaceId&quot;: &quot;1&quot;,
+    &quot;region&quot;: &quot;NA&quot;,
+    &quot;rodeoEntityId&quot;: &quot;ENTITY3IREMMPP472JK&quot;,
+    &quot;isUserInternal&quot;: true,
+    &quot;isRodeoEntityInternal&quot;: true
+  },
+  &quot;campaignSyncResult&quot;: {
+    &quot;status&quot;: &quot;SUCCESS&quot;,
+    &quot;sourceDataId&quot;: &quot;155459885&quot;,
+    &quot;targetDataId&quot;: &quot;1569853300301&quot;,
+    &quot;operation&quot;: &quot;UPDATE&quot;
+  },
+  &quot;packageProductSyncResults&quot;: [
+    {
+      &quot;sourceDataId&quot;: &quot;155459886&quot;,
+      &quot;operation&quot;: &quot;CREATE&quot;
+    }
+  ],
+  &quot;originatorWorkflowId&quot;: &quot;arn:aws:states:us-east-1:944683638884:execution:D16GOMSBookWorkflowVersion1-Tv9n4aETKR4U:fee51a9d-c2a7-4923-b56a-2c8517d1c8e1&quot;,
+  &quot;inputValid&quot;: true
+}</text>
       </register>
       <register name="-" type="4">
         <text>256</text>
@@ -1260,37 +1284,62 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJPREVPX0VSUk9SX0tFWV9NRVNTQUdFX0ZPUk1BVCA9ICIlczogJXMiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb2Rlb0Vycm9yTWVzc2FnZSA9ICJhYmMiOwo=</text>
+        <text>{
+  &quot;requestId&quot;: &quot;fa84ae8f-155f-4153-ae52-8f554e513d48&quot;,
+  &quot;requestContext&quot;: {
+    &quot;client&quot;: &quot;OMSWeb&quot;,
+    &quot;customerId&quot;: &quot;AA3EA5Z8Z7EJ6&quot;,
+    &quot;marketplaceId&quot;: &quot;1&quot;,
+    &quot;region&quot;: &quot;NA&quot;,
+    &quot;rodeoEntityId&quot;: &quot;ENTITY3IREMMPP472JK&quot;,
+    &quot;isUserInternal&quot;: true,
+    &quot;isRodeoEntityInternal&quot;: true
+  },
+  &quot;campaignSyncResult&quot;: {
+    &quot;status&quot;: &quot;SUCCESS&quot;,
+    &quot;sourceDataId&quot;: &quot;155459885&quot;,
+    &quot;targetDataId&quot;: &quot;1569853300301&quot;,
+    &quot;operation&quot;: &quot;UPDATE&quot;
+  },
+  &quot;packageProductSyncResults&quot;: [
+    {
+      &quot;sourceDataId&quot;: &quot;155459886&quot;,
+      &quot;operation&quot;: &quot;CREATE&quot;
+    }
+  ],
+  &quot;originatorWorkflowId&quot;: &quot;arn:aws:states:us-east-1:944683638884:execution:D16GOMSBookWorkflowVersion1-Tv9n4aETKR4U:fee51a9d-c2a7-4923-b56a-2c8517d1c8e1&quot;,
+  &quot;inputValid&quot;: true
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByb2Rlb0Vycm9yTWVzc2FnZSA9ICJhYmMiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0ZXN0IHRydW5jYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkQxNkdfQkFEX1JFUVVFU1Q6IE9UVCBWaWRlbyBjYW1wYWlnbiBydW5uaW5nIC4uLiAodHJ1bmNhdGVkKSIsCiAgICAgICAgICAgICAgICBVdGlsLnBhcnNlUm9kZW9FeGNlcHRpb25NZXNzYWdlKHJvZGVvRXJyb3JNZXNzYWdlLCBPcHRpb25hbC5vZig0NCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0ZXN0IHRydW5jYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkQxNkdfQkFEX1JFUVVFU1Q6IE9UVCBWaWRlbyBjYW1wYWlnbiBydW5uaW5nIC4uLiAodHJ1bmNhdGVkKSIsCiAgICAgICAgICAgICAgICBVdGlsLnBhcnNlUm9kZW9FeGNlcHRpb25NZXNzYWdlKHJvZGVvRXJyb3JNZXNzYWdlLCBPcHRpb25hbC5vZig0NCkpKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkQxNkdfQkFEX1JFUVVFU1Q6IE9UVCBWaWRlbyBjYW1wYWlnbiBydW5uaW5nIC4uLiAodHJ1bmNhdGVkKSIsCiAgICAgICAgICAgICAgICBVdGlsLnBhcnNlUm9kZW9FeGNlcHRpb25NZXNzYWdlKHJvZGVvRXJyb3JNZXNzYWdlLCBPcHRpb25hbC5vZig0NCkpKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVycm9yTXNnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>1,$d</text>
       </register>
     </registers>
   </component>
