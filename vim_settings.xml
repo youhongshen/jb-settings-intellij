@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>useSelect</entry>
-        <entry>dispatch</entry>
         <entry>ioLineIdVer</entry>
         <entry>create</entry>
         <entry>timestamp</entry>
@@ -27,6 +25,8 @@
         <entry>update</entry>
         <entry>ResponseM</entry>
         <entry>Gizmo</entry>
+        <entry>adapter</entry>
+        <entry>adaptive</entry>
       </history-search>
       <history-cmd>
         <entry>1044</entry>
@@ -46,9 +46,9 @@
         <entry>.,$d</entry>
         <entry>$</entry>
         <entry>q!</entry>
-        <entry>set ic</entry>
         <entry>1,$d</entry>
         <entry>0</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,20 +131,16 @@
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/exception/handler/DefaultExceptionHandler.java" timestamp="1617303623426" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" timestamp="1617304463384" />
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" timestamp="1617311414983" />
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1617308725566">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/exception/BaseExceptionHandler.java" timestamp="1617302090539">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
+      <file name="$USER_HOME$/brazil-pkg-cache/packages/CoralClient/CoralClient-1.1.790226.0/RHEL5_64/generic-flavor/src/src/com/amazon/coral/client/Calls.java" timestamp="1617311593923" />
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/module/EnvironmentModule.java" timestamp="1617303497979">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/exception/DatabaseException.java" timestamp="1617301101807" />
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1617304769932">
         <mark key="[" line="89" column="99" />
         <mark key="]" line="89" column="32" />
@@ -153,9 +149,6 @@
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/D16GGizmoThrottlerBuilder/D16GGizmoThrottlerBuilder-1.0.884.0/RHEL5_64/generic-flavor/src/src/com/amazon/d16g/gizmothrottlerbuilder/throttlinginterceptor/GizmoThrottlingInterceptor.java" timestamp="1617305381153" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSModel/src/com/amazon/d16g/oms/service/model/ResponseMetadata.java" timestamp="1617304568823" />
-      <file name="/Dummy.txt" timestamp="1617301341673">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/exception/handler/BaseExceptionHandler.java" timestamp="1617309808310">
         <mark key="[" line="40" column="114" />
         <mark key="]" line="40" column="114" />
@@ -174,6 +167,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSServiceClient/src/com/amazon/d16g/oms/service/client/D16GOMSServiceCloudAuthClientFactory.java" timestamp="1617311545748">
+        <mark key="'" line="81" column="18" />
+      </file>
       <file name="/fragment.java" timestamp="1617309390607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="6" />
@@ -181,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="15" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" />
       <jump line="55" column="104" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/004OmsCache.template.yml" />
       <jump line="64" column="9" filename="/Volumes/workplace/D16GOMSAwsInfrastructure/src/D16GOMSAwsInfrastructure/configuration/cloudFormation/009OMSDocumentDB.template.yaml" />
       <jump line="19" column="61" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
@@ -281,6 +276,7 @@
       <jump line="32" column="38" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" />
       <jump line="30" column="28" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" />
       <jump line="51" column="0" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="81" column="18" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSServiceClient/src/com/amazon/d16g/oms/service/client/D16GOMSServiceCloudAuthClientFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1241,7 +1237,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>Gizmo</text>
+        <text>adaptive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERlcGVuZGVuY3lGYWlsdXJlRXhjZXB0aW9uKGUuZ2V0TWVzc2FnZSgpKTsK</text>
@@ -1277,15 +1273,15 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>1,$d</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Gizmo</last-search>
+      <last-search>adaptive</last-search>
       <last-offset />
-      <last-pattern>Gizmo</last-pattern>
+      <last-pattern>adaptive</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
