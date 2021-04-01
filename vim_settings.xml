@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>timestamp</entry>
-        <entry encoding="base64">XDwqXD4=</entry>
-        <entry>SimpleDate</entry>
-        <entry>event</entry>
-        <entry>boba</entry>
         <entry>Rodeo</entry>
         <entry>kratos</entry>
         <entry>submit</entry>
@@ -27,9 +22,13 @@
         <entry>adaptive</entry>
         <entry>initIoLin</entry>
         <entry>start</entry>
+        <entry>Response</entry>
+        <entry>setErrorMessage</entry>
+        <entry>getErrorMess</entry>
+        <entry>lombo</entry>
+        <entry>Lombo</entry>
       </history-search>
       <history-cmd>
-        <entry>1044</entry>
         <entry>50</entry>
         <entry>223</entry>
         <entry>881</entry>
@@ -47,8 +46,9 @@
         <entry>$</entry>
         <entry>q!</entry>
         <entry>1,$d</entry>
-        <entry>0</entry>
         <entry>set ic</entry>
+        <entry>-</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -106,40 +106,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/module/ExceptionModule.java" timestamp="1617303571562">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSInterface/src/com/amazon/d16g/oms/service/exception/BaseOmsException.java" timestamp="1617304612786" />
-      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1617303958068">
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" timestamp="1617314860815">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="179" column="12" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="178" column="12" />
+        <mark key="." line="202" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/referenceData/RodeoModule.java" timestamp="1617312475051" />
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/module/ServiceModule.java" timestamp="1617303476823">
-        <mark key="[" line="89" column="43" />
-      </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" timestamp="1617310654485">
-        <mark key="'" line="31" column="28" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/referenceData/RodeoModule.java" timestamp="1617314480965" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" timestamp="1617316837586">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/exception/handler/DefaultExceptionHandler.java" timestamp="1617303623426" />
       <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/repository/dao/boba/BobaDao.java" timestamp="1617304463384" />
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/io/containers/IOAction.js" timestamp="1617311414983" />
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1617308725566">
-        <mark key="'" line="51" column="0" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" timestamp="1617316363130">
+        <mark key="'" line="134" column="12" />
+        <mark key="[" line="187" column="38" />
+        <mark key="]" line="187" column="38" />
+        <mark key="^" line="188" column="28" />
+        <mark key="." line="187" column="38" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" timestamp="1617316345205">
+        <mark key="'" line="190" column="12" />
       </file>
       <file name="$USER_HOME$/brazil-pkg-cache/packages/CoralClient/CoralClient-1.1.790226.0/RHEL5_64/generic-flavor/src/src/com/amazon/coral/client/Calls.java" timestamp="1617311593923" />
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/module/EnvironmentModule.java" timestamp="1617303497979">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/ResponseMetadata.java" timestamp="1617314810888">
+        <mark key="[" line="2" column="35" />
       </file>
       <file name="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/tst/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/BobaDaoTest.java" timestamp="1617304769932">
         <mark key="[" line="89" column="99" />
@@ -152,18 +150,20 @@
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" timestamp="1617313815158">
         <mark key="'" line="664" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/exception/handler/BaseExceptionHandler.java" timestamp="1617309808310">
-        <mark key="[" line="40" column="114" />
-        <mark key="]" line="40" column="114" />
-        <mark key="^" line="36" column="95" />
-        <mark key="." line="40" column="114" />
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/exception/handler/BaseExceptionHandler.java" timestamp="1617315251466">
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="37" column="57" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="42" column="56" />
+      </file>
+      <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/model/GizmoResponseMetadata.java" timestamp="1617316407594">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResourceImpl.java" timestamp="1617304672715">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="146" column="65" />
+        <mark key="^" line="3" column="65" />
       </file>
       <file name="/Volumes/workplace/D16GOMSWeb/src/D16GOMSServiceClient/src/com/amazon/d16g/oms/service/client/D16GOMSServiceCloudAuthClientFactory.java" timestamp="1617312352119">
         <mark key="'" line="81" column="18" />
@@ -175,17 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="61" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
-      <jump line="301" column="18" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
-      <jump line="307" column="6" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
-      <jump line="308" column="49" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
-      <jump line="309" column="11" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
-      <jump line="43" column="34" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" />
-      <jump line="46" column="20" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" />
-      <jump line="47" column="20" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/Config" />
-      <jump line="59" column="40" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
-      <jump line="7" column="47" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
       <jump line="76" column="0" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
       <jump line="90" column="17" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
       <jump line="106" column="17" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/src/com/amazon/d16g/oms/service/util/Utils.java" />
@@ -268,13 +257,24 @@
       <jump line="50" column="39" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="26" column="20" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/src/com/amazon/d16g/ccs/maws/proxy/service/resource/RodeoResourceImpl.java" />
       <jump line="28" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" />
       <jump line="32" column="38" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" />
       <jump line="30" column="28" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" />
       <jump line="51" column="0" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
       <jump line="81" column="18" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSServiceClient/src/com/amazon/d16g/oms/service/client/D16GOMSServiceCloudAuthClientFactory.java" />
       <jump line="220" column="60" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
       <jump line="664" column="0" filename="/Volumes/workplace/D16GOMSWeb/src/D16GOMSWebAssets/src/app/ioLine/Converters.js" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSRodeoSyncWorkflow/src/D16GOMSRodeoSyncWorkflow/src/com/amazon/d16gomsrodeosyncworkflow/lambda/dao/RodeoDao.java" />
+      <jump line="20" column="9" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" />
+      <jump line="19" column="11" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyInterface/src/com/amazon/d16g/ccs/maws/proxy/service/model/ResponseMetadata.java" />
+      <jump line="37" column="0" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="151" column="30" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="132" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="133" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="134" column="12" filename="/Volumes/workplace/D16GCCSMawsProxyService/src/D16GCCSMawsProxyService/Config" />
+      <jump line="73" column="40" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="188" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="189" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
+      <jump line="190" column="12" filename="/Volumes/workplace/D16GOMSService/src/D16GOMSService/Config" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1232,10 +1232,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>as there are m</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>Lombo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERlcGVuZGVuY3lGYWlsdXJlRXhjZXB0aW9uKGUuZ2V0TWVzc2FnZSgpKTsK</text>
@@ -1247,39 +1247,39 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBleGNlcHRpb24uZ2V0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBHaXptb1Jlc3BvbnNlTWV0YWRhdGEoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBleGNlcHRpb24uZ2V0Q2F1c2UoKS5nZXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXJyb3JNZXNzYWdlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGV4Y2VwdGlvbiBpbnN0YW5jZW9mIEdpem1vVGhyb3R0bGluZ0ludGVyY2VwdG9yLlByb2NlZWRFeGNlcHRpb24gJiYgZXhjZXB0aW9uLmdldENhdXNlKCkgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RXJyb3JNZXNzYWdlKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yTWVzc2FnZSA9IHg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>-</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>start</last-search>
+      <last-search>Lombo</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>Lombo</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
