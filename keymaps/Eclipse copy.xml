@@ -63,5 +63,9 @@
     <keyboard-shortcut first-keystroke="shift alt space" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
